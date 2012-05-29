@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Калькулятор</string>
-    <string name="error">Ошибка</string>
+    <string name="error">Помилка</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -12,7 +12,7 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">Удалить</string>
+    <string name="del">Видалити</string>
     <string name="clear">CLR</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
@@ -22,8 +22,8 @@
     <string name="lg">log</string>
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
-    <string name="basic">Основная панель</string>
-    <string name="advanced">Дополнительная панель</string>
-    <string name="clear_history">Очистить историю</string>
-    <string name="text_copied_toast">Текст скопирован</string>
+    <string name="basic">Основна панель</string>
+    <string name="advanced">Додаткова панель</string>
+    <string name="clear_history">Очистити історію</string>
+    <string name="text_copied_toast">Текст скопійований</string>
 </resources>
