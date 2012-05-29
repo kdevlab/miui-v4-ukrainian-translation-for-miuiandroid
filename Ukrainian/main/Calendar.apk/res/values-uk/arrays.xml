@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Оповещение</item>
-        <item>Эл. почта</item>
+        <item>Оповіщення</item>
+        <item>Ел. пошта</item>
         <item>SMS</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
+        <item>0 хвилин</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
         <item>1 час</item>
         <item>2 часа</item>
         <item>3 часа</item>
@@ -25,15 +25,15 @@
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Нет</item>
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
+        <item>0 хвилин</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
         <item>1 час</item>
         <item>2 часа</item>
         <item>3 часа</item>
@@ -43,141 +43,141 @@
         <item>1 неделя</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Региональные настройки по умолчанию</item>
-        <item>суббота</item>
-        <item>воскресенье</item>
-        <item>понедельник</item>
+        <item>Регіональні налаштування за замовчуванням</item>
+        <item>субота</item>
+        <item>неділя</item>
+        <item>понеділок</item>
     </string-array>
     <string-array name="timezone_labels">
-        <item>Маршалловы о-ва</item>
-        <item>Остров Мидуэй</item>
-        <item>Гавайи</item>
+	<item>Маршаллові о-ви</item>
+        <item>Острів Мідуей</item>
+        <item>Гаваї</item>
         <item>Аляска</item>
-        <item>Тихоокеан. время</item>
-        <item>Тихуана</item>
-        <item>Аризона</item>
-        <item>Чиуауа</item>
-        <item>Горное время</item>
+        <item>Тіхоокеан. час</item>
+        <item>Тіхуана</item>
+        <item>Арізона</item>
+        <item>Чіуауа</item>
+        <item>Гірський час</item>
         <item>Центр. Америка</item>
-        <item>Центр. время</item>
-        <item>Мехико</item>
+        <item>Центр. час</item>
+        <item>Мехіко</item>
         <item>Саскачеван</item>
         <item>Богота</item>
-        <item>Восточное время</item>
-        <item>Венесуэла</item>
-        <item>Атлантич. время</item>
+        <item>Східне час</item>
+        <item>Венесуела</item>
+        <item>Атлантич. час</item>
         <item>Манаус</item>
         <item>Сантьяго</item>
         <item>Ньюфаундленд</item>
-        <item>Бразилия</item>
-        <item>Буэнос-Айрес</item>
-        <item>Гренландия</item>
-        <item>Монтевидео</item>
+        <item>Бразилія</item>
+        <item>Буенос-Айрес</item>
+        <item>Гренландія</item>
+        <item>Монтевідео</item>
         <item>Центр. Атлантика</item>
-        <item>Азорские о-ва</item>
+        <item>Азорські о-ва</item>
         <item>О-ва Кабо-Верде</item>
         <item>Касабланка</item>
-        <item>Лондон, Дублин</item>
-        <item>Амстердам, Берлин</item>
+        <item>Лондон, Дублін</item>
+        <item>Амстердам, Берлін</item>
         <item>Белград</item>
         <item>Брюссель</item>
-        <item>Сараево</item>
-        <item>Виндхук</item>
-        <item>Зап.-афр. время</item>
-        <item>Амман, Иордания</item>
-        <item>Афины, Стамбул</item>
-        <item>Бейрут, Ливан</item>
-        <item>Каир</item>
-        <item>Хельсинки</item>
-        <item>Иерусалим</item>
-        <item>Минск</item>
+        <item>Сараєво</item>
+        <item>Віндхук</item>
+        <item>Зап.-афр. час</item>
+        <item>Амман, Йорданія</item>
+        <item>Афіни, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каїр</item>
+        <item>Гельсінкі</item>
+        <item>Єрусалим</item>
+        <item>Мінськ</item>
         <item>Хараре</item>
         <item>Багдад</item>
         <item>Москва</item>
         <item>Кувейт</item>
-        <item>Найроби</item>
+        <item>Найробі</item>
         <item>Тегеран</item>
         <item>Баку</item>
-        <item>Тбилиси</item>
-        <item>Ереван</item>
-        <item>Дубаи</item>
+        <item>Тбілісі</item>
+        <item>Єреван</item>
+        <item>Дубаї</item>
         <item>Кабул</item>
-        <item>Исламабад, Карачи</item>
-        <item>Уральск</item>
-        <item>Екатеринбург</item>
+        <item>Ісламабад, Карачі</item>
+        <item>Уральськ</item>
+        <item>Єкатеринбург</item>
         <item>Калькутта</item>
-        <item>Шри-Ланка</item>
+        <item>Шрі-Ланка</item>
         <item>Катманду</item>
         <item>Астана</item>
         <item>Янгон</item>
-        <item>Красноярск</item>
+        <item>Красноярськ</item>
         <item>Бангкок</item>
-        <item>Пекин</item>
+        <item>Пекін</item>
         <item>Гонконг</item>
-        <item>Иркутск</item>
+        <item>Іркутськ</item>
         <item>Куала-Лумпур</item>
         <item>Перт</item>
-        <item>Тайбэй</item>
+        <item>Тайбей</item>
         <item>Сеул</item>
-        <item>Токио, Осака</item>
-        <item>Якутск</item>
-        <item>Аделаида</item>
-        <item>Дарвин</item>
-        <item>Брисбен</item>
+        <item>Токіо, Осака</item>
+        <item>Якутськ</item>
+        <item>Аделаїда</item>
+        <item>Дарвін</item>
+        <item>Брісбен</item>
         <item>Хобарт</item>
-        <item>Сидней, Канберра</item>
+        <item>Сідней, Канберра</item>
         <item>Владивосток</item>
         <item>Гуам</item>
         <item>Магадан</item>
         <item>Окленд</item>
-        <item>Фиджи</item>
+        <item>Фіджі</item>
         <item>Тонга</item>
     </string-array>
     <string-array name="availability">
-        <item>Занят</item>
-        <item>Доступен</item>
-        <item>Может быть</item>
+        <item>Зайнятий</item>
+        <item>Доступний</item>
+        <item>Може бути</item>
     </string-array>
     <string-array name="visibility">
-        <item>По умолчанию</item>
-        <item>Закрытое</item>
-        <item>Для всех</item>
-    </string-array>
+        <item>За замовчуванням</item>
+        <item>Закрите</item>
+        <item>Для всіх</item>
+	</string-array>
     <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
+		<item>перш.</item>
+        <item>друг.</item>
         <item>трет.</item>
         <item>четверт.</item>
-        <item>последн.</item>
+        <item>останн</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Нет ответов</item>
-        <item>Да</item>
-        <item>Может быть</item>
-        <item>Нет</item>
+        <item>Немає відповідей</item>
+        <item>Так</item>
+        <item>Може бути</item>
+        <item>Ні</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Только это мероприятие</item>
-        <item>Это и будущие мероприятия</item>
-        <item>Все мероприятия</item>
+        <item>Тільки цей захід</item>
+        <item>Це і майбутні заходи</item>
+        <item>Усі заходи</item>	
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Это и будущие мероприятия</item>
-        <item>Все мероприятия</item>
+        <item>Це і майбутні заходи</item>
+        <item>Усі заходи</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Только это мероприятие</item>
-        <item>Все мероприятия в серии</item>
+        <item>Тільки цей захід</item>
+        <item>Усі заходи в серії</item>
     </string-array>
     <string-array name="buttons_list">
         <item>День</item>
-        <item>Неделя</item>
-        <item>Месяц</item>
-        <item>Повестка дня</item>
+        <item>Тиждень</item>
+        <item>Місяць</item>
+        <item>Порядок денний</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Всегда</item>
-        <item>Только в режиме без звука</item>
-        <item>Никогда</item>
+        <item>Завжди</item>
+        <item>Тільки в режимі "Без звуку"</item>
+        <item>Ніколи</item>
     </string-array>
 </resources>
