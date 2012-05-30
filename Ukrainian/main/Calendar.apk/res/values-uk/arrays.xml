@@ -15,13 +15,13 @@
         <item>25 хвилин</item>
         <item>30 хвилин</item>
         <item>45 хвилин</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 неділя</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Нет</item>
@@ -34,16 +34,16 @@
         <item>25 хвилин</item>
         <item>30 хвилин</item>
         <item>45 хвилин</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 неділя</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Регіональні налаштування за замовчуванням</item>
+        <item>Регіональні налаштування за умовчанням</item>
         <item>субота</item>
         <item>неділя</item>
         <item>понеділок</item>
@@ -53,7 +53,7 @@
         <item>Острів Мідуей</item>
         <item>Гаваї</item>
         <item>Аляска</item>
-        <item>Тіхоокеан. час</item>
+        <item>Тихоокеан. час</item>
         <item>Тіхуана</item>
         <item>Арізона</item>
         <item>Чіуауа</item>
@@ -63,7 +63,7 @@
         <item>Мехіко</item>
         <item>Саскачеван</item>
         <item>Богота</item>
-        <item>Східне час</item>
+        <item>Східн. час</item>
         <item>Венесуела</item>
         <item>Атлантич. час</item>
         <item>Манаус</item>
