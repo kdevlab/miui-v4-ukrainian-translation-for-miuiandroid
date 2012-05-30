@@ -9,8 +9,8 @@
         <item quantity="one">1 хв.</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">за 1 час</item>
+        <item quantity="other">%d год.</item>
+        <item quantity="one">за 1 годину</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d дн.</item>
