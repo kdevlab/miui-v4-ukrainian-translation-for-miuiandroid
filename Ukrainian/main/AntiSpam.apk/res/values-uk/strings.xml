@@ -31,7 +31,7 @@
   <string name="opt_reject_blacklist_stranger_summary">Відхилення контактів які не в списку</string>
   <string name="opt_accept_whitelist">Приймати з білого списку</string>
   <string name="opt_reject_all">Відхилити всі</string>
-  <string name="firewall_action">Дії брандмаузера</string>
+  <string name="firewall_action">Дії брандмауера</string>
   <string name="act_call">Журнал викликів</string>
   <string name="act_hangup_call">Відразу скинути</string>
   <string name="act_hangup_call_summary">Відхилені номера не будуть відображатися в журналі викликів</string>
