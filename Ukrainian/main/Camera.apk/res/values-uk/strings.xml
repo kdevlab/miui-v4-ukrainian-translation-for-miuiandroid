@@ -2,11 +2,11 @@
 <resources>
 <string name="null_string" />
     <string name="camera_label">Камера</string>
-    <string name="camcorder_label">Видеокамера</string>
-    <string name="wait">Будь ласка, почекайте...</string>
+    <string name="camcorder_label">Відеокамера</string>
+    <string name="wait">Будь ласка, зачекайте...</string>
     <string name="warning_msg">Попередження</string>
     <string name="insert_mmc_msg">Вставте карту пам'яті для використання Камери</string>
-    <string name="not_enough_space">Не хватка пам'яті</string>
+    <string name="not_enough_space">Недостатньо пам'яті</string>
     <string name="change_to_card_memory">Недостатньо пам'яті. За замовчуванням сховище зміниться на Карту пам'яті</string>
     <string name="change_to_phone_memory">Недостатньо пам'яті. За замовчуванням сховище зміниться на Пам'ять телефону</string>
     <string name="video_reach_size_limit">Досягнуто максимальний розмір запису</string>
@@ -16,7 +16,7 @@
     <string name="hdmi_suspend">HDMI не доступно коли програму запущено. Програма буде відображатися тільки на дисплеї телефону</string>
     <string name="open_hw_failed_msg">Помилка камери</string>
     <string name="capture_failed_msg">Зйомка не вдалася</string>
-    <string name="recording_failed_msg">Запис не вдалася</string>
+    <string name="recording_failed_msg">Запис не вдався</string>
     <string name="buffer_overflow_error_msg">Неможливо записати. Роздільна здатність не підтримується картою пам'яті</string>
     <string name="media_server_died_msg">Помилка Медіа-центру. Перезапустіть Камеру</string>
     <string name="unknown_error_callback_msg">Невідома помилка при помилці Зворотний виклик</string>
@@ -44,7 +44,7 @@
     <string name="SM_STOPMOTION">Stop motion</string>
     <string name="SM_CARTOON">Мультфільм</string>
     <string name="SM_SELFSHOT">Передня камера</string>
-    <string name="SM_SHOOTANDSHARE">Поділитися знимком</string>
+    <string name="SM_SHOOTANDSHARE">Поділитися знімком</string>
     <string name="SM_HDR">HDR</string>
     <string name="NORMAL">Звичайний</string>
     <string name="VM_WARM">Теплий</string>
@@ -130,7 +130,7 @@
     <string name="SCN_BACK_LIGHT">Проти світла</string>
     <string name="SCN_Des_PORTRAIT">Зробити фото людини</string>
     <string name="SCN_Des_LANDSCAPE">Дистанція пейзажу. Нескінченний фокус</string>
-    <string name="SCN_Des_SPORTS">Швидко рухаюшиєся об'єкти, такі як спортивні сцени</string>
+    <string name="SCN_Des_SPORTS">Швидко рухаючі об'єкти, такі як спортивні сцени</string>
     <string name="SCN_Des_PARTY_INDOOR">На вулиці</string>
     <string name="SCN_Des_BEACH_SNOW">Яскраві сцени, як пляж або сніг</string>
     <string name="SCN_Des_SUNSET">Красиві пейзажі заходу. Баланс білого Денне світло</string>
@@ -154,7 +154,7 @@
     <string name="Title_Timer">Таймер</string>
     <string name="Title_Resolution">Роздільна здатність</string>
     <string name="Title_ShootAndShare">Параметри відправки</string>
-    <string name="Title_ShareWith">Поделитися через</string>
+    <string name="Title_ShareWith">Поділитися через</string>
     <string name="Title_WhiteBalance">Баланс білого</string>
     <string name="Title_Effects">Ефекти</string>
     <string name="Title_Focus">Фокус</string>
@@ -183,11 +183,11 @@
     <string name="Title_Reset">Скидання налаштувань</string>
     <string name="Title_Mode">Режим</string>
     <string name="Title_Back">Назад</string>
-    <string name="Title_ImageViewer">Просмотр зображення</string>
+    <string name="Title_ImageViewer">Перегляд зображення</string>
     <string name="Title_Outdoor_Visibility">Відкрита видимість</string>
-    <string name="Title_AutoFocus_Sound">Звук автофокусировки</string>
+    <string name="Title_AutoFocus_Sound">Звук автофокусування</string>
     <string name="Title_HDR">HDR</string>
-    <string name="Title_Flip">Зберегти как перевернутий</string>
+    <string name="Title_Flip">Зберегти як перевернутий</string>
     <string name="Dialog_Yes">Так</string>
     <string name="Dialog_No">Ні</string>
     <string name="Settings_Help_Focus">Установка режиму фокусування</string>
@@ -205,8 +205,8 @@
     <string name="Settings_Help_ImageQuality">Встановлює якість зображення</string>
     <string name="Settings_Help_Adjust">Налаштувати контрастність, насиченість і різкість зображення</string>
     <string name="Settings_Help_Guideline">Відображати підсказки на екрані LCD</string>
-    <string name="Settings_Help_Review_Image">Відображати знятий кадр для розгляду</string>
-    <string name="Settings_Help_Review_Video">Відображати зняте відео для розгляду</string>
+    <string name="Settings_Help_Review_Image">Відображати знятий кадр для перегляду</string>
+    <string name="Settings_Help_Review_Video">Відображати зняте відео для перегляду</string>
     <string name="Settings_Help_GPS">Зберігае GPS інформацию в файлі з зображенням</string>
     <string name="Settings_Help_ShutterSound">Виставити звук затвору</string>
     <string name="Settings_Help_Storage">Виберіть де будуть зберігатись фото та відео</string>
@@ -229,7 +229,7 @@
     <string name="HDRShot_message">Натисніть кнопку зпуску затвора(HDR)</string>
     <string name="Title_ResetDailog">Скинути настройки камери?</string>
     <string name="Title_ChangeMemoryInUseDailog">Змінити місце зберігання за замовчуванням в карту пам'яті?</string>
-    <string name="Title_InsertMemoryCardDailog">Вставте карту пам'яті, щоб використовувати Камеру</string>
+    <string name="Title_InsertMemoryCardDailog">Вставте карту пам'яті, щоб використати Камеру</string>
     <string name="OnScreen_HelpTextTouchAF">Натисніть на екран для фокусування</string>
     <string name="media_scanner_running">Сканування бібліотеки...</string>
     <string name="close_camera_when_mmc_inserted">SD-Карта вставлена. %s зачинено для сканування з карти пам'яті</string>
@@ -256,8 +256,8 @@
     <string name="not_supported_zoom">Масштабування не підтримується під час запису Full HD відео</string>
     <string name="plugged_low_batt_msg">Неможливо використовувати спалах. Акумулятор розряджений</string>
     <string name="user_profile_title">Профіль користувача</string>
-    <string name="preview_file_received_title">Передпроглядання отриманого файлу</string>
-    <string name="network_title">"Поділитися знимком під час прямого підключення Wi-Fi"</string>
+    <string name="preview_file_received_title">Перегляд отриманого файлу</string>
+    <string name="network_title">"Поділитися знімком під час прямого підключення Wi-Fi"</string>
     <string name="done">Готово</string>
     <string name="refresh">WiFi-Мережі</string>
     <string name="add_photo_title">Добавить фото</string>
@@ -276,8 +276,8 @@
     <string name="activate_agree">Згоден</string>
     <string name="activate_reject">Відхиляю</string>
     <string name="name_cannot_empty">Ім'я не може бути порожнім!</string>
-    <string name="camera_share">Відправить</string>
-    <string name="video_play">Воспроізвести</string>
+    <string name="camera_share">Відправити</string>
+    <string name="video_play">Відтворити</string>
     <string name="camera_toss">Видалити</string>
     <string name="camera_set">Встановити як</string>
     <string name="sendVideo">Відправити відео через</string>
