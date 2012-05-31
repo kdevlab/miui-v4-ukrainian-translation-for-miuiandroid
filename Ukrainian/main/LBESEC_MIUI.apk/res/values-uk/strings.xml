@@ -69,7 +69,7 @@
   <string name="HIPS_Perm_Network_UnknownAddr">Невідомий адрес</string>
   <string name="HIPS_Perm_Network_MobileEvent">Мобільні мережі</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
-  <string name="HIPS_Perm_Network_Accept">Прийняти з'єднання від %1$s</string>
+  <string name="HIPS_Perm_Network_Accept">Прийняти з\'єднання від %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Підключення до %1$s</string>
   <string name="HIPS_Perm_Network_Listen">прослушка порту %1$s</string>
   <string name="HIPS_Perm_Network_Recv">Отримувати дані</string>
@@ -123,7 +123,7 @@
   <string name="HIPS_Perm_AdjustRingerVolume">Регулювання гучності дзвінка</string>
   <string name="HIPS_SecurityPrompt_Caption">Попередження безпеки</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s намагається %2$s</string>
-  <string name="HIPS_SecurityPrompt_Remember">Запам'ятати мій вибір</string>
+  <string name="HIPS_SecurityPrompt_Remember">Запам\'ятати мій вибір</string>
   <string name="HIPS_SecurityPrompt_Accept">Дозволено (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject">Заборонено (%d)</string>
   <string name="Dashboard_Perm">Дозволи</string>
@@ -163,6 +163,6 @@
   <string name="Privacy_App_Finish">Готово</string>
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Довіряти цій прграмі</string>
-  <string name="Privacy_App_TrustDialog_Content">MIUI не буде питати вашого підтвердження будь-якої безпеки і конфіденційності операцій, пов'язаних з цим додатком</string>
+  <string name="Privacy_App_TrustDialog_Content">MIUI не буде питати вашого підтвердження будь-якої безпеки і конфіденційності операцій, пов\'язаних з цим додатком</string>
   <string name="Su_Enable_Dialog">%1$s намагається отримати доступ з правами суперкористувача, який за замовчуванням відключений для забезпечення безпеки системи. Якщо вам необхідно включити цю функцію, перейдіть в налаштування Менеджера доступу</string>
 </resources>
