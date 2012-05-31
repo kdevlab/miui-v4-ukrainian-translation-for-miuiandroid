@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_corpora">
-        <item>интернет</item>
-        <item>приложения</item>
+        <item>інтернет</item>
+        <item>програми</item>
         <item>com.android.providers.applications/.ApplicationLauncher</item>
     </string-array>
     <string-array name="default_corpora_suggest_uris">
