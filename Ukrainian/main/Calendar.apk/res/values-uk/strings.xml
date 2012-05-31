@@ -23,7 +23,7 @@
     <string name="event_create">Новий захід</string>
     <string name="event_edit">Змінити захід</string>
     <string name="event_delete">Видалити захід</string>
-	<string name="goto_today">Сьогодні</string>
+    <string name="goto_today">Сьогодні</string>
     <string name="menu_preferences">Налаштування</string>
     <string name="menu_select_visible_calendars">Календарі</string>
     <string name="search">Пошук</string>
@@ -119,7 +119,7 @@
     <string name="preferences_alerts_title">Сповіщення</string>
     <string name="preferences_alerts_vibrateWhen_title">Вібросигнал</string>
     <string name="preferences_alerts_ringtone_title">Вибрати рінгтон</string>
-    <string name="preferences_alerts_popup_title">Спливаюче повідомлення/string>
+    <string name="preferences_alerts_popup_title">Спливаюче повідомлення</string>
     <string name="preferences_default_reminder_title">Час нагадування</string>
     <string name="preferences_default_reminder_dialog">Нагадати</string>
     <string name="preferences_default_reminder_default">10</string>
