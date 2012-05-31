@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Фонарик</string>
-    <string name="about">О программе:</string>
-    <string name="about_btn">О программе Фонарик</string>
-    <string name="about_title">О программе</string>
-    <string name="about_close">Закрыть</string>
-    <string name="description">"Эта программа управляет светодиодом камеры.
+    <string name="app_name">Ліхтарик</string>
+    <string name="about">Про програму:</string>
+    <string name="about_btn">Про програму Ліхтарик</string>
+    <string name="about_title">Про програму</string>
+    <string name="about_close">Закрити</string>
+    <string name="description">"Ця програма управляє світлодіодом камери
 "</string>
-    <string name="warning">"Осторожно: Долгое свечение светодиода вызовет его перегрев.
+    <string name="warning">"Обережно: Довге світіння світлодіода викличе його перегрів.
 
-Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод.
+Повна яскравість 'Завжди включено' успішно тестувалася на 30 хвилинах, але існує ймовірність пошкодити світлодіод
 "</string>
-    <string name="license">"Оригинальный код программы взят с телефона Nexus One от Ben Buxton, реализовано на правах GPL, v3.
+    <string name="license">"Оригінальний код програми взято з телефону Nexus One від Ben Buxton, реалізовано на правах GPL, v3
 http://n1torch.googlecode.com/
 
-Спасибо Дэвиду Прието (David Prieto) за новый дизайн.
+Спасибі Девіду Прієто (David Prieto) за новий дизайн.
 
-Изменено для CyanogenMod Стивом Кондик (Steve Kondik).
+Змінено для CyanogenMod Стівом Кондик (Steve Kondik)
 
 "</string>
-    <string name="warning_label">Осторожно</string>
-    <string name="brightwarn">"Полная яркость успешно тестировалась на 30 минутах, но очень нагревается, и начинает мигать (временно) на 45 минутах. Длительные операции приведут к непредсказуемым последствиям.
+    <string name="warning_label">Обережно</string>
+    <string name="brightwarn">"Повна яскравість успішно тестувалася на 30 хвилинах, але дуже нагрівається, і починає блимати (тимчасово) на 45 хвилинах. Тривалі операції призведуть до непередбачуваних наслідків.
 
-Виджеты пока не поддерживаются.
+Віджети поки не підтримуються.
 
-Нажмите 'Принять' если вы хотите использовать это на свой страх и риск."</string>
-    <string name="brightwarn_title">"Пов. яркость 'Вкл' включить!!!"</string>
-    <string name="brightwarn_negative">Нет, спасибо</string>
-    <string name="brightwarn_accept">Принять</string>
+Натисніть 'Прийняти' якщо ви хочете використовувати це на свій страх і ризик"</string>
+    <string name="brightwarn_title">"Пов. яскравість 'Вкл' включити!!!"</string>
+    <string name="brightwarn_negative">Ні, дякую</string>
+    <string name="brightwarn_accept">Прийняти</string>
     <string name="label_on">Включено</string>
-    <string name="label_off">Отключено</string>
-    <string name="label_high">Высокая яркость</string>
+    <string name="label_off">Відключено</string>
+    <string name="label_high">Висока яскравість</string>
     <string name="label_strobe">Стробоскоп</string>
-    <string name="label_frequency">Частота: (сдвиньте, чтобы изменить)</string>
-    <string name="widget_options">Основные настройки</string>
-    <string name="setting_widget_bright">Виджет яркости</string>
-    <string name="setting_widget_strobe">Виджет стробоскопа</string>
+    <string name="label_frequency">Частота: (посуньте, щоб змінити)</string>
+    <string name="widget_options">Основні налаштування</string>
+    <string name="setting_widget_bright">Віджет яскравості</string>
+    <string name="setting_widget_strobe">Віджет стробоскопа</string>
     <string name="setting_frequency_title">Частота стробоскопа</string>
-    <string name="setting_frequency_summary">Частота of strobe light</string>
+    <string name="setting_frequency_summary">Частота світла спалаху</string>
     <string name="setting_frequency_dialog">Частота</string>
     <string name="setting_frequency_hz">Hz</string>
-    <string name="setting_add_widget">Добавить виджет</string>
-    <string name="not_torch_title">Фонарик включен</string>
-    <string name="not_torch_summary">Сейчас фонарик включен</string>
-    <string name="widget_label">Фонарик</string>
-    <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки
+    <string name="setting_add_widget">Додати віджет</string>
+    <string name="not_torch_title">Ліхтарик включений</string>
+    <string name="not_torch_summary">Зараз ліхтарик включений</string>
+    <string name="widget_label">Ліхтарик</string>
+    <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи [icon], на екрані блокування
 "</string>
 </resources>
