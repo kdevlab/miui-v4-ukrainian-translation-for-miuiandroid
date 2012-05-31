@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wallpapers">Живі шпалери</string>
-    <string name="wallpaper_walkaround">В об'єктиві</string>
+    <string name="wallpaper_walkaround">В об\'єктиві</string>
     <string name="wallpaper_walkaround_author">Google</string>
     <string name="wallpaper_walkaround_desc">Дивіться в світ через камеру телефону і прогулюйтеся, не піддаючись ризику</string>
     <string name="wallpaper_grass">Трава</string>
