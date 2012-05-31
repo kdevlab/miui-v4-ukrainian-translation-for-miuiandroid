@@ -17,7 +17,7 @@
     <string name="password_error">Введіть правильний пароль</string>
     <string name="password_empty_error">Введіть пароль</string>
     <string name="name_empty_error">Введіть назву</string>
-    <string name="name_char_error">Ім'я повинно складатися з букв і цифр</string>
+    <string name="name_char_error">Ім\'я повинно складатися з букв і цифр</string>
     <string name="storage_error">Не вдається зберегти сертифікат. Натисніть ОК і повторіть спробу</string>
     <string name="unable_to_save_cert">Не вдається зберегти сертифікат. Сховище реєстраційних даних не включено або некоректно ініціалізоване</string>
     <string name="cert_not_saved">Сертифікат не встановлений</string>

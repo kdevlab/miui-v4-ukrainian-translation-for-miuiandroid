@@ -13,7 +13,7 @@
   <string name="added_to_bookmarks">Додано в закладки</string>
   <string name="removed_from_bookmarks">Вилучено з закладок</string>
   <string name="sign_in_to" formatted="false">Увійти в %s1 \"%s2\"</string>
-  <string name="username">Ім'я</string>
+  <string name="username">Ім\'я</string>
   <string name="password">Пароль</string>
   <string name="action">Вхід</string>
   <string name="bookmarks_search">Браузер</string>
@@ -67,7 +67,7 @@
   <string name="bookmark_saved">Збережено в закладках</string>
   <string name="bookmark_not_saved">Не вдалося зберегти закладку</string>
   <string name="homepage_set">Головна сторінка встановлена</string>
-  <string name="bookmark_needs_title">Необхідно вказати ім'я закладки</string>
+  <string name="bookmark_needs_title">Необхідно вказати ім\'я закладки</string>
   <string name="bookmark_needs_url">Необхідно вказати місце закладки</string>
   <string name="bookmark_url_not_valid">Неправильний URL</string>
   <string name="bookmark_cannot_save_url">Неможливо додати в закладки цю сторінку</string>
@@ -137,7 +137,7 @@
   <string name="autologin_bar_hide_text">Приховати</string>
   <string name="autologin_bar_error">Не вдалося увійти</string>
   <string name="autofill_profile_editor_heading">Введіть текст для автозаповнення</string>
-  <string name="autofill_profile_editor_name">Повне ім'я:</string>
+  <string name="autofill_profile_editor_name">Повне ім\'я:</string>
   <string name="autofill_profile_editor_email_address">Ел. пошта:</string>
   <string name="autofill_profile_editor_company_name">Назва компанії:</string>
   <string name="autofill_profile_editor_address_line_1">Адресний рядок 1:</string>
@@ -185,7 +185,7 @@
   <string name="pref_security_remember_passwords">Зберігати паролі</string>
   <string name="pref_security_remember_passwords_summary">Зберігати імена користувачів і паролі веб-сайтів</string>
   <string name="pref_security_save_form_data">Зберігати дані форм</string>
-  <string name="pref_security_save_form_data_summary">Запам'ятовувати введені у форми дані для подальшого використання</string>
+  <string name="pref_security_save_form_data_summary">Запам\'ятовувати введені у форми дані для подальшого використання</string>
   <string name="pref_security_show_security_warning">Повідомляти про небезпеку</string>
   <string name="pref_security_show_security_warning_summary">Повідомляти про проблеми з безпекою сайтів</string>
   <string name="pref_security_accept_cookies">Дозволити cookie</string>
@@ -233,7 +233,7 @@
   <string name="pref_lab_quick_controls">Панель інструментів</string>
   <string name="pref_lab_quick_controls_summary">Щоб відкрити панель інструментів, почніть перегортати сторінку справа або зліва</string>
   <string name="pref_use_instant_search">Google Живий пошук</string>
-  <string name="pref_use_instant_search_summary">У Живому пошуку результати з'являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)</string>
+  <string name="pref_use_instant_search_summary">У Живому пошуку результати з\'являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)</string>
   <string name="pref_lab_fullscreen">На весь екран</string>
   <string name="pref_lab_fullscreen_summary">Щоб приховати рядок стану, використовуйте повноекранний режим</string>
   <string name="pref_data_title">Налаштування контенту</string>
@@ -278,18 +278,18 @@
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="picasa">Picasa</string>
   <string name="search_the_web">Пошук в Інтернеті</string>
-  <string name="webstorage_outofspace_notification_title">Пам'ять браузера переповнена</string>
+  <string name="webstorage_outofspace_notification_title">Пам\'ять браузера переповнена</string>
   <string name="webstorage_outofspace_notification_text">Натисніть, щоб звільнити місце</string>
   <string name="webstorage_clear_data_title">Видалити збережені дані</string>
   <string name="webstorage_clear_data_dialog_message">Видалити всі дані, збережені цим веб-сайтом?</string>
   <string name="webstorage_clear_data_dialog_ok_button">ОК</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Скасувати</string>
-  <string name="webstorage_origin_summary_mb_stored">Обсяг використаної пам'яті телефону (МБ)</string>
+  <string name="webstorage_origin_summary_mb_stored">Обсяг використаної пам\'яті телефону (МБ)</string>
   <string name="loading_video">Завантажити відео…</string>
   <string name="geolocation_permissions_prompt_message">%s запрошує дані про ваше місцезнаходження</string>
   <string name="geolocation_permissions_prompt_share">Дозволити</string>
   <string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
-  <string name="geolocation_permissions_prompt_remember">Запам'ятати налаштування</string>
+  <string name="geolocation_permissions_prompt_remember">Запам\'ятати налаштування</string>
   <string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про ваше місцезнаходження. Щоб заборонити його, виберіть \"Настройки -&gt; Розширенні -&gt; Настройки веб-сайтів\".</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до даних про ваше місцезнаходження. Щоб надати його, виберіть \"Настройки -&gt; Розширенні -&gt; Настройки веб-сайтів\".</string>
   <string name="geolocation_settings_page_title">Закрити геодані</string>
@@ -312,7 +312,7 @@
   <string name="rlz_access_point">Y1</string>
   <string name="account_chooser_dialog_title">Виберіть акаунт</string>
   <string name="import_bookmarks_dialog_title">Синхронізація з аккаунтом Google</string>
-  <string name="import_bookmarks_dialog_description">Закладки на пристрій поки не пов'язані з акаунтом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх</string>
+  <string name="import_bookmarks_dialog_description">Закладки на пристрій поки не пов\'язані з акаунтом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх</string>
   <string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з аккаунтом Google</string>
   <string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з аккаунтом Google</string>
   <string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з аккаунтом %s?</string>
@@ -385,7 +385,7 @@
   <string name="tab_opened_background">Вкладка відкрита в тлі</string>
   <string name="tab_closed">Вкладка закрита</string>
   <string name="navigator_permissions_prompt_message" formatted="false">%s хоче отримати доступ до %s на вашому пристрої</string>
-  <string name="navigator_permissions_prompt_remember">Запам'ятати </string>
+  <string name="navigator_permissions_prompt_remember">Запам\'ятати </string>
   <string name="navigator_permissions_prompt_share">Дозволити </string>
   <string name="navigator_permissions_prompt_dont_share">Заборонити </string>
   <string name="pref_development_woff">Включити WOFF</string>

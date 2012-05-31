@@ -77,7 +77,7 @@
     <string name="status_canceled">Надсилання скасовано</string>
     <string name="status_file_error">Помилка сховища</string>
     <string name="status_no_sd_card">USB-накопичувач не знайдено</string>
-    <string name="status_connection_error">Не вдалося встановити з'єднання</string>
+    <string name="status_connection_error">Не вдалося встановити з\'єднання</string>
     <string name="status_protocol_error">Неможливо правильно обробити запит</string>
     <string name="status_unknown_error">Невідома помилка</string>
     <string name="btopp_live_folder">Отримано по Bluetooth</string>
@@ -100,15 +100,15 @@
     <string name="pbap_session_key_dialog_title">Введіть ключ сеансу для %1$s</string>
     <string name="pbap_session_key_dialog_header">Необхідний ключ сеансу Bluetooth</string>
     <string name="pbap_acceptance_timeout_message">Вичерпано час очікування при встановленні підключення до %1$s.</string>
-    <string name="pbap_authentication_timeout_message">Вичерпано час очікування введення ключа сеансу для зв'язку з %1$s.</string>
+    <string name="pbap_authentication_timeout_message">Вичерпано час очікування введення ключа сеансу для зв\'язку з %1$s.</string>
     <string name="auth_notif_ticker">Запит на аутентифікацію Obex</string>
     <string name="auth_notif_title">Ключ сеансу</string>
     <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
     <string name="defaultname">Автомобільний комплект</string>
-    <string name="unknownName">Невідоме ім'я</string>
+    <string name="unknownName">Невідоме ім\'я</string>
     <string name="localPhoneName">Моя назва</string>
     <string name="defaultnumber">000000</string>
-    <string name="hello">Hello, World! (перевірка зв'язку)</string>
+    <string name="hello">Hello, World! (перевірка зв\'язку)</string>
     <string name="app_name">Надсилання по Bluetooth</string>
     <string name="insert_record">Вставити запис</string>
     <string name="update_record">Підтвердити запис</string>
