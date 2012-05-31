@@ -46,7 +46,7 @@
   <string name="splitConfirmation">Цей контакт буде розділений</string>
   <string name="menu_joinAggregate">Об\'єднати</string>
   <string name="titleJoinContactDataWith">Об\'єднати контакти</string>
-  <string name="blurbJoinContactDataWith">Виберіть контакт, який хочете об\'єднати з\"%s\":</string>
+  <string name="blurbJoinContactDataWith">Виберіть контакт, який хочете об\'єднати з \"%s\":</string>
   <string name="showAllContactsJoinItem">Показати всі контакти</string>
   <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
   <string name="separatorJoinAggregateAll">Всі контакти</string>
@@ -117,7 +117,7 @@
   <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо аккаунт був тільки що доданий, потрібно кілька хвилин для синхронізації контактів.)</string>
   <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення</string>
   <string name="noContactsHelpText">"Немає контактів для показу.
-
+ 
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
 Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
@@ -127,19 +127,19 @@
 Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
 "</string>
   <string name="noContactsHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.
-
+ 
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
-
+ 
 Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
-
+ 
 Фільтр контактів: настройка параметрів показу контактів.
-
+ 
 Новий контакт: додавання контакту.
  
 Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
 "</string>
   <string name="noContactsNoSimHelpText">"Немає контактів для показу.
-
+ 
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
 Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
@@ -149,21 +149,21 @@
 Імпорт/експорт: імпорт контактів з SD-карти.
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.
-
+ 
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
-
+ 
 Акаунти: додавання або настройка акаунту за контактами, які можна синхронізувати з телефоном.
-
+ 
 Фільтр контактів: настройка параметрів показу контактів.
-
+ 
 Новий контакт: додавання контакту.
  
 Імпорт/експорт: імпорт контактів з SD-карти.
 "</string>
   <string name="noFavoritesHelpText">"У вас немає обраних контактів.
-
+ 
 Щоб зробити контакт обраним,
-
+ 
         натисніть вкладку Контакти;
  
 натисніть контакт, який потрібно зробити обраним;
@@ -226,7 +226,7 @@
   <string name="importing_vcard_description">Імпорт: %s</string>
   <string name="reading_vcard_failed_title">Помилка читання vCard-файлу</string>
   <string name="importing_vcard_finished_title">Імпорт файлу vCard %s завершено</string>
-  <string name="importing_vcard_canceled_title">Імпорт файлу\"%s\" скасовано</string>
+  <string name="importing_vcard_canceled_title">Імпорт файлу \"%s\" скасовано</string>
   <string name="vcard_import_will_start_message">Імпорт %s розпочнеться найближчим часом</string>
   <string name="vcard_import_will_start_message_with_default_name">Файл буде імпортовано в найближчим часом</string>
   <string name="vcard_import_request_rejected_message">Запит на імпорт даних vCard відхилений. Повторіть спробу пізніше</string>
@@ -235,27 +235,27 @@
   <string name="vcard_unknown_filename">контакт</string>
   <string name="percentage">%s%%</string>
   <string name="confirm_export_title">Експорт контактів</string>
-  <string name="confirm_export_message">Список контактів буде експортований у файл\"%s\"</string>
+  <string name="confirm_export_message">Список контактів буде експортований у файл \"%s\"</string>
   <string name="exporting_contact_failed_title">Збій експорту</string>
   <string name="exporting_contact_failed_message">"Не вдалося експортувати дані.
 Причина: %s"</string>
   <string name="fail_reason_no_exportable_contact">Немає контактів для експорту</string>
   <string name="fail_reason_too_many_vcard">Занадто багато файлів VCard на SD-карті</string>
   <string name="fail_reason_too_long_filename">Занадто довгу назву: %s</string>
-  <string name="exporting_vcard_finished_title">Експорт файлу\"%s\" завершено</string>
-  <string name="exporting_vcard_canceled_title">Експорт файлу\"%s\" скасовано</string>
+  <string name="exporting_vcard_finished_title">Експорт файлу \"%s\" завершено</string>
+  <string name="exporting_vcard_canceled_title">Експорт файлу \"%s\" скасовано</string>
   <string name="exporting_contact_list_title">Експорт даних контакту</string>
-  <string name="exporting_contact_list_message">Контактні дані експортуються в файл\"%s\"</string>
+  <string name="exporting_contact_list_message">Контактні дані експортуються в файл \"%s\"</string>
   <string name="fail_reason_could_not_initialize_exporter">Не вдалося запустити функцію експорту. Причина: %s</string>
   <string name="fail_reason_error_occurred_during_export">Помилка при експорті. Причина: %s</string>
   <string name="composer_failed_to_get_database_infomation">База даних недоступна</string>
   <string name="composer_has_no_exportable_contact">Не знайдені контакти для експорту. Можливо, експорт контактів з телефону не підтримується постачальником послуг передачі даних</string>
   <string name="composer_not_initialized">Збій при запуску редактора vCard</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">Не вдалося відкрити файл\"%s\". Причина: %s</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Не вдалося відкрити файл \"%s\". Причина: %s</string>
   <string name="cancel_import_confirmation_title">Скасування імпорту vCard</string>
-  <string name="cancel_import_confirmation_message">Скасувати імпорт файлу\"%s\"?</string>
+  <string name="cancel_import_confirmation_message">Скасувати імпорт файлу \"%s\"?</string>
   <string name="cancel_export_confirmation_title">Скасування експорту vCard</string>
-  <string name="cancel_export_confirmation_message">Скасувати експорт файлу\"%s\"?</string>
+  <string name="cancel_export_confirmation_message">Скасувати експорт файлу \"%s\"?</string>
   <string name="cancel_vcard_import_or_export_failed">Не вдалося скасувати імпорт/експорт vCard</string>
   <string name="search_settings_description">Імена контактів</string>
   <string name="call_disambig_title">Виклик</string>
@@ -284,7 +284,7 @@
   <string name="display_more_groups">Інші групи...</string>
   <string name="display_ungrouped">Всі інші контакти</string>
   <string name="display_all_contacts">Всі контакти</string>
-  <string name="display_warn_remove_ungrouped">Разом з групою\"%s\" перестануть синхронізуватися контакти, не додані до групи</string>
+  <string name="display_warn_remove_ungrouped">Разом з групою \"%s\" перестануть синхронізуватися контакти, не додані до групи</string>
   <string name="account_phone">Тільки телефон, без синхронізації</string>
   <string name="call_custom">Зателефонувати (%s)</string>
   <string name="call_home">Домашній тел.</string>
@@ -389,9 +389,9 @@
   <string name="locale_change_in_progress">Список контактів оновиться після зміни мови інтерфейсу</string>
   <string name="upgrade_in_progress">Список контактів оновлюється...</string>
   <string name="upgrade_out_of_memory">"Контакти оновлюються.
-
+ 
 Для цього потрібно близько %s Мб внутрішньої пам\'яті.
-
+ 
 Виберіть відповідну опцію: "</string>
   <string name="upgrade_out_of_memory_uninstall">Видалити деякі програми</string>
   <string name="upgrade_out_of_memory_retry">Повторити спробу поновлення</string>
@@ -497,7 +497,7 @@
   <string name="local_profile_title">Мій профіль</string>
   <string name="external_profile_title">Мій профіль %1$s</string>
   <string name="no_account_prompt">"Підключіть Контакти до аккаунту Google, щоб:
-
+ 
 • Завжди мати під рукою оновлені дані - на будь-якому пристрої.
 • Синхронізувати всі контакти - ви ніколи не втратите їх "</string>
   <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати аккаунт для збереження контактів в Інтернеті?</string>
