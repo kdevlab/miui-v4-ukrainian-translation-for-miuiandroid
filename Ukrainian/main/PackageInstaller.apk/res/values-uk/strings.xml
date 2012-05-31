@@ -26,7 +26,7 @@
     <string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>
     <string name="allow_source_dlg_text">"%1$s хоче встановити інші програми.
 
-Дозволити і запам'ятати вибір?"</string>
+Дозволити і запам\'ятати вибір?"</string>
     <string name="manage_applications">Керування програмами</string>
     <string name="dlg_app_replacement_title">Замінити програму</string>
     <string name="dlg_app_replacement_statement">"Програму, яку ви встановлюєте, замінить інша програма
