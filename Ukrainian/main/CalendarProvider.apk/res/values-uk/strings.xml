@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">Память календаря</string>
-    <string name="upgrade_msg">Обновление базы данных календаря...</string>
-    <string name="calendar_default_name">По умолчанию</string>
-    <string name="calendar_info">Сведения о календаре</string>
-    <string name="calendar_info_error">Ошибка</string>
-    <string name="calendar_info_no_calendars">Нет календарей</string>
-    <string name="calendar_info_events">Мероприятий: %1$d</string>
-    <string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
-    <string name="provider_label">Календарь</string>
-    <string name="debug_tool_delete_button">Удалить сейчас</string>
-    <string name="debug_tool_start_button">Начать</string>
-    <string name="debug_tool_message">Вы собираетесь 1) создать копию базы данных календаря на SD-карте/USB-накопителе, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить базу данных после того, как она будет скопирована с устройства или получена по электронной почте.</string>
-    <string name="debug_tool_email_sender_picker">Выберите приложение, чтобы отправить файл</string>
-    <string name="debug_tool_email_subject">БД Календаря прилагается</string>
-    <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Пожалуйста, обращайтесь с ней осторожно.</string>
+    <string name="calendar_storage">Пам\'ять календаря</string>
+    <string name="upgrade_msg">Оновленyя бази данних календаря...</string>
+    <string name="calendar_default_name">По замовчуванню</string>
+    <string name="calendar_info">Відомості про календар</string>
+    <string name="calendar_info_error">Помилка</string>
+    <string name="calendar_info_no_calendars">Немає календарів</string>
+    <string name="calendar_info_events">Заходів: %1$d</string>
+    <string name="calendar_info_events_dirty">Заходів: %1$d; не збережено: %2$d</string>
+    <string name="provider_label">Календар</string>
+    <string name="debug_tool_delete_button">Видалити зараз</string>
+    <string name="debug_tool_start_button">Почати</string>
+    <string name="debug_tool_message">Ви збираєтесь 1) створити копію бази даних календаря на SD-карті/USB-накопичувачі, які доступні для читання всім програмам, і 2) відправити її по електронній пошті. Не забудьте видалити базу даних після того, як вона буде скопійована з пристрою чи отримана по електронній пошті.</string>
+    <string name="debug_tool_email_sender_picker">Виберить програму, щоб відправити файл</string>
+    <string name="debug_tool_email_subject">БД Календаря додається</string>
+    <string name="debug_tool_email_body">До повідомлення додана база даних календаря зі всіма зустрічами і особистою інформацією. Будь-ласка, поводьтесь з нею обережно.</string>
 </resources>
