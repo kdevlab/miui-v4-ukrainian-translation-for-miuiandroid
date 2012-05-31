@@ -55,7 +55,7 @@
     <string name="notify_uploads">Мої завантаження</string>
     <string name="notify_resolved">Завантаження завершено</string>
     <string name="notify_paused">Завантаження призупинино</string>
-    <string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки по з'єднанню Wi-Fi</string>
+    <string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки по з\'єднанню Wi-Fi</string>
     <string name="dialog_first_cleanup">Всі завершені та невдалі завантаження будуть вилучені зі списку</string>
     <string name="dialog_first_cleanup_title">Очищення</string>
     <string name="yt_title_for_single">Додати відео</string>
