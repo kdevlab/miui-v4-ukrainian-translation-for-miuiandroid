@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">СуперМаркет</string>
     <string name="recommended_apps_tab_title">Рекомендовані</string>
@@ -112,15 +112,15 @@
     <string name="uninstall_app">Видалення програм</string>
     <string name="uninstall_app_format">Видалити “%s”？</string>
     <string name="empty_comment_input">Коментар порожній, введіть коментар</string>
-    <string name="duplicate_comment">评论已经发布，别重复发送啦</string>
+    <string name="duplicate_comment">Коментарій вже розміщений</string>
     <string name="empty_report_input">Порожній звіт, введіть коментар і продовжите</string>
     <string name="error_when_downloading_app_format">Помилка завантаження “%s”</string>
-    <string name="download_recommend_pieces_format" formatted="false">%s завантаження，%s 条推荐</string>
-    <string name="recommendation_pieces_format">%s 条推荐</string>
-    <string name="friend_recommendation_format" formatted="false">有%s个好友推荐，共%s条推荐</string>
-    <string name="app_update_num_format">%d个应用有新版本，点击更新全部</string>
+    <string name="download_recommend_pieces_format" formatted="false">Скачано: %s, Коментарів: %s</string>
+    <string name="recommendation_pieces_format">%s комментарів</string>
+    <string name="friend_recommendation_format" formatted="false">%s друзів рекомендовало, усього: %s</string>
+    <string name="app_update_num_format">Доступно оновлень:%d</string>
     <string name="total_app_num_format">本机共安装了%d个应用</string>
-    <string name="login_to_recommend">登录并推荐给朋友</string>
+    <string name="login_to_recommend">Увійдіть, щоб порекомендувати другу</string>
     <string name="my_recommendations_and_friends">Я порекомендував та друзі</string>
     <string name="press_to_login">Натисніть для входу в MIUI аккаунт</string>
     <string name="login_to_miui">Увійти в акаунт MIUI</string>
