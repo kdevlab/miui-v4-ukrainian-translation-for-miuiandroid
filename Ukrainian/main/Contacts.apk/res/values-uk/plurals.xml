@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Контакты с номерами телефонов: %d</item>
-        <item quantity="one">Контакты с номерами телефона: 1</item>
+        <item quantity="other">Контакти з номерами телефонів: %d</item>
+        <item quantity="one">Контакти з номерами телефону: 1</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Контактов: %d</item>
-        <item quantity="one">Контактов: 1</item>
+        <item quantity="other">Контактів: %d</item>
+        <item quantity="one">Контактів: 1</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">Знайдено: %d</item>
+        <item quantity="one">Знайдено: 1</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">Знайдено: %d</item>
+        <item quantity="one">Знайдено: 1</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">объединено из нескольких источников (%0$d)</item>
-        <item quantity="one">не объединен</item>
+        <item quantity="other">Об\'єднано з декількох джерел (%0$d)</item>
+        <item quantity="one">Не об\'єднано</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">Групп: %0$d</item>
-        <item quantity="one">1 группа</item>
+        <item quantity="other">Груп: %0$d</item>
+        <item quantity="one">1 група</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">В группе %2$s %1$d чел.</item>
-        <item quantity="one">В группе %2$s %1$d чел.</item>
+        <item quantity="other">В групі %2$s %1$d чол.</item>
+        <item quantity="one">В групі %2$s %1$d чол.</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d чел.</item>
-        <item quantity="one">%1$d чел.</item>
+        <item quantity="other">%1$d чол.</item>
+        <item quantity="one">%1$d чол.</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">Голосовые сообщения: %1$d</item>
-        <item quantity="one">Голосовая почта</item>
+        <item quantity="other">Голосові повідомлення: %1$d</item>
+        <item quantity="one">Голосова пошта</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="zero">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
     </plurals>
 </resources>
