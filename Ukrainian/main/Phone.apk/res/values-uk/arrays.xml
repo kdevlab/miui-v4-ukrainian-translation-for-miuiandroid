@@ -4,7 +4,7 @@
         <item>Налаштування мережі за замовчуванням</item>
         <item>Приховати номер</item>
         <item>Показувати номер</item>
-    </String-array>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
         <item>Тільки EvDo</item>
@@ -14,11 +14,11 @@
         <item>Тільки WCDMA</item>
         <item>Тільки GSM</item>
         <item>GSM/WCDMA (краща мережа)</item>
-    </String-array>
+    </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
         <item>CDMA</item>
-    </String-array>
+    </string-array>
     <string-array name="list_language_entries">
         <item>Англійська</item>
         <item>Французький</item>
@@ -27,7 +27,7 @@
         <item>Корейська</item>
         <item>Китайський</item>
         <item>Іврит</item>
-    </String-array>
+    </string-array>
     <string-array name="list_language_values">
         <item>1</item>
         <item>2</item>
@@ -36,60 +36,60 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
-    </String-array>
+    </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (автоматичний режим)</item>
         <item>Тільки WCDMA</item>
         <item>Тільки GSM</item>
         <item>GSM/WCDA (переважно WCDMA)</item>
-    </String-array>
+    </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Тільки домашня</item>
         <item>Автоматично</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_roaming_mode_choices">
         <item>Тільки домашні мережі</item>
         <item>Афілійовані мережі</item>
         <item>Будьяка мережа</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_roaming_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_network_preferences_choices">
         <item>CDMA/EvDo</item>
         <item>Тільки CDMA</item>
         <item>Тільки EvDo</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_network_preferences_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
-    </String-array>
+    </string-array>
     <string-array name="cdma_subscription_values">
         <item>0</item>
         <item>1</item>
-    </String-array>
+    </string-array>
 <string-array name="dtmf_tone_entries">
         <item>Звичайні</item>
         <item>Довгі</item>
-    </String-array>
+    </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Завжди</item>
         <item>Якщо беззвука</item>
         <item>Ніколи</item>
-    </String-array>
+    </string-array>
     <string-array name="tty_mode_entries">
         <item>Телетайп вимкнений</item>
         <item>Повнофункціональний телетайп</item>
