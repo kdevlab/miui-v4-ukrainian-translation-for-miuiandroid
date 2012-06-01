@@ -36,10 +36,10 @@
     <string name="state_failed">Не вдалося виконати завантаження</string>
     <string name="state_completed">Завершено</string>
     <string name="state_paused">Призупинено</string>
-    <string name="retry_in_1min">1 мінута</string>
-    <string name="retry_in_2min">2 мінути</string>
-    <string name="retry_in_5min">5 мінут</string>
-    <string name="retry_no_data">Підключення для передачі даних відсутня</string>
+    <string name="retry_in_1min">1 хвилина</string>
+    <string name="retry_in_2min">2 хвилини</string>
+    <string name="retry_in_5min">5 хвилин</string>
+    <string name="retry_no_data">Підключення для передачі даних відсутнє</string>
     <string name="failed_no_file">Файл не знайдено</string>
     <string name="failed_bad_response">Помилка служби</string>
     <string name="failed_network_error">Помилка мережі</string>
