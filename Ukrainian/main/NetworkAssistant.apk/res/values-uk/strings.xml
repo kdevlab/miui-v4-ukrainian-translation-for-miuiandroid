@@ -76,7 +76,7 @@
 <string name="process_kernel_label">Android OS</string>
 <string name="retry">Повторити</string>
 <string name="save">Зберегти</string>
-<string name="settings_page_adjust_summary_no_carrier">Оператор не налаштований, авторегуіровка трафіку відключена</string>
+<string name="settings_page_adjust_summary_no_carrier">Оператор не налаштований, керування трафіком відключене</string>
 <string name="settings_page_traffic_summary">Доступно: %1$s, Попереджень: %2$s, Дата останнього поповнення: %3$d</string>
 <string name="settings_page_traffic_summary_no_settings">Пакет не встановлено, Дата останнього поповнення: %d</string>
 <string name="sort_dialog_title">Сортування</string>
