@@ -44,59 +44,59 @@
         <item>-1</item>
     </integer-array>
     <string-array name="colorchooser_standard_color_name">
-        <item>Нет</item>
-        <item>Черный</item>
-        <item>Коричневый</item>
-        <item>Оливково-зелёный</item>
-        <item>Темно-зеленый</item>
-        <item>Темный серо-голубой</item>
-        <item>Темно-синий</item>
-        <item>Индиго</item>
-        <item>Серый 80%</item>
-        <item>Темно-красный</item>
-        <item>Оранжевый</item>
-        <item>Темно-желтый</item>
-        <item>Зеленый</item>
-        <item>Серо-голубой</item>
-        <item>Синий</item>
-        <item>Сине-серый</item>
-        <item>Серый 50%</item>
-        <item>Красный</item>
-        <item>Светло-оранжевый</item>
-        <item>Светло-зеленый</item>
-        <item>Изумрудный</item>
-        <item>Зеленовато-голубой</item>
-        <item>Светло-синий</item>
-        <item>Фиолетовый</item>
-        <item>Серый 40%</item>
-        <item>Розовый</item>
-        <item>Золотистый</item>
-        <item>Желтый</item>
-        <item>Ярко-зеленый</item>
-        <item>Бирюзовый</item>
-        <item>Небесно-голубой</item>
-        <item>Сливовый</item>
-        <item>Серый 25%</item>
-        <item>Насыщенный розовый</item>
-        <item>Желтовато-коричневый</item>
-        <item>Светло-желтый</item>
-        <item>Светло-зеленый</item>
-        <item>Светло-бирюзовый</item>
-        <item>Тусклый синий</item>
-        <item>Сиреневый</item>
-        <item>Белый</item>
-    </string-array>
+        <item>Ні</item>
+        <item>Чорний</item>
+        <item>Коричневий</item>
+        <item>Оливково-зелений</item>
+        <item>Темно-зелений</item>
+        <item>Темний сіро-блакитний</item>
+        <item>Темно-синій</item>
+        <item>Індиго</item>
+        <item>Сірий 80%</item>
+        <item>Темно-червоний</item>
+        <item>Помаранчевий</item>
+        <item>Темно-жовтий</item>
+        <item>Зелений</item>
+        <item>Сіро-блакитний</item>
+        <item>Синій</item>
+        <item>Синьо-сірий</item>
+        <item>Сірий 50%</item>
+        <item>Червоний</item>
+        <item>Світло-оранжевий</item>
+        <item>Світло-зелений</item>
+        <item>Смарагдове</item>
+        <item>Зеленувато-блакитний</item>
+        <item>Світло-синій</item>
+        <item>Фіолетовий</item>
+        <item>Сірий 40%</item>
+        <item>Рожевий</item>
+        <item>Золотистий</item>
+        <item>Жовтий</item>
+        <item>Яскраво-зелений</item>
+        <item>Бірюзовий</item>
+        <item>Небесно-блакитний</item>
+        <item>Сливовий</item>
+        <item>Сірий 25%</item>
+        <item>Насичений рожевий</item>
+        <item>Жовтувато-коричневий</item>
+        <item>Світло-жовтий</item>
+        <item>Світло-зелений</item>
+        <item>Світло-бірюзовий</item>
+        <item>Тьмяний синій</item>
+        <item>Бузковий</item>
+        <item>Білий</item>
+    </String-array>
     <string-array name="back_key_entries">
-        <item>На уровень вверх</item>
-        <item>Выход</item>
-    </string-array>
+        <item>На рівень вгору</item>
+        <item>Вихід</item>
+    </String-array>
     <string-array name="download_dir_entries">
-        <item>Текущая папка</item>
-        <item>Определенная папка</item>
-        <item>Всегда спрашивать</item>
-    </string-array>
+        <item>Поточна папка</item>
+        <item>Певна папка</item>
+        <item>Завжди запитувати</item>
+    </String-array>
     <string-array name="write_display_modes">
-        <item>Оригинал</item>
+        <item>Оригінал</item>
         <item>Позитив</item>
         <item>Негатив</item>
     </string-array>
