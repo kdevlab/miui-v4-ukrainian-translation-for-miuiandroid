@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Зворотній зв'язок</string>
+    <string name="app_label">Зворотній зв\'язок</string>
     <string name="user_feedback">Відгуки</string>
     <string name="user_feedback_preview">Передпроглядання відгука</string>
     <string name="report_miui">Звіт MIUI</string>
     <string name="menu_send">Надіслати звіт</string>
     <string name="menu_preview">Перегляд звіту</string>
-    <string name="section_feedback">Зворотній зв'язок</string>
+    <string name="section_feedback">Зворотній зв\'язок</string>
     <string name="section_privacy">Конфіденційність </string>
-    <string name="description">Опис (обов'язково)</string>
+    <string name="description">Опис (обов\'язково)</string>
     <string name="privacy_system_log">Системні дані</string>
     <string name="privacy_system_log_desc">Увімкнути системні дані MIUI, для кращого діагностування проблеми</string>
     <string name="privacy_screenshot">Включаючи скріншоти</string>
@@ -25,7 +25,7 @@
     <string name="info_device">Пристрій</string>
     <string name="info_incremental">Додаткові версії</string>
     <string name="info_model">Модель</string>
-    <string name="info_networkname">Мережеве ім'я</string>
+    <string name="info_networkname">Мережеве ім\'я</string>
     <string name="info_networktype">Тип мережі</string>
     <string name="info_phonetype">Тип телефону</string>
     <string name="info_product">Продукт</string>

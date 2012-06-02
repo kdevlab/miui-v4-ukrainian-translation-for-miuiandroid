@@ -56,7 +56,7 @@
     <string name="aspect_ratio_3_2">3x2</string>
     <string name="aspect_ratio_4_3">4x3</string>
     <string name="aspect_ratio_5_3">5x3</string>
-    <string name="editor_storage_not_available">Не вдається створити проект. Внутрішня пам'ять недоступна</string>
+    <string name="editor_storage_not_available">Не вдається створити проект. Внутрішня пам\'ять недоступна</string>
     <string name="editor_create_error">Сталася помилка. Не вдається створити проект</string>
     <string name="editor_load_error">Сталася помилка. Не вдається завантажити проект. Видалити цей проект?</string>
     <string name="editor_aspect_ratio_error">Неможливо змінити співвідношення сторін</string>

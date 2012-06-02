@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Інструменти SIM-карти</string>
+    <string name="app_name">SIM-карта</string>
     <string name="menu_end_session">Закінчити сеанс</string>
     <string name="help">Довідка</string>
     <string name="menu_back">Назад</string>

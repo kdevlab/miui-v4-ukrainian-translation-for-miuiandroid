@@ -69,7 +69,7 @@
 Якщо ваш пристрій не має програми телефон, то не слід включати режим примари
 
 Включити режим Примари? "</string>
-    <string name="pref_ghost_mode_enabled_message">Режим примари включений. Перезапустіть програму десктопа або перезавантажте телефон, щоб побачити зміни.</string>
+    <string name="pref_ghost_mode_enabled_message">Режим примари включений. Перезапустіть програму десктопа або перезавантажте телефон, щоб побачити зміни</string>
     <string name="pref_secret_code_title">Секретний код</string>
     <string name="pref_secret_code_summary">Секретний код: *#*#%1$s#*#*</string>
     <string name="pref_category_applist_title">Список додатків</string>
@@ -127,7 +127,7 @@
     <string name="pref_get_elite_summary">Купуйте Elite версію, щоб розблокувати всі опції</string>
     <string name="updater_title">Програмний Обновітель</string>
     <string name="updater_new_su_found">Знайдена нова версія програми su. Оновити зараз?</string>
-    <string name="updater_current_installed">Новітня версія вже встановлена. Ніяких дій не потрібно.</string>
+    <string name="updater_current_installed">Новітня версія вже встановлена. Ніяких дій не потрібно</string>
     <string name="updater_update">Оновлення</string>
     <string name="updater_update_anyway">Оновити все одно</string>
     <string name="updater_cool">Це було круто, зробити знову</string>
@@ -173,7 +173,7 @@
     <string name="malicious_apps_uninstall">Видалити</string>
     <string name="malicious_apps_ignore">Ігнорувати</string>
     <string name="malicious_app_notification_ticker">Виявлено потенційно шкідливий додаток</string>
-    <string name="malicious_app_notification_text">Програма% s ймовірно шкідлива. Натисніть, щоб видалити.</string>
+    <string name="malicious_app_notification_text">Програма% s ймовірно шкідлива. Натисніть, щоб видалити</string>
     <string name="malicious_app_uid">спільно використовує UID з Superuser</string>
     <string name="malicious_app_respond">запитує дозвіл на відповідь</string>
     <string name="malicious_app_write">запитує дозвіл на запис в дозволу постачальника</string>

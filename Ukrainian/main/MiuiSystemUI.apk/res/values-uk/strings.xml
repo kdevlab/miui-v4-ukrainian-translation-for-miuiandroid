@@ -43,7 +43,7 @@
   <string name="compat_mode_on">Підігнати за розмірами екрану</string>
   <string name="compat_mode_off">Розтягнути на весь екран</string>
   <string name="compat_mode_help_header">Масштаб і сумісність</string>
-  <string name="compat_mode_help_body">Якщо додаток розраховано на екран менших розмірів, поруч з годинником з\'являться кошти масштабування.</string>
+  <string name="compat_mode_help_body">Якщо додаток розраховано на екран менших розмірів, поруч з годинником з\'являться кошти масштабування</string>
   <string name="screenshot_saving_ticker">Збереження...</string>
   <string name="screenshot_saving_title">Збереження...</string>
   <string name="screenshot_saving_text">Збереження...</string>
@@ -165,7 +165,7 @@
   <string name="screen_button_disabled_message">Функції кнопок на нижньому екрані будуть відключені. Ви можете включити їх, натиснувши \"Додому\" і \"Живлення\"</string>
   <string name="screen_button_enabled_message">Функції кнопок на нижній частині екрана включені</string>
   <string name="screen_button_notification_title">Екранні кнопки відключені</string>
-  <string name="screen_button_notification_text">"Затисніть 'Додому' + 'Живлення' щоб включити"</string>
+  <string name="screen_button_notification_text">"Затисніть \'Додому\' + \'Живлення'\, щоб включити"</string>
   <string name="status_bar_style_settings">Налаштування статус бару</string>
   <string name="settings_toggle_layout_style">Стиль статус бару</string>
   <string name="settings_toggle_layout_style_compact">Компакт</string>

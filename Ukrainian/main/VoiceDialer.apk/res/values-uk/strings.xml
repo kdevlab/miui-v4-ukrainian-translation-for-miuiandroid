@@ -19,7 +19,7 @@
     <string name="please_try_again">Спробуйте ще</string>
     <string name="failure">Помилка</string>
     <string name="recognition_error">Можна також перезапустити телефон</string>
-    <string name="headset_connection_lost">Зв'язок з навушниками втрачена</string>
+    <string name="headset_connection_lost">Зв\'язок з навушниками втрачена</string>
     <string name="at_home">" , домашній"</string>
     <string name="on_mobile">" , мобільній"</string>
     <string name="at_work">" , робота"</string>

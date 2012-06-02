@@ -21,7 +21,7 @@
   <string name="music_settings">Налаштування</string>
   <string name="mobile_connect_settings">Мобільна мережа</string>
   <string name="download_album_settings">Завантаження обкладинок</string>
-  <string name="download_album_summary">Може відіб\'ється на вартості послуг за мобільний зв\'язок, будь ласка використовуйте Wi-Fi</string>
+  <string name="download_album_summary">Може відбитися на вартості послуг за мобільний зв\'язок, будь ласка використовуйте Wi-Fi</string>
   <string name="download_lyric_settings">Завантаження текстів</string>
   <string name="download_lyric_summary">Завантаження слів не надто завантажить трафік, ви також можете закрити цей параметр для збереження трафіку.</string>
   <string name="listen_to_music_online_settings">Прослуховувати онлайн</string>
@@ -162,8 +162,8 @@
   <string name="service_start_error_button">OK</string>
   <string name="streamloadingtext">Підключення до %s</string>
   <string name="playback_failed">На жаль, програвач не підтримує цей тип аудіо файлів</string>
-  <string name="playback_failed_by_bad_file">"'%s'Невозможно програти трек, не підтримується формат файлу"</string>
-  <string name="playback_failed_by_network">"'%s'Невозможно програти трек, перевірте мережеве підключення"</string>
+  <string name="playback_failed_by_bad_file">"\'%s\' Неможливо програти трек, не підтримується формат файлу"</string>
+  <string name="playback_failed_by_network">"'%s'Неможливо програти трек, перевірте мережеве підключення"</string>
   <string name="playback_failed_no_title_by_bad_file">Неможливо програти трек, не підтримується формат файлу</string>
   <string name="playback_failed_no_title_by_network">Неможливо програти трек, перевірте мережеве підключення</string>
   <string name="buffering">Кешування ...</string>

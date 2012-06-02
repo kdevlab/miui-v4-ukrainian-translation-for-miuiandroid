@@ -746,7 +746,7 @@
     <string name="lockscreen_glogin_username_hint">"Ім\'я користувача (електронна пошта)"</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Увійти</string>
-    <string name="lockscreen_glogin_invalid_input">"Неправильне ім\'я користувача або пароль."</string>
+    <string name="lockscreen_glogin_invalid_input">"Неправильне ім\'я користувача або пароль"</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Забули ім\'я користувача або пароль?
 Перейдіть на сторінку "<b>google.com/accounts/recovery</b></string>
     <string name="lockscreen_glogin_checking_password">Перевірка...</string>

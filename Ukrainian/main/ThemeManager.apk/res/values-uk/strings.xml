@@ -60,7 +60,7 @@
   <string name="apply_font_btn_reboot">Застосувати і перезавантажити</string>
   <string name="apply_font_btn_exclude">Без шрифта</string>
   <string name="title_online">Онлайн</string>
-  <string name="title_local">Локально</string>
+  <string name="title_local">Телефон</string>
   <string name="title_component">Компоненти</string>
   <string name="change_wallpaper">Шпалери</string>
 </resources>

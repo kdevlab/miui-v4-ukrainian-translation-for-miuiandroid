@@ -132,7 +132,7 @@
        <item> Венда (Південно-Африканська Республіка)</item> 
        <item> Турецька (Туреччина) </item >       </item> Український (Україна)</item> 
        <item> Урду (Пакистан)</item>
-       <item> В'єтнамський (В'єтнам)</item> 
+       <item> В\'єтнамський (В\'єтнам)</item> 
        <item> Тсонга (Південно-Африканська Республіка)</item>
    </string-array>
    <string-array name="prefEntries_safeSearch">

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appName">Голосовой поиск</string>
+    <string name="appName">Голосовий пошукк</string>
     <string name="settings">Настройки</string>
     <string name="settings_button">Настройки</string>
-    <string name="listening">Говорите</string>
+    <string name="listening">Кажіть</string>
     <string name="working">Обработка</string>
-    <string name="try_again">Повторить</string>
-    <string name="no_match">Ничего не найдено</string>
-    <string name="network_error">Ошибка подключения</string>
-    <string name="server_error">Ошибка сервера</string>
+    <string name="try_again">Повторити</string>
+    <string name="no_match">Нічого не знайдено</string>
+    <string name="network_error">Помилка подключения</string>
+    <string name="server_error">Помилка сервера</string>
     <string name="audio_error">Неполадки со звуком</string>
     <string name="recognizer_busy_error">Процессор распознавания речи занят</string>
     <string name="speech_timeout">Запрос не получен</string>
@@ -26,8 +26,8 @@
     <string name="personalization_popup_message">Для улучшения качества голосового поиска Google свяжет образцы вашей речи с вашим аккаунтом Google. Привязка будет осуществляться в соответствии с START_LINKПолитикой конфиденциальности Google для мобильных устройствEND_LINK.</string>
     <string name="personalization_more_info">Дополнительная информация</string>
     <string name="personalization_popup_disable_message">После отключения функции голосовой поиск перестанет учитывать особенности вашего голоса, а образцы вашей речи на этом устройстве перестанут ассоциироваться с вашим аккаунтом. NEW_LINE NEW_LINEОткройте START_LINKЛичный кабинет GoogleEND_LINK для управления своими данными.</string>
-    <string name="button_yes">Да</string>
-    <string name="button_no">Нет</string>
+    <string name="button_yes">Так</string>
+    <string name="button_no">Ні</string>
     <string name="connection_retying">Повторная попытка...</string>
     <string name="help">Справка</string>
     <string name="help_hint">Узнайте о голосовых командах в <b>справке</b></string>
@@ -36,18 +36,18 @@
     <string name="did_you_mean">Возможно, вы искали...</string>
     <string name="or_try_search">или попробуйте Голосовой поиск Google</string>
     <string name="dial">Набрать номер</string>
-    <string name="go">Поиск</string>
+    <string name="go">Пошук</string>
     <string name="tryagain">Повторить</string>
-    <string name="speak_now">Говорить</string>
-    <string name="search_hint">Поиск Google</string>
-    <string name="voice_search_product_name">Поиск Google</string>
+    <string name="speak_now">Кажіть</string>
+    <string name="search_hint">Пощук Google</string>
+    <string name="voice_search_product_name">м Google</string>
     <string name="speechservice_error">Распознавание речи недоступно</string>
-    <string name="searching">Поиск...</string>
+    <string name="searching">Пощук...</string>
     <string name="setting_alarm">Установка будильника...</string>
     <string name="messaging_label">SMS/MMS</string>
-    <string name="sending_sms">Отправка...</string>
-    <string name="error_sending_sms">Не удалось отправить сообщение.</string>
-    <string name="sms_sent">Сообщение отправлено.</string>
+    <string name="sending_sms">Відправка...</string>
+    <string name="error_sending_sms">Не удалось отправить сообщение</string>
+    <string name="sms_sent">Сообщение отправлено</string>
     <string name="no_suggestions">Нет вариантов</string>
     <string name="add_number">Добавить номер</string>
     <string name="voiceSearchPreferences">Настройки голосового поиска</string>
@@ -224,12 +224,12 @@
 
 Чтобы выбрать этот или другой язык голосового поиска, зайдите в раздел \"Настройки\"."</string>
     <string name="ok">ОК</string>
-    <string name="cancel">Отмена</string>
+    <string name="cancel">Скасувати</string>
     <string name="shortcuts_searchable_description">История Голосового поиска</string>
     <string name="message_too_long">Сообщение слишком длинное.</string>
     <string name="send_email_submit">Отправить</string>
     <string name="send_sms_submit">Отправить</string>
-    <string name="set_alarm_submit">Установить</string>
+    <string name="set_alarm_submit">Встановити</string>
     <string name="note_to_self_submit">Отправить</string>
     <string name="action_title_format">%s...</string>
     <string name="slot_title_format">"%s: "</string>
@@ -264,7 +264,7 @@
     <string name="permission_description_set_alarm">Позволяет настраивать сигнал будильника.</string>
     <string name="help_search_title">веб-поиск</string>
     <string name="ime_service_label">Голосовой ввод Google</string>
-    <string name="ime_listening">Слушаю...</string>
+    <string name="ime_listening">Слухаю...</string>
     <string name="ime_listening_done">Готово</string>
     <string name="ime_working">Ожидание результатов</string>
     <string name="ime_working_done">Остановить</string>

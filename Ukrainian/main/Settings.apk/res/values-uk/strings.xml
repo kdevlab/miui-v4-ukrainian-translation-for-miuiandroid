@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_always_show_value">1</string>
@@ -15,8 +15,8 @@
   <string name="turn_off_radio">Вимкнути радіо</string>
   <string name="sms_over_ims_on">Включити SMS через IMS</string>
   <string name="sms_over_ims_off">Відключити SMS через IMS</string>
-  <string name="ims_reg_required_on">Обов'язкова реєстрація IMS включена</string>
-  <string name="ims_reg_required_off">Обов'язкова реєстрація IMS відключена</string>
+  <string name="ims_reg_required_on">Обов\'язкова реєстрація IMS включена</string>
+  <string name="ims_reg_required_off">Обов\'язкова реєстрація IMS відключена</string>
   <string name="lte_ram_dump_on">Очищати ОЗУ</string>
   <string name="lte_ram_dump_off">Не очищати ОЗУ</string>
   <string name="radioInfo_menu_viewADN">Переглянути адресну книгу на SIM-картці</string>
@@ -96,13 +96,13 @@
   <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
   <string name="bluetooth_lock_voice_dialing_summary">Запобігти використання телефону Bluetooth, коли екран заблокований</string>
   <string name="bluetooth_devices">Пристрої Bluetooth</string>
-  <string name="bluetooth_device_name">Ім'я пристрою</string>
-  <string name="bluetooth_name_not_set">Без налаштування імені, використовувати ім'я облікового запису</string>
+  <string name="bluetooth_device_name">Ім\'я пристрою</string>
+  <string name="bluetooth_name_not_set">Без налаштування імені, використовувати ім\'я облікового запису</string>
   <string name="bluetooth_scan_for_devices">Пошук пристроїв</string>
   <string name="bluetooth_rename_device">Перейменувати телефон</string>
   <string name="bluetooth_rename_button">Перейменувати</string>
   <string name="bluetooth_disconnect_title">Відключитися?</string>
-  <string name="bluetooth_disconnect_all_profiles">Відбудеться роз'єднання з пристроєм &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Відбудеться роз\'єднання з пристроєм &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Відключити профіль?</string>
   <string name="bluetooth_disable_profile_message">Профіль &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; буде відключено від пристрою &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connected">Підключено</string>

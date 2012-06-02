@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="added_favorite">Додано в обране</string>
   <string name="app_name">Файли</string>
@@ -15,10 +15,10 @@
   <string name="category_zip">Архіви</string>
   <string name="confirm">OК</string>
   <string name="confirm_know">OK</string>
-  <string name="enable_sd_card">На даний моменту SD-карта підключена до комп'ютера і використовується, щоб бачити її вміст, відключіть режим накопичувача</string>
+  <string name="enable_sd_card">На даний моменту SD-карта підключена до комп\'ютера і використовується, щоб бачити її вміст, відключіть режим накопичувача</string>
   <string name="error_info_cant_send_folder">Папка не може бути передана</string>
   <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
-  <string name="fail_to_rename">Не вдалося перейменувати файл або папку, ім'я вже існує</string>
+  <string name="fail_to_rename">Не вдалося перейменувати файл або папку, ім\'я вже існує</string>
   <string name="file_info_canread">Читання:</string>
   <string name="file_info_canwrite">Запис:</string>
   <string name="file_info_ishidden">Прихований:</string>
@@ -47,7 +47,7 @@
   <string name="operation_copy">Копіювати</string>
   <string name="operation_copy_path">Копіювати шлях</string>
   <string name="operation_create_folder">Нова папка</string>
-  <string name="operation_create_folder_message">Будь ласка, введіть ім'я папки</string>
+  <string name="operation_create_folder_message">Будь ласка, введіть ім\'я папки</string>
   <string name="operation_delete">Видалити</string>
   <string name="operation_delete_confirm_message">Підтвердити видалення?</string>
   <string name="operation_deleting">Видалення...</string>
@@ -60,7 +60,7 @@
   <string name="operation_pasting">Копіювання...</string>
   <string name="operation_refresh">Оновити</string>
   <string name="operation_rename">Перейменувати</string>
-  <string name="operation_rename_message">Введіть нове ім'я</string>
+  <string name="operation_rename_message">Введіть нове ім\'я</string>
   <string name="operation_selectall">Вибрати все</string>
   <string name="operation_send">Надіслати</string>
   <string name="operation_show_sys">Показати системні</string>
@@ -69,7 +69,7 @@
   <string name="sd_card_available">"Вільно: "</string>
   <string name="sd_card_size">SD-карта: %1$s</string>
   <string name="sd_folder">SD-карта</string>
-  <string name="search_hint">Введіть частину або всі ім'я файлу</string>
+  <string name="search_hint">Введіть частину або всі ім\'я файлу</string>
   <string name="search_title">Пошук документів</string>
   <string name="start_server">Запустити службу</string>
   <string name="stop_server">Зупинити службу</string>

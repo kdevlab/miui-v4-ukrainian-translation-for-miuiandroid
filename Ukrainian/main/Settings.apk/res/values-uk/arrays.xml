@@ -237,7 +237,7 @@
         <item>Не зазначено</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутрішня пам'ять</item>
+        <item>Внутрішня пам\'ять</item>
         <item>Знімна SD-карта</item>
         <item>Автоматично</item>
     </string-array>

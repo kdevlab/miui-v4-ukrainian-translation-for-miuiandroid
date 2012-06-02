@@ -97,10 +97,10 @@
     <string name="table_style">Стиль таблиці</string>
     <string name="table_style_options">Налаштування стилю таблиці</string>
     <string name="delete_table">Видалити таблицю</string>
-    <string name="msg_saved_to">"Збережено в '%s'"</string>
+    <string name="msg_saved_to">"Збережено в \'%s\'"</string>
     <string name="msg_failed">Помилка</string>
-    <string name="msg_loading">"Завантаження '%s'"</string>
-    <string name="msg_saving">"Збереження '%s'"</string>
+    <string name="msg_loading">"Завантаження \'%s\'"</string>
+    <string name="msg_saving">"Збереження \'%s\'"</string>
     <string name="msg_failed_to_open">Не вдалося відкрити</string>
     <string name="msg_failed_to_save">Не вдалося зберегти</string>
     <string name="msg_no_matches">Співпадінь не знайдено</string>
@@ -241,7 +241,7 @@ ThinkFree і логотип ThinkFree є товарними знаками Hanco
     <string name="selected">Обрано</string>
     <string name="all">Скрізь</string>
     <string name="oom_error_msg">"Недостатньо пам\'яті. Неможливо правильно завантажити файл.
-Дивитись завантажене вміст? "</String>
+Дивитись завантажене вміст?"</String>
     <string name="oom_error_close_label">Закрити</string>
     <string name="oom_error_continue_label">Продовжити</string>
     <string name="retry">Повторити спробу</string>
@@ -345,7 +345,7 @@ ThinkFree і логотип ThinkFree є товарними знаками Hanco
     <string name="show_msg_no_note">Немає приміток</string>
     <string name="show_msg_printing">Друк \"%s\"</string>
     <string name="show_msg_print_fail">Помилка друку</string>
-    <string name="show_msg_out_of_memory">Недостатньо пам\'яті!!!!</string>
+    <string name="show_msg_out_of_memory">Недостатньо пам\'яті!</string>
     <string name="show_label_print_range">Діапазон друку</string>
     <string name="show_label_print_range_all">Всі</string>
     <string name="show_label_print_range_current">Поточний слайд</string>
@@ -366,7 +366,7 @@ ThinkFree і логотип ThinkFree є товарними знаками Hanco
     <string name="calc_select_sheet">Виберіть лист</string>
     <string name="calc_show_hidden_sheets">Показувати приховані листи</string>
     <string name="calc_msg_title">Calc</string>
-    <string name="calc_msg_invalid_dir">"Неприпустима папка: '%s'"</string>
+    <string name="calc_msg_invalid_dir">"Неприпустима папка: \'%s\'"</string>
     <string name="calc_msg_empty_sheet">В цьому листі відсутня вміст</string>
     <string name="calc_msg_searching">Виконується пошук...</string>
     <string name="calc_msg_invalid_ref">Неприпустима посилання</string>
