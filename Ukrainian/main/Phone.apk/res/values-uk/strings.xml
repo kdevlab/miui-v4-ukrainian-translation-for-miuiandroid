@@ -20,7 +20,7 @@
   <string name="callFailed_noSignal">Немає сигналу</string>
   <string name="callFailed_limitExceeded">Перевищено ліміт ACM</string>
   <string name="callFailed_powerOff">Радіо відключено</string>
-  <string name="callFailed_simError">SIM-карта не встановлена ??або помилка SIM-картки</string>
+  <string name="callFailed_simError">SIM-карта не встановлена або помилка SIM-картки</string>
   <string name="callFailed_outOfService">Поза зоною дії мережі</string>
   <string name="callFailed_fdn_only">Ви можете подзвонити тільки на телефони зі списку дозволених номерів</string>
   <string name="callFailed_cb_enabled">Якщо включена функція заборони неможливо здійснювати вихідні виклики</string>
@@ -151,7 +151,7 @@
   <string name="search_networks">Пошук мереж</string>
   <string name="network_query_error">Помилка пошуку мереж</string>
   <string name="register_on_network">Реєстрація в мережі %s...</string>
-  <string name="not_allowed">Встановлена ??SIM-карта не може підключитися до цієї мережі</string>
+  <string name="not_allowed">Встановлена SIM-карта не може підключитися до цієї мережі</string>
   <string name="connect_later">Не вдається підключитися до цієї мережі. Повторіть спробу пізніше</string>
   <string name="registration_done">Реєстрація в мережі завершена</string>
   <string name="sum_carrier_select">Виберіть оператора зв\'язку</string>
@@ -185,10 +185,10 @@
   <string name="throttle_time_frame">Час передачі даних</string>
   <string name="throttle_rate">Швидкість передачі даних</string>
   <string name="throttle_help">Детальніше</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d%) з %3$s (максимум)
-Наступний період почнеться протягом %4$d дн. (%5$s) "</string>
-  <string name="throttle_data_usage_subtext">%1$s (%2$d%) з %3$s (максимум)</string>
-  <string name="throttle_data_rate_reduced_subtext">"Перевищено ліміт в %1$s.
+  <string name="throttle_status_subtext" formatted="false">"%1$s (%2$d%) з %3$s (максимум)
+Наступний період почнеться протягом %4$d дн. (%5$s)"</string>
+  <string name="throttle_data_usage_subtext" formatted="false">%1$s (%2$d%) з %3$s (максимум)</string>
+  <string name="throttle_data_rate_reduced_subtext"  formatted="false">"Перевищено ліміт в %1$s.
 Швидкість передачі даних знижена до %2$d кбіт/с. "</string>
   <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>
@@ -517,7 +517,7 @@
   <string name="pstn_phone">Виклик по мережі</string>
   <string name="internet_phone">Інтернет-виклик</string>
   <string name="no_sip_account_found_title">Ні акаунтів для інтернет-дзвінків</string>
-  <string name="no_sip_account_found">??Ні акаунтів для інтернет-дзвінків. Створити аккаунт?</string>
+  <string name="no_sip_account_found">Ні акаунтів для інтернет-дзвінків. Створити аккаунт?</string>
   <string name="sip_menu_add">Додати</string>
   <string name="add_sip_account">Додати аккаунт</string>
   <string name="remove_sip_account">Видалити аккаунт</string>
@@ -567,8 +567,8 @@
   <string name="default_preference_summary">&lt;Не налагоджено&gt;</string>
   <string name="display_name_summary">&lt;Співпадає з ім\'ям корестувача&gt;</string>
   <string name="optional_summary">&lt;Необов\'язково&gt;</string>
-  <string name="advanced_settings_show">? Натисніть, щоб показати всі</string>
-  <string name="advanced_settings_hide">? Натисніть, щоб приховати всі</string>
+  <string name="advanced_settings_show">Натисніть, щоб показати всі</string>
+  <string name="advanced_settings_hide">Натисніть, щоб приховати всі</string>
   <string name="empty_alert">Поле \"%s\" не може бути порожнім</string>
   <string name="not_a_valid_port">Номер порту повинен бути від 1000 до 65534</string>
   <string name="no_internet_available_title">Підключення до Інтернету відсутнє</string>
@@ -611,7 +611,7 @@
   <string name="description_image_button_nine">дев\'ять</string>
   <string name="description_image_button_star">зірочка</string>
   <string name="description_image_button_zero">нуль</string>
-  <string name="description_image_button_pound">??решітка</string>
+  <string name="description_image_button_pound">решітка</string>
   <string name="description_search_button">пошук</string>
   <string name="description_dial_button">набір номера</string>
   <string name="description_delete_button">повернення</string>
