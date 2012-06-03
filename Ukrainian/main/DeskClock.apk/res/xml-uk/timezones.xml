@@ -83,4 +83,4 @@
     <timezone id="Pacific/Auckland"> Окленд </timezone>
     <timezone id="Pacific/Fiji"> Фіджі </timezone>
     <timezone id="Pacific/Tongatapu"> Тонгатапу </timezone>
-</Timezones>
+</timezones>
