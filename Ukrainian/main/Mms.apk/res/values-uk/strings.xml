@@ -88,7 +88,7 @@
   <string name="has_invalid_recipient">Неприпустимі одержувачі: &lt;%1$s&gt;</string>
   <string name="invalid_destination">Невірний адресу одержувача</string>
   <string name="service_not_activated">Послуга не активована в мережі</string>
-  <string name="service_message_not_found">??Термін дії повідомлення минув або воно не доступно</string>
+  <string name="service_message_not_found">Термін дії повідомлення минув або воно не доступно</string>
   <string name="service_network_problem">Не вдалося відправити повідомлення через помилку мережі</string>
   <string name="invalid_recipient_message">Переконайтеся, що всі отримувачі вказані правильно</string>
   <string name="cannot_send_message">Не вдалося відправити повідомлення</string>
