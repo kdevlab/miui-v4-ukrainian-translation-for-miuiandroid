@@ -112,7 +112,7 @@
         <item>Призупинено</item>
         <item>Відключення...</item>
         <item>Відключено</item>
-        <item>Не удалось соединиться</item>
+        <item>Не вдалося з\'єднатися</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -378,4 +378,4 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
     </string-array>
-</resources>
+</resource>
