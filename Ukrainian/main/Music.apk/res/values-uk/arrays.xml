@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="equalizer_presents">
         <item>Стандартний</item>
@@ -10,7 +10,7 @@
         <item>Джаз</item>
         <item>Поп</item>
         <item>Рок</item>
-     </ string-array>
+     </string-array>
      <string-array name="weeklist">
         <item>1 тиждень</item>
         <item>2 тижні</item>

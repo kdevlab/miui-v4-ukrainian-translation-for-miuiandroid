@@ -22,14 +22,14 @@
         <item>Скажений</item>
         <item>Посмішка</item>
         <item>Нічого не виражає обличчя</item>
-    </String-array>
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>
         <item>2 рази</item>
         <item>3 рази</item>
         <item>5 раз</item>
         <item>10 раз</item>
-    </String-array>
+    </string-array>
     <string-array name="contact_entries">
         <item>Ім\'я</item>
         <item>Нік</item>
@@ -42,7 +42,7 @@
         <item>Веб-сайт</item>
         <item>Адреса</item>
         <item>Примітки</item>
-    </String-array>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 секунда</item>
         <item>2 секунди</item>
@@ -55,7 +55,7 @@
         <item>9 секунд</item>
         <item>10 секунд</item>
         <item>Інше</item>
-    </String-array>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Завжди</item>
         <item>Режим Без звуку</item>
