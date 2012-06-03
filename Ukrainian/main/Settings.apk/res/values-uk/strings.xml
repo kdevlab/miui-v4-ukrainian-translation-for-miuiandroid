@@ -1704,4 +1704,8 @@ $.1f сек."</string>
   <string name="set_dds_error">Помилка в підписці набору даних</string>
   <string name="frequently_fragment_tempty">Часто використовуються елементи будуть перераховані тут</string>
   <string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
+  <string name="bluetooth_default_name">KDG Phone</string>
+  <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
+  <string name="show_fc">Показувати FC</string>
+  <string name="show_fc_summary">Показувати усі FC для програм (вмикати небажано)</string>
 </resources>
