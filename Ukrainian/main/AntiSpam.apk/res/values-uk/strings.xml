@@ -103,7 +103,7 @@
   <string name="add_whitelist">Додати в білий список</string>
   <string name="edit_blacklist">Редагувати</string>
   <string name="edit_whitelist">Редагувати</string>
-  <string name="fw_notes_hint">Примітка (необов/'язково)</string>
+  <string name="fw_notes_hint">Примітка (необов\'язково)</string>
   <string name="number_add_hint">Введіть номер, який потрібно заблокувати</string>
   <string name="fw_in_blacklist">Номер: %s, вже існує в чорному списку</string>
   <string name="fw_in_whitelist">Номер: %s, вже існує в білому списку</string>
