@@ -211,8 +211,8 @@
   <string name="attach_take_photo">Зняти фото</string>
   <string name="attach_video">Відео</string>
   <string name="attach_record_video">Зняти відео</string>
-  <string name="attach_sound">??Аудіо</string>
-  <string name="attach_record_sound">??Записати аудіо</string>
+  <string name="attach_sound">Аудіо</string>
+  <string name="attach_record_sound">Записати аудіо</string>
   <string name="attach_slideshow">Слайд-шоу</string>
   <string name="select_bottom_text">Текст внизу</string>
   <string name="select_top_text">Текст вгорі</string>
@@ -403,7 +403,7 @@
   <string name="flatshow_page_no">%1$d</string>
   <string name="loading_contacts">Завантаження контактів...</string>
   <string name="prepare_send">Підготовка до відправки...</string>
-  <string name="activity_not_found">??Не вдається відкрити вкладення</string>
+  <string name="activity_not_found">Не вдається відкрити вкладення</string>
   <string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="chenghu_disable_mms">Неприпустимий адресу MMS</string>
