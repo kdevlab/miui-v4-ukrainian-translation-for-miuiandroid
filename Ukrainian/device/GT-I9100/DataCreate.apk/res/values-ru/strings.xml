@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Создание данных</string>
+    <string name="current_data_state_call_log">Называются</string>
+    <string name="current_data_state_incoming_call">Связи</string>
+    <string name="current_data_state_outgoing_call">Исходящий звонок</string>
+    <string name="current_data_state_missed_call">Пропущенный вызывов</string>
+    <string name="current_data_state_photo">Фото</string>
+    <string name="current_data_state_video">Видео</string>
+    <string name="current_data_state_mp3">MP3</string>
+    <string name="current_data_state_voice_memo">Голосовые заметки</string>
+    <string name="current_data_state_phone_book">Телефонная книга</string>
+    <string name="current_data_state_schedule">График</string>
+    <string name="current_data_state_tasks">Задачи</string>
+    <string name="current_data_state_memo">Не.</string>
+    <string name="current_data_state_message">Сообщение</string>
+    <string name="current_data_state_mmsinbox">Входящие MMS</string>
+    <string name="current_data_state_mmsoutbox">Исходящие MMS</string>
+    <string name="current_data_state_ring_tone">Колокол</string>
+    <string name="current_data_state_screen">Экран</string>
+    <string name="current_data_state_not_available">Отсутствие</string>
+    <string name="current_data_state_calculating">Расчет...</string>
+    <string name="data_copy_sentbox">Отправленные</string>
+    <string name="data_copy_draftbox">Черновик</string>
+    <string name="data_copy_phonebook">Контакты</string>
+    <string name="data_copy_calllog">Вызывать</string>
+    <string name="data_copy_incoming_call">Связи</string>
+    <string name="data_copy_outgoing_call">Исходящий звонок</string>
+    <string name="data_copy_missed_call">Пропущенный вызов</string>
+    <string name="data_copy_etc">Другой</string>
+    <string name="data_copy_schedule">График</string>
+    <string name="data_copy_memo">Не.</string>
+    <string name="file_copy_photo">Изображения</string>
+    <string name="file_copy_mp3">MP3</string>
+    <string name="file_copy_video">Видео/string>
+    <string name="file_copy_voice_memo">Голосовые заметки</string>
+    <string name="ver_version_name">Версия</string>
+    <string name="ver_label_FTA">Тестовый режим</string>
+    <string name="ver_version">Версия</string>
+</resources>
