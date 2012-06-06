@@ -27,7 +27,7 @@
   <string name="day">1 день</string>
   <string name="days">%s дн.</string>
   <string name="hour">1 година</string>
-  <string name="hours">%s ч.</string>
+  <string name="hours">%s год.</string>
   <string name="minute">1 хвилину</string>
   <string name="minutes">%s хв.</string>
   <string name="every_day">Кожен день</string>
@@ -88,7 +88,7 @@
   <string name="slide_down_delelte_alarm">Посуньте вниз, щоб відключити</string>
   <string name="start">Старт</string>
   <string name="pause">Пауза</string>
-  <string name="reset">Скинути</string>
+  <string name="reset">Знову</string>
   <string name="lap">Коло</string>
   <string name="timer_continue">Продовжити</string>
   <string name="elapsed_hour">%d годин</string>
@@ -101,15 +101,15 @@
   <string name="keep_screen_on">Екран включений</string>
   <string name="start_up">Старт</string>
   <string name="cancel">Стоп</string>
-  <string name="timer_minute">г</string>
-  <string name="timer_hour">х</string>
+  <string name="timer_minute">х</string>
+  <string name="timer_hour">г</string>
   <string name="timer_message_with_hour">таймер на %1$d годин і %2$d хвилин</string>
   <string name="timer_message">Таймер на %1$d хвилин</string>
-  <string name="timer_tutorial">За годинниковою стрілкою</string>
+  <string name="timer_tutorial">За год. стрілкою</string>
   <string name="alarm_in_silent_mode_summary">Подавати сигнал, навіть якщо телефон працює в режимі без звуку</string>
   <string name="menu_alarm_setting">Налаштування будильника</string>
   <string name="timer_is_running">Таймер запущений</string>
-  <string name="alarm_duration">Час сигналу і интервали (хв.)</string>
+  <string name="alarm_duration">Час сигналу та інтервали (хв.)</string>
   <string name="alarm_duration_title">Тривалість сигналу</string>
   <string name="alarm_count">Час сигналу перед автотишою (хв.)</string>
   <string name="alarm_duration_summary">Будильник з інтервалом %d хв</string>
