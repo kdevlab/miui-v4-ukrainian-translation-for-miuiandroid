@@ -3,7 +3,7 @@
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Номери екстрених викликів</string>
   <string name="phoneIconLabel">Телефон</string>
-  <string name="fdnListLabel">фіксований набір</string>
+  <string name="fdnListLabel">Фіксований набір</string>
   <string name="unknown">Невідомий абонент</string>
   <string name="private_num">Прихований номер</string>
   <string name="payphone">Телефон-автомат</string>
@@ -23,7 +23,7 @@
   <string name="callFailed_simError">SIM-карта не встановлена або помилка SIM-картки</string>
   <string name="callFailed_outOfService">Поза зоною дії мережі</string>
   <string name="callFailed_fdn_only">Ви можете подзвонити тільки на телефони зі списку дозволених номерів</string>
-  <string name="callFailed_cb_enabled">Якщо включена функція заборони неможливо здійснювати вихідні виклики</string>
+  <string name="callFailed_cb_enabled">Якщо включена функція заборони, неможливо здійснювати вихідні виклики</string>
   <string name="callFailed_dsac_restricted">Всі дзвінки заборонені настройками доступу</string>
   <string name="callFailed_dsac_restricted_emergency">Екстрені виклики заборонені настройками доступу</string>
   <string name="callFailed_dsac_restricted_normal">Звичайні виклики заборонені настройками доступу</string>
@@ -655,10 +655,10 @@
   <string name="autoip_sum_miui">Додати префікс для іноземних номерів. Введіть код регіону нижче</string>
   <string name="auto_record_call_summary_miui">Почати запис, коли виклик підключений і зберегти їх на SD-карту</string>
   <string name="auto_record_call_title_miui">Автоматичний запис</string>
-  <string name="auto_redial_pref_summary_miui">Якщо не вдалося додзвониться, то система буде автоматично додзвонюватися 10 раз</string>
-  <string name="auto_redial_pref_title_miui">Автодозвон</string>
-  <string name="auto_retry_mode_summary_miui">Включити режим автодозвону</string>
-  <string name="auto_retry_mode_title_miui">Автодозвон</string>
+  <string name="auto_redial_pref_summary_miui">Якщо не вдалося додзвонитись, то система буде автоматично додзвонюватися 10 раз</string>
+  <string name="auto_redial_pref_title_miui">Автонабір</string>
+  <string name="auto_retry_mode_summary_miui">Включити режим автонабору</string>
+  <string name="auto_retry_mode_title_miui">Автонабір</string>
   <string name="bad_pin2_miui">Старий PIN2 введений не правильно. Будь ласка, спробуйте ще раз</string>
   <string name="bad_pin_miui">Старий PIN-код ви ввели не правильно. Будь ласка, спробуйте ще раз</string>
   <string name="bad_puk2_miui">PUK2 введений не правильно. Будь ласка, спробуйте ще раз</string>
