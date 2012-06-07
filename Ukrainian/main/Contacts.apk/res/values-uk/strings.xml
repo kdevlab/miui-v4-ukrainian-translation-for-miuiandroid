@@ -17,7 +17,7 @@
   <string name="contactMultiPickerActivityTitle">Вибрати контакти</string>
   <string name="starredList">Помічені</string>
   <string name="frequentList">Часто викликаються</string>
-  <string name="strequentList">Уподобань</string>
+  <string name="strequentList">Уподобання</string>
   <string name="viewContactTitle">Відомості про контакт</string>
   <string name="viewContactDesription">Переглянути контакт</string>
   <string name="editContactDescription">Змінити контакт</string>
@@ -92,7 +92,7 @@
   <string name="listFoundAllContactsZero">Нічого не знайдено</string>
   <string name="contactsAllLabel">Всі</string>
   <string name="contactsGroupsLabel">Групи</string>
-  <string name="contactsFavoritesLabel">Уподобань</string>
+  <string name="contactsFavoritesLabel">Уподобання</string>
   <string name="recentCallsIconLabel">Історія дзвінків</string>
   <string name="liveFolderAll">Всі контакти</string>
   <string name="liveFolderFavorites">Вибрані контакти</string>
@@ -360,7 +360,7 @@
   <string name="name_given">Ім\'я</string>
   <string name="name_family">Прізвище</string>
   <string name="name_prefix">Форма звернення</string>
-  <string name="name_middle">батькові</string>
+  <string name="name_middle">По батькові</string>
   <string name="name_suffix">Звання/титул</string>
   <string name="name_phonetic_given">Ім\'я (транскрипція)</string>
   <string name="name_phonetic_middle">По батькові (транскрипція)</string>
@@ -524,7 +524,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"|"</string>
   <string name="callrecordview_item_op_time_missed">Не підключений</string>
   <string name="callrecordview_item_op_time_rejected">Відхилений</string>
-  <string name="no_contact_name">Ні імені контакту</string>
+  <string name="no_contact_name">Немає імені контакту</string>
   <string name="contact_pick_photo">Фото</string>
   <string name="select_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
   <string name="select_new_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
@@ -555,7 +555,7 @@
   <string name="date_time_set">Налаштувати</string>
   <string name="sim_no_contact">Ні контактів на SIM-картці</string>
   <string name="sim_indexed_contact_not_exist" formatted="false">Позиція %1$d не є припустимою на SIM-картці, повинна бути між %2$dі%3$d</string>
-  <string name="sim_contact_search_error">Помилка при пошуку контактів з SIM-картки</string>
+  <string name="sim_contact_search_error">Помилка при пошуку контактів на SIM-карті</string>
   <string name="empty_divider_title">Ви можете</string>
   <string name="noContactHelpTextAccountsInfo">Синхронізувати контакти з Google, Exchange</string>
   <string name="sync_xiaomi_cloud_contacts">Відновити контакти з MIUI-хмари</string>
