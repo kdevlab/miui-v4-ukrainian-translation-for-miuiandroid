@@ -418,7 +418,7 @@
   <string name="message_too_big_for_audio">Повідомлення занадто велике, щоб прикріпити аудіо</string>
   <string name="add_timing">Час</string>
   <string name="menu_view_original_message">Показати оригінальне повідомлення</string>
-  <string name="pref_title_system_mms_priority">Пріоритет для \ "Повідомлення \"</string>
+  <string name="pref_title_system_mms_priority">Пріоритет для \ "Повідомлення "\</string>
   <string name="pref_summary_on_system_mms_priority">Системний додаток буде отримувати повідомлення першим</string>
   <string name="pref_summary_off_system_mms_priority">Інші програми для повідомлень будуть отримувати повідомлення першими</string>
   <string name="title_timed_message_dialog">Налаштування часу відправлення повідомлення</string>
