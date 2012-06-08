@@ -9,7 +9,7 @@
     <string name="notelist_menu_new">Створити нотатку</string>
     <string name="delete_remind_time_message">Нагадування успішно видалено</string>
     <string name="set_remind_time_message">Встановити нагадування</string>
-    <string name="note_alert_expired">Просрочено</string>
+    <string name="note_alert_expired">Строк дії закінчився</string>
     <string name="format_date_ymd">ddMMyyyy</string>
     <string name="format_datetime_mdhm">dMMM kk:mm</string>
     <string name="notealert_ok">Готово</string>
@@ -48,7 +48,7 @@
     <string name="menu_send_to_desktop">На робочий стіл</string>
     <string name="menu_alert">Нагадати мені</string>
     <string name="menu_remove_remind">Видалити нагадування</string>
-    <string name="menu_title_select_folder">Выберіть папку</string>
+    <string name="menu_title_select_folder">Виберіть папку</string>
     <string name="menu_move_parent_folder">Назад</string>
     <string name="info_note_enter_desktop">Нотатка додана на робочий стіл</string>
     <string name="alert_message_delete_folder">Папка разом з нотатками, що містяться в ній, буде видалена</string>
@@ -76,7 +76,7 @@
     <string name="sync_progress_init_list">Отримання віддаленого списку нотаток...</string>
     <string name="sync_progress_syncing">Синхронізація локальных нотаток з Google Task...</string>
     <string name="preferences_title">Налаштування</string>
-    <string name="preferences_account_title">Налаштування синхр. акаунта</string>
+    <string name="preferences_account_title">Налаштування синхр. акаунту</string>
     <string name="preferences_account_summary">Синхронізація з Google Task</string>
     <string name="preferences_last_sync_time">Остання синхронізація виконана: %1$s</string>
     <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
@@ -92,7 +92,7 @@
     <string name="preferences_dialog_select_account_tips">Будь-ласка, выберіть обліковий запис Google. Нотатки будуть синхронізовані з Google Task</string>
     <string name="preferences_toast_cannot_change_account">Не вдаєтся змінити акаунт</string>
     <string name="preferences_toast_success_set_accout">%1$s був вибраний в якості акаунта для синхронізації</string>
-    <string name="preferences_bg_random_appear_title">Різнокольрові нотатки</string>
+    <string name="preferences_bg_random_appear_title">Різнокольорові нотатки</string>
     <string name="button_delete">Видалити</string>
     <string name="call_record_folder_name">Скасувати нотатку</string>
     <string name="hint_foler_name">Введіть ім\'я</string>
