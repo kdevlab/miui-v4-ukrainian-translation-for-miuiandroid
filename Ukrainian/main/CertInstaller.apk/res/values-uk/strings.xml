@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Програма встановлення сертифіката</string>
+    <string name="app_name">Програма встановлення сертифікатів</string>
     <string name="pick_file_title">Виберіть сертифікат</string>
     <string name="pkcs12_password_dialog_title">Витяг сертифіката</string>
     <string name="extracting_pkcs12">Витяг...</string>
@@ -11,7 +11,7 @@
     <string name="credential_info">Пакет містить:</string>
     <string name="p12_description">Сертифікат знаходиться в сховищі ключів PKCS12</string>
     <string name="one_userkey">один ключ користувача</string>
-    <string name="one_usercrt">один користувальницький сертифікат</string>
+    <string name="one_usercrt">один користувацький сертифікат</string>
     <string name="one_cacrt">один сертифікат центру сертифікації</string>
     <string name="n_cacrts">Сертифікатів центру сертифікації: %d</string>
     <string name="password_error">Введіть правильний пароль</string>
