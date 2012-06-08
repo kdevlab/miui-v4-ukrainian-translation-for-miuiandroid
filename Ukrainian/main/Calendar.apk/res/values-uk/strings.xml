@@ -5,7 +5,7 @@
     <string name="more_string">ще %1$s...</string>
     <string name="chips_waiting_for_directory_result">Очікування відповідей</string>
     <string name="copy">Скопіювати адресу ел. пошти</string>
-    <string name="calendar_sync_adapter_label">Синхронізація Календаря Google</string>
+    <string name="calendar_sync_adapter_label">Синхронізація календаря Google</string>
     <string name="what_label">Що</string>
     <string name="where_label">Де</string>
     <string name="when_label">Коли</string>
@@ -27,11 +27,11 @@
     <string name="menu_preferences">Налаштування</string>
     <string name="menu_select_visible_calendars">Календарі</string>
     <string name="search">Пошук</string>
-    <string name="hide_controls">Ссховати бічну панель</string>
+    <string name="hide_controls">Сховати бічну панель</string>
     <string name="show_controls">Показати бічну панель</string>
     <string name="select_visible_calendars_title">Календарі</string>
-    <string name="synced">синхронізований</string>
-    <string name="not_synced">не синхронізований</string>
+    <string name="synced">Синхронізований</string>
+    <string name="not_synced">Не синхронізований</string>
     <string name="acct_not_synced">Цей аккаунт не синхронізується, тому ваші календарі не оновлюються</string>
     <string name="accounts">Акаунти</string>
     <string name="select_synced_calendars_title">Календарі для синхронізації</string>
@@ -59,11 +59,11 @@
     <string name="reminders_label">Додати нагадування</string>
     <string name="no_syncable_calendars">Немає календарів</string>
     <string name="no_calendars_found">​​Додати захід можна тільки у видимий календар, пов\'язаний з аккаунтом Google. Натисніть \ "Додати акаунт \" або, якщо аккаунт вже доданий, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" і зробіть видимим хоча б один календар</string>
-    <string name="create_an_account_desc">"ППідключіть Календар до аккаунту Google, щоб:
+    <string name="create_an_account_desc">"Підключіть Календар до аккаунту Google, щоб:
 
 • Завжди мати під рукою оновлені дані - на будь-якому пристрої.
 • Синхронізувати всі заходи - ви ніколи не втратите їх"</string>
-    <string name="add_account">Додати аккаунт</string>
+    <string name="add_account">Додати акаунт</string>
     <string name="view_event_calendar_label">Календар:</string>
     <string name="view_event_organizer_label">Організатор:</string>
     <string name="view_event_response_label">Прийняти запрошення?</string>
