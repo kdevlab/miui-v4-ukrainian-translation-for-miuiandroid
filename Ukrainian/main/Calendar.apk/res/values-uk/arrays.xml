@@ -15,16 +15,16 @@
         <item>25 хвилин</item>
         <item>30 хвилин</item>
         <item>45 хвилин</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 тиждень</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Нет</item>
+        <item>Немає</item>
         <item>0 хвилин</item>
         <item>1 хвилина</item>
         <item>5 хвилин</item>
@@ -34,13 +34,13 @@
         <item>25 хвилин</item>
         <item>30 хвилин</item>
         <item>45 хвилин</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 тиждень</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Регіональні налаштування за замовчуванням</item>
@@ -53,7 +53,7 @@
         <item>Острів Мідуей</item>
         <item>Гаваї</item>
         <item>Аляска</item>
-        <item>Тіхоокеан. час</item>
+        <item>Тихоокеан. час</item>
         <item>Тіхуана</item>
         <item>Арізона</item>
         <item>Чіуауа</item>
@@ -148,7 +148,7 @@
         <item>друг.</item>
         <item>трет.</item>
         <item>четверт.</item>
-        <item>останн</item>
+        <item>останн.</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Немає відповідей</item>
