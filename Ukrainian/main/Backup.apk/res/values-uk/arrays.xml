@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Параметры Wi-Fi</item>
+        <item>Параметри Wi-Fi</item>
         <item>Усі програми</item>
     </string-array>
     <string-array name="system_package_label">
