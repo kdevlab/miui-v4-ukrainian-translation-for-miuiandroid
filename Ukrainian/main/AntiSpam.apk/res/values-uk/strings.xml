@@ -17,8 +17,8 @@
   <string name="fw_period">Період</string>
   <string name="fw_advanced_settings">Розширенні настройки</string>
   <string name="anti_stranger_title">Режим \"Свої\"</string>
-  <string name="anti_stranger_summary">Відхилити невідомі номера</string>
-  <string name="anti_private_title">Перехоплення викликів без номера</string>
+  <string name="anti_stranger_summary">Відхилити невідомі номери</string>
+  <string name="anti_private_title">Перехоплення викликів без номеру</string>
   <string name="anti_private_summary">Перехоплення викликів у яких номер телефону не визначився</string>
   <string name="fw_keyword_filter">Фільтр по шаблону</string>
   <string name="fw_keyword_filter_summary">Фільтрація повідомлень на основі шаблону</string>
@@ -71,7 +71,7 @@
   <string name="fw_blacklist_hint">Дзвінки і повідомлення автоматично блокуються при додаванні в чорний список</string>
   <string name="fw_whitelist_hint">Білий список, всі контакти в цьому списку не будуть заблоковані</string>
   <string name="fw_no_effect">Режим захисту не включений</string>
-  <string name="fw_call_muted">Виклик беззвучний</string>
+  <string name="fw_call_muted">Виклик без звуку</string>
   <string name="fw_call_rejected">Виклик заблоковано</string>
   <string name="fw_ms_muted">Повідомлення беззвучно</string>
   <string name="fw_ms_rejected">Повідомлення заблоковано</string>
