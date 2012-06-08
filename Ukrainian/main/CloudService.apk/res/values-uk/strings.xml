@@ -26,7 +26,7 @@
     <string name="network_error">Помилка підключення до мережі</string>
     <string name="has_bound">Повторити</string>
     <string name="nickname_exist">Нік вже існує</string>
-    <string name="has_nick">Аккаунт вже має нік</string>
+    <string name="has_nick">Акаунт вже має нік</string>
     <string name="unknown">Невідома помилка</string>
     <string name="register_success">Успішно зареєстрований</string>
     <string name="by_email">Використовувати E-Mail</string>
@@ -58,10 +58,10 @@
     <string name="sending_request">Відправлення запиту</string>
     <string name="succeed">Готово</string>
     <string name="settings_safetylegal_activity_unreachable">Ваш телефон не підключений до служби інформації. Щоб переглянути цю інформацію зараз, перейдіть за адресою: %s</string>
-    <string name="account_expired_dialog_title">Акаунт прострочений</string>
+    <string name="account_expired_dialog_title">Термін дії акаунта закінчився</string>
     <string name="account_expired_dialog_message">Перезайдіте в акаунт Xiaomi</string>
     <string name="xiaomi_account">Акаунт Xiaomi</string>
-    <string name="xiaomi_remove_account_title">Видалення акаунта Xiaomi</string>
+    <string name="xiaomi_remove_account_title">Видалення акаунту Xiaomi</string>
     <string name="xiaomi_remove_account_message">Видалення цього акаунта видалить всі дані з серверів Xiaomi, а також всі дані про сервіси на телефоні, ви хочете продовжити?</string>
     <string name="user_id">ID Акаунта</string>
     <string name="user_detail">Інформація</string>
@@ -92,7 +92,7 @@
     <string name="bind_email_dialog_message">Ви отримаєте E-mail з кодом підтвердження, щоб підтвердити свій акаунт</string>
     <string name="bind_dialog_button">OK</string>
     <string name="enable_mitalk_dialog_title">Включити MiTalk sync</string>
-    <string name="enable_mitalk_dialog_message">Буде виконаний вхід у MiTalk з системнім акаунтом. Якщо він не відповідає поточним ID MiTalk, ваші дані будуть видалені. Ви впевнені?</string>
+    <string name="enable_mitalk_dialog_message">Буде виконаний вхід у MiTalk з системним акаунтом. Якщо він не відповідає поточному ID MiTalk, ваші дані будуть видалені. Ви впевнені?</string>
     <string name="disable_mitalk_dialog_title">Вимкнути MiTalk sync</string>
     <string name="disable_mitalk_dialog_message">Ви не зможете спілкуватися з друзями через MiTalk в Контактах, ви впевнені що до відключення синхронізації MiTalk і контактів? n Примітка: Після виключення, ви можете змінити або скасувати Ваш акаунт в настройках MiTalk</string>
     <string name="logoff_account_label">Вихід</string>
