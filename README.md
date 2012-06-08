@@ -10,3 +10,4 @@ MIUI Translators:
  - malchik-solnce (Malchik-Solnce)
  - miuirussia (MIUI Russia)
  - VBenkovskyy (Vlaaaad)
+ - taras.if.ua
