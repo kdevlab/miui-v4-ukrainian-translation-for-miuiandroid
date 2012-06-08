@@ -69,7 +69,7 @@
   <string name="homepage_set">Головна сторінка встановлена</string>
   <string name="bookmark_needs_title">Необхідно вказати ім\'я закладки</string>
   <string name="bookmark_needs_url">Необхідно вказати місце закладки</string>
-  <string name="bookmark_url_not_valid">Неправильний URL</string>
+  <string name="bookmark_url_not_valid">Неправильна URL-адреса</string>
   <string name="bookmark_cannot_save_url">Неможливо додати в закладки цю сторінку</string>
   <string name="bookmark_page">Додати в закладки останню переглянуту сторінку</string>
   <string name="bookmark_thumbnail_view">Зображення</string>
@@ -121,7 +121,7 @@
   <string name="pref_content_search_engine">Пошукова система</string>
   <string name="pref_content_search_engine_summary">Виберіть пошукову систему</string>
   <string name="pref_set_homepage_to">Зберегти</string>
-  <string name="pref_content_autofit">Мобільний вид</string>
+  <string name="pref_content_autofit">Мобільний вигляд</string>
   <string name="pref_content_autofit_summary">Підганяти веб-сторінки під розмір екрану</string>
   <string name="pref_general_title">Загальні</string>
   <string name="pref_general_sync_title">Синхронізація</string>
@@ -176,7 +176,7 @@
   <string name="pref_privacy_clear_passwords_summary">Видалити всі збережені паролі</string>
   <string name="pref_privacy_clear_passwords_dlg">Видалити всі збережені паролі?</string>
   <string name="pref_privacy_location_title">Розташування</string>
-  <string name="pref_privacy_enable_geolocation">Доступ до геоданим</string>
+  <string name="pref_privacy_enable_geolocation">Доступ до геоданих</string>
   <string name="pref_privacy_enable_geolocation_summary">Дозволити сайтам запитувати доступ до даних про місцезнаходження</string>
   <string name="pref_privacy_clear_geolocation_access">Закрити геодані</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Очистити список сайтів, що мають доступ до даних про місцезнаходження</string>
@@ -315,7 +315,7 @@
   <string name="import_bookmarks_dialog_description">Закладки на пристрій поки не пов\'язані з акаунтом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх</string>
   <string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з аккаунтом Google</string>
   <string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з аккаунтом Google</string>
-  <string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з аккаунтом %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з акаунтом %s?</string>
   <string name="import_bookmarks_dialog_confirm_add">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з аккаунтом %s?</string>
   <string name="import_bookmarks_dialog_remove">Видалити закладки</string>
   <string name="import_bookmarks_wizard_next">Далі</string>
@@ -360,7 +360,7 @@
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Увімкніть, щоб закрити браузер при закритті останньої вкладки, вимкніть, щоб перейти на домашню сторінку</string>
   <string name="url_hint">Пошук або введіть URL</string>
   <string name="file_picker_new_folder">Нова папка</string>
-  <string name="file_picker_sdcard_not_found">SD-карта не знайдена, будь ласка, перевірте, чи підключено пристрій до ПК</string>
+  <string name="file_picker_sdcard_not_found">SD-карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
   <string name="export_bookmark_sucess">Закладки з успіхом експортовані на SD-карту!</string>
   <string name="export_bookmark_failure">Помилка! Дані не були експортовані на SD-карту</string>
   <string name="import_bookmark_sucess">Закладки успішно імпортовані!</string>
