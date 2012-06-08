@@ -23,7 +23,7 @@
     <string-array name="pref_default_zoom_choices">
         <item>Дрібний</item>
         <item>Середній</item>
-        <item>Крупний</item>
+        <item>Великий</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
