@@ -73,7 +73,7 @@
     <string name="status_running">Виконується передача файлу</string>
     <string name="status_success">Надсилання файлу успішно завершено</string>
     <string name="status_not_accept">Контент не підтримується.</string>
-    <string name="status_forbidden">Надсилання заборонена на приймаючому пристрої</string>
+    <string name="status_forbidden">Надсилання заборонено на приймаючому пристрої</string>
     <string name="status_canceled">Надсилання скасовано</string>
     <string name="status_file_error">Помилка сховища</string>
     <string name="status_no_sd_card">USB-накопичувач не знайдено</string>
