@@ -116,4 +116,6 @@
 <string name="widget_traffic_used_status">Використано: %s</string>
 <string name="wifi_traffic">Wi-Fi: %s</string>
 <string name="wifi_type">Wi-Fi</string>
+<string name="app_traffic_detail">\u0020трафік(%s)</string>
+<string name="sms_match_fail">помилка SMS</string> 
 </resources>
