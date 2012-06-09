@@ -378,9 +378,10 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
     </string-array>
-        <string-array name="back_long_press_timeout">
+    <string-array name="back_long_press_timeout">
         <item>Половина хвилини</item>
         <item>Одна хвилина</item>
         <item>Півтори хвилини</item>
         <item>Дві хвилини</item>
+    <string-array>
 </resources>
