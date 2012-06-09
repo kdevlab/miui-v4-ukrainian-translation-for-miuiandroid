@@ -9,7 +9,7 @@
   <string name="status_bar_no_recent_apps">Немає даних</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрити недавні програми</string>
   <string name="status_bar_recent_clear_result">"Звільнено %1$s пам\'яті.
-Зараз доступно: %2$s "</string>
+Зараз доступно: %2$s"</string>
   <string name="status_bar_no_notifications_title">Немає повідомлень</string>
   <string name="status_bar_ongoing_events_title">Поточні</string>
   <string name="status_bar_latest_events_title">Повідомлення</string>
@@ -50,7 +50,7 @@
   <string name="screenshot_saved_title">Скріншот збережений</string>
   <string name="screenshot_saved_text">Натисніть, щоб переглянути</string>
   <string name="screenshot_failed_title">Не вдалося зберегти скріншот</string>
-  <string name="screenshot_failed_text">Не вдалося зберегти скріншот. Можливо, накопичувачі зайняті</string>
+  <string name="screenshot_failed_text">Можливо, накопичувачі зайняті</string>
   <string name="usb_preference_title">Параметри передачі даних по USB</string>
   <string name="use_mtp_button_title">Підключити як мультимедійний програвач (MTP)</string>
   <string name="use_ptp_button_title">Встановити як камеру (PTP)</string>
@@ -151,7 +151,7 @@
   <string name="status_bar_toggle_lock">Блокування</string>
   <string name="status_bar_toggle_mute">Без звуку</string>
   <string name="status_bar_toggle_network_type">Тип мережі</string>
-  <string name="status_bar_toggle_privacy_mode">Гость</string>
+  <string name="status_bar_toggle_privacy_mode">Гість</string>
   <string name="status_bar_toggle_reboot">Перезавантаження</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
   <string name="status_bar_toggle_screen_button">Скріншот</string>
