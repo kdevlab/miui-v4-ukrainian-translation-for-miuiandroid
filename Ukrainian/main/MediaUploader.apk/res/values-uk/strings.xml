@@ -19,7 +19,7 @@
     <string name="picasa_confirmation_single">Фотографія буде додана. Хід виконання відображається на панелі повідомлень</string>
     <string name="picasa_confirmation_multiple">Фотографії будуть додані. Хід виконання відображається на панелі повідомлень</string>
     <string name="application_name">Мої завантаження</string>
-    <string name="account">Аккаунт</string>
+    <string name="account">Акаунт</string>
     <string name="upload">Додати</string>
     <string name="cancel">Скасування</string>
     <string name="uploading_to">Завантаження на <b>%s</b></string>
@@ -60,8 +60,8 @@
     <string name="dialog_first_cleanup_title">Очищення</string>
     <string name="yt_title_for_single">Додати відео</string>
     <string name="yt_title_for_multiple">Додати %d відео</string>
-    <string name="yt_status_public">відкрито для користувача %s</string>
-    <string name="yt_status_private">закрито для користувача %s</string>
+    <string name="yt_status_public">Відкрито для користувача %s</string>
+    <string name="yt_status_private">Закрито для користувача %s</string>
     <string name="yt_video_title_hint">Вкажіть заголовок тут</string>
     <string name="yt_more_details">Детальніше</string>
     <string name="yt_tags">Мітки</string>
@@ -72,7 +72,7 @@
     <string name="yt_terms">Завантажуючи файли, ви приймаєте <a href="http://www.youtube.com/t/terms">Умови надання послуг</a> YouTube.</string>
     <string name="yt_default_description">Відео додано з телефону Android</string>
     <string name="yt_toast_file_too_large">Не можна завантажувати відео більше 1 ГБ</string>
-    <string name="yt_country_restricted">Завантаження відео на YouTube недоступна у вашій країні</string>
+    <string name="yt_country_restricted">Завантаження відео на YouTube неможливе у вашій країні</string>
     <string name="yt_no_location">Розташування недоступно</string>
     <string name="yt_confirmation_single">Відеоролик буде додано. Хід виконання відображається на панелі повідомлень</string>
     <string name="yt_confirmation_multiple">Відеоролики будуть додані. Хід виконання відображається на панелі повідомлень</string>
