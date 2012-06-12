@@ -6,8 +6,8 @@
     <string name="description_log">Журнал</string>
     <string name="description_preferences">Налаштування</string>
     <string name="description_extras">Додаткове</string>
-    <string name="page_label_apps">програми</string>
-    <string name="page_label_log">журнал</string>
+    <string name="page_label_apps">Програми</string>
+    <string name="page_label_log">Журнал</string>
     <string name="menu_extras">Додаткове</string>
     <string name="menu_preferences">Налаштування</string>
     <string name="menu_clear">Очистити</string>
@@ -61,15 +61,15 @@
     <string name="pref_timeout_summary">Додатки, які не запам\'ятовані матимуть доступ на %1$d секунд після запиту</string>
     <string name="pref_automatic_action_title">Автоматична відповідь</string>
     <string name="pref_automatic_action_summary">Встановити спосіб обробки нових запитів</string>
-    <string name="pref_ghost_mode_title">Режим примари</string>
+    <string name="pref_ghost_mode_title">Стелс-режим</string>
     <string name="pref_ghost_mode_summary_on">Наберіть секретний код для запуску суперкористувача</string>
-    <string name="pref_ghost_mode_summary_off">Режим примари відключений</string>
-    <string name="pref_ghost_mode_message">"Режим примари приховує іконку суперкористувача з десктопа. Іконка буде прихована при наступному перезапущеніі десктопа. Коли іконка прихована Ви можете отримати доступ до Суперкористувач, набравши секретний код у програмі телефону. Код за замовчуванням - *#*#787378737#*#* (*#*#superuser#*#*), але код може бути змінений.
+    <string name="pref_ghost_mode_summary_off">Стелс-режим відключений</string>
+    <string name="pref_ghost_mode_message">"Стелс-режим приховує іконку суперкористувача з десктопа. Іконка буде прихована при наступному перезапуску десктопа. Коли іконка прихована, Ви можете отримати доступ до Суперкористувач, набравши секретний код у програмі телефону. Код за замовчуванням - *#*#787378737#*#* (*#*#superuser#*#*), але код може бути змінений.
 
-Якщо ваш пристрій не має програми телефон, то не слід включати режим примари
+Якщо ваш пристрій не має програми Телефон, то не слід включати стелс-режим 
 
-Включити режим Примари? "</string>
-    <string name="pref_ghost_mode_enabled_message">Режим примари включений. Перезапустіть програму десктопа або перезавантажте телефон, щоб побачити зміни</string>
+Включити режим стелс-режим? "</string>
+    <string name="pref_ghost_mode_enabled_message">Стелс-режим включений. Перезапустіть програму десктопа або перезавантажте телефон, щоб побачити зміни</string>
     <string name="pref_secret_code_title">Секретний код</string>
     <string name="pref_secret_code_summary">Секретний код: *#*#%1$s#*#*</string>
     <string name="pref_category_applist_title">Список додатків</string>
@@ -104,8 +104,8 @@
     <string name="pref_clearing_log_summary">Будь ласка, почекайте</string>
     <string name="pref_category_notification_title">Повідомлення</string>
     <string name="pref_notifications_title">Повідомлення</string>
-    <string name="pref_notifications_summary_on">Показувати повідомлення, коли програма отримує su дозволу</string>
-    <string name="pref_notifications_summary_off">Не показувати повідомлення, коли програма отримує su дозволу</string>
+    <string name="pref_notifications_summary_on">Показувати повідомлення, коли програма отримує su-дозвіл</string>
+    <string name="pref_notifications_summary_off">Не показувати повідомлення, коли програма отримує su-дозвіл</string>
     <string name="pref_notifications_type_title">Тип повідомлення</string>
     <string name="pref_notifications_type_summary">Тип повідомлення коли додаток отримує SU дозволу</string>
     <string name="pref_toast_location_title">Розташування повідомлення</string>
@@ -130,7 +130,7 @@
     <string name="updater_current_installed">Новітня версія вже встановлена. Ніяких дій не потрібно</string>
     <string name="updater_update">Оновлення</string>
     <string name="updater_update_anyway">Оновити все одно</string>
-    <string name="updater_cool">Це було круто, зробити знову</string>
+    <string name="updater_cool">Це було круто, повторити ще раз</string>
     <string name="updater_working">Процес...</string>
     <string name="updater_ok">ОК</string>
     <string name="updater_fail">Помилка!</string>
@@ -178,5 +178,5 @@
     <string name="malicious_app_respond">запитує дозвіл на відповідь</string>
     <string name="malicious_app_write">запитує дозвіл на запис в дозволу постачальника</string>
     <string name="changelog_full_title">Список змін</string>
-    <string name="changelog_title">Нові Зміни</string>
+    <string name="changelog_title">Нові зміни</string>
 </resources>
