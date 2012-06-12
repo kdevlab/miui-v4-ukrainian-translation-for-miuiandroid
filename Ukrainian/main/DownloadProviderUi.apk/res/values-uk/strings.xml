@@ -43,7 +43,7 @@
     <string name="delete_downloads_records">Видалити записи завантажень</string>
     <string name="pause_download">Пауза</string>
     <string name="resume_download">Продовжити</string>
-    <string name="restart_download">Перезакачать</string>
+    <string name="restart_download">Перезавантажити</string>
     <string name="open_download">Відкрити</string>
     <string name="paused_by_app">Призупинено</string>
     <string name="paused_queued_for_wifi">Очікування Wi-Fi</string>
@@ -51,16 +51,16 @@
     <string name="paused_waiting_to_retry">Очікування повтору</string>
     <string name="paused_unknown">Зупинено</string>
     <string name="confirm_delete_downloads_message">Ви хочете видалити %d завантажень, продовжити?</string>
-    <string name="confirm_delete_the_download_item_message">Зміст завантаженого буде видалено!</string>
+    <string name="confirm_delete_the_download_item_message">Список завантаженого буде видалено!</string>
     <string name="delete_the_downloaded_file">Видалити завантажені файли</string>
     <string name="downloads_operating">Завантаження...</string>
-    <string name="confirm_disable_download_only_in_wifi_message">Вимкнення Завантажувати тільки по Wi-Fi може викликати сильне споживання трафіку через мобільну мережу. Ви впевнені, що хочете вимкнути це?</string>
+    <string name="confirm_disable_download_only_in_wifi_message">Вимкнення завантаження тільки по Wi-Fi може викликати надмірне споживання трафіку через мобільну мережу. Ви впевнені, що хочете вимкнути це?</string>
     <string name="select_operation_items">Будь ласка виберіть</string>
     <string name="preferences_title">Налаштування</string>
     <string name="pref_download_settings_title">Попередження про ліміт</string>
     <string name="pref_title_enable_max_bytes_popup">Попередити про ліміт</string>
     <string name="pref_summary_enable_max_bytes_popup">При використанні мобільних даних, попередити перед закінченням ліміту</string>
     <string name="pref_title_max_bytes_limit">Розмір ліміту</string>
-    <string name="pref_summary_max_bytes_limit_format">Попереджати при перевищенні розміру файлу: %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Попереджувати при перевищенні розміру файлу: %s</string>
     <string name="pref_dialog_title_max_bytes_limit">Перевищення розміру файлу</string>
 </resources>
