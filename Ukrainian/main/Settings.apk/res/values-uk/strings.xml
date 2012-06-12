@@ -1359,8 +1359,8 @@
   <string name="background_data_dialog_title">Вимкнути фоновий режим?</string>
   <string name="background_data_dialog_message">Відключення фонового режиму обміну даними економить заряд батареї і зменшує обсяг трафіку, проте деякі програми можуть використовувати цей режим навіть після його відключення</string>
   <string name="sync_automatically">Cинхронізувати дані програм</string>
-  <string name="sync_enabled">Синхронізація включена</string>
-  <string name="sync_disabled">Синхронізація вимкнено</string>
+  <string name="sync_enabled">Синхронізацію увімкнено</string>
+  <string name="sync_disabled">Синхронізацію вимкнено</string>
   <string name="sync_error">Помилка синхронізації</string>
   <string name="settings_backup">Створити резервну копію налаштувань</string>
   <string name="settings_backup_summary">Резервна копія налаштувань</string>
