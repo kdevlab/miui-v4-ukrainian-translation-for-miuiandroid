@@ -69,14 +69,14 @@
     <string name="ticker_fail">Синхронізація невдала</string>
     <string name="ticker_cancel">Синхронізацію скасовано</string>
     <string name="success_sync_account">Синхронізація з акаунтом %1$s виконана успішно</string>
-    <string name="error_sync_network">Синхронізація невдала, провірьте налаштування мережі і акаунту</string>
+    <string name="error_sync_network">Синхронізація невдала, перевірте налаштування мережі і акаунту</string>
     <string name="error_sync_internal">Синхронізація невдала через внутрішню помилку</string>
     <string name="error_sync_cancelled">Синхронізацію скасовано</string>
     <string name="sync_progress_login">Вхід в %1$s...</string>
     <string name="sync_progress_init_list">Отримання віддаленого списку нотаток...</string>
     <string name="sync_progress_syncing">Синхронізація локальных нотаток з Google Task...</string>
     <string name="preferences_title">Налаштування</string>
-    <string name="preferences_account_title">Налаштування синхр. акаунту</string>
+    <string name="preferences_account_title">Налаштування акаунту для синхр.</string>
     <string name="preferences_account_summary">Синхронізація з Google Task</string>
     <string name="preferences_last_sync_time">Остання синхронізація виконана: %1$s</string>
     <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
