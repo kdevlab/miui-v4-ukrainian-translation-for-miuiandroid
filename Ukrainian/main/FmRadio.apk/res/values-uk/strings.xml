@@ -43,7 +43,7 @@
     <string name="setting_autooff">Автовимкнення FM</string>
     <string name="setting_bgplaying_summary">Радіо буде грати у фоновому режимі після закриття</string>
     <string name="setting_stationid_summary">Інформація про станцію буде відображатися</string>
-    <string name="setting_af_summary">Вкл/Вимк альтернативних частот</string>
+    <string name="setting_af_summary">Вкл/Вимк альтернативні частоти</string>
     <string name="setting_europe">Европа</string>
     <string name="setting_korea">Корея</string>
     <string name="setting_japan">Японія</string>
@@ -85,7 +85,7 @@
     <string name="toast_af_success">AF переключено та знайдено %1$d.%2$d MHz частота</string>
     <string name="toast_disabled">%1$s відключений</string>
     <string name="toast_no_channel_found">Канал не знайдено</string>
-    <string name="toast_unavailable_in_tvout_mode">Недоступний р режимі TV-out</string>
+    <string name="toast_unavailable_in_tvout_mode">Недоступний у режимі TV-out</string>
     <string name="seeking">Пошук...</string>
     <string name="via_earphone">Через навушники</string>
     <string name="via_speaker">Через динамік</string>
