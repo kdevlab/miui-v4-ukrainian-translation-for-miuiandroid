@@ -66,7 +66,7 @@
     <string name="number_2">2</string>
     <string name="alrm_30_min_past">Автоматичне вимикання FM радіо. %1$d хв. пройшло</string>
     <string name="alrm_1_hr_past">Автоматичне вимикання FM радіо. 1 година пройшла</string>
-    <string name="alrm_2_hrs_past">Автоматичне вимикання FM радіо. %1$d годин пройшло</string>
+    <string name="alrm_2_hrs_past">Автоматичне вимикання FM радіо. %1$d годин(и) пройшло</string>
     <string name="scan_channels">Сканування каналів</string>
     <string name="selectall">Вибрати всі</string>
     <string name="no_channel_selected">Виберіть хоча б один пункт</string>
@@ -74,9 +74,9 @@
     <string name="dialog_tts_confirm">Установка голосових даних, необхідних для синтезу мови</string>
     <string name="RSSI">Вибрати Seek RSSI (int)</string>
     <string name="SNR">Вибрати Seek SNR (int)</string>
-    <string name="CNT">Установить Seek CNT (int)</string>
-    <string name="AF_Threshold">Установить AF Threshold (INT)</string>
-    <string name="AF_Valid_Threshold">Установить AF Valid Threshold (int)</string>
+    <string name="CNT">Встановити Seek CNT (int)</string>
+    <string name="AF_Threshold">Встановити AF Threshold (INT)</string>
+    <string name="AF_Valid_Threshold">Встановити AF Valid Threshold (int)</string>
     <string name="Current_Threshold">Отримати поточний поріг (int)</string>
     <string name="speaker">Динамік</string>
     <string name="af_switching">AF переключення</string>
