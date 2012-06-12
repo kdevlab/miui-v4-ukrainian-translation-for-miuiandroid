@@ -3,7 +3,7 @@
     <string name="application_name">Каталог живих шпалер</string>
     <string name="live_wallpaper_picker_title">Виберіть живі шпалери</string>
     <string name="live_wallpaper_picker_label">Живі шпалери</string>
-    <string name="live_wallpaper_preview_title">Передпроглядання живих шпалер</string>
+    <string name="live_wallpaper_preview_title">Попередній перегляд живих шпалер</string>
     <string name="configure_wallpaper">Налаштування...</string>
     <string name="wallpaper_instructions">Встановити шпалери</string>
     <string name="live_wallpaper_empty">Живі шпалери відсутні</string>
