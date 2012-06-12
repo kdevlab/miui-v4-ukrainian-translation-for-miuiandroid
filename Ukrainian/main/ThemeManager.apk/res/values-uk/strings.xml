@@ -7,7 +7,7 @@
   <string name="theme_changed_failed_message">Встанолення не вдалося!</string>
   <string name="backup_preference_title">Зберегти налаштування</string>
   <string name="backup_theme_dialog_ok">Зберегти</string>
-  <string name="backup_theme_dialog_message">Резервне копіювання поточної теми по шляху /sdcard/MIUI/theme/backup/backup.mtz</string>
+  <string name="backup_theme_dialog_message">Резервне копіювання поточної теми в /sdcard/MIUI/theme/backup/backup.mtz</string>
   <string name="backup_theme_progress_message">Резервне копіювання, зачекайте…</string>
   <string name="backup_theme_success_message">Резервне копіювання успішно завершено</string>
   <string name="theme_description_title_default">За замовчуванням</string>
@@ -57,8 +57,8 @@
   <string name="old_format_convert_tip1">Тема не в новому форматі, перетворення може зайняти деякий час</string>
   <string name="old_format_convert_tip2">Ресурси можна видалити і оновити до нової версії через завантаження</string>
   <string name="apply_font_tip">Тема містить шрифт, потрібне перезавантаження</string>
-  <string name="apply_font_btn_reboot">Застосувати і перезавантажити</string>
-  <string name="apply_font_btn_exclude">Без шрифта</string>
+  <string name="apply_font_btn_reboot">Застосувати і перезавант.</string>
+  <string name="apply_font_btn_exclude">Без шрифту</string>
   <string name="title_online">Онлайн</string>
   <string name="title_local">Телефон</string>
   <string name="title_component">Компоненти</string>
