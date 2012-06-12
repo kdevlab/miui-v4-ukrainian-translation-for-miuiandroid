@@ -26,7 +26,7 @@
     <string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s потрібне підключення до мережі Wi-Fi.
 Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s ."</string>
     <string name="wifi_recommended_title">Поставити в чергу на завантаження пізніше?</string>
-    <string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Також не виключено перевищення трафіку і, як результат, збільшення витрат на зв\'язок.
+    <string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Якщо не включений контроль за трафіком, можуть збільшитись витрати на зв\'язок.
 Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s."</string>
     <string name="button_queue_for_wifi">Додати в чергу</string>
     <string name="button_cancel_download">Скасувати</string>
