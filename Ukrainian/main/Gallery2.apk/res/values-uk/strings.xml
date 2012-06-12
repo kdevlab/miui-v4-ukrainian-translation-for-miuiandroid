@@ -13,7 +13,7 @@
     <string name="crop">Обрізати</string>
     <string name="crossprocess">Крос-обробка</string>
     <string name="documentary">Документальні</string>
-    <string name="doodle">Подмалевок</string>
+    <string name="doodle">Підмальовка</string>
     <string name="duotone">Подвійний тон</string>
     <string name="facelift">Сяйво</string>
     <string name="facetan">Засмага</string>
@@ -107,7 +107,7 @@
     <string name="show_all">Зображення та відео</string>
     <string name="appwidget_title">Фотогалерея</string>
     <string name="appwidget_empty_text">Немає фотографій</string>
-    <string name="crop_saved">Зображення збережено в папці \ "Завантаження \"</string>
+    <string name="crop_saved">Зображення збережено в папці \"Завантаження\"</string>
     <string name="crop_not_saved">Зображення не збережено</string>
     <string name="no_albums_alert">Немає доступних альбомів</string>
     <string name="empty_album">Немає фото / відео</string>
@@ -221,7 +221,7 @@
     <string name="auto_create_recent_album">Автоматичне створення обраного альбому</string>
     <string name="auto_create_recent_album_over_ten_times">Створює обраний альбом після заходу в нього більше 10 разів</string>
     <string name="not_auto_create_recent_album">Неавтоматичне створення останніх альбомів</string>
-    <string name="auto_create_recent_album_confirm">Після відключення цієї функції, галерея очистить створені дані останніх альбомів. Останні альбоми встановлені користувачем, не будуть порушені. Крім того, можна встановити це вручну, довгим натисканням на альбом.</string>
+    <string name="auto_create_recent_album_confirm">Після відключення цієї функції, галерея очистить створені дані останніх альбомів. Останні альбоми, встановлені користувачем, не будуть порушені. Крім того, можна встановити це вручну, довгим натисканням на альбом.</string>
     <string name="expand_album_in_home_page">Розгорнути альбом на домашній сторінці</string>
     <string name="page_category">Категорії</string>
     <string name="slideshow_category">Слайд-шоу</string>
