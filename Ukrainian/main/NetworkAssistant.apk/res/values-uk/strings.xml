@@ -4,7 +4,7 @@
 <string name="apply_rules_failed_known">OK</string>
 <string name="cancel_txt">Скасувати</string>
 <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює запитує та передачу даних регулярно від операторів. Вам потрібно налаштувати інформацію про операторів</string>
-<string name="adjust_traffic_auto_adjust_open_hint">АвторегуляціЯ включена, система автоматично контролює обсяг використаного трафіку</string>
+<string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
 <string name="adjust_traffic_auto_adjust_title">Авторегуляція трафіку</string>
 <string name="adjust_traffic_carrier_adjust">Отримати від оператора</string>
 <string name="adjust_traffic_carrier_settings_title">Оператор</string>
