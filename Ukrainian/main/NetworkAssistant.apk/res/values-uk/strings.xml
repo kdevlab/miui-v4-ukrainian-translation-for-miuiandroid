@@ -3,7 +3,7 @@
 <string name="app_name">Монітор</string>
 <string name="apply_rules_failed_known">OK</string>
 <string name="cancel_txt">Скасувати</string>
-<string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює запитує та передачу даних регулярно від операторів. Вам потрібно налаштувати інформацію про операторів</string>
+<string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
 <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
 <string name="adjust_traffic_auto_adjust_title">Авторегуляція трафіку</string>
 <string name="adjust_traffic_carrier_adjust">Отримати від оператора</string>
@@ -52,8 +52,8 @@
 <string name="menu_display_system_app">Показати системні програми</string>
 <string name="menu_display_wifi">Показати Wi-Fi-трафік</string>
 <string name="menu_hide_system_app">Сховати системні програми</string>
-<string name="menu_hide_wifi">сховати Wi-Fi-трафік</string>
-<string name="menu_new_install_app_settings">Установки за замовчуванням для нових встановлених додатків</string>
+<string name="menu_hide_wifi">Сховати Wi-Fi-трафік</string>
+<string name="menu_new_install_app_settings">Налашт. за замовч. для нових додатків</string>
 <string name="menu_refresh">Оновити</string>
 <string name="menu_settings">Налаштування</string>
 <string name="menu_sort">Сортувати</string>
@@ -77,8 +77,8 @@
 <string name="retry">Повторити</string>
 <string name="save">Зберегти</string>
 <string name="settings_page_adjust_summary_no_carrier">Оператор не налаштований, керування трафіком відключене</string>
-<string name="settings_page_traffic_summary">Доступно: %1$s, Попереджень: %2$s, Дата останнього поповнення: %3$d</string>
-<string name="settings_page_traffic_summary_no_settings">Пакет не встановлено, Дата останнього поповнення: %d</string>
+<string name="settings_page_traffic_summary">Доступно: %1$s, Попереджень: %2$s, дата останнього поповнення: %3$d</string>
+<string name="settings_page_traffic_summary_no_settings">Пакет не встановлено, дата останнього поповнення: %d</string>
 <string name="sort_dialog_title">Сортування</string>
 <string name="sorted_flux">Статистика трафіку</string>
 <string name="stop_app_button">Закрити</string>
@@ -117,5 +117,5 @@
 <string name="wifi_traffic">Wi-Fi: %s</string>
 <string name="wifi_type">Wi-Fi</string>
 <string name="app_traffic_detail">\u0020трафік(%s)</string>
-<string name="sms_match_fail">помилка SMS</string> 
+<string name="sms_match_fail">Помилка SMS</string> 
 </resources>
