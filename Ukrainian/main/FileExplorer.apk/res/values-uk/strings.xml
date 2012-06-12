@@ -15,7 +15,7 @@
   <string name="category_zip">Архіви</string>
   <string name="confirm">OК</string>
   <string name="confirm_know">OK</string>
-  <string name="enable_sd_card">На даний моменту SD-карта підключена до комп\'ютера і використовується, щоб бачити її вміст, відключіть режим накопичувача</string>
+  <string name="enable_sd_card">На даний моменту SD-карта підключена до комп\'ютера і використовується. Щоб бачити її вміст, відключіть режим накопичувача</string>
   <string name="error_info_cant_send_folder">Папка не може бути передана</string>
   <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
   <string name="fail_to_rename">Не вдалося перейменувати файл або папку, ім\'я вже існує</string>
