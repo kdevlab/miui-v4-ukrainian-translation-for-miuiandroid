@@ -42,5 +42,5 @@ http://n1torch.googlecode.com/
     <string name="not_torch_title">Ліхтарик включений</string>
     <string name="not_torch_summary">Зараз ліхтарик включений</string>
     <string name="widget_label">Ліхтарик</string>
-    <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи MENU, на екрані блокування"</string>
+    <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи HOME, на екрані блокування"</string>
 </resources>
