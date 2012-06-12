@@ -82,7 +82,7 @@
 Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
-    <string name="sign_in_add_account_helper">У вашому телефоні немає аккаунта MIUI, будь ласка додайте його</string>
+    <string name="sign_in_add_account_helper">У вашому телефоні немає акаунту MIUI, будь ласка додайте його</string>
     <string name="move_data_to_sdcard_title">Копіювання файлів на SD-карту</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Не вистачає місця %dМб для копіювання файлів на SD-карту</string>
     <string name="moving_data_to_sdcard_message">"Виконується перенесення даних
