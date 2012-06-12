@@ -3,8 +3,8 @@
     <string name="app_label">Компас</string>
     <string name="getting_location">Пошук розташування...</string>
     <string name="cannot_get_location">Неможливо отримати дані про ваше місцезнаходження</string>
-    <string name="location_north">%s С</string>
-    <string name="location_south">%s Ю</string>
-    <string name="location_east">%s В</string>
-    <string name="location_west">%s З</string>
+    <string name="location_north">%s Пн</string>
+    <string name="location_south">%s Пд</string>
+    <string name="location_east">%s Сх</string>
+    <string name="location_west">%s Зх</string>
 </resources>
