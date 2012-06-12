@@ -478,7 +478,7 @@
   <string name="group_name_hint">Назва групи</string>
   <string name="nfc_vcard_file_name">Отримано з NFC</string>
   <string name="status_available">На місці</string>
-  <string name="status_away">Відсутня</string>
+  <string name="status_away">Відсутній(я)</string>
   <string name="status_busy">Не турбувати</string>
   <string name="description_call_log_play_button">Прослухати голосову пошту</string>
   <string name="description_call_log_incoming_call">Вхідний дзвінок</string>
