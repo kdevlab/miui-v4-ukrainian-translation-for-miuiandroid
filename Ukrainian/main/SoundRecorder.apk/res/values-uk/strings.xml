@@ -15,7 +15,7 @@
     <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
     <string name="error_app_internal">Внутрішня помилка програми</string>
     <string name="error_mediadb_new_record">Неможливо зберегти записаний звук</string>
-    <string name="default_record_name">без імені</string>
+    <string name="default_record_name">Аудіозапис</string>
     <string name="menu_view_record_list">Відкрити список записів</string>
     <string name="menu_setting">Налаштування</string>
     <string name="delete_dialog_title">Поточний запис буде видалено</string>
@@ -30,7 +30,7 @@
     <string name="pref_summary_enable_sound_effect">Відтворення звуку, коли змінюється стан</string>
     <string name="notification_recording">Запис</string>
     <string name="notification_stopped">Запис зупинена</string>
-    <string name="notification_warning">Мало місця (менше ніж для %d хвилин)...</string>
+    <string name="notification_warning">Мало місця (менше ніж на %d хвилин)...</string>
     <string name="record_list">Список записів</string>
     <string name="sd_card_not_available">SD-карта не доступна</string>
     <string name="call_record">Запис виклику</string>
