@@ -68,7 +68,7 @@
   <string name="control_set_alarm">Встановити будильник</string>
   <string name="control_set_alarm_with_existing">Будильник встановлений на %s</string>
   <string name="common_settings">Загальні налаштування</string>
-  <string name="alarm_settings">Налаштуванняи будильника</string>
+  <string name="alarm_settings">Налаштування будильника</string>
   <string name="worldclock_title">Світовий час</string>
   <string name="stopwatch_title">Секундомір</string>
   <string name="timer_title">Таймер</string>
@@ -105,7 +105,8 @@
   <string name="timer_hour">г</string>
   <string name="timer_message_with_hour">таймер на %1$d годин і %2$d хвилин</string>
   <string name="timer_message">Таймер на %1$d хвилин</string>
-  <string name="timer_tutorial">За год. стрілкою</string>
+  <string name="timer_tutorial">За годинниковою
+  стрілкою</string>
   <string name="alarm_in_silent_mode_summary">Подавати сигнал, навіть якщо телефон працює в режимі без звуку</string>
   <string name="menu_alarm_setting">Налаштування будильника</string>
   <string name="timer_is_running">Таймер запущений</string>
