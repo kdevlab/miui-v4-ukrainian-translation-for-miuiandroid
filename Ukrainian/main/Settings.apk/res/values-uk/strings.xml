@@ -582,7 +582,7 @@
   <string name="display_settings_title">Екран</string>
   <string name="sound_settings">Звук</string>
   <string name="silent_mode_title">Режим без звуку</string>
-  <string name="ringtone_title">Мелодія телефона</string>
+  <string name="ringtone_title">Мелодія телефону</string>
   <string name="ringtone_summary" />
   <string name="all_volume_title">Гучність</string>
   <string name="musicfx_title">Звукові ефекти</string>
