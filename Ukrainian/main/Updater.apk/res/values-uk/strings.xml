@@ -30,7 +30,7 @@
     <string name="sdcard_is_not_present_dialog_title">Немає SD-карти</string>
     <string name="sdcard_has_no_space_dialog_body">Немає місця на SD карті, будь ласка очистіть</string>
     <string name="sdcard_has_no_space_dialog_title">Немає місця на SD карті</string>
-    <string name="current_version_text">Встановлена​версія:</string>
+    <string name="current_version_text">Встановлена версія:</string>
     <string name="apply_update_dialog_update_button">Оновлення</string>
     <string name="apply_update_dialog_cancel_button">Скасувати</string>
     <string name="cancel_download_buton_text">Скасувати</string>
