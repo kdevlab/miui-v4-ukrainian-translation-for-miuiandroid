@@ -9,7 +9,7 @@
     <string name="wallpaper_grass_desc">Стебла трави, колишуться на тлі нічного або денного неба</string>
     <string name="wallpaper_galaxy">Галактика</string>
     <string name="wallpaper_galaxy_author">Google</string>
-    <string name="wallpaper_galaxy_desc">Галактика кружляють зірок</string>
+    <string name="wallpaper_galaxy_desc">Галактика кружляючих зірок</string>
     <string name="wallpaper_fall">Вода</string>
     <string name="wallpaper_fall_author">Google</string>
     <string name="wallpaper_fall_desc">Опале листя&lt;br> На березі ставка:&lt;br> Вібрації Дзен</string>
@@ -19,7 +19,7 @@
     <string name="wallpaper_nexus">Нейрони</string>
     <string name="wallpaper_nexus_author">Google</string>
     <string name="wallpaper_nexus_desc">Нейронна мережа зсередини</string>
-    <string name="clock_settings">Полярний годинник: настройки</string>
+    <string name="clock_settings">Полярний годинник: налаштування</string>
     <string name="show_seconds">Показати секунди</string>
     <string name="variable_line_width">Змінювати ширину кільця</string>
     <string name="palette">Колірна палітра</string>
@@ -29,6 +29,6 @@
     <string name="palette_white_c">Білий ведмідь (анімація)</string>
     <string name="palette_black_c">Чорна діра (анімація)</string>
     <string name="palette_halloween">Гарбузовий пиріг</string>
-    <string name="palette_zenburn">Вінегрет з інших планет</string>
+    <string name="palette_zenburn">Вінігрет з інших планет</string>
     <string name="palette_oceanic">Синій лазер</string>
 </resources>
