@@ -16,7 +16,7 @@
   <string name="battery_low_title">Підключіть зарядний пристрій</string>
   <string name="battery_low_subtitle">Батарея розряджена</string>
   <string name="battery_low_percent_format">Залишилося: %d%%</string>
-  <string name="invalid_charger">"Зарядка по USB порту не підтримується.
+  <string name="invalid_charger">"Зарядка через USB-порт не підтримується.
 Використовуйте зарядний пристрій з комплекту поставки "</string>
   <string name="battery_low_why">Статистика</string>
   <string name="status_bar_settings_settings_button">Налаштування</string>
@@ -43,7 +43,7 @@
   <string name="compat_mode_on">Підігнати за розмірами екрану</string>
   <string name="compat_mode_off">Розтягнути на весь екран</string>
   <string name="compat_mode_help_header">Масштаб і сумісність</string>
-  <string name="compat_mode_help_body">Якщо додаток розраховано на екран менших розмірів, поруч з годинником з\'являться кошти масштабування</string>
+  <string name="compat_mode_help_body">Якщо додаток розраховано на екран менших розмірів, поруч з годинником з\'являться кнопки масштабування</string>
   <string name="screenshot_saving_ticker">Збереження...</string>
   <string name="screenshot_saving_title">Збереження...</string>
   <string name="screenshot_saving_text">Збереження...</string>
@@ -79,7 +79,7 @@
   <string name="accessibility_data_two_bars">Сигнал передачі даних: дві поділки</string>
   <string name="accessibility_data_three_bars">Сигнал передачі даних: три поділки</string>
   <string name="accessibility_data_signal_full">Надійний сигнал передачі даних</string>
-  <string name="accessibility_no_wifi">Відсутня підключення до Wi-Fi</string>
+  <string name="accessibility_no_wifi">Відсутнє підключення до Wi-Fi</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi: одна поділка</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi: дві поділки</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi: три поділки</string>
@@ -109,7 +109,7 @@
   <string name="accessibility_ringer_vibrate">Вібровиклик</string>
   <string name="accessibility_ringer_silent">Режим Без звуку</string>
   <string name="accessibility_recents_item_dismissed">Додаток \"%s\" видалено зі списку</string>
-  <string name="data_usage_disabled_dialog_3g_title">Передача даних по каналам 2G і 3G відключена</string>
+  <string name="data_usage_disabled_dialog_3g_title">Передача даних по каналах 2G і 3G відключена</string>
   <string name="data_usage_disabled_dialog_4g_title">Передача даних по каналу 4G відключена</string>
   <string name="data_usage_disabled_dialog_mobile_title">Моб. Інтернет відключений</string>
   <string name="data_usage_disabled_dialog_title">Передача даних відключена</string>
@@ -183,7 +183,7 @@
   <string name="settings_expandable_under_keyguard">На екрані блокування</string>
   <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності пароля для розблокування</string>
   <string name="settings_expandable_under_fullscreen">У повноекранному режимі</string>
-  <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрана</string>
+  <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрану</string>
   <string name="notification_icon_filter_settings">Повідомлення</string>
   <string name="notification_icon_filter_settings_loading">Завантаження...</string>
   <string name="notification_icon_filter">Налаштування повідомлень</string>
@@ -202,7 +202,7 @@
   <string name="incoming_call_vibrate_hint">Вхідний дзвінок</string>
   <string name="notification_vibrate_hint">Повідомлення</string>
   <string name="mms_vibrate_hint">Повідомлення</string>
-  <string name="not_all_vibrate_hint" formatted="false">Відповідно до настройками, буде вібрація при: %1$s, а при: %2$s вібрації не буде, ви можете змінити це в настройках</string>
+  <string name="not_all_vibrate_hint" formatted="false">Відповідно до налаштувань, буде вібрація при: %1$s, а при: %2$s вібрації не буде, ви можете змінити це в налаштуваннях</string>
   <string name="no_vibrate_hint">Згідно з налаштуваннями, повідомлення про вхідний виклик і повідомлення не будуть вібрувати, включення цього пункту не викличе ніякої дії</string>
   <string name="to_vibrate_settings">Налаштування вібрації</string>
   <string name="camera_key_action_title">Кнопка MI</string>
