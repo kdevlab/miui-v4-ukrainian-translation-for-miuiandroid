@@ -161,7 +161,7 @@
   <string name="service_start_error_msg">На жаль, не можливо відтворити цю пісню</string>
   <string name="service_start_error_button">OK</string>
   <string name="streamloadingtext">Підключення до %s</string>
-  <string name="playback_failed">На жаль, програвач не підтримує цей тип аудіо файлів</string>
+  <string name="playback_failed">На жаль, програвач не підтримує цей тип аудіофайлів</string>
   <string name="playback_failed_by_bad_file">"\'%s\' Неможливо програти трек, не підтримується формат файлу"</string>
   <string name="playback_failed_by_network">"'%s'Неможливо програти трек, перевірте мережеве підключення"</string>
   <string name="playback_failed_no_title_by_bad_file">Неможливо програти трек, не підтримується формат файлу</string>
@@ -169,13 +169,13 @@
   <string name="buffering">Кешування ...</string>
   <string name="musicbrowserlabel">Музика</string>
   <string name="mediaplaybacklabel">Музика</string>
-  <string name="online_music">Інтернет-музика</string>
-  <string name="artists_title">Виконавці</string>
-  <string name="albums_title">Альбоми</string>
-  <string name="folders_title">Папки</string>
-  <string name="tracks_title">Всі пісні</string>
-  <string name="playlists_title">Плейлисти</string>
-  <string name="online_track_count">Нескінченні</string>
+  <string name="online_music">Інтернет-музика\u0020</string>
+  <string name="artists_title">Виконавці\u0020</string>
+  <string name="albums_title">Альбоми\u0020</string>
+  <string name="folders_title">Папки\u0020</string>
+  <string name="tracks_title">Усі пісні\u0020</string>
+  <string name="playlists_title">Плейлисти\u0020</string>
+  <string name="online_track_count">\u0020</string>
   <string name="playlist_new">Створити новий плейлист</string>
   <string name="playlist_recently_added">Нещодавно додані</string>
   <string name="playlist_nowplaying">Зараз грає</string>
@@ -199,7 +199,7 @@
   <string name="max_interval">90</string>
   <string name="default_interval">30</string>
   <string name="folder_title_format" formatted="false">%s (%d)</string>
-  <string name="filter_max">2MB</string>
+  <string name="filter_max">2МБ</string>
   <string name="filter_min">0K</string>
   <string name="fast_scroll_alphabet">"ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="delete_song_desc_nosdcard">Ви хочете видалити файл %s з SD-карти?</string>
