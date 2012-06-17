@@ -82,6 +82,7 @@
   <string name="playlist_renamed_message">Плейлист перейменований</string>
   <string name="recentlyplayed_title">Недавно відтворені</string>
   <string name="recentlyadded_title">Нещодавно додані</string>
+  <string name="frequentlyplayed_title">Часто відтворювані</string>
   <string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
   <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон</string>
   <string name="sdcard_busy_message">На жаль ваша SD-карта зайнята</string>
