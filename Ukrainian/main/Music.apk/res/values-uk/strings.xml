@@ -30,13 +30,23 @@
   <string name="flow_save_hint_summary">Показ спливаючого вікна для підтвердження завантаження пісні</string>
   <string name="other_settings">Додатково</string>
   <string name="music_filter">Фільтр розміру музичних файлів</string>
-  <string name="min_track_size">Мінімальний розмір</string>
+  <string name="filter_by_size">Фільтр по розміру</string>
+  <string name="filter_by_size_prefix">Мінімальний розмір:</string>
+  <string name="filter_by_size_summary">Фільтр розміру для звукових файлів</string>
+  <string name="filter_by_duration">Фільтр по тривалості</string>
+  <string name="filter_by_duration_prefix">Максимальна довжина (в годинах):</string>
+  <string name="filter_by_duration_summary">Фільтр довжини для звукових файлів</string>
+  <string name="filter_by_duration_min">0 сек</string>
+  <string name="filter_by_duration_max">5 хв</string>
+  <string name="filter_by_duration_format">%2$d:%5$02d</string>
   <string name="filter_by_folder">Фільтр по папках</string>
   <string name="select_folder">Виберіть папку</string>
+  <string name="filter_by_folder_summary_on">Вже відкриті, натисніть щоб відредагувати</string>
+  <string name="filter_by_folder_summary_off">Не відкриті, натисніть на папку, а потім фільтр папки</string>
   <string name="android_album_settings">Вбудовані обкладинки</string>
-  <string name="android_album_summary">Автоматичне використання обкладинки альбому пісні може призвести до помилок</string>
-  <string name="play_and_download">Прослухати і завантажити</string>
-  <string name="play_and_download_summary">Слухайте онлайн пісні і зберігайте їх</string>
+  <string name="shake_degree_desc">Чутливість</string>
+  <string name="shake_degree_low">Низька</string>
+  <string name="shake_degree_high">Высока</string>
   <string name="screen_bright_wake">Екран завжди включений</string>
   <string name="screen_bright_wake_summary">Підсвітка залишається активною, коли цей параметр включений</string>
   <string name="keep_quit_position_settings">Пам\'ятати останню позицію</string>
@@ -175,10 +185,12 @@
   <string name="folders_title">Папки\u0020</string>
   <string name="tracks_title">Усі пісні\u0020</string>
   <string name="playlists_title">Плейлисти\u0020</string>
-  <string name="online_track_count">\u0020</string>
+  <string name="playlist_system">Системний плейлист</string>
+  <string name="playlist_custom">Мій плейлист</string>
   <string name="playlist_new">Створити новий плейлист</string>
   <string name="playlist_recently_added">Нещодавно додані</string>
-  <string name="playlist_nowplaying">Зараз грає</string>
+  <string name="playlist_recently_played">Недавно відтворювані</string>
+  <string name="playlist_frequently_played">Часто відтворювані</string>
   <string name="playlist_favorite">уподобань</string>
   <string name="create_playlist_create_text_prompt">Назва плейлиста</string>
   <string name="create_confirm">ОК</string>
@@ -190,8 +202,8 @@
   <string name="detail_genre">"Жанр:"</string>
   <string name="detail_size">"Розмір:"</string>
   <string name="detail_format">"Формат:"</string>
-  <string name="notification_artist_album">"%2$s
-%1$s "</string>
+  <string name="albumsongseparator" />
+  <string name="notification_artist_album">%2$s %1$s</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -199,9 +211,19 @@
   <string name="max_interval">90</string>
   <string name="default_interval">30</string>
   <string name="folder_title_format" formatted="false">%s (%d)</string>
-  <string name="filter_max">2МБ</string>
-  <string name="filter_min">0K</string>
+  <string name="filter_by_size_max">2MБ</string>
+  <string name="filter_by_size_min">0КБ</string>
   <string name="fast_scroll_alphabet">"ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="category_num_format">(%s)</string>
+  <string name="track_num_format">(%s)</string>
   <string name="delete_song_desc_nosdcard">Ви хочете видалити файл %s з SD-карти?</string>
-  <string name="search_failed_report">Немає схожих треків</string>
+  <string name="filter_max">2MB</string>
+  <string name="filter_min">0K</string>
+  <string name="min_track_size">Мінімальний розмір</string>
+  <string name="nowplaying_title">Програється</string>
+  <string name="online_track_count">Нескінченні</string>
+  <string name="playlist_nowplaying">Зараз відтворюється</string>
+  <string name="shake_sensitivity_helper">Переміщення вліво для збільшення чутливості, вправо для зниження</string>
+  <string name="shake_sensitivity_settings">Чутливість струшування</string>
+  <string name="shake_sensitivity_summary">Відрегулюйте чутливість струшування</string>
 </resources>
