@@ -80,6 +80,7 @@
   <string name="rename_artist_menu">Перейменувати виконавця</string>
   <string name="playlist_deleted_message">Плейлист вилучений</string>
   <string name="playlist_renamed_message">Плейлист перейменований</string>
+  <string name="recentlyplayed_title">Недавно відтворені</string>
   <string name="recentlyadded_title">Нещодавно додані</string>
   <string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
   <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон</string>
