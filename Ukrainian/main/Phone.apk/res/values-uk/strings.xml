@@ -924,4 +924,9 @@
   <string name="unlock_failed">Запит на розблокування мережі не виконаний</string>
   <string name="unlock_success">Розблокування мережі успішно завершена</string>
   <string name="preferred_network_mode_lte_cdma_summary">Бажана мережа: LTE або CDMA</string>
+  <string name="call_waiting_tone_title_miui">Тон очікуючого виклику</string>
+  <string name="call_waiting_tone_summary_miui">Мелодія при чікуючому виклику (кнопки гучноті для відключення)</string>
+  <string name="call_waiting_tone_continuously_miui">Відтворювати неперервно</string>
+  <string name="call_waiting_tone_twice_only_miui">Відтворити тон двічі</string>
+  <string name="call_waiting_tone_twice_and_vibrate_miui">Вібрація і відтв. тон двічі</string>
 </resources>
