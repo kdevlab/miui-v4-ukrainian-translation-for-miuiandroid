@@ -44,9 +44,9 @@
   <string name="filter_by_folder_summary_on">Вже відкриті, натисніть щоб відредагувати</string>
   <string name="filter_by_folder_summary_off">Не відкриті, натисніть на папку, а потім фільтр папки</string>
   <string name="android_album_settings">Вбудовані обкладинки</string>
-  <string name="shake_degree_desc">Чутливість</string>
-  <string name="shake_degree_low">Низька</string>
-  <string name="shake_degree_high">Высока</string>
+  <string name="android_album_summary">Автоматичне використання обкладинки альбому пісні може призвести до помилок</string>
+  <string name="play_and_download">Прослухати і завантажити</string>
+  <string name="play_and_download_summary">Слухайте пісні онлайн і зберігайте їх</string>
   <string name="screen_bright_wake">Екран завжди включений</string>
   <string name="screen_bright_wake_summary">Підсвітка залишається активною, коли цей параметр включений</string>
   <string name="keep_quit_position_settings">Пам\'ятати останню позицію</string>
@@ -54,9 +54,9 @@
   <string name="shake_settings">Струшування</string>
   <string name="shake_while_screen_on_title">Використовувати при активному екрані</string>
   <string name="shake_summary">Струсніть для переходу до наступної пісні</string>
-  <string name="shake_sensitivity_settings">Чутливість струшування</string>
-  <string name="shake_sensitivity_summary">Відрегулюйте чутливість струсу</string>
-  <string name="shake_sensitivity_helper">Переміщення вліво для збільшення чутливості, вправо для зниження</string>
+  <string name="shake_degree_desc">Чутливість</string>
+  <string name="shake_degree_low">Низька</string>
+  <string name="shake_degree_high">Висока</string>
   <string name="album_display_settings">Відображати обкладинки</string>
   <string name="lyric_display_settings">Відображати тексти</string>
   <string name="spectrogram_display_settings">Відображення спектру</string>
