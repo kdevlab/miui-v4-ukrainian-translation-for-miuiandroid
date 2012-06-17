@@ -220,10 +220,9 @@
   <string name="track_num_format">(%s)</string>
   <string name="delete_song_desc_nosdcard">Ви хочете видалити файл %s з SD-карти?</string>
   <string name="filter_max">2MB</string>
-  <string name="filter_min">0K</string>
+  <string name="filter_min">0KB</string>
   <string name="min_track_size">Мінімальний розмір</string>
-  <string name="nowplaying_title">Програється</string>
-  <string name="online_track_count">Нескінченні</string>
+  <string name="online_track_count">\u0020</string>
   <string name="playlist_nowplaying">Зараз відтворюється</string>
   <string name="shake_sensitivity_helper">Переміщення вліво для збільшення чутливості, вправо для зниження</string>
   <string name="shake_sensitivity_settings">Чутливість струшування</string>
