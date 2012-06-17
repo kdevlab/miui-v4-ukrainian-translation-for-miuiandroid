@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Антиспам</string>
-  <string name="firewall_settings_tab_title">Антиспам</string>
+  <string name="firewall_settings_tab_title">Налаштування</string>
   <string name="black_white_list_tab_title">Списки</string>
   <string name="call_log_tab_title">Дзвінки</string>
   <string name="mms_log_tab_title">Повідомлення</string>
