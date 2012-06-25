@@ -7,8 +7,8 @@
   <string name="start_backup">Почати</string>
   <string name="button_cancel">Скасувати</string>
   <string name="backup_empty">Резервні копії не знайдені</string>
-  <string name="backup_items_sysdata_tailer">\" - системні дані, \"</string>
-  <string name="backup_items_app_tailer">\" - дані додатків \"</string>
+  <string name="backup_items_sysdata_tailer"> - системні дані,</string>
+  <string name="backup_items_app_tailer"> - дані додатків </string>
   <string name="backup_failed">Резервне копіювання не вдалося, спробуйте ще раз</string>
   <string name="backup_recently">(Остання)</string>
   <string name="sdcard_unmounted">SD-карта не знайдена або відключена</string>
@@ -47,7 +47,7 @@
   <string name="findlost_contact">Знайти віддалений контакт(и)</string>
   <string name="findlost_contact_online">Онлайн відновлення контактів</string>
   <string name="cloud_backup_login">Увійти в MIUI</string>
-  <string name="cloud_backup_hint">Ви повинні увійти в систему для онлайн резервного копіювання</string>
+  <string name="cloud_backup_hint">Ви повинні увійти в систему для резервного копіювання онлайн</string>
   <string name="cloud_backup_window_title">Хмара</string>
   <string name="cloud_restore_window_title">Відновлення з хмари</string>
   <string name="cloud_restore_title">Відновлення</string>
