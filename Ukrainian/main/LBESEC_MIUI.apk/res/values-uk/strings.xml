@@ -133,7 +133,7 @@
   <string name="Dashboard_Perm_Header_Disabled">Управління доступом відключено</string>
   <string name="Dashboard_Perm_SU_Switch">Дозволи суперкористувача</string>
   <string name="Dashboard_Perm_SU">Управління доступом суперкористувача</string>
-  <string name="Dashboard_Perm_SU_Desc">Управління %1$d доступом для програм суперкористувача</string>
+  <string name="Dashboard_Perm_SU_Desc">Управління доступом для %1$d програм суперкористувача</string>
   <string name="Dashboard_Perm_SU_Disabled">Управління дозволами суперкористувача відключені</string>
   <string name="Dashboard_Perm_HIPS_Switch">Управління дозволами</string>
   <string name="Dashboard_Perm_HIPS">Управління дозволами програм</string>
