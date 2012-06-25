@@ -114,4 +114,6 @@
   <string name="context_add_contact">Додати в існуючий контакт</string>
   <string name="check_all">Вибрати всі</string>
   <string name="check_nothing">Зняти виділення</string>
+  <string name="close_rule">Відключити правило</string>
+  <string name="fw_log_inf">Журнал фільтру</string>
 </resources>
