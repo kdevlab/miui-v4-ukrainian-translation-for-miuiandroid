@@ -164,7 +164,7 @@
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Довіряти цій прграмі</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI не буде питати вашого підтвердження будь-якої безпеки і конфіденційності операцій, пов\'язаних з цим додатком</string>
- <string name="HIPS_Perm_Title">Дозволи</string>
+  <string name="HIPS_Perm_Title">Дозволи</string>
   <string name="HIPS_Perm_Network">Інтернет</string>
   <string name="HIPS_Perm_Network_Desc">Інтернет</string>
   <string name="HIPS_Perm_Network_Hint">%1$s програм можуть отримати доступ до Інтернет</string>
