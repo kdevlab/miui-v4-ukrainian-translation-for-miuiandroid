@@ -274,8 +274,6 @@
   <string name="download_pending">Починається завантаження…</string>
   <string name="dump_nav">Дамп навігації кешу</string>
   <string name="dump_counters">Dump V8 counters</string>
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="picasa">Picasa</string>
   <string name="search_the_web">Пошук в Інтернеті</string>
   <string name="webstorage_outofspace_notification_title">Пам\'ять браузера переповнена</string>
