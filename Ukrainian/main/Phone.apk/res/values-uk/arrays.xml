@@ -6,14 +6,18 @@
         <item>Показувати номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Тільки EvDo</item>
         <item>CDMA без EvDo</item>
-        <item>CDMA/EvDo (автоматичний режим)</item>
-        <item>GSM/WCDMA (автоматичний режим)</item>
+        <item>CDMA / EvDo (автоматичний режим)</item>
+        <item>GSM / WCDMA (автоматичний режим)</item>
         <item>Тільки WCDMA</item>
         <item>Тільки GSM</item>
-        <item>GSM/WCDMA (краща мережа)</item>
+        <item>GSM / WCDMA (краща мережа)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
