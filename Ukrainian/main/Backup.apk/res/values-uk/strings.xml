@@ -84,9 +84,7 @@
   <string name="task_restore_none">Не потребує відновлення</string>
   <string name="task_stopped_exception">Перервано</string>
   <string name="sdcard_no_enough_space">Недостатньо пам\'яті на SD-карті</string>
-  <string name="sdcard_no_enough_space_warning">Не вистачає 50 МБ пам\'яті на SD-карті, продовжити?</string>
   <string name="data_no_enough_space">Недостатньо пам\'яті</string>
-  <string name="data_no_enough_space_warning">Не вистачає місця для відновлення, можливі помилки, продовжити?</string>
   <string name="task_running_hint">Служба працює у фоновому режимі, будь ласка, спробуйте ще раз, щоб відновити цю резервну копію!</string>
   <string name="task_running_dialog">Фоновий прогрес резервного копіювання і відновлення, щоб побачити його, натисніть ОК</string>
   <string name="task_service_not_launched">Сервіс не запустився, чекайте!</string>
