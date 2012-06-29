@@ -2,6 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Бекап</string>
+  <string name="local_app_name">Резерве копіювання</string>
   <string name="local_home_title">Локальне</string>
   <string name="button_backup">Створити резервну копію</string>
   <string name="start_backup">Почати</string>
@@ -140,8 +141,6 @@
   <string name="cloud_no_backup">Немає резервних копій</string>
   <string name="current_account">Акаунт %s</string>
   <string name="current_sim">Поточна SIM-карта</string>
-  <string name="date_format">dd-MM-yyyy H:mm</string>
-  <string name="dir_date_format">dd-MM-yyyy_H.mm</string>
   <string name="no_network">Немає мережевого з\'єднання. Будь ласка, перевірте ваше з\'єднання і спробуйте ще раз</string>
   <string name="retry">Повторити</string>
   <string name="select_all">Усі</string>
@@ -160,4 +159,13 @@
   <string name="guarded_mode_dialog_title">Режим захисту</string>
   <string name="guarded_mode_dialog_message">Не можу працювати в режимі захисту</string>
   <string name="multi_select_title">Обрано: %1$s</string>
+  <string name="delete_failed_backup_confirm">Резервна копія містить помилки. Неможливо відновити</string>
+  <string name="auto_backup_interval">Частота резервного копіювання</string>
+  <string name="auto_backup_interval_hint">%d днів</string>
+  <string name="auto_backup_interval_max">30 днів</string>
+  <string name="auto_backup_interval_min">Кожен день</string>
+  <string name="auto_backup_setting_title">Настройки автоматичного бекапу</string>
+  <string name="data_no_enough_space_warning">Не вистачає місця для відновлення, можливі помилки, продовжити?</string>
+  <string name="delete_backup">Видалити бекап</string>
+  <string name="sdcard_no_enough_space_warning">Не вистачає 50 МБ пам\'яті на SD-карті, продовжити?</string>
 </resources>
