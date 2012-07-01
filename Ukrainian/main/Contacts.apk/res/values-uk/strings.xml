@@ -635,7 +635,6 @@
   <string name="open_contact">Відкрити контакт</string>
   <string name="date_picker_label">Нагадати за 3 дні і в день народження</string>
   <string name="pkgLabel">Контакти і телефон</string>
-  <string name="activity_title_confirm_add_detail">Додавання даних</string>
   <string name="btn_finished">Готово</string>
   <string name="calllog_menu_call_ip_number">Виклик через інтернет (виклик %s)</string>
   <string name="close">Закрити</string>
