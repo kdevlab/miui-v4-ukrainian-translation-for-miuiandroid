@@ -161,7 +161,7 @@
   <string name="status_bar_toggle_torch">Ліхтарик</string>
   <string name="status_bar_toggle_vibrate">Вібрація</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="screen_rotation_freeze_message">Вимкнути поворот екрану в ландшафтний режим</string>
+  <string name="screen_rotation_freeze_message">Екран заблокований в ландшафтній орієнтації</string>
   <string name="screen_button_disabled_message">Функції кнопок на нижньому екрані будуть відключені. Ви можете включити їх, натиснувши \"Додому\" і \"Живлення\"</string>
   <string name="screen_button_enabled_message">Функції кнопок на нижній частині екрана включені</string>
   <string name="screen_button_notification_title">Екранні кнопки відключені</string>
