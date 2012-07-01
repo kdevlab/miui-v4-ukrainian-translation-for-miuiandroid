@@ -104,5 +104,4 @@
   <string name="gadget_weather_title_14">Погода 1X4</string>
   <string name="gadget_weather_to">в</string>
   <string name="gadget_weather_app_not_installed">Будь-ласка, встановіть Погоду MIUI</string>
-  <string name="install_body_format">Встановити програму \"%s\"?</string>
 </resources>
