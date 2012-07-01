@@ -445,7 +445,7 @@
   <string name="wifi_in_airplane_mode">Режим польоту</string>
   <string name="wifi_fail_to_scan">Не вдалось почати пошук мереж</string>
   <string name="wifi_notify_open_networks">Повідомлення про мережі</string>
-  <string name="wifi_notify_open_networks_summary">Повідомляті при виявленні відкритої мережі</string>
+  <string name="wifi_notify_open_networks_summary">Повідомляти при виявленні відкритої мережі</string>
   <string name="wifi_enable_watchdog_service">Фільтр мереж Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Не використовуваті мережі Wi-Fi з поганим інтернет-з\'єднанням</string>
   <string name="wifi_setting_sleep_policy_title">Wi-Fi в сплячому режимі</string>
@@ -492,7 +492,7 @@
   <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
   <string name="wifi_not_in_range">Недоступна</string>
   <string name="wifi_wps_available_first_item">Доступна захищена мережа</string>
-  <string name="wifi_wps_available_second_item">"(доступна захищено мережа)"</string>
+  <string name="wifi_wps_available_second_item">"(доступна захищена мережа)"</string>
   <string name="wifi_secured_first_item">Захист %1$s</string>
   <string name="wifi_secured_second_item">, захист %1$s</string>
   <string name="wifi_security_short_wep">WEP</string>
