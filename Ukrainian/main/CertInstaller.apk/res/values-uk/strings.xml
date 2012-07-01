@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="generic_no_cert_file_found">Не знайдено файлу сертифіката в сховищі</string>
+    <string name="generic_sdcard_not_present">Немає сховища</string>
+    <string name="one_wapi_ascrt">один WAPI AS сертифікат</string>
+    <string name="one_wapi_usercrt">один WAPI сертифікат користувача</string>
     <string name="app_name">Програма встановлення сертифікатів</string>
     <string name="pick_file_title">Виберіть сертифікат</string>
     <string name="pkcs12_password_dialog_title">Витяг сертифіката</string>
