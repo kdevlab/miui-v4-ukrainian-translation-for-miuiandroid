@@ -99,4 +99,10 @@
   <string name="select_frame">Рамка</string>
   <string name="photo_confirm">Застосувати</string>
   <string name="photo_load_failed">Помилка завантаження!</string>
+  <string name="gadget_weather_loading">Немає даних про погоду</string>
+  <string name="gadget_weather_title_24">Погода 2X4</string>
+  <string name="gadget_weather_title_14">Погода 1X4</string>
+  <string name="gadget_weather_to">в</string>
+  <string name="gadget_weather_app_not_installed">Будь-ласка, встановіть Погоду MIUI</string>
+  <string name="install_body_format">Встановити програму \"%s\"?</string>
 </resources>
