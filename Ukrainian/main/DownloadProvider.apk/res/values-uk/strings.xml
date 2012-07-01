@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_label">Диспетчер завантажень</string>
     <string name="permlab_downloadManager">Доступ до менеджера завантажень</string>
     <string name="permdesc_downloadManager">Програма отримає доступ до диспетчера завантажень і зможе завантажувати файли через нього. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
@@ -24,12 +25,15 @@
     <string name="notification_paused_in_background">Завантаження призупинено</string>
     <string name="wifi_required_title">Занадто великий файл для мережі оператора</string>
     <string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s потрібне підключення до мережі Wi-Fi.
+
 Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s ."</string>
     <string name="wifi_recommended_title">Поставити в чергу на завантаження пізніше?</string>
     <string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Якщо не включений контроль за трафіком, можуть збільшитись витрати на зв\'язок.
+
 Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s."</string>
     <string name="button_queue_for_wifi">Додати в чергу</string>
     <string name="button_cancel_download">Скасувати</string>
     <string name="button_start_now">Запустити</string>
-    <string name="download_percent">%d%%</string>
+    <string name="dialog_insufficient_space_on_external">Не вистачає пам\'яті на SD-карті</string>
+    <string name="dialog_insufficient_space_on_cache">Не вистачає пам\'яті на внутрішньому накопичувачі</string>
 </resources>
