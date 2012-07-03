@@ -71,7 +71,7 @@
   <string name="wallpaper_decoded_error">Помилка</string>
   <string name="close">Закрити</string>
   <string name="download_success">Успішно завантажено</string>
-  <string name="theme_format_wrong">Тип теми неправильний</string
+  <string name="theme_format_wrong">Тип теми неправильний</string>
   <string name="new_format_convert">Перетворити %s в новий формат</string>
   <string name="old_format_title">Старий формат тем .mtz</string>
   <string name="old_format_fail">Перетворення .mtz в новий формат не вдалося</string>
