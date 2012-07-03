@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_always_show_value">1</string>
-  <string name="input_method_selector_always_hide_value">2</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
+
   <string name="yes">Так</string>
   <string name="no">Ні</string>
   <string name="device_info_default">Невідомо</string>
@@ -499,14 +496,12 @@
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
   <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
   <string name="wifi_security_none">Ні</string>
   <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_connect">Підключити</string>
   <string name="wifi_forget">Не підключатись</string>
@@ -527,13 +522,9 @@
   <string name="wifi_ip_settings_invalid_dns">Введіть дійсну DNS-адресу</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Вкажіть довжину префікса мережі (від 0 до 32)</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_gateway">Шлюз</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_network_prefix_length">Довжина префікса мережі</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_settings_summary">Налаштування однорангових підключень</string>
   <string name="wifi_p2p_device_info">Інформація про пристрій</string>
@@ -601,12 +592,12 @@
   <string name="dock_settings_summary">Установки звуку для підключеної док-станції</string>
   <string name="dtmf_tone_enable_title">Звук клавіш</string>
   <string name="sound_effects_enable_title">Звук натискання на екран</string>
-  <string name="lock_sounds_enable_title">Звук блокування екрана</string>
+  <string name="lock_sounds_enable_title">Звук блокування екрану</string>
   <string name="haptic_feedback_enable_title">Включити реагування вібруванням</string>
   <string name="audio_record_proc_title">Придушення шуму</string>
   <string name="volume_media_description">Музика, відео, ігри та інші медіафайли</string>
   <string name="volume_ring_description">Рінгтон і повідомлення</string>
-  <string name="volume_notification_description">Закладки</string>
+  <string name="volume_notification_description">Сповіщення</string>
   <string name="volume_alarm_description">Будильник</string>
   <string name="dock_settings">Док-станція</string>
   <string name="dock_settings_title">Налаштування док-станції</string>
@@ -704,7 +695,7 @@
   <string name="status_unavailable">Недоступно</string>
   <string name="status_up_time">Час з моменту включення</string>
   <string name="status_awake_time">Час роботи</string>
-  <string name="internal_memory">Внутрішній накопичувач</string>
+  <string name="internal_memory">Внутрішня пам\'ять</string>
   <string name="sd_memory">SD-карта</string>
   <string name="memory_available">Доступно</string>
   <string name="memory_size">Усього місця</string>
@@ -795,7 +786,7 @@
 Інші дані "</string>
   <string name="master_clear_desc_erase_external_storage">"
  
-Щоб видалити музику, фотографії та інші дані користувача, необхідно очистити SD-карту. "</string>
+Щоб видалити музику, фотографії та інші дані користувача, необхідно очистити SD-карту"</string>
   <string name="erase_external_storage">Очистити SD-карту</string>
   <string name="erase_external_storage_description">Видалити з SD-карти всі дані, в тому числі музику і фотографії</string>
   <string name="master_clear_button_text">Скинути настройки телефону</string>
@@ -1469,10 +1460,6 @@
 Намагайтеся не досягати ліміту, так як оператор і пристрій можуть враховувати трафік по-різному. "</string>
   <string name="data_usage_restrict_background_title">Обмеження фонового режиму</string>
   <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі, деякі програми та служби не будуть працювати без підключення до мережі Wi-Fi</string>
-  <string name="data_usage_sweep_warning">"Попередження
-^ 1 ^ 2 "</string>
-  <string name="data_usage_sweep_limit">"Ліміт
-^ 1 ^ 2 "</string>
   <string name="data_usage_uninstalled_apps">Дистанційні програми</string>
   <string name="data_usage_received_sent">Отримано: %1$s; надіслано: %2$s</string>
   <string name="data_usage_total_during_range">Трафік за період %2$s: %1$s</string>
@@ -1541,12 +1528,39 @@
   <string name="backup_pw_cancel_button_text">Скасувати</string>
   <string name="percentage">%d%%</string>
   <string name="additional_system_update_settings_list_item_title">Додаткові оновлення системи</string>
+  <string name="search_airplane">Політ</string>
+  <string name="search_network">Мережа</string>
+  <string name="search_wifi">Wi-Fi</string>
+  <string name="search_bluetooth">Bluetooth</string>
+  <string name="search_android_beam">Beam</string>
+  <string name="search_vpn">VPN</string>
+  <string name="search_tether">Модем</string>
+  <string name="search_brightness">Яскравість</string>
+  <string name="search_wallpaper">Шпалери</string>
+  <string name="search_launcher">Робочий стіл</string>
+  <string name="search_accelerometer">Акселерометр</string>
+  <string name="search_screen_timeout">Екран очікування</string>
+  <string name="search_ring_volume">Гучність дзвінка</string>
+  <string name="search_ringtone">Дзвінок</string>
+  <string name="search_sms_received">Отримання SMS</string>
+  <string name="search_silent">Без звуку</string>
+  <string name="search_unlock_set">Розблокування</string>
+  <string name="search_access_control">Контроль доступу</string>
+  <string name="search_gps">GPS</string>
+  <string name="search_status_bar">Стрічка стану</string>
+  <string name="search_sync">Синхронізація</string>
+  <string name="search_battery_indicator">Індикатор батареї</string>
+  <string name="search_key">Кнопка</string>
+  <string name="search_led">LED</string>
+  <string name="search_date_time">Дата Час</string>
+  <string name="search_language">Мова</string>
+  <string name="search_about">Про програму</string>
   <string name="debug_log">Журнал налагодження</string>
   <string name="upload_debug_log_title">Відправляти журнал</string>
   <string name="upload_debug_log_summary">Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з\'єднань</string>
   <string name="device_cpu">Частота процесора:</string>
   <string name="device_memory">RAM:</string>
-  <string name="device_internal_memory">Внутрішня пам\'ять:</string>
+  <string name="device_internal_memory">Внутрішній накопичувач:</string>
   <string name="device_sd_memory">SD-карта:</string>
   <string name="device_cpu2_info">"2 ядра"</string>
   <string name="device_cpu4_info">"4 ядра"</string>
@@ -1578,8 +1592,7 @@
   <string name="key_settings">Кнопки управління</string>
   <string name="back_long_press">Кнопка НАЗАД</string>
   <string name="enable_back_long_press">По довгому натисненню - завершити програму</string>
-  <string name="back_long_press_timeout">"Затримка
-$.1f сек."</string>
+  <string name="back_long_press_timeout">"Затримка в сек."</string>
   <string name="power_key">Кнопка включення</string>
   <string name="disable_power_key_long_press_under_keyguard">Вимкнути на екрані блокування</string>
   <string name="media_button">Медіа-кнопки</string>
@@ -1631,7 +1644,6 @@ $.1f сек."</string>
   <string name="incoming_call_vibrate_abbreviation">Дзвінки</string>
   <string name="notification_vibrate_abbreviation">Повідомлення</string>
   <string name="mms_vibrate_abbreviation">Повідомлення</string>
-  <string name="notification_pulse_summary">Коли є нові повідомлення, LED індикатор блимає</string>
   <string name="breathing_light_color_title">Колір LED</string>
   <string name="breathing_light_color_summary">Колір LED при отриманні нового повідомлення</string>
   <string name="breathing_light_freq_title">Частота мигання</string>
@@ -1640,8 +1652,14 @@ $.1f сек."</string>
   <string name="led_colors_summary">LED колір повідомлень</string>
   <string name="led_frequence_summary">Встановіть інтервал між миготінням LED</string>
   <string name="led_pulse_summary">Пульсуючий LED про нові повідомлення</string>
-  <string name="show_rounded_corners">Показувати закругленими кутами</string>
+  <string name="show_rounded_corners">Показувати закруглені кути</string>
   <string name="show_rounded_corners_summary">Для застосування ефекту необхідне перезавантаження</string>
+  <string name="pref_operational_key">Оперативний ключ</string>
+  <string name="pref_button_light">Підсвітка</string>
+  <string name="pref_button_light_summary">Індикатори кнопок МЕНЮ, НАЗАД, ДОДОМУ</string>
+  <string name="button_light_timeout">Налаштування підсвітки кнопок</string>
+  <string name="screen_button_key">Віртуальні кнопки</string>
+  <string name="screen_button_custom">Налаштування розміщення кнопок</string>
   <string name="sim_change_failed_enable_sim_lock">Неможливо змінити PIN SIM/RUIM. Включене блокування SIM/RUIM</string>
   <string name="sim_lock_change_not_supported">Неможливо змінити блокування SIM/RUIM. SIM/RUIM не підтримує зміну блокування</string>
   <string name="apn_new">Створити APN</string>
@@ -1652,6 +1670,41 @@ $.1f сек."</string>
   <string name="volume_category_title">Гучність</string>
   <string name="vibrate_category_title">Вібрація</string>
   <string name="vibrate_in_normal_title">Вібрація в звичайному режимі</string>
+  <string name="search_label">Параметри</string>
+  <string name="search_hint">Налаштування пошуку</string>
+  <string name="search_description">Налаштування пошуку</string>
+  <string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
+  <string name="frequently_fragment_tempty">Часто використовувані елементи будуть перераховані тут</string>
+  <string name="frequently_fragment_delete">Видалити</string>
+  <string name="show_fc">Показувати FC</string>
+  <string name="show_fc_summary">Показувати усі FC для програм (вмикати небажано)</string>
+<string name="factory_reset_summary">Ви можете видалити ваші персональні дані в Відновлення і скидання, або выбрати встановлені програми для видалення і відформатувати карту пам\'яті SD до заводських налаштувань</string>
+  <string name="erase_sure">Підтвердіть видалення</string>
+  <string name="erase_personal_data">Персональні дані</string>
+  <string name="erase_personal_data_description">В тому числі облікові записи, контакти, дзвінки та інші дані</string>
+  <string name="erase_optional">Опціональне видалення</string>
+  <string name="erase_application">Видалення програм</string>
+  <string name="erase_application_description">Видалення встановлених програм</string>
+  <string name="confirm_erase">Підтвердження видалення</string>
+  <string name="master_clear_personal_data">Ви дійсно хочете видалити ваші персональні дані? Операція не може бути скасована</string>
+  <string name="master_clear_personal_data_application">Ви дійсно хочете видалити ваші персональні дані і встановлені програми? Операція не може бути скасована</string>
+  <string name="master_clear_personal_data_sdcard">Ви дійсно хочете видалити ваші персональні дані і відформатувати SD-карту? Операція не може бути скасована</string>
+  <string name="master_clear_all">Ви впевнені, що хочете видалити всі дані до заводських налаштувань? Операція не може бути скасована</string>
+  <string name="master_clear_erase_application_progress">Видалення програм...</string>
+  <string name="bluetooth_default_name">KDG Phone</string>
+  <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
+  <string name="usage_log">Статистика використання програми</string>
+  <string name="usb_msd_title">Підключення USB</string>
+  <string name="usb_msd_summary">Передача файлів на Windows і Mac</string>
+  <string name="volume_voice_description">Гучність розмови</string>
+  <string name="volume_system_description">Гучність системи, затвор камери, локскрін та інші системні сповіщення</string>
+  <string name="volume_bluetooth_description">Гучність Bluetooth</string>
+  <string name="volume_restore">Відновити гучність</string>
+  <string name="volume_restore_alert">Всі налаштування будуть скинуті, ви впевнені?</string>
+  <string name="data_summary">Выберіть підписку для даних викликівв</string>
+  <string name="data_title">Дані виклику</string>
+  <string name="notification_pulse_summary">Коли є нові сповіщення, LED-індикатор блимає</string>
+  <string name="wifi_tether_transmit_power_error">Не вдалось встановити потужність передачі</string>
   <string name="sim_absent">Немає SIM/RUIM</string>
   <string name="bluetooth_enter_pin_msg_hs">Введіть PIN-код для з\'єднання з \"%1$s\". [Висока безпека: Потрібен пароль з 16 символів]</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s хотіли б отримати доступ до файлів і папок. Дозволити доступ до %2$s?</string>
@@ -1671,8 +1724,6 @@ $.1f сек."</string>
   <string name="bluetooth_sap_profile_summary_use_for">Використовується для доступу до SIM</string>
   <string name="bluetooth_sap_remember_choice">Більше не питати</string>
   <string name="bluetooth_sap_request">SAP запит</string>
-  <string name="data_summary">Виберіть підписку для даних викликів</string>
-  <string name="data_title">Дані виклику</string>
   <string name="device_additional_status">Додаткова інформація</string>
   <string name="device_additional_status_summary">Номер телефону, сигнал, IMEI і т.д.</string>
   <string name="multi_sim_settings_summary">Зміна налаштувань декількох SIM, для передачі голосу, даних і SMS</string>
@@ -1697,15 +1748,5 @@ $.1f сек."</string>
   <string name="voice_title">Voice/USSD/MMI</string>
   <string name="wifi_p2p_on_summary">Увімкніть WiFi-direct</string>
   <string name="wifi_p2p_settings">Налаштування WiFi-direct</string>
-  <string name="wifi_tether_transmit_power_error">Не вдалося встановити потужність передачі</string>
-  <string name="pref_button_light">Підсвітка</string>
-  <string name="pref_button_light_summary">Індикатори кнопок МЕНЮ, НАЗАД, ДОДОМУ</string>
-  <string name="pref_operational_key">Оперативний ключ</string>
   <string name="set_dds_error">Помилка в підписці набору даних</string>
-  <string name="frequently_fragment_tempty">Часто використовувані елементи будуть перераховані тут</string>
-  <string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
-  <string name="bluetooth_default_name">KDG Phone</string>
-  <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
-  <string name="show_fc">Показувати FC</string>
-  <string name="show_fc_summary">Показувати усі FC для програм (вмикати небажано)</string>
 </resources>
