@@ -1591,7 +1591,7 @@
   <string name="key_settings">Кнопки управління</string>
   <string name="back_long_press">Кнопка НАЗАД</string>
   <string name="enable_back_long_press">По довгому натисненню - завершити програму</string>
-  <string name="back_long_press_timeout">"Затримка в сек."</string>
+  <string name="back_long_press_timeout">"Затримка спрацювання"</string>
   <string name="power_key">Кнопка включення</string>
   <string name="disable_power_key_long_press_under_keyguard">Вимкнути на екрані блокування</string>
   <string name="media_button">Медіа-кнопки</string>
