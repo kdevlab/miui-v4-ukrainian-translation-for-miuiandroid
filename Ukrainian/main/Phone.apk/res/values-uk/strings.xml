@@ -949,7 +949,7 @@
   <string name="respond_via_sms_canned_response_2_miui">"Мені шкода, але я не можу відповідати на телефонні дзвінки прямо зараз. Що я можу зробити для вас?"</string>
   <string name="respond_via_sms_canned_response_3_miui">"Я зараз дуже зайнятий. Подзвоню пізніше"</string>
   <string name="respond_via_sms_canned_response_4_miui">"Не можу говорити по телефону прямо зараз. У чому справа?"</string>
-  <string name="call_waiting_tone_title_miui">Тон очікування виклику</string>
+  <string name="call_waiting_tone_title_miui">Тон вхідного виклику</string>
   <string name="call_waiting_tone_stop_summary">(Натисніть клавішу регулювання гучності для відключення виклику)</string>
   <string name="call_waiting_tone_continuously_miui">Відтворювати неперервно</string>
   <string name="call_waiting_tone_twice_only_miui">Відтворити тон двічі</string>
