@@ -183,6 +183,7 @@
     <string name="badPuk">Неправильний PUK-код.</string>
     <string name="mismatchPin">Ви ввели неправильні PIN-коди.</string>
     <string name="invalidPin">Введіть PIN-код від 4 до 8 цифр.</string>
+    <string name="invalidPuk">Введіть PUK-код із 8 або більше цифр</string>
     <string name="needPuk">Ваша SIM-картка захищена PUK-кодом. Уведіть PUK-код, щоб розблокувати її.</string>
     <string name="needPuk2">Уведіть PUK2, щоб розблокувати SIM-картку.</string>
     <string name="ClipMmi">Ідентифікатор абонента, який дзвонить</string>
@@ -270,6 +271,7 @@
     <string name="power_off">Вимкнення живлення</string>
     <string name="shutdown_progress">Вимкнення…</string>
     <string name="shutdown_confirm">Ваш телефон вимкнеться.</string>
+    <string name="shutdown_confirm_question">Завершити роботу?</string>
     <string name="recent_tasks_title">Нещодавні</string>
     <string name="no_recent_tasks">Немає останніх програм.</string>
     <string name="global_actions">Опції телефону</string>
@@ -443,6 +445,14 @@
     <string name="permdesc_readContacts">Дозволяє програмі читати контактні (адресні) дані, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати ваші дані іншим людям.</string>
     <string name="permlab_writeContacts">Записувати контактні дані</string>
     <string name="permdesc_writeContacts">Дозволяє програмі змінювати контактні (адресні) дані, збережені на телефоні. Зловмисні програми можуть використати це для стирання або зміни контактних даних.</string>
+    <string name="permlab_readProfile">Переглядати дані профілю</string>
+    <string name="permdesc_readProfile">Дозволяє програмі отримувати доступ до персональної інформації профілю, яка зберігається на вашому пристрої, наприклад до імені і контактних даних. Це означає, що програма може ідентифікувати вас і відправити этціи дані іншим користувачам.</string>
+    <string name="permlab_writeProfile">Зміна даних профілю</string>
+    <string name="permdesc_writeProfile">Дозволяє програмі змінювати або добавляти в персональний профіль інформацію, яка зберігається на вашому пристрої, наприклад ім\'я або контактні дані. Це означає, що програма може ідентифікувати вас і відправити этціи дані іншим користувачам.</string>
+    <string name="permlab_readSocialStream">Читати записи в вашій соціальній стрічці</string>
+    <string name="permdesc_readSocialStream">Дозволяє програмі читати и синхронізувати новини від вас і ваших друзів. Зловмисні програми можуть таким способом отримати доступ до ваших записів в соціальних мережах.</string>
+    <string name="permlab_writeSocialStream">Додавати записи в вашу соціальну стрічку</string>
+    <string name="permdesc_writeSocialStream">Дозволяє програмі відображати новини від друзів в соціальних мережах. Зловмисні програми можуть таким способом отримати доступ до ваших паролів та инших конфіденційних даних.</string>
     <string name="permlab_readCalendar">Зчитувати події календаря</string>
     <string name="permdesc_readCalendar">Дозволяє програмі читати усі календарні події, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати події календаря іншим людям.</string>
     <string name="permlab_writeCalendar">Записування або змінення подій календаря та надсилання електронних листів запрошеним</string>
@@ -613,6 +623,7 @@
     <string name="policydesc_encryptedStorage">Вимагає шифрувати дані додатків, що знаходяться в сховищі.</string>
     <string name="policylab_disableCamera">Вимкнути камери</string>
     <string name="policydesc_disableCamera">Заборонити використання усіх камер пристрою</string>
+    <string name="policydesc_allow_camera">Перезавантаження</string>
     <string name="phoneTypeCustom">Власний</string>
     <string name="phoneTypeHome">Домашній</string>
     <string name="phoneTypeMobile">Мобільний</string>
@@ -871,9 +882,15 @@
     <string name="aerr_application" formatted="false">Програма %1$s (процес %2$s) несподівано припинила роботу. Спробуйте ще раз.</string>
     <string name="aerr_process">Процес %1$s несподівано зупинився. Спробуйте ще раз.</string>
     <string name="anr_title">Вибачте!</string>
-    <string name="anr_activity_application" formatted="false">Завдання %1$s (у програмі %2$s) не відповідає.</string>
-    <string name="anr_activity_process" formatted="false">Завдання %1$s (у процесі %2$s) не відповідає.</string>
-    <string name="anr_application_process" formatted="false">Програма %1$s (у процесі %2$s) не відповідає.</string>
+    <string name="anr_activity_application" formatted="false">Завдання %1$s (у програмі %2$s) не відповідає.
+    	
+	Закрити її?</string>
+    <string name="anr_activity_process" formatted="false">Завдання %1$s (у процесі %2$s) не відповідає.
+    
+	Закрити її?</string>
+    <string name="anr_application_process" formatted="false">Програма %1$s (у процесі %2$s) не відповідає.
+    
+	Закрити її?</string>
     <string name="anr_process">Процес %1$s не відповідає.</string>
     <string name="force_close">Примусово закрити</string>
     <string name="report">Звіт</string>
@@ -1130,7 +1147,7 @@
     <string name="data_usage_mobile_limit_title">Моб. Інтернет вимкнено</string>
     <string name="data_usage_wifi_limit_title">Передачу даних через Wi-Fi вимкнено</string>
     <string name="data_usage_limit_body">Натисніть, щоб увімкнути</string>
-    <string name="data_usage_3g_limit_snoozed_title">Перевищено ліміта на трафік 2G і 3G</string>
+    <string name="data_usage_3g_limit_snoozed_title">Перевищено ліміт на трафік 2G і 3G</string>
     <string name="data_usage_4g_limit_snoozed_title">Перевищено ліміт на трафік 4G</string>
     <string name="data_usage_mobile_limit_snoozed_title">Перевищено ліміт на моб. трафік</string>
     <string name="data_usage_wifi_limit_snoozed_title">Перевищен ліміт на трафік Wi-Fi</string>
@@ -1167,4 +1184,15 @@
     <string name="redo">Повернути</string>
     <string name="operation_not_allowed">Операцію не дозволено</string>
     <string name="exceeded_maxlength">Перевищено максимальний розмір повідомлення</string>
+    <string name="reboot_reboot">Перезавантаження</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Загрузчик</string>
+    <string name="reboot_hot">Швидка</string>
+    <string name="reboot_bootmenu">Загрузочне меню</string>
+    <string name="reboot_fastboot">Fastboot</string>
+    <string name="reboot_download">Download</string>
+    <string name="reboot_progress">Перезавантаження...</string>
+    <string name="reboot_confirm">Ваш телефон буде перезавантажений.</string>
+    <string name="hot_reboot_title">Швидке перезавантаження телефону</string>
+    <string name="hot_reboot_progress">Перезавантаження ресурсів системи...</string>
 </resources>
