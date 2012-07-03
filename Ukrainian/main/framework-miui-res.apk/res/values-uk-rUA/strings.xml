@@ -364,8 +364,8 @@
     <string name="country_name_kg">Киргизстан</string>
     <string name="country_name_uz">Узбекистан</string>
     <string name="firewall_setting">Чорний список</string>
+    <string name="keyguard_incorrect_pin_with_retry_count">Спроб залишилось: %d</string>
     <string name="caller_info_name_delimiter">або</string>
-    <string name="phoneTypeMms">MMS</string>
     <string name="first_back_long_press_title">Примусове завершення додатків кнопкою НАЗАД</string>
     <string name="first_back_long_press_message">"Щоб примусово закривати додатки утриманням кнопки НАЗАД, зайдіть в:
 Налаштування -> Система -> Кнопки
@@ -380,6 +380,8 @@
     <string name="select_all">Вибрати все</string>
     <string name="reverse_all">Очистити виділене</string>
     <string name="multi_select_title">Вибрано: %1$s</string>
+    <string name="select">Выбрати</string>
+    <string name="phoneTypeMms">MMS</string>
     <string name="lockscreen_plugged_in">Заряджається - %d%%</string>
     <string name="lockscreen_charged">Батарея повністю заряджена</string>
     <string name="lockscreen_low_battery">Батарея майже розряджена</string>
@@ -400,7 +402,6 @@
     <string name="silent_mode_ring">Звук увімкнено</string>
     <string name="ellipsis">...</string>
     <string name="power_off">Вимкнення живлення...</string>
-<string name="keyguard_incorrect_pin_with_retry_count">Спроб залишилось: %d</string>
   <string name="lockscreen_emergency_call">Тільки екстренні</string>
   <string name="kilobyteShort">КБ</string>
   <string name="megabyteShort">МБ</string>
@@ -422,5 +423,13 @@
   <string name="dial_number_using">"Викликати,
 використовуючи %s"</string>
   <string name="text_pastelist">Буфер обміну</string>
-  <string name="select">Вибрати</string>
+<string name="every_day">Кожен день</string>
+    <string name="never">Ніколи</string>
+    <string name="resource_selected_number">Вибрано %d ресурс(ів)</string>
+    <string name="resource_delete_all">Ві впевнені, що хочете видалити %d выбраних ресурсів?</string>
+    <string name="processing">Обробка ...</string>
+    <string name="resource_can_not_selected">%s неможливо вибрати!</string>
+    <string name="resource_system_title">Системні ресурси</string>
+    <string name="resource_downloaded_title">Завантажені ресурси</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
