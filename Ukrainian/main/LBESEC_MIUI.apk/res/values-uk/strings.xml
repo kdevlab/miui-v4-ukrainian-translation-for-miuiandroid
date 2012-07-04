@@ -171,7 +171,7 @@
   <string name="HIPS_SecurityPrompt_AcceptRoot">Дозводити</string>
   <string name="HIPS_SecurityPrompt_Next">Далі</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Увага!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Дозволити %1$d отримати права суперкористувача?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Дозволити %1$s отримати права суперкористувача?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперкористувача можуть призвести до нестабільної роботи системи</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Ваші персональні дані (акаунти, паролі і повідомлення) можуть стати загальнодоступними</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Можливе пошкодження обладнання</string>
