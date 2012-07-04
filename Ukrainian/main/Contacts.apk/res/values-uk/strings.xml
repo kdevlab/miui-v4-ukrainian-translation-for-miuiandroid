@@ -645,4 +645,11 @@
   <string name="scan_merge_message">Контакти с частковим дублюванням даних (%1$d)</string>
   <string name="sim_contacts_invisiable">Приховувати</string>
   <string name="sim_contacts_visiable">Показувати</string>
+  <string name="export_to_sim">Експорт на SIM-карту</string>
+  <string name="sim_card_no_free_space_title">SIM-карта заповнена!</string>
+  <string name="sim_card_no_free_space_message">Пам\'ять SIM-карти заповнена. Будь-ласка, очистіть SIM-карту і попробуйте ще раз.</string>
+  <string name="sim_contacts">Контакти на SIM-карті</string>
+  <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
+  <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
+  <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь-ласка, зачекайте...</string>
 </resources>
