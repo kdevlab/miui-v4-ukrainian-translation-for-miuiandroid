@@ -258,6 +258,7 @@
   <string name="screen_key_back">Назад</string>
   <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
   <string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s | Всього:%3$s</string>
+  <string name="status_bar_network_flow_exceed">"Сьогодні: %1$s | Залишилось: %2$s | Програми:%3$s"</string>
   <string name="toast_rotation_locked">Екран заблокований в ландшафтній орієнтації</string>
   <string name="notifications_off_text">Натисніть сюди для увімкнення повідомлень</string>
   <string name="notifications_off_title">Повідомлення відключені</string>
