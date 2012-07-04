@@ -445,4 +445,7 @@
   <string name="date_timed_message_dialog">Дата:</string>
   <string name="time_timed_message_dialog">Час:</string>
   <string name="message_title">%1$s %2$s написав:</string>
+  <string name="dialog_title_date_type">Вибір типу дати повідомлення</string>
+  <string name="summary_date_type">Дата повідомлення</string>
+  <string name="title_date_type">Дата повідомлення</string>
 </resources>
