@@ -979,4 +979,8 @@
   <string name="description_direction_left">Ліворуч для %s</string>
   <string name="description_direction_up">Вверх для %s</string>
   <string name="call_waiting_tone_summary_miui">Мелодія при очікуючому виклику (кнопки гучноті для відключення)</string>
+  <string name="telocation_setting_summary_countrycode_off">Не додавати код міста</string>
+  <string name="telocation_setting_summary_countrycode_on">Додати код міста</string>
+  <string name="telocation_setting_summary_teloc_off">Приховувати місцезнаходження</string>
+  <string name="telocation_setting_summary_teloc_on">Показувати місцезнаходження</string>
 </resources>
