@@ -401,6 +401,7 @@
     <string name="silent_mode_vibrate">Режим вібрації</string>
     <string name="silent_mode_ring">Звук увімкнено</string>
     <string name="ellipsis">...</string>
+    <string name="resource_see_more">Ще...</string>
     <string name="power_off">Вимкнення живлення...</string>
   <string name="lockscreen_emergency_call">Тільки екстренні</string>
   <string name="kilobyteShort">КБ</string>
