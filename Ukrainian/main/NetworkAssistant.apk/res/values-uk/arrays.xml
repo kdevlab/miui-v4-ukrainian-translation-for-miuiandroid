@@ -10,6 +10,14 @@
         <item>Трафік сьогодні</item>
         <item>Місячний трафік</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>За вчора 2G/3G</item>
+        <item>Сьогодні 2G/3G</item>
+        <item>За місяць 2G/3G</item>
+        <item>За вчора WLAN</item>
+        <item>Сьогодні WLAN</item>
+        <item>За місяць WLAN</item>
+    </string-array>
     <string-array name="carriers">
         <item>China Mobile</item>
         <item>China Unicom</item>
@@ -25,9 +33,9 @@
         <item>Unicom 3G</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>За вчора:</item>    
-        <item>За сьогодні:</item>
-        <item>За місяць:</item>    
+        <item>За вчора 2G/3G</item>    
+        <item>За сьогодні 2G/3G</item>
+        <item>За місяць 2G/3G</item>    
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 сек</item>
