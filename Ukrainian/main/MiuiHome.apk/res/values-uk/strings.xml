@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
   <string name="application_name">Робочий стіл</string>
   <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Вибрати шпалери з</string>
