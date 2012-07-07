@@ -97,4 +97,5 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="current_version_update_monthly_build">Зараз версія</string>
+    <string name="update_monthly_build_only">Оновлення тільки щомісячних збірок</string>
 </resources>
