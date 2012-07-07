@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="application_name">Робочий стіл</string>
   <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Вибрати шпалери з</string>
@@ -36,7 +37,7 @@
   <string name="cant_remove_retained_app">Системну програму видалити неможливо</string>
   <string name="uninstall_body_format">Видалити програму \"%s\"?</string>
   <string name="uninstall">Видалити</string>
-  <string name="install_body_format">Встановити прпрограму \"%s\"?</string>
+  <string name="starting_preset_app">Запуск...</string>
   <string name="install">Встановити</string>
   <string name="cant_remove_folder">Видалити неможливо, папка не порожня</string>
   <string name="failed_to_drop">Переміщення невдале</string>
