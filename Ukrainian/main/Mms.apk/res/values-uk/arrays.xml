@@ -61,4 +61,8 @@
         <item>Режим Без звуку</item>
         <item>Ніколи</item>
     </string-array>
+    <string-array name="entries_date_type">
+        <item>Показувати час отримання</item>
+        <item>Показувати час відправки</item>
+    </string-array>
 </resources>
