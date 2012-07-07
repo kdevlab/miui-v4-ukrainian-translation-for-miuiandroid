@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Номери екстрених викликів</string>
   <string name="phoneIconLabel">Телефон</string>
@@ -768,7 +769,7 @@
   <string name="cw_title_miui">Очікування виклику</string>
   <string name="default_contacts_countrycode_hint_miui">Наприклад: 7</string>
   <string name="default_contacts_countrycode_miui">Стандартний код міста</string>
-  <string name="default_contacts_countrycode_sum_miui">Задайте стандартний код міста</string>
+  <string name="default_contacts_countrycode_sum_miui">Задайте стандартний код міста: %s</string>
   <string name="delete_sim_contact_confirm_title_miui">Видалити контакти з SIM</string>
   <string name="description_call_recording_miui">Запис поточної розмови</string>
   <string name="description_direction_left_miui">Ліворуч для %s</string>
@@ -983,4 +984,5 @@
   <string name="telocation_setting_summary_countrycode_on">Додати код міста</string>
   <string name="telocation_setting_summary_teloc_off">Приховувати місцезнаходження</string>
   <string name="telocation_setting_summary_teloc_on">Показувати місцезнаходження</string>
+  <string name="set_preferred_network_type_when_data_enabled_miui">Бажаний режим мережі доступний при вимкненій передачі даних</string>
 </resources>
