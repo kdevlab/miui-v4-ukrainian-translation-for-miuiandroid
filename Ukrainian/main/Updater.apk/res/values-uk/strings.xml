@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Оновлення</string>
     <string name="apply_now_button_text">Оновити зараз</string>
     <string name="view_details">Детальніше</string>
@@ -57,31 +58,27 @@
     <string name="no_updates_warning2">Немає нових версій</string>
     <string name="new_updates_found_title">Знайдено оновлення</string>
     <string name="new_update_content_title">Оновлення: %s</string>
-    <string name="new_update_downloading_body">Завантаження нової версії:%s</string>
-    <string name="new_update_download_complete_body">Готово до встановлення: %s</string>
     <string name="update_success_title">Оновлення</string>
     <string name="update_success_body">Вітаємо, система успішно оновлена</string>
     <string name="exception_while_downloading">Сталася помилка при завантаженні оновлення</string>
-    <string name="new_updates_found_notification_title">Нове оновлення системи</string>
+    <string name="new_updates_found_notification_title">Нове оновлення системи!</string>
     <string name="network_error">Помилка підключення до мережі або сервер зайнятий</string>
     <string name="about_device">Про систему</string>
+    <string name="emegency_version">Оновлення</string>
     <string name="wifi_not_available_title">Wi-Fi не підключений</string>
     <string name="wifi_not_available_body">Файл ROM великий, рекомендується завантажити його через Wi-Fi. Ваш Wi-Fi в даний час відключений, ви хочете продовжити завантаження через мобільну мережу?</string>
     <string name="boot_recovery">У режим відновлення</string>
     <string name="applying_rom_message">Застосування оновлень</string>
     <string name="loading">Завантаження MIUI</string>
+    <string name="page_error_title">Немає доступу</string>
+    <string name="page_error">Немає доступу до MIUI через проблеми з GPRS/3G або недоступність сервера</string>
+    <string name="page_reload">Повторити</string>
     <string name="install_rom_from_sd">Прошивка</string>
     <string name="download_current_rom">Завантажити останню версію повного пакету</string>
     <string name="no_proper_updates">Для поточної версії оновлень немає</string>
     <string name="emegency_update_helper">Системі може знадобитися перезавантаження після установки патчу на вашому телефоні</string>
-    <string name="emegency_update_size">Розмір:%s</string>
-    <string name="sign_in_info">"Рейтинг: %1$s
-%2$s
-%3$s версія"</string>
-    <string name="sign_in_info_total_more">"Your update ranking is %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
-    <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
+    <string name="emegency_update_size">Розмір: %s</string>
+    <string name="sign_in_info">"Рейтинг: %1$s %2$s %3$s версія"</string>
     <string name="sign_in_add_account_helper">У вашому телефоні немає акаунту MIUI, будь ласка додайте його</string>
     <string name="move_data_to_sdcard_title">Копіювання файлів на SD-карту</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Не вистачає місця %dМб для копіювання файлів на SD-карту</string>
@@ -92,18 +89,12 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="install_whole_rom">Ми рекомендуємо вам завантажити повний пакет для оновлення системи</string>
     <string name="check_update_policy">Налаштування</string>
     <string name="check_update_when_wifi_available">Оновлення тільки через Wi-Fi</string>
-    <string name="update_monthly_build_only">Оновлення тільки щомісячних збірок</string>
     <string name="install_file_explorer">Встановіть програму Файли</string>
-    <string name="share_update">Відправити інформацію про оновлення</string>
-    <string name="share_update_content_unsign">Я оновив MIUI до %1$s! Для отримання подробиць, відвідай %2$s</string>
-    <string name="share_update_content_sign">Я оновив MIUI до %1$s! Мій ранг оновлення %2$s. Для отримання подробиць, відвідай %3$s</string>
-    <string name="share_sina">Відправити по Sina Weibo</string>
-    <string name="share_qq">Відправити по Tencent weibo</string>
-    <string name="emegency_version">Оновлення</string>
-    <string name="stable_version">Стабільна версія</string>
-    <string name="test_version">Dev версія</string>
-    <string name="update_stable_version_only">Стабільна версія</string>
-    <string name="page_error_title">Немає доступу</string>
-    <string name="page_error">Немає доступу до MIUI через проблеми з GPRS/3G або недоступність сервера</string>
-    <string name="page_reload">Повторити</string>
+    <string name="new_update_downloading_body">Завантаження нової версії:%s</string>
+    <string name="new_update_download_complete_body">Готова до встановлення: %s</string>
+    <string name="sign_in_info_total_more">"Your update ranking is %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
+    <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
+    <string name="current_version_update_monthly_build">Зараз версія</string>
 </resources>
