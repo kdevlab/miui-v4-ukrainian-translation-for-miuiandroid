@@ -448,4 +448,21 @@
   <string name="dialog_title_date_type">Вибір типу дати повідомлення</string>
   <string name="summary_date_type">Дата повідомлення</string>
   <string name="title_date_type">Дата повідомлення</string>
+  <string name="ex_type_mms">MMS</string>
+  <string name="ex_type_mx">Хмарове повідомлення</string>
+  <string name="ex_type_sms">SMS</string>
+  <string name="mi_msg">Хмарове повідомлення</string>
+  <string name="msg_type_hint_mms">Мультимедійне повідомлення</string>
+  <string name="msg_type_hint_mx">Хмарове повідомлення</string>
+  <string name="msg_type_hint_sms">Текстове повідомлення</string>
+  <string name="mx_activate_failure">Помилка активації хмарових повідомлень</string>
+  <string name="mx_activating">Активація…</string>
+  <string name="mx_auto_resend_sms">Відправити як SMS</string>
+  <string name="mx_auto_resend_sms_summary">Відправити як SMS, коли хмарові повідомлення не доступні</string>
+  <string name="mx_btn_enable">Увімкнути</string>
+  <string name="mx_count_dspt">Після увімкнення MIUI отправили %d повідомлень вам</string>
+  <string name="mx_dspt">Відправляти повідомлення через інтернет</string>
+  <string name="mx_enable">Включити хмарові повідомлення</string>
+  <string name="mx_warning_notice">Повідомлення SMS було відправлено для активації хмарових повідомлень</string>
+  <string name="need_download">Очікування синхронізації…</string>
 </resources>
