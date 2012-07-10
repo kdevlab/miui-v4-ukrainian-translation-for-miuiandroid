@@ -249,7 +249,7 @@
   <string name="ext_media_safe_unmount_notification_message">Ви можете безпечно витягти USB-сховище</string>
   <string name="ext_media_nomedia_notification_title">USB-сховище вилучено</string>
   <string name="ext_media_nomedia_notification_message">Вставте нову SD-карту</string>
-    <string name="screen_button_custom">Налаштування розташування кнопок</string>
+  <string name="screen_button_custom">Налаштування розташування кнопок</string>
   <string name="recent_apps_key">Останні программи</string>
   <string name="recent_apps_key_show">Останні програми</string>
   <string name="key_position_custom">Розміщення</string>
