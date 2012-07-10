@@ -124,6 +124,6 @@
   <string name="pref_network_speed_internal_title">Інтервал оновлень</string>
   <string name="pref_netwotk_speed_internal_summary">Оновлювати швидкість мережі кожні %d сек</string>
   <string name="traffic_exceed">Перевищено</string>
-  <string name="force_stop_dlg_text">Завершення прогрми може призвести до помилок</string>
+  <string name="force_stop_dlg_text">Завершення програми може призвести до помилок</string>
   <string name="force_stop_dlg_title">Завершити?</string>
 </resources>
