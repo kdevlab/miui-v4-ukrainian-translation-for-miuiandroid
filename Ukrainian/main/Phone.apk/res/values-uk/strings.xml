@@ -985,4 +985,15 @@
   <string name="telocation_setting_summary_teloc_off">Приховувати місцезнаходження</string>
   <string name="telocation_setting_summary_teloc_on">Показувати місцезнаходження</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Бажаний режим мережі доступний при вимкненій передачі даних</string>
+
+  <!-- Готово :)-->
+  <string name="add_zero_prefix">Додати префікс 0 при наборі мобільного номеру</string>
+  <string name="network_work_query_failed_message_miui">"Помилка запиту, натисніть 'Відміна', для вибору бажаної мережі автоматично або натисніть «ОК» для повтору"</string>
+  <string name="next_miui">Далі</string>
+  <string name="register_network_failed_message_miui">Не вдається зареєструватися в выбраній мережі, вибрати бажану мережу автоматично?"</string>
+  <string name="register_network_failed_title_miui">Послуга не надається</string>
+  <string name="sum_select_automatically_option_miui">Автовибір бажаної мережі, %s</string>
+  <string name="turn_off_auto_select_confirm_message_miui">Сигнал і мережа можуть бути недоступні, ви впевнені, що хочете відключити цю опцію?</string>
+  <string name="turn_off_auto_select_title_miui">Відключити автовибір мережі</string>
+  <string name="turn_off_auto_select_warning_message_miui">Посля відключеняя цієї опції, буде використовуватись мережа, вибрана вручну, без реєстрації в інших мережах</string>
 </resources>
