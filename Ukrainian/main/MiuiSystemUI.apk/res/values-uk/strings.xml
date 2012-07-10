@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="app_label">Графічний інтерфейс системи</string>
   <string name="status_bar_clear_all_button">Очистити</string>
   <string name="status_bar_do_not_disturb_button">Не турбувати</string>
@@ -269,4 +270,6 @@
   <string name="battery_indicator_style">Стиль індикатора батареї</string>
   <string name="default_usb_mode">Тип підключення по USB</string>
   <string name="notification_icon_filter_message_system_app">Повідомлення від системних додатків не можуть бути приховані</string>
+  <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті для звільнення</string>
+  <string name="status_bar_recent_memory_info_format">%d MB</string>
 </resources>
