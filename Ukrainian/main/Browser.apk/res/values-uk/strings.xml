@@ -410,4 +410,11 @@
   <string name="bookmark_add_to">Додати в</string>
   <string name="add_folder">Додати папку</string>
   <string name="add_bookmark_to_home_screen">Додати на робочий стіл</string>
+  <string name="pref_fling_on_border_enabled">Кинути на межі</string>
+  <string name="pref_fling_on_border_operation">Операція Кинути на межі</string>
+  <string name="pref_gesture_title">Жести</string>
+  <string name="pref_key_title">Налаштування кнопок</string>
+  <string name="pref_key_gesture_title">Кнопки і жести</string>
+  <string name="pref_volume_key_enabled">Кнопки гучності</string>
+  <string name="pref_volume_key_operation">Дія для кнопок гучності</string>
 </resources>
