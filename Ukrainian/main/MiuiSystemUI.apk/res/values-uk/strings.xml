@@ -271,5 +271,4 @@
   <string name="default_usb_mode">Тип підключення по USB</string>
   <string name="notification_icon_filter_message_system_app">Повідомлення від системних додатків не можуть бути приховані</string>
   <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті для звільнення</string>
-  <string name="status_bar_recent_memory_info_format">%d MB</string>
 </resources>
