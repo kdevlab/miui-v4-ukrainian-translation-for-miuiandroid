@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="config_export_dir">/sdcard/MIUI/contacts</string>
-  <string name="config_export_file_extension">vcf</string>
   <string name="launcherDialer">Телефон</string>
   <string name="people">Контакти</string>
   <string name="contactsList">Контакти</string>
@@ -429,7 +429,6 @@
   <string name="hint_findContacts">Знайти контакти</string>
   <string name="non_phone_caption">Номер телефону</string>
   <string name="non_phone_add_to_contacts">Додати в контакти</string>
-  <string name="activity_title_confirm_add_detail">Додавання даних</string>
   <string name="non_phone_close">Закрити</string>
   <string name="widget_name_and_phonetic" formatted="false">%1$s(%2$s)</string>
   <string name="date_year_toggle">Вказати рік</string>
@@ -526,6 +525,7 @@
   <string name="select_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
   <string name="select_new_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
   <string name="photo_package_activity_title">Пакет фотографій</string>
+  <string name="lunarBirthdayLabelsGroup">Місячний день народження</string>
   <string name="callrecordview_menu_show_title">Налаштування відображення</string>
   <string name="callrecordview_menu_show_all">Всі</string>
   <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
@@ -635,6 +635,7 @@
   <string name="open_contact">Відкрити контакт</string>
   <string name="date_picker_label">Нагадати за 3 дні і в день народження</string>
   <string name="pkgLabel">Контакти і телефон</string>
+  <string name="activity_title_confirm_add_detail">Додавання даних</string>
   <string name="btn_finished">Готово</string>
   <string name="calllog_menu_call_ip_number">Виклик через інтернет (виклик %s)</string>
   <string name="close">Закрити</string>
@@ -652,4 +653,12 @@
   <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
   <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
   <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь-ласка, зачекайте...</string>
+  <string name="import_to_xiaomi_account_confirm">Імпорт</string>
+  <string name="import_to_xiaomi_account_progress_finish">Імпорт завершено</string>
+  <string name="import_to_xiaomi_account_progress_message">Імпортування...</string>
+  <string name="import_to_xiaomi_account_progress_title">Імпортувати контакти в акаунт Xiaomi</string>
+  <string name="import_to_xiaomi_account_title">Ви впевнені, що хочете імпортувати контакти в акаунт Xiaomi?</string>
+  <string name="pref_summary_import_from_account">Імпорт контактів з акаунту Google в акаунт Xiaomi</string>
+  <string name="pref_title_account_import">Імпорт із акаунту</string>
+  <string name="pref_title_import_from_account">Імпорт в акаунт Xiaomi</string>
 </resources>
