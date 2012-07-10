@@ -12,6 +12,7 @@
     <string name="download_running">В процесі</string>
     <string name="download_success">Завершено</string>
     <string name="download_error">Помилка</string>
+    <string name="download_error_insufficient_space">Недостатньо місця</string>
     <string name="dialog_title_not_available">Помилка завантаження</string>
     <string name="dialog_failed_body">Ви хочете повторити завантаження файлу пізніше або видалити його з черги?</string>
     <string name="dialog_title_queued_body">Файл не доступний</string>
@@ -63,4 +64,7 @@
     <string name="pref_title_max_bytes_limit">Розмір ліміту</string>
     <string name="pref_summary_max_bytes_limit_format">Попереджувати при перевищенні розміру файлу: %s</string>
     <string name="pref_dialog_title_max_bytes_limit">Перевищення розміру файлу</string>
+    <string name="might_lead_to_mobile_charge">Після відміни завантаження через мережу оператора будуть відбуватись без попереджень. Це може призвести до витрат трафіку</string>
+    <string name="download_complete">Скачані</string>
+    <string name="download_in_process">В процесі</string>
 </resources>
