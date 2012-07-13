@@ -163,7 +163,7 @@
   <string name="ui_main_menu_option_help">Зворотній зв\'язок</string>
   <string name="ui_main_menu_option_new">Новий</string>
   <string name="ui_main_menu_option_setting">Параметри</string>
-  <string name="ui_main_menu_option_task_manage">Управління передачами</string>
+  <string name="ui_main_menu_option_task_manage">Управління обміном файлами</string>
   <string name="ui_main_menu_option_upload">Вивантажити</string>
   <string name="ui_main_progress_txt_open_file">Завантаження...</string>
   <string name="ui_main_toast_shareLink_err">Створення папки по зовнішньому посилання не вдалось</string>
