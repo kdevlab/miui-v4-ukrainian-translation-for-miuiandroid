@@ -950,7 +950,7 @@
   <string name="filter_apps_onsdcard">На SD-карті</string>
   <string name="disabled">Відключено</string>
   <string name="no_applications">Немає</string>
-  <string name="internal_storage">Внутрішній накопичувач</string>
+  <string name="internal_storage">Внутрішня пам\'ять</string>
   <string name="sd_card_storage">SD-карта</string>
   <string name="recompute_size">Повторне обчислення розміру...</string>
   <string name="clear_data_dlg_title">Видалити дані програми?</string>
@@ -1560,8 +1560,8 @@
   <string name="upload_debug_log_summary">Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з\'єднань</string>
   <string name="device_cpu">Частота процесора:</string>
   <string name="device_memory">RAM:</string>
-  <string name="device_internal_memory">Внутрішній накопичувач:</string>
-  <string name="device_sd_memory">SD-карта:</string>
+  <string name="device_internal_memory">Внутрішня пам\'ять:</string>
+  <string name="device_sd_memory">Внутрішній накопичувач:</string>
   <string name="device_cpu2_info">"2 ядра"</string>
   <string name="device_cpu4_info">"4 ядра"</string>
   <string name="available_size">%s</string>
