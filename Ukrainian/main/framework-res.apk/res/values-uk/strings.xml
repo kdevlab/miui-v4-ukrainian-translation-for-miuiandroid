@@ -990,7 +990,7 @@
     <string name="extmedia_format_title">Форматування картки SD</string>
     <string name="extmedia_format_message">Дійсно відформатувати картку SD? Усі дані на картці буде втрачено.</string>
     <string name="extmedia_format_button_format">Форматувати</string>
-    <string name="adb_active_notification_title">Усун. неполад. USB підключено</string>
+    <string name="adb_active_notification_title">Усун. неполад. USB увімкнено</string>
     <string name="adb_active_notification_message">Виберіть, щоб вимк. усун. неполадок USB.</string>
     <string name="select_input_method">Виберіть метод уведення.</string>
     <string name="configure_input_methods">Налаштувати метод уведення</string>
