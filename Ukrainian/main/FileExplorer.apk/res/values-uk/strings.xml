@@ -91,9 +91,6 @@
   <string name="favorite_ringtone">Мелодії</string>
   <string name="multi_select_title">Обрано: %1$s</string>
   <string name="file_loading">Завантаження...</string>
-  
-  <!--Готово :)) -->
-
   <string name="clear_cache">Очистити кеш</string>
   <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
   <string name="create_new_folder_succeeded">Папка %1$s успішно створена</string>
@@ -191,4 +188,19 @@
   <string name="wangpan_root_path">My Drive</string>
   <string name="wifi_notication">Всі задачі готові для повторного завантаження *Wi-Fi*</string>
   <string name="xiaomi_account">Xiaomi акаунт</string>
+  <string name="clean_message">Видалення %1$s</string>
+  <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
+  <string name="clean_trash_box">Очистити кошик</string>
+  <string name="clean_trash_box_failed">Помилка видалення файлів з кошика</string>
+  <string name="close">Закрити</string>
+  <string name="data_capacity">Об\'єм: %1$s</string>
+  <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
+  <string name="rename_success">Перейменувано《%1$s》успішно</string>
+  <string name="space_info">Об\'єм в мережі: %1$s доступно，всього: %2$s</string>
+  <string name="space_usage">Зайнято</string>
+  <string name="start_use_xiaomi_account">Вхід</string>
+  <string name="trash_box_capacity">Об\'єм кошика: %1$s</string>
+  <string name="trash_box_link">Відвідайте pan.xiaomi.com для очищення кошика</string>
+  <string name="trash_box_message1">"Ви можете видалити непотрібні файли для звільнення місця"</string>
+  <string name="trash_box_message2">"Ви можете видалити непотрібні файли аба очистити кошик для звільнення місця"</string>
 </resources>
