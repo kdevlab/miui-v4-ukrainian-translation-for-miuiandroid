@@ -446,4 +446,10 @@
     <string name="month_of_october">Жов</string>
     <string name="month_of_november">Лис</string>
     <string name="month_of_december">Гру</string>
+    <string name="group_name_contacts">Контакти</string>
+    <string name="group_name_friends">Друзі</string>
+    <string name="group_name_family">Сім\'я</string>
+    <string name="group_name_coworkers">Колеги</string>
+    <string name="perm_activate_lab">Активація сервісу Xiaomi</string>
+    <string name="perm_activate_dspt">Відправити повідомлення для активації сервису Xiaomi?</string>
 </resources>
