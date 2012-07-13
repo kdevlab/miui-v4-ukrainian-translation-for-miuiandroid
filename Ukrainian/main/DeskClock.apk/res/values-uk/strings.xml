@@ -99,7 +99,8 @@
   <string name="timer_hour">г</string>
   <string name="timer_message_with_hour">таймер на %1$d годин і %2$d хвилин</string>
   <string name="timer_message">Таймер на %1$d хвилин</string>
-  <string name="timer_tutorial">За год. стрілкою</string>
+  <string name="timer_tutorial">"За годинниковою
+  стрілкою"</string>
   <string name="alarm_duration">Час сигналу та інтервали (хв.)</string>
   <string name="alarm_duration_title">Тривалість сигналу</string>
   <string name="alarm_count">Час сигналу перед автотишою (хв.)</string>
