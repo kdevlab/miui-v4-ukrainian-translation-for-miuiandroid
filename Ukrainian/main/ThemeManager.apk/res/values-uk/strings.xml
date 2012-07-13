@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="app_name">Теми</string>
   <string name="theme_activity_lable">Теми</string>
   <string name="theme_changing_dialog_title">Встановлення нової теми, зачекайте…</string>
@@ -77,4 +78,6 @@
   <string name="old_format_fail">Перетворення .mtz в новий формат не вдалося</string>
   <string name="old_format_convert_tip1">Тема не в новому форматі, перетворення може зайняти деякий час</string>
   <string name="old_format_convert_tip2">Ресурси можна видалити і оновити до нової версії через завантаження</string>
+  <string name="component_lockstyle_personal_title">Налаштування</string>
+  <string name="lockstyle_personal_settings">Персоналізація</string>
 </resources>
