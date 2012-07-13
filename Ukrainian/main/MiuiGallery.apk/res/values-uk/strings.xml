@@ -186,7 +186,8 @@
     <string name="already_saved">Фотографія збережена в: %s</string>
     <string name="failure_external_storage_not_writable">Зовнішній накопичувач не доступний для запису!</string>
     <string name="save_pic_error">Не вдалося зберегти картинку!</string>
-    <string name="save_pic_to_success">"Зображення збережено в %s"</string>
+    <string name="save_pic_to_success">"Зображення збережено в
+    %s"</string>
     <string name="save_to_sdcard">Зберегти на SD-карту</string>
     <string name="damaged_file">Файл пошкоджений</string>
     <string name="camera_folder_display_name">Фотографії</string>
@@ -277,4 +278,5 @@
     <string name="no_storage_title">Немає сховища</string>
     <string name="no_storage_message">Немає доступних зовнішніх носіїв</string>
     <string name="home_recent_albums">останній альбом</string>
+    <string name="show_details">Властивості</string>
 </resources>
