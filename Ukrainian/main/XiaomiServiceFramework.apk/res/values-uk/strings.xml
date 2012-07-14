@@ -37,7 +37,7 @@
   <string name="micloud_click_email_to_valid">Натисніть на посилання активації в поштовому ящику</string>
   <string name="micloud_resend_active_email">Знову відправити лист активації</string>
   <string name="micloud_about">" "Більше про MiCloud" "</string>
-  <string name="micloud_delete_account"Видалити акаунт</string>
+  <string name="micloud_delete_account">Видалити акаунт</string>
   <string name="micloud_active_email_sent_1">Ми відправили вам лист з посиланням активації на пошту: </string>
   <string name="micloud_click_email">Натисніть на посилання в листі активації для активації акаунту Xiaomi</string>
   <string name="completed">Завершено</string>
