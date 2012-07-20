@@ -465,4 +465,5 @@
   <string name="mx_enable">Включити хмарові повідомлення</string>
   <string name="mx_warning_notice">Повідомлення SMS було відправлено для активації хмарових повідомлень</string>
   <string name="need_download">Очікування синхронізації…</string>
+  <string name="no_sim">SIM-карта недоступна, хмарові повідомлення недоступні</string>
 </resources>
