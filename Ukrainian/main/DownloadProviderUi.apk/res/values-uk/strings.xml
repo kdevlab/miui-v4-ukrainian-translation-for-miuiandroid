@@ -67,4 +67,7 @@
     <string name="might_lead_to_mobile_charge">Після відміни завантаження через мережу оператора будуть відбуватись без попереджень. Це може призвести до витрат трафіку</string>
     <string name="download_complete">Скачані</string>
     <string name="download_in_process">В процесі</string>
+    <string name="editmode_menu_delete">Видалити</string>
+    <string name="editmode_menu_share">Відправити</string>
+    <string name="retry_after_network_available">Повторіть, коли мережа буде доступна</string>
 </resources>
