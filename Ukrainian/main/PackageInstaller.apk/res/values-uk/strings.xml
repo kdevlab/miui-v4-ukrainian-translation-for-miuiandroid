@@ -55,4 +55,5 @@
     <string name="Parse_error_dlg_title">Синтаксична помилка</string>
     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакету виникла проблема</string>
     <string name="uninstall_failed_retained_app_msg">Програма, встановлена оператором не може бути видалена</string>
+    <string name="caller_app">Запит від %1$s</string>
 </resources>
