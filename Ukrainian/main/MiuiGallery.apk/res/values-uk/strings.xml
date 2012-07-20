@@ -279,4 +279,9 @@
     <string name="no_storage_message">Немає доступних зовнішніх носіїв</string>
     <string name="home_recent_albums">останній альбом</string>
     <string name="show_details">Властивості</string>
+    <string name="cloud_gallery_space_full">Помилка відправки - онлайн-сховище заповнене</string>
+    <string name="cloud_media_set_set">Хмарові альбоми</string>
+    <string name="message_no_delete_access">Помилка доступу. Неможливо видалити файл чи папку: %s</string>
+    <string name="move_cloud_data">Дані хмарової галереї були переміщені в: %s</string>
+    <string name="no_storage_disable_cloud_albums">Хмарові альбоми заборонені, повторіть коли сховище буде доступне</string>
 </resources>
