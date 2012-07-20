@@ -112,4 +112,6 @@
     <string name="search_empty">Не знайдено</string>
     <string name="preferences_set_password_title">Задати пароль</string>
     <string name="preferences_set_password_summary">Потрібен глобальний пароль при запуску програми "Нотатки"</string>
+    <string name="button_new_note">Нова нотатка</string>
+    <string name="default_folder_name">Нотатки</string>
 </resources>
