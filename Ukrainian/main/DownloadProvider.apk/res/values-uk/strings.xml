@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_label">Диспетчер завантажень</string>
     <string name="permlab_downloadManager">Доступ до менеджера завантажень</string>
     <string name="permdesc_downloadManager">Програма отримає доступ до диспетчера завантажень і зможе завантажувати файли через нього. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
