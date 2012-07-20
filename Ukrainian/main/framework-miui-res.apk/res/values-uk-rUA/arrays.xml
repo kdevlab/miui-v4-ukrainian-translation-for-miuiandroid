@@ -16,7 +16,6 @@
         <item>China Mobile</item>
         <item>China Telecom</item>
     </string-array>
-    <array name="config_virtualKeyUpPattern" />
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
