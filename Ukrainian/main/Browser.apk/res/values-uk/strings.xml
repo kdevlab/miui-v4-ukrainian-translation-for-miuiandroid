@@ -431,4 +431,8 @@
   <string name="pref_lab_slide_tab_transitions">Переходи по вкладках</string>
   <string name="pref_lab_slide_tab_transitions_summary">Посуньте для перещенія на іншу вкладку у списку</string>
   <string name="help_page">Допомога</string>
+  <string name="crash_recovcery_message">Браузер був закритий з помилкою. Відновити останню сесію?</string>
+  <string name="manage_feature_permissions">Управління правами</string>
+  <string name="recover">Відновити</string>
+  <string name="recover_from_crash">Продовжити останню сесію</string>
  </resources>
