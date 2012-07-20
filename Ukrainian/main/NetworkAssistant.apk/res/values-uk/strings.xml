@@ -126,4 +126,10 @@
   <string name="traffic_exceed">Перевищено</string>
   <string name="force_stop_dlg_text">Завершення програми може призвести до помилок</string>
   <string name="force_stop_dlg_title">Завершити?</string>
+  <string name="adjust_traffic_sms_template_update">Обновити шаблон SMS</string>
+  <string name="adjust_traffic_update">Оновити</string>
+  <string name="sync_setting_city">Синхронізація з розміщенням</string>
+  <string name="update_fail">Помилка оновлення</string>
+  <string name="update_success">Успішно оновлено</string>
+  <string name="updating">Оновлення...</string>
 </resources>
