@@ -1137,8 +1137,8 @@
     <string name="action_bar_up_description">Перейти вгору</string>
     <string name="action_menu_overflow_description">Ще</string>
     <string name="storage_internal">Внутрішня пам\'ять</string>
-    <string name="storage_sd_card">Внутрішній накопичувач10</string>
-    <string name="storage_usb">SD-карта10</string>
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">Накопичувач</string>
     <string name="extract_edit_menu_button">Змінити...</string>
     <string name="data_usage_warning_title">Залишилось мало трафіку</string>
     <string name="data_usage_warning_body">Перевірити трафік і налаштування</string>
