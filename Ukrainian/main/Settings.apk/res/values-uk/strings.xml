@@ -47,7 +47,7 @@
   <string name="large_font">Великий</string>
   <string name="font_size_preview_text">Miui V4 Ukrainian</string>
   <string name="font_size_save">ОК</string>
-  <string name="sdcard_setting">SD-карта</string>
+  <string name="sdcard_setting">SD-карта1</string>
   <string name="battery_info_status_label">Стан батареї:</string>
   <string name="battery_info_power_label">Живлення:</string>
   <string name="battery_info_scale_label">Шкала батареї:</string>
@@ -222,7 +222,7 @@
   <string name="battery_info_label">Інформація про батарею</string>
   <string name="display_label">Екран</string>
   <string name="phone_info_label">Інформація про телефон</string>
-  <string name="sd_card_settings_label">SD-карта</string>
+  <string name="sd_card_settings_label">SD-карта2</string>
   <string name="proxy_settings_label">Налаштування проксі-сервера</string>
   <string name="cancel">Скасувати</string>
   <string name="settings_label">Налаштування</string>
@@ -696,7 +696,7 @@
   <string name="status_up_time">Час з моменту включення</string>
   <string name="status_awake_time">Час роботи</string>
   <string name="internal_memory">Внутрішня пам\'ять</string>
-  <string name="sd_memory">SD-карта</string>
+  <string name="sd_memory">SD-карта3</string>
   <string name="memory_available">Доступно</string>
   <string name="memory_size">Усього місця</string>
   <string name="memory_calculating_size">Йде підрахунок...</string>
@@ -924,7 +924,7 @@
   <string name="application_size_label">Програма</string>
   <string name="external_code_size_label">на USB-накопичувачі</string>
   <string name="data_size_label">Дані</string>
-  <string name="external_data_size_label">SD-карта</string>
+  <string name="external_data_size_label">SD-карта4</string>
   <string name="uninstall_text">Видалити</string>
   <string name="disable_text">Вимкнути</string>
   <string name="enable_text">Включити</string>
@@ -951,7 +951,7 @@
   <string name="disabled">Відключено</string>
   <string name="no_applications">Немає</string>
   <string name="internal_storage">Внутрішня пам\'ять</string>
-  <string name="sd_card_storage">SD-карта</string>
+  <string name="sd_card_storage">SD-карта5</string>
   <string name="recompute_size">Повторне обчислення розміру...</string>
   <string name="clear_data_dlg_title">Видалити дані програми?</string>
   <string name="clear_data_dlg_text">Всі дані цієї програми будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, акаунти і т.і.</string>
