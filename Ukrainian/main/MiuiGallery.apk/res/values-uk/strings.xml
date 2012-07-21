@@ -284,4 +284,5 @@
     <string name="message_no_delete_access">Помилка доступу. Неможливо видалити файл чи папку: %s</string>
     <string name="move_cloud_data">Дані хмарової галереї були переміщені в: %s</string>
     <string name="no_storage_disable_cloud_albums">Хмарові альбоми заборонені, повторіть коли сховище буде доступне</string>
+    <string name="cloud_albums">Хмарові альбоми</string>
 </resources>
