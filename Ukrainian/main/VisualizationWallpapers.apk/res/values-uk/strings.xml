@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="wallpaper_vis1">Візуалізатор</string>
-    <string name="wallpaper_vis2">Хвиля</string>
-    <string name="wallpaper_vis3">Спектр</string>
-    <string name="wallpaper_vis4">Волюметр</string>
-    <string name="wallpaper_vis5">Усе одразу</string>
-    <string name="wallpapers">Фонові зображення: аудіовізуалізація</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Форма звуку відтворюваного треку</string>
-    <string name="vis3_desc">Частотний спектр відтворюваного треку</string>
-    <string name="vis4_desc">Імитація аналогового волюметра</string>
-    <string name="vis5_desc">Показ усіх живих шпалер по черзі</string>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="author">Google</string>
+  <string name="vis2_desc">Форма звуку відтворюваного треку</string>
+  <string name="vis3_desc">Частотний спектр відтворюваного треку</string>
+  <string name="vis4_desc">Імитація аналогового волюметра</string>
+  <string name="vis5_desc">Показ усіх живих шпалер по черзі</string>
+  <string name="wallpaper_vis1">Візуалізатор</string>
+  <string name="wallpaper_vis2">Хвиля</string>
+  <string name="wallpaper_vis3">Спектр</string>
+  <string name="wallpaper_vis4">Волюметр</string>
+  <string name="wallpaper_vis5">Усе одразу</string>
+  <string name="wallpapers">Фонові зображення: аудіовізуалізація</string>
 </resources>
