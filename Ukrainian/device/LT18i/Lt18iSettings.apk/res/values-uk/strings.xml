@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
-  <string name="lt18i_settings">Налаштування Sony</string>
-  <string name="lt18i_settings_summary">Налаштування Sony</string>
-  <string name="swiqi_strings_swiqi_desc_txt">Підвищення якості фото і відео</string>
-  <string name="swiqi_strings_swiqi_txt">Mobile BRAVIA Engine</string>
-  <string name="xloud_strings_xloud_desc_txt">Динамічне збільшення об\'ємності звуку</string>
-  <string name="xloud_strings_xloud_txt">xLOUD™</string>
+    <string name="lt18i_settings">Налаштування Sony</string>
+    <string name="lt18i_settings_summary">Налаштування Sony</string>
+    <string name="xloud_strings_xloud_txt">xLOUD™</string>
+    <string name="xloud_strings_xloud_desc_txt">Динамічне збільшення об\'ємності звуку</string>
+    <string name="swiqi_strings_swiqi_txt">Mobile BRAVIA Engine</string>
+    <string name="swiqi_strings_swiqi_desc_txt">Підвищення якості фото і відео</string>
 </resources>

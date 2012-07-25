@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
-  <string name="app_name">Антивірус Jinshan</string>
-  <string name="hello">Hello World, MoSecurityProviderActivity!</string>
+    <string name="hello">Hello World, MoSecurityProviderActivity!</string>
+    <string name="app_name">Антивірус Jinshan</string>
 </resources>
