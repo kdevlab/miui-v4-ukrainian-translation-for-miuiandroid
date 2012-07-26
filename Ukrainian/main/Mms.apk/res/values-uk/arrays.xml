@@ -23,6 +23,10 @@
         <item>Посмішка</item>
         <item>Нічого не виражає обличчя</item>
     </string-array>
+    <string-array name="resent_via_entries">
+        <item>Через повідомлення</item>
+        <item>Через хмарові повідомлення</item>
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>
         <item>2 рази</item>
