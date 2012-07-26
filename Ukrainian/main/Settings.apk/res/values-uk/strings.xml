@@ -732,6 +732,7 @@
   <string name="input_methods_and_subtype_enabler_title">Виберіть активні способи введення</string>
   <string name="input_methods_settings_label_format">Налаштування %1$s</string>
   <string name="input_methods_settings_title">Введення тексту</string>
+  <string name="input_settings">Налаштування вводу</string>
   <string name="install_all_warning">Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що несете повну відповідальність за будь-який збиток, нанесений телефону, і втрату даних, пов\'язану з використанням цих програм</string>
   <string name="install_applications">Невідомі джерела</string>
   <string name="install_unknown_applications">Дозволити установку програм, отриманих не з Маркета</string>
@@ -1253,6 +1254,7 @@
   <string name="show_cpu_usage_summary">Екран, що показує поточне завантаження ЦП</string>
   <string name="show_fc">Показувати FC</string>
   <string name="show_fc_summary">Показувати усі FC для програм (вмикати небажано)</string>
+  <string name="show_magnifier_when_input">Показувати лупу</string>
   <string name="show_owner_info_on_lockscreen_label">Показувати дані про власника на екрані блокування</string>
   <string name="show_password">Показувати пароль</string>
   <string name="show_password_summary">Показувати пароль, який ви набираєте</string>
@@ -1751,4 +1753,3 @@
   <string name="zone_list_menu_sort_alphabetically">Упорядкувати за алфавітом</string>
   <string name="zone_list_menu_sort_by_timezone">Упорядкувати по часовому поясу</string>
 </resources>
-olkj
