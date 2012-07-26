@@ -72,6 +72,7 @@
   <string name="exposure_time">Витримка</string>
   <string name="facelift">Сяйво</string>
   <string name="facetan">Засмага</string>
+  <string name="fail_init_gallery_db_helper">Помилка выдкривання бази галереї. Диск заповнений. Програма буде закрита</string>
   <string name="fail_to_load">Не завантажено</string>
   <string name="failure_external_storage_not_writable">Зовнішній накопичувач не доступний для запису!</string>
   <string name="file_info_create_time">Створений:</string>
@@ -154,6 +155,7 @@
   <string name="no_file">Файли не знайдені</string>
   <string name="no_files">Папка порожня</string>
   <string name="no_location">Місце не вказано</string>
+  <string name="no_map_app">Немає програм з картами</string>
   <string name="no_recent_album">Альбоми можуть бути додані в обране для швидкого перегляду</string>
   <string name="no_storage_disable_cloud_albums">Хмарові альбоми заборонені, повторіть коли сховище буде доступне</string>
   <string name="no_storage_message">Немає доступних зовнішніх носіїв</string>
