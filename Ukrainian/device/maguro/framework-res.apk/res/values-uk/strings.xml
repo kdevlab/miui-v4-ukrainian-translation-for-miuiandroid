@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
-  <string name="BaMmi">Запрет вызовов</string>
+  <string name="BaMmi">Заборона вызовов</string>
   <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
   <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
   <string name="CLIRDefaultOnNextCallOff">Идентификация абонента по умолчанию запрещена. След. вызов: разрешена</string>
@@ -14,7 +14,7 @@
   <string name="CnipMmi">Вызывающий номер присутствует</string>
   <string name="CnirMmi">Вызывающий номер запрещен</string>
   <string name="CwMmi">Параллельный вызов</string>
-  <string name="DndMmi">Не беспокоить</string>
+  <string name="DndMmi">Не турбувати</string>
   <string name="Midnight">Полночь</string>
   <string name="Noon">Полдень</string>
   <string name="PinMmi">Смена PIN</string>
@@ -44,32 +44,32 @@
   <string name="accessibility_binding_label">Спец. возможности</string>
   <string name="action_bar_home_description">Перейти на главную</string>
   <string name="action_bar_up_description">Перейти вверх</string>
-  <string name="action_menu_overflow_description">Ещё</string>
+  <string name="action_menu_overflow_description">Ще</string>
   <string name="action_mode_done">Готово</string>
   <string name="activity_chooser_view_dialog_title_default">Выбор действия</string>
   <string name="activity_chooser_view_see_all">Просмотреть все</string>
   <string name="activity_list_empty">Подходящих действий не найдено</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
-  <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB.</string>
+  <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
   <string name="addToDictionary">добавить в словарь</string>
   <string name="add_account_button_label">Добавить аккаунт</string>
   <string name="add_account_label">Добавить аккаунт</string>
-  <string name="aerr_application">В приложении \"%1$s\" произошла ошибка.</string>
-  <string name="aerr_process">В приложении \"%1$s\" произошла ошибка.</string>
+  <string name="aerr_application">У програмі \"%1$s\" виникла поилка</string>
+  <string name="aerr_process">В процессі \"%1$s\" виникла поилка</string>
   <string name="aerr_title" />
-  <string name="allow">Разрешить</string>
+  <string name="allow">Дозволити</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-  <string name="android_upgrading_complete">Окончание загрузки...</string>
-  <string name="android_upgrading_starting_apps">Запуск приложений...</string>
-  <string name="android_upgrading_title">Обновление Android...</string>
-  <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
+  <string name="android_upgrading_apk">Оптимизація програми %1$d з %2$d</string>
+  <string name="android_upgrading_complete">Завершення завантаження...</string>
+  <string name="android_upgrading_starting_apps">Запуск програм...</string>
+  <string name="android_upgrading_title">Оновлення Android...</string>
+  <string name="anr_activity_application">"Програма \"%2$s\" не відповідає.
 
-Закрыть его?"</string>
+вона буде закрита"</string>
   <string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -217,24 +217,24 @@
   <string name="date_time">%2$s, %1$s</string>
   <string name="date_time_set">Установить</string>
   <string name="day">дн.</string>
-  <string name="day_of_week_long_friday">Пятница</string>
-  <string name="day_of_week_long_monday">Понедельник</string>
-  <string name="day_of_week_long_saturday">Суббота</string>
-  <string name="day_of_week_long_sunday">Воскресенье</string>
-  <string name="day_of_week_long_thursday">Четверг</string>
-  <string name="day_of_week_long_tuesday">Вторник</string>
-  <string name="day_of_week_long_wednesday">Среда</string>
+  <string name="day_of_week_long_friday">П\'ятница</string>
+  <string name="day_of_week_long_monday">Понеділок</string>
+  <string name="day_of_week_long_saturday">Субота</string>
+  <string name="day_of_week_long_sunday">Неділя</string>
+  <string name="day_of_week_long_thursday">Четвер</string>
+  <string name="day_of_week_long_tuesday">Вівторок</string>
+  <string name="day_of_week_long_wednesday">Середа</string>
   <string name="day_of_week_medium_friday">Пт</string>
   <string name="day_of_week_medium_monday">Пн</string>
   <string name="day_of_week_medium_saturday">Сб</string>
-  <string name="day_of_week_medium_sunday">Вс</string>
+  <string name="day_of_week_medium_sunday">Нд</string>
   <string name="day_of_week_medium_thursday">Чт</string>
   <string name="day_of_week_medium_tuesday">Вт</string>
   <string name="day_of_week_medium_wednesday">Ср</string>
   <string name="day_of_week_short_friday">Пт</string>
   <string name="day_of_week_short_monday">Пн</string>
   <string name="day_of_week_short_saturday">Сб</string>
-  <string name="day_of_week_short_sunday">Вс</string>
+  <string name="day_of_week_short_sunday">Нд</string>
   <string name="day_of_week_short_thursday">Чт</string>
   <string name="day_of_week_short_tuesday">Вт</string>
   <string name="day_of_week_short_wednesday">Ср</string>
@@ -247,12 +247,12 @@
   <string name="day_of_week_shortest_wednesday">С</string>
   <string name="days">дн.</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
+  <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
   <string name="default_permission_group">По умолчанию</string>
   <string name="default_text_encoding">Latin-1</string>
   <string name="default_wallpaper_component">com.android.wallpaper/.nexus.NexusWallpaper</string>
-  <string name="delete">Удалить</string>
-  <string name="deleteText">удалить</string>
+  <string name="delete">Видалити</string>
+  <string name="deleteText">видалити</string>
   <string name="deny">Отклонить</string>
   <string name="description_direction_down">Проведите вниз, чтобы %s.</string>
   <string name="description_direction_left">Проведите влево, чтобы %s.</string>
@@ -265,12 +265,12 @@
   <string name="description_target_unlock_tablet">Проведите для разблокировки.</string>
   <string name="dial_number_using">"Набрать номер
 %s"</string>
-  <string name="dialog_alert_title">Внимание</string>
+  <string name="dialog_alert_title">Увага</string>
   <string name="dlg_confirm_kill_storage_users_text">При включении USB-накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB-накопителя.</string>
   <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
   <string name="dlg_error_title">Ошибка при подключении USB</string>
   <string name="dlg_ok">ОК</string>
-  <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб.</string>
+  <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб</string>
   <string name="editTextMenuTitle">Операции с текстом</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -334,8 +334,8 @@
   <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
   <string name="gpsNotifTitle">Запрос местоположения</string>
-  <string name="gpsVerifNo">Нет</string>
-  <string name="gpsVerifYes">Да</string>
+  <string name="gpsVerifNo">Ні</string>
+  <string name="gpsVerifYes">Так</string>
   <string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
   <string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем.</string>
   <string name="grant_permissions_header_text">Запрос доступа</string>
@@ -386,7 +386,7 @@
   <string name="ime_action_go">Выбрать</string>
   <string name="ime_action_next">Далее</string>
   <string name="ime_action_previous">Пред.</string>
-  <string name="ime_action_search">Поиск</string>
+  <string name="ime_action_search">Пошук</string>
   <string name="ime_action_send">Отправить</string>
   <string name="inputMethod">Способ ввода</string>
   <string name="input_method_binding_label">Способ ввода</string>
@@ -1047,7 +1047,7 @@
   <string name="roamingText7">Роуминг – ассоциированный партнер</string>
   <string name="roamingText8">Роуминг – основной партнер</string>
   <string name="roamingText9">Роуминг – полная функциональность службы</string>
-  <string name="roamingTextSearching">Поиск службы</string>
+  <string name="roamingTextSearching">Пошук служби</string>
   <string name="safeMode">Безопасный режим</string>
   <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
   <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
@@ -1074,29 +1074,29 @@
   <string name="screen_compat_mode_scale">Масштаб</string>
   <string name="screen_compat_mode_show">Всегда показывать</string>
   <string name="screen_lock">Блокировка экрана</string>
-  <string name="search_go">Поиск</string>
-  <string name="searchview_description_clear">Удалить запрос</string>
-  <string name="searchview_description_query">Поисковый запрос</string>
-  <string name="searchview_description_search">Поиск</string>
+  <string name="search_go">Пошук</string>
+  <string name="searchview_description_clear">Видалити запит</string>
+  <string name="searchview_description_query">Пошуковий запит</string>
+  <string name="searchview_description_search">Пошук</string>
   <string name="searchview_description_submit">Отправить запрос</string>
-  <string name="searchview_description_voice">Голосовой поиск</string>
+  <string name="searchview_description_voice">Голосовий пошук</string>
   <string name="second">с.</string>
   <string name="seconds">с.</string>
-  <string name="selectAll">Выбрать все</string>
-  <string name="selectTextMode">Выбрать текст...</string>
+  <string name="selectAll">Обрати все</string>
+  <string name="selectTextMode">Обрати текст...</string>
   <string name="select_character">Введите символ</string>
-  <string name="select_input_method">Выберите способ ввода</string>
-  <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка...</string>
-  <string name="serial_number">Серийный номер:</string>
-  <string name="serviceClassData">Данные</string>
+  <string name="select_input_method">Оберіть способ введення</string>
+  <string name="sendText">Оберіть дію для тексту</string>
+  <string name="sending">Відравлення...</string>
+  <string name="serial_number">Серійний номер:</string>
+  <string name="serviceClassData">Дані</string>
   <string name="serviceClassDataAsync">Асинхр.</string>
   <string name="serviceClassDataSync">Синхр.</string>
   <string name="serviceClassFAX">ФАКС</string>
   <string name="serviceClassPAD">PAD</string>
   <string name="serviceClassPacket">Пакет</string>
   <string name="serviceClassSMS">SMS</string>
-  <string name="serviceClassVoice">Голосовая связь</string>
+  <string name="serviceClassVoice">Голосовий зв\'язок</string>
   <string name="serviceDisabled">Служба отключена.</string>
   <string name="serviceEnabled">Служба включена.</string>
   <string name="serviceEnabledFor">Служба подключена для:</string>
@@ -1230,9 +1230,9 @@
   <string name="wday_date">%2$s, %3$s</string>
   <string formatted="false" name="web_user_agent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
   <string name="web_user_agent_target_content">"Мобильный "</string>
-  <string name="websearch">Веб-поиск</string>
-  <string name="week">нед.</string>
-  <string name="weeks">нед.</string>
+  <string name="websearch">Веб-пошук</string>
+  <string name="week">тиж.</string>
+  <string name="weeks">тиж.</string>
   <string name="whichApplication">Что использовать?</string>
   <string name="wifi_available_sign_in">Регистрации в сети Wi-Fi</string>
   <string name="wifi_available_sign_in_detailed">%1$s</string>
@@ -1247,8 +1247,8 @@
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
-  <string name="year">г.</string>
-  <string name="years">г.</string>
+  <string name="year">р.</string>
+  <string name="years">р.</string>
   <string name="yes">ОК</string>
-  <string name="yesterday">Вчера</string>
+  <string name="yesterday">Вчора</string>
 </resources>
