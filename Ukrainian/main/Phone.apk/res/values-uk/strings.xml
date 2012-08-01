@@ -134,7 +134,7 @@
   <string name="call_forwarding_settings_miui">Налаштування переадресації виклику</string>
   <string name="call_log_number_limit_key_title">Максимально</string>
   <string name="call_log_number_limit_miui">Обмеження списку виклику</string>
-  <string name="call_log_number_limit_setting_switcher">Ограничения</string>
+  <string name="call_log_number_limit_setting_switcher">Обмеження</string>
   <string name="call_log_number_limit_setting_switcher_summary">Максимальний розмір журналу викликів для забезпечення ефективності</string>
   <string name="call_log_number_limit_setting_title">Параметри зберігання</string>
   <string name="call_log_number_limit_subsummary">%d записів</string>
