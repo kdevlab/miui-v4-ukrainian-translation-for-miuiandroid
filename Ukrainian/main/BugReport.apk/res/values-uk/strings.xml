@@ -2,6 +2,7 @@
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
   <string name="app_label">Зворотній зв\'язок</string>
+  <string name="btn_send">Відправити</string>
   <string name="description">Опис (обов\'язково)</string>
   <string name="info_board">Платформа</string>
   <string name="info_brand">Виробник </string>
@@ -26,6 +27,7 @@
   <string name="info_systemlog">Системний журнал</string>
   <string name="info_timestamp">Час</string>
   <string name="info_uilanguage">Мова інтерфейсу</string>
+  <string name="menu_copy">Копіювати</string>
   <string name="menu_preview">Перегляд звіту</string>
   <string name="menu_send">Надіслати звіт</string>
   <string name="msg_generate_bugreport">Генерація звіту про помилку..</string>
@@ -36,11 +38,14 @@
   <string name="privacy_screenshot_desc">Відправити вибрані скріншоти</string>
   <string name="privacy_system_log">Системні дані</string>
   <string name="privacy_system_log_desc">Увімкнути системні дані MIUI, для кращого діагностування проблеми</string>
-  <string name="report_miui">Звіт MIUI</string>
+  <string name="report_miui">Відправити в KDev Group</string>
   <string name="section_feedback">Зворотній зв\'язок</string>
-  <string name="section_privacy">Конфіденційність </string>
+  <string name="section_privacy">Конфіденційність</string>
   <string name="toast_description_length_too_short">Відгук повинен містити хоча б 10 символів</string>
   <string name="toast_description_required">Відгук користувача не може бути порожнім</string>
+  <string name="toast_report_copied_to_clipboard">Звіт скопійовано в буфер обміну</string>
+  <string name="toast_report_sent_failed">Помилка відправлення звіту</string>
+  <string name="toast_report_sent_succeed">Звіт був успішно відправлений</string>
   <string name="user_feedback">Відгуки</string>
   <string name="user_feedback_preview">Передпроглядання відгука</string>
 </resources>
