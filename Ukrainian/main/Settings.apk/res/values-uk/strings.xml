@@ -1537,8 +1537,8 @@
   <string name="vibrate_in_normal_title">Вібрація в звичайному режимі</string>
   <string name="vibrate_in_silent_title">Вібродзвінок без звуку</string>
   <string name="vibrate_on_ring_title">Вібросигнал і рінгтон</string>
-  <string name="voice_category">Голосовий введення</string>
-  <string name="voice_input_output_settings">Голосовий введення і виведення</string>
+  <string name="voice_category">Голосове введення</string>
+  <string name="voice_input_output_settings">Голосове введення і виведення</string>
   <string name="voice_input_output_settings_title">Налаштування голосового введення і виведення</string>
   <string name="voice_search_settings_title">Голосовий пошук</string>
   <string name="voice_summary">Виберіть підписку для голосових викликів</string>
