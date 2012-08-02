@@ -178,7 +178,7 @@
   <string name="settings_show_network_speed">Швидкість мережі</string>
   <string name="settings_toggle">Перемикачі</string>
   <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
-  <string name="settings_toggle_layout_style">Стиль статус бару</string>
+  <string name="settings_toggle_layout_style">Стиль статусбару</string>
   <string name="settings_toggle_layout_style_applying">Застосування стилю перемикачів...</string>
   <string name="settings_toggle_layout_style_compact">Компакт</string>
   <string name="settings_toggle_layout_style_single_page">Повний</string>
