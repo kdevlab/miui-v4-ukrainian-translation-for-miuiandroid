@@ -192,8 +192,8 @@
   <string name="status_bar_do_not_disturb_button">Не турбувати</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
   <string name="status_bar_latest_events_title">Повідомлення</string>
-  <string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s | Всього:%3$s</string>
-  <string name="status_bar_network_flow_exceed">"Сьогодні: %1$s | Залишилось: %2$s | Програми:%3$s"</string>
+  <string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s</string>
+  <string name="status_bar_network_flow_exceed">"Сьогодні: %1$s | Залишилось: %2$s"</string>
   <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
   <string name="status_bar_network_name_separator">""</string>
   <string name="status_bar_no_notifications_title">Немає повідомлень</string>
