@@ -5,7 +5,7 @@
   <string name="about_settings_summary">Перегляд юридичної інформації, стану планшетного ПК і версії ПЗ</string>
   <string name="ac_enable_title">Обмеження доступу</string>
   <string name="ac_privacy_mode_title">Режим гостя</string>
-  <string name="ac_set_apps_title">сховати програми</string>
+  <string name="ac_set_apps_title">Захист програм</string>
   <string name="accelerometer_summary_off">Не міняти орієнтацію екрану при повороті телефону</string>
   <string name="accelerometer_summary_on">Автоматично міняти орієнтацію екрану при повороті телефону</string>
   <string name="accelerometer_title">Автоповорот екрану</string>
@@ -683,8 +683,15 @@
   <string name="filter_dlg_title">Виберіть параметри фільтру</string>
   <string name="finish_button_label">Готово</string>
   <string name="firmware_version">Версія Android</string>
+  <string name="font_size_huge">Величезний</string>
+  <string name="font_size_large">Великий</string>
+  <string name="font_size_medium">Середній</string>
+  <string name="font_size_normal">Нормальний</string>
+  <string name="font_size_preview">KDG</string>
   <string name="font_size_preview_text">Miui V4 Ukrainian</string>
   <string name="font_size_save">ОК</string>
+  <string name="font_size_small">Маленький</string>
+  <string name="font_size_summary">Налаштування разміру шрифту в програмах (Телефон, Повідомлення, Контакти ти інші)</string>
   <string name="force_hw_ui">Прискорити роботу GPU</string>
   <string name="force_hw_ui_summary">Використовувати апаратне прискорення 2D в програмах</string>
   <string name="force_stop">Зупинити</string>
