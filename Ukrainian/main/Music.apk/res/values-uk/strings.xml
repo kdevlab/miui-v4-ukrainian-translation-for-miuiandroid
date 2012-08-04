@@ -66,6 +66,7 @@
   <string name="fade_effect_settings">Плавний перехід</string>
   <string name="fade_effect_summary">Увімкнути загасання між кожною піснею</string>
   <string name="fast_scroll_alphabet">"ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="file_not_found">Файл не знайдений</string>
   <string name="filter_by_duration">Фільтр по тривалості</string>
   <string name="filter_by_duration_format">%2$d:%5$02d</string>
   <string name="filter_by_duration_max">5 хв</string>
@@ -120,6 +121,7 @@
   <string name="modify_id3_for_selected">Буде відредагована інформація ID3 обраних пісень</string>
   <string name="modify_meta">Змінити</string>
   <string name="modify_tracks_id3_background">Змінити ID3 обраної пісні у фоновому режимі</string>
+  <string name="music_browser_label">Музика</string>
   <string name="music_filter">Фільтр розміру музичних файлів</string>
   <string name="music_filter_helper">Приховувати файли, які не пов\'язані з музикою. Застосовується розмір фільтра 800K, щоб приховати ці файли від відображення. Поріг можна налаштувати в меню Налаштування / Файловий фільтр</string>
   <string name="music_picker_title">Виберіть трек</string>
@@ -131,6 +133,7 @@
   <string name="new_playlist_name_template">Новий плейлист %d</string>
   <string name="no_effect">Відключений</string>
   <string name="no_tracks_title">Немає пісень</string>
+  <string name="not_selected">Будь-ласка, виберіть пісню</string>
   <string name="notification_artist_album">%2$s %1$s</string>
   <string name="nowplaying_title">Програється</string>
   <string name="online_indicator">-онлайн</string>
