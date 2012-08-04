@@ -2,6 +2,14 @@
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
   <string name="all_resources">Усе</string>
+  <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
+  <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
+  <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
+  <string name="android_lockscreen_glogin_invalid_input">@android:string/lockscreen_glogin_invalid_input</string>
+  <string name="android_lockscreen_glogin_password_hint">@android:string/lockscreen_glogin_password_hint</string>
+  <string name="android_lockscreen_glogin_submit_button">@android:string/lockscreen_glogin_submit_button</string>
+  <string name="android_lockscreen_glogin_too_many_attempts">@android:string/lockscreen_glogin_too_many_attempts</string>
+  <string name="android_today">@android:string/today</string>
   <string name="arbor_day" />
   <string name="autumn_begins" />
   <string name="autumn_equinox" />
@@ -373,6 +381,8 @@
   <string name="payphone">Таксофон</string>
   <string name="perm_activate_dspt">Відправити повідомлення для активації сервису Xiaomi?</string>
   <string name="perm_activate_lab">Активація сервісу Xiaomi</string>
+  <string name="perm_get_user_info_dspt">Отримати детальну інформацію про акаунт Xiaomi</string>
+  <string name="perm_get_user_info_lab">Отримати інформацію про акаунт Xiaomi</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Вимкнення живлення...</string>
   <string name="private_num">Прихований номер</string>
@@ -452,5 +462,4 @@
   <string name="wifi_tether_configure_ssid_default">Android AP</string>
   <string name="winter_begins" />
   <string name="winter_solstice" />
-  <string name="xiaomi_account_type">com.xiaomi</string>
-</resources>
+  </resources>
