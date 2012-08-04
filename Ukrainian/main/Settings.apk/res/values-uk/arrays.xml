@@ -24,16 +24,7 @@
         <item>10 хвилин</item>
         <item>30 хвилин</item>
     </string-array>
-	<string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
+        <string-array name="dream_timeout_entries">
         <item>Ніколи</item>
         <item>15 секунд</item>
         <item>30 секунд</item>
@@ -43,17 +34,7 @@
         <item>10 хвилин</item>
         <item>30 хвилин</item>
     </string-array>
-	<string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
-    <string-array name="lock_after_timeout_entries">
+	<string-array name="lock_after_timeout_entries">
         <item>Негайно</item>
         <item>5 секунд</item>
         <item>15 секунд</item>
@@ -63,17 +44,6 @@
         <item>5 хвилин</item>
         <item>10 хвилин</item>
         <item>30 хвилин</item>
-    </string-array>
-	<string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Дрібний</item>
@@ -326,28 +296,46 @@
         <item>Зарядка</item>
         <item>Підключити SD-карту</item>
     </string-array>
+    <string-array name="led_color_values">
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+    </string-array>
     <string-array name="led_color_entries">
-        <item>Білий</item>
         <item>Зелений</item>
         <item>Червоний</item>
         <item>Синій</item>
         <item>Жовтий</item>
-        <item>Блакитний</item>
-        <item>Пурпурний</item>
+        <item>Голубий</item>
+        <item>Фіолетовий</item>
         <item>Рожевий</item>
-        <item>Помаранчевий</item>
-        <item>Сапфір</item>
+        <item>Оранжевий</item>
+    </string-array>
+    <string-array name="led_color_values_for_mione">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+        <item>\#FF00FF55</item>
+        <item>\#FF00AAAA</item>
+        <item>\#FF0033FF</item>
     </string-array>
     <string-array name="led_color_entries_for_mione">
-        <item>Білий</item>
-        <item>Зелений</item>
-        <item>Червоний</item>
         <item>Синій</item>
-        <item>Жовтий</item>
-        <item>Блакитний</item>
-        <item>Пурпурний</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
         <item>Рожевий</item>
-        <item>Помаранчевий</item>
+        <item>Фіолетовий</item>
+        <item>Пурпуровий</item>
+        <item>Смарагдовий</item>
+        <item>Голубий</item>
         <item>Сапфір</item>
     </string-array>
     <string-array name="multi_sim_entries">
