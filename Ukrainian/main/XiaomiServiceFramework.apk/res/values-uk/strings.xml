@@ -5,10 +5,15 @@
   <string name="account">Акаунт</string>
   <string name="account_hint_text">Електронна пошта</string>
   <string name="account_name">Акаунт: %1$s</string>
+  <string name="activate_fail_notification_title">Помилка активації</string>
+  <string name="activating">Активація...</string>
   <string name="alert_title_remove_account">Видалити акаунт</string>
   <string name="app_name">Менеджер акаунтів Xiaomi</string>
   <string name="bad_authentication">Неправильний пароль або ім\'я користувача</string>
   <string name="basic_info">Загальна інформація</string>
+  <string name="btn_activate">Активувати</string>
+  <string name="check_phone_error_title">Помилка синхронізації</string>
+  <string name="check_phone_io_error">Помилка мережі</string>
   <string name="completed">Завершено</string>
   <string name="confirm">Підтвердити</string>
   <string name="data_keep_in_phone">Залишити на моєму пристої</string>
@@ -61,6 +66,7 @@
   <string name="micloud_waiting">Очікування...</string>
   <string name="micloud_welcome_banner">Акаунт Xiaomi</string>
   <string name="next">Далі</string>
+  <string name="no_sim">Немає SIM-карти, неможливо синхронізувати</string>
   <string name="password">Пароль</string>
   <string name="password_hint_text">6~16 знаків</string>
   <string name="prev">Назад</string>
@@ -69,6 +75,9 @@
   <string name="reg_failed">Помилка реєстрації</string>
   <string name="remove_account_notice">Що ви хочете зробити з попередньо синхронізованими повідомленнями, контактами, журналами викликів і нотатками на пристрої?</string>
   <string name="send_sms_for_sync_notice">Для активації потрібно відправити SMS, продовжити?</string>
+  <string name="send_sms_for_sync_title">Не активовано</string>
+  <string name="sim_changed_notification_content">SIM не активована, будь-ласка активуйте</string>
+  <string name="sim_changed_reactivate_notice">SIM-карта не активна. Необхідно відправити повідомлення для активації сервісу, активувати зараз?</string>
   <string name="sub_sync_big_photo_item_summary">Рекомендується включити, інакше буде витрачатись трафік</string>
   <string name="sub_sync_big_photo_item_title_wifi_only">Тільки Wi-Fi для відображення фото</string>
   <string name="sub_sync_item_gallery_summary">Рекомендується включити, інакше буде витрачатись трафік</string>
