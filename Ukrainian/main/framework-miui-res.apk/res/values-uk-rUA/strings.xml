@@ -4,7 +4,7 @@
   <string name="all_resources">Усе</string>
   <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
   <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
-  <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
+  <string name="android_lockscreen_glogin_instructions">Щоб розблокувати, увійдіть до свого акаунту</string>
   <string name="android_lockscreen_glogin_invalid_input">@android:string/lockscreen_glogin_invalid_input</string>
   <string name="android_lockscreen_glogin_password_hint">@android:string/lockscreen_glogin_password_hint</string>
   <string name="android_lockscreen_glogin_submit_button">@android:string/lockscreen_glogin_submit_button</string>
