@@ -53,7 +53,19 @@
     </plurals>
     <plurals name="abbrev_in_num_seconds">
         <item quantity="other">через %d сек.</item>
+        <item quantity="one">через 1 с.</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d мин.</item>
+        <item quantity="one">через 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">через %d ч.</item>
         <item quantity="one">через 1 секунду</item>
+    </plurals>
+ <plurals name="abbrev_in_num_days">
+        <item quantity="other">через %d дн.</item>
+        <item quantity="one">завтра</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Доступна мережа Wi-Fi</item>

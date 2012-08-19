@@ -55,7 +55,7 @@
   <string name="addToDictionary">Додати \"%s\" до словника</string>
   <string name="add_account_button_label">Додати акаунт</string>
   <string name="add_account_label">Додати акаунт</string>
-  <string formatted="false" name="aerr_application">Програма %1$s (процес %2$s) несподівано припинила роботу. Спробуйте ще раз.</string>
+  <string name="aerr_application">Програма %1$s (процес %2$s) несподівано припинила роботу. Спробуйте ще раз.</string>
   <string name="aerr_process">Процес %1$s несподівано зупинився. Спробуйте ще раз.</string>
   <string name="aerr_title">Вибачте!</string>
   <string name="allow">Дозволити</string>
@@ -69,14 +69,14 @@
   <string formatted="false" name="anr_activity_application">Завдання %1$s (у програмі %2$s) не відповідає.
     	
 	Закрити її?</string>
-  <string formatted="false" name="anr_activity_process">Завдання %1$s (у процесі %2$s) не відповідає.
+  <string name="anr_activity_process">Завдання %1$s (у процесі %2$s) не відповідає.
     
 	Закрити її?</string>
-  <string formatted="false" name="anr_application_process">Програма %1$s (у процесі %2$s) не відповідає.
+  <string name="anr_application_process">Програма %1$s (у процесі %2$s) не відповідає.
     
 	Закрити її?</string>
-  <string name="anr_process">Процес %1$s не відповідає.</string>
-  <string name="anr_title">Вибачте!</string>
+  <string name="anr_process">Процес %1$s не відповідає</string>
+  <string name="anr_title"/>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -363,9 +363,6 @@
   <string name="keyguard_password_entry_touch_hint" />
   <string name="keyguard_password_wrong_pin_code">Неправильний PIN-код!</string>
   <string name="kilobyteShort">КБ</string>
-  <string name="l2tp_ipsec_crt_vpn_description">Віртуальна приватна мережа L2TP/IPSec на основі сертифіката</string>
-  <string name="l2tp_ipsec_psk_vpn_description">Віртуальна приватна мережа L2TP/IPSec на основі спільного ключа</string>
-  <string name="l2tp_vpn_description">Протокол тунелювання рівня 2</string>
   <string name="last_month">Минулого місяця</string>
   <string name="launchBrowserDefault">Запустити браузер?</string>
   <string name="launch_warning_original">Було запущено %1$s.</string>
@@ -1171,6 +1168,10 @@
   <string name="volume_notification">Гучність сповіщення</string>
   <string name="volume_ringtone">Гучність дзвінка</string>
   <string name="volume_unknown">Гучність</string>
+  <string name="vpn_text">Натисніть тут, для налаштування мережі</string>
+  <string name="vpn_text_long">Підключено: \"%s\". Натисніть тут, для налаштування мережі</string>
+  <string name="vpn_title">VPN-мережа активна</string>
+  <string name="vpn_title_long">Мережа VPN активована програмою %s</string>
   <string name="wait">Зачекати</string>
   <string name="wallpaper_binding_label">Шпалери</string>
   <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>

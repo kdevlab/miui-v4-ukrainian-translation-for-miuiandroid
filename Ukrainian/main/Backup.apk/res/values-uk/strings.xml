@@ -3,6 +3,7 @@
   <!--Translated with KDev Group Translator Editor (main repository)-->
   <string name="account_login">Увійти в систему</string>
   <string name="account_summary">- Налаштування облікового запису</string>
+  <string name="already_enable_encrypt">Включить шифрование</string>
   <string name="app_name">Бекап</string>
   <string name="auto_backup">Автоматично</string>
   <string name="auto_backup_choose">Вибрані елементи</string>

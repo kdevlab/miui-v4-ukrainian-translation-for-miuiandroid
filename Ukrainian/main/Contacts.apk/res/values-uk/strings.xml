@@ -45,7 +45,7 @@
   <string name="call_home">Домашній тел.</string>
   <string name="call_isdn">Номер ISDN</string>
   <string name="call_log_empty_gecode">-</string>
-  <string formatted="false" name="call_log_item_count_and_date">(%1$d)%2$s</string>
+  <string name="call_log_item_count_and_date">(%1$d)%2$s</string>
   <string name="call_log_new_header">Нові</string>
   <string name="call_log_old_header">Раніше</string>
   <string name="call_main">Основний телефон</string>
@@ -463,11 +463,11 @@
   <string name="non_phone_close">Закрити</string>
   <string name="not_applied">Не підтримується</string>
   <string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
-  <string formatted="false" name="notification_voicemail_callers_list">%1$s,%2$s</string>
+  <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
   <string name="openDialKeyboard">Клавіатура</string>
   <string name="open_contact">Відкрити контакт</string>
   <string name="organizationLabelsGroup">Організація</string>
-  <string formatted="false" name="organization_company_and_title">%2$s,%1$s</string>
+  <string name="organization_company_and_title">%2$s,%1$s</string>
   <string name="payphone">Телефон-автомат</string>
   <string name="people">Контакти</string>
   <string name="percentage">%s%%</string>
@@ -661,6 +661,7 @@
   <string name="voicemail_status_messages_waiting">Не вдалося підключитися до сервера. Є нові повідомлення</string>
   <string name="voicemail_status_voicemail_not_available">Не вдалося підключитися до сервера голосової пошти</string>
   <string name="websiteLabelsGroup">Веб-сайт</string>
-  <string formatted="false" name="widget_name_and_phonetic">%1$s(%2$s)</string>
+  <string name="widget_name_and_phonetic">%1$s(%2$s)</string>
   <string name="wipe_data">Очистити дані</string>
+  <string name="select_show_contacts">Відображення контактів</string>
 </resources>

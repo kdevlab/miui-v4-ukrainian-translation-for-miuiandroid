@@ -118,5 +118,5 @@
   <string name="upload_line5">Відправлення файлу...</string>
   <string name="upload_succ_line5">Файл відправлений</string>
   <string name="upload_succ_ok">ОК</string>
-  <string name="upload_success">Відправлено: %1$s.</string>
+  <string name="upload_success">Відправлено: %1$s</string>
 </resources>
