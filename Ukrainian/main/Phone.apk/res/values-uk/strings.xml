@@ -277,6 +277,7 @@
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Не налагоджено&gt;</string>
   <string name="default_transport">UDP</string>
+  <string name="delete_all_sim_contacts_miui">Видалити усы контакти з SIM-карти</string>
   <string name="delete_fdn_contact">Видалити номер обмеженого набору</string>
   <string name="delete_selected_sim_entry_miui">Видалити вибрані контакти</string>
   <string name="delete_sim_contact_confirm_title_miui">Видалити контакти з SIM</string>

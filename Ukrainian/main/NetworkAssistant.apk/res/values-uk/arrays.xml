@@ -18,20 +18,6 @@
         <item>Сьогодні WLAN</item>
         <item>За місяць WLAN</item>
     </string-array>
-    <string-array name="carriers">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
-    </string-array>
-    <string-array name="brands_cmcc">
-        <item>GSM</item>
-        <item>M-Zone</item>
-        <item>Easyown</item>
-    </string-array>
-    <string-array name="brands_unicom">
-        <item>Unicom 2G</item>
-        <item>Unicom 3G</item>
-    </string-array>
     <string-array name="date_of_app">
         <item>За вчора</item>    
         <item>За сьогодні</item>
@@ -45,5 +31,11 @@
         <item>7 сек</item>
         <item>8 сек</item>
         <item>9 сек</item>
+    </string-array>
+    <string-array name="traffic_uints">
+        <item>" байт"</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
     </string-array>
 </resources>

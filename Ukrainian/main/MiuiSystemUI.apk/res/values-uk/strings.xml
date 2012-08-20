@@ -36,7 +36,7 @@
   <string name="accessibility_no_sim">SIM-карта відсутня</string>
   <string name="accessibility_no_wifi">Відсутнє підключення до Wi-Fi</string>
   <string name="accessibility_no_wimax">Немає сигналу WiMAX</string>
-  <string name="accessibility_notifications_button">Повідомлення</string>
+  <string name="accessibility_notifications_button">Cповіщення</string>
   <string name="accessibility_phone_one_bar">Сигнал телефонної мережі: одна поділка</string>
   <string name="accessibility_phone_signal_full">Надійний телефонний сигнал</string>
   <string name="accessibility_phone_three_bars">Сигнал телефонної мережі: три поділки</string>
@@ -62,7 +62,8 @@
   <string name="battery_indicator_style">Стиль індикатора батареї</string>
   <string name="battery_low_percent_format">Залишилося: %d%%</string>
   <string name="battery_low_subtitle">Батарея розряджена</string>
-  <string name="battery_low_title">Підключіть зарядний пристрій</string>
+  <string name="battery_low_title">Низький рівень заряду батареї.
+  Підключіть зарядний пристрій</string>
   <string name="battery_low_why">Статистика</string>
   <string name="bluetooth_tethered">Загальний модем доступний через Bluetooth</string>
   <string name="call_status_dialing">Виклик</string>
@@ -275,12 +276,12 @@
   <string name="usb_storage_error_message">Помилка підключення</string>
   <string name="usb_storage_message">Ви підключили телефон до комп\'ютера через USB. Натисніть кнопку якщо ви хочете скопіювати файли між комп\'ютером і телефоном</string>
   <string name="usb_storage_notification_message">Виберіть файли для копіювання з/на ваш комп\'ютер</string>
-  <string name="usb_storage_notification_title">USB-підключено</string>
+  <string name="usb_storage_notification_title">USB-кабель підключений</string>
   <string name="usb_storage_stop_message">Перед відключенням USB-з\'єднання, упевніться що ви розмонтувати USB на вашому комп\'ютері</string>
   <string name="usb_storage_stop_notification_message">Виберіть для відключення режиму накопичувача</string>
   <string name="usb_storage_stop_notification_title">Вимкнути режим накопичувача</string>
   <string name="usb_storage_stop_title">Режим накопичувача використовується</string>
-  <string name="usb_storage_title">USB-підключено</string>
+  <string name="usb_storage_title">USB-кабель підключений</string>
   <string name="use_mtp_button_title">Підключити як мультимедійний програвач (MTP)</string>
   <string name="use_ptp_button_title">Встановити як камеру (PTP)</string>
   <string name="user_guide_for_call">Повернутися до телефонної розмови можна, перетягнувши панель повідомлень вниз і натиснувши кнопку Поточний виклик</string>

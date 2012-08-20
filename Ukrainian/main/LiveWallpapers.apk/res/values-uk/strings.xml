@@ -2,7 +2,7 @@
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
   <string name="clock_settings">Полярний годинник: налаштування</string>
-  <string name="palette">Колірна палітра</string>
+  <string name="palette">Кольорова палітра</string>
   <string name="palette_black_c">Чорна діра (анімація)</string>
   <string name="palette_gray">Сталь</string>
   <string name="palette_halloween">Гарбузовий пиріг</string>

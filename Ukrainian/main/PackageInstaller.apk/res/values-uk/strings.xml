@@ -33,7 +33,7 @@
   <string name="install_failed_older_sdk">Цей пакет підтримується тільки в системі Android більш пізніх версій</string>
   <string name="install_failed_verify_failed">Пакет не перевірений і не може бути встановлений</string>
   <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте встановити його пізніше</string>
-  <string name="installing">Встановлення...</string>
+  <string name="installing">Встановлення програми...</string>
   <string name="launch">Відкрити</string>
   <string name="lift_ban">Зняти заборону</string>
   <string name="manage_applications">Керування програмами</string>
@@ -43,7 +43,7 @@
   <string name="out_of_space_dlg_title">Недостатньо місця</string>
   <string name="security_settings_desc">Дозволити програмі:</string>
   <string name="settings">Налаштування</string>
-  <string name="uninstall_activity_text">%1$s є частиною такої програми:</string>
+  <string name="uninstall_activity_text">%1$s є частиною наступної програми:</string>
   <string name="uninstall_application_text">Програму буде видалено</string>
   <string name="uninstall_application_title">Видалення програми</string>
   <string name="uninstall_done">Видалення завершено</string>
@@ -52,8 +52,8 @@
   <string name="uninstall_failed_msg">Видалити програму %1$s не вдалося</string>
   <string name="uninstall_failed_retained_app_msg">Програма, встановлена оператором не може бути видалена</string>
   <string name="uninstall_update_text">Буде відновлена ​​початкова версія програми</string>
-  <string name="uninstall_update_title">Видалення оновлень</string>
-  <string name="uninstalling">Видалення...</string>
+  <string name="uninstall_update_title">Видалення оновлення</string>
+  <string name="uninstalling">Видалення програми...</string>
   <string name="unknown">Невідомо</string>
   <string name="unknown_apps_dlg_text">З міркувань безпеки на вашому телефоні заблоковано встановлення програм, отриманих не з Google Play</string>
   <string name="unknown_apps_dlg_title">Встановлення заблоковано</string>

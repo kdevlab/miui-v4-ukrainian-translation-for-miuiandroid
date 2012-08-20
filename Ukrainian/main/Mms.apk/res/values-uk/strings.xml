@@ -145,6 +145,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"Від:"</string>
+  <string name="found_wild_messages_title">Завантаження повідомлень</strin
   <string name="from_label">"Від:"</string>
   <string name="full_phrase">Не більше 50 фраз</string>
   <string name="generating_mms_to_forward">Створення відповіді...</string>

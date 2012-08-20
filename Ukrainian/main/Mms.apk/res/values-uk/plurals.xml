@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Ланцюжки (%1$s) будут удалены</item>
+        <item quantity="other">Ланцюжки (%1$s) будуть видалені</item>
         <item quantity="one">Ланцюжок буде видалений</item>
     </plurals>
     <plurals name="slide_duration">

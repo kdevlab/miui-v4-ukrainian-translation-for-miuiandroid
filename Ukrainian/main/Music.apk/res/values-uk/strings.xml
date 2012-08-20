@@ -5,6 +5,7 @@
   <string name="add_to_playlist">В плейлист</string>
   <string name="add_tracks">Додати пісні</string>
   <string name="album_display_settings">Відображати обкладинки</string>
+  <string name="album_display_summary">Показувати обкладинки альбомів в інтерфейсі програвача. Рекомендується ввімкнути</string>
   <string name="album_download">Завантажити обкладинку</string>
   <string name="album_edit">Альбом</string>
   <string name="album_picker_not_found">Галерея не знайдений на пристрої</string>
@@ -17,10 +18,12 @@
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Артист</string>
   <string name="artists_title">Виконавці\u0020</string>
+  <string name="billboard">Billboard</string>
   <string name="buffering">Кешування ...</string>
   <string name="cancel">Скасувати</string>
   <string name="cancel_sleep_mode">Сплячий режим відмінено</string>
   <string name="category_num_format">(%s)</string>
+  <string name="channel">FM</string>
   <string name="clear_search_history">Очищення історії запитів</string>
   <string name="click_to_shuffle">Торкніться для перемішування всіх пісень</string>
   <string name="confirm">ОК</string>
@@ -41,6 +44,7 @@
   <string name="detail_format">"Формат:"</string>
   <string name="detail_genre">"Жанр:"</string>
   <string name="detail_size">"Розмір:"</string>
+  <string name="discovery_music">Слухати онлайн</string>
   <string name="donot_ask_me_again">Більше не питати</string>
   <string name="download">Завантажити</string>
   <string name="download_album_settings">Завантаження обкладинок</string>
@@ -90,6 +94,7 @@
   <string formatted="false" name="folder_title_format">%s (%d)</string>
   <string name="folders_title">Папки\u0020</string>
   <string name="frequentlyplayed_title">Часто відтворювані</string>
+  <string name="hot_artists">Популярні виконавці</string>
   <string name="id3_edit">Змінити ID3 інформацію</string>
   <string name="id3_edit_failed">Не вдалося відредагувати ID3</string>
   <string name="id3_modify_confirm_check">Зберегти зміни ID3?</string>
@@ -100,14 +105,26 @@
   <string name="keep_quit_position_summary">Повернення треку на останню позиції після повторного запуску програми</string>
   <string name="listen_to_music_online_settings">Прослуховувати онлайн</string>
   <string name="listen_to_online_summary">Слухайте музику за допомогою мобільної мережі або Wi-Fi</string>
+  <string name="load_album_failed">Не вдалося завантажити список альбомів, спробуйте ще раз</string>
+  <string name="load_album_in_process">Завантаження списку альбомів</string>
+  <string name="load_artist_failed">Не вдалося завантажити список виконавців, спробуйте ще раз</string>
+  <string name="load_artist_in_process">Завантаження списку виконавців</string>
+  <string name="load_audio_failed">Не вдалося завантажити список пісень, спробуйте ще раз</string>
+  <string name="load_audio_in_process">Завантаження списку пісень</string>
+  <string name="load_bill_failed">Не удалось завантажити список Billboard, спробуйте ще раз</string>
+  <string name="load_bill_in_process">Завантаження списку Billboard</string>
   <string name="load_category_failed">Не вдалося отримати список, натисніть Повторити</string>
   <string name="load_category_in_process">Отримати список</string>
+  <string name="load_channel_failed">Не вдалося завантажити список каналів, спробуйте ще раз</string>
+  <string name="load_channel_in_process">Завантаження списку каналів</string>
   <string name="loading">Завантаження</string>
   <string name="lpa_off_hint">Необхідно відключити режим економії енергії для включення еквалайзера</string>
   <string name="lrc_search_failed">Текст пісні не знайдено!</string>
   <string name="lrc_searching">Пошук пісні ...</string>
-  <string name="lrc_select">Виберіть текст</string>
+  <string name="lrc_select">Оберіть текст</string>
+  <string name="lyric_and_album">Текст та обкладинка</string>
   <string name="lyric_display_settings">Відображати тексти</string>
+  <string name="lyric_display_summary">Відображати тексти пісень в інтерфейсі програвача. Рекомендуеться ввімкнути</string>
   <string name="lyric_download">Завантажити текст пісні</string>
   <string name="lyric_open_other_connect">Завантаження тексту пісень за допомогою мобільного підключення до Інтернету</string>
   <string name="lyric_picker_not_found">Файловий менеджер, не знайдений на пристрої</string>
@@ -128,6 +145,7 @@
   <string name="music_settings">Налаштування</string>
   <string name="musicbrowserlabel">Музика</string>
   <string name="network_error">Немає підключення до мережі, будь ласка, перевірте мережеві настройки</string>
+  <string name="new_albums">Нові альбоми</string>
   <string name="new_equalizer_name_template">Профіль %d</string>
   <string name="new_playlist">Новий плейлист</string>
   <string name="new_playlist_name_template">Новий плейлист %d</string>
@@ -151,6 +169,7 @@
   <string name="playback_failed_by_network">"'%s'Неможливо програти трек, перевірте мережеве підключення"</string>
   <string name="playback_failed_no_title_by_bad_file">Неможливо програти трек, не підтримується формат файлу</string>
   <string name="playback_failed_no_title_by_network">Неможливо програти трек, перевірте мережеве підключення</string>
+  <string name="player_display_settings">ПРОГРАВАЧ</string>
   <string name="playlist_custom">Мій плейлист</string>
   <string name="playlist_deleted_message">Плейлист вилучений</string>
   <string name="playlist_favorite">уподобань</string>
@@ -167,10 +186,11 @@
   <string name="quit_warining">Автовідключення через %d хвилин (у)</string>
   <string name="recentlyadded_title">Нещодавно додані</string>
   <string name="recentlyplayed_title">Недавно відтворені</string>
+  <string name="recommend">Рекомендуємо</string>
   <string name="refresh_finish">Оновлення завершено</string>
-  <string name="refresh_in_processing">Оновлення ...</string>
-  <string name="refresh_media_db">Оновити</string>
-  <string name="refresh_start">Оновлення, будь-ласка, почекайте ...</string>
+  <string name="refresh_in_processing">Оновлення музичної бібліотеки...</string>
+  <string name="refresh_media_db">Оновити медіатеку</string>
+  <string name="refresh_start">Оновлення, будь-ласка, зачекайте...</string>
   <string name="remove_from_favorite">Видалити з обраного</string>
   <string name="remove_item">Видалити</string>
   <string name="rename_album_menu">Перейменувати альбом</string>
@@ -196,6 +216,7 @@
   <string name="search_in_process">Пошук</string>
   <string name="search_result_format">\"%s\"</string>
   <string name="search_settings_description">Виконавець, альбом і трек</string>
+  <string name="search_suggestion">Пошук пропозицій:</string>
   <string name="search_title">Пошук</string>
   <string name="select_all">Всі</string>
   <string name="select_folder">Виберіть папку</string>
@@ -205,6 +226,7 @@
   <string name="service_start_error_button">OK</string>
   <string name="service_start_error_msg">На жаль, не можливо відтворити цю пісню</string>
   <string name="service_start_error_title">Проблеми при відтворенні</string>
+  <string name="shake_and_skip">Струшування</string>
   <string name="shake_degree_desc">Чутливість</string>
   <string name="shake_degree_high">Висока</string>
   <string name="shake_degree_low">Низька</string>
@@ -214,6 +236,7 @@
   <string name="shake_settings">Струшування</string>
   <string name="shake_summary">Струсніть для переходу до наступної пісні</string>
   <string name="shake_while_screen_on_title">Використовувати при активному екрані</string>
+  <string name="shake_while_screen_on_title_summary">Перемикання можливе тільки при включеному екрані</string>
   <string name="shuffle_all">Перемішати всі</string>
   <string name="sleep_mode">Сплячий режим</string>
   <string name="sort_by_album">Сортувати за альбомами</string>
