@@ -83,6 +83,8 @@
         <item>Відключення...</item>
         <item>Відключено</item>
         <item>Не вдалося з\'єднатися</item>
+        <item>Заблоковано</item>
+        <item>Уникнення слабкого сигналу</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -95,16 +97,13 @@
         <item>Відключення від %1$s…</item>
         <item>Відключено</item>
         <item>Не удалось отключиться</item>
+        <item>Заблоковано</item>
+        <item>Уникнення слабкого сигналу</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Без шифрування</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Кнопка підключення</item>
@@ -149,11 +148,6 @@
         <item>Час використання</item>
         <item>Launch count</item>
         <item>App name</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Немає</item>
@@ -371,6 +365,22 @@
         <item>Одна секунда</item>
         <item>Півтори секунди</item>
         <item>Дві секунди</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries"> 
+        <item>Анимація відключена</item> 
+        <item>Анимація (масштаб: 0,5x)</item>
+        <item>Анимація (масштаб: 1x)</item>
+        <item>Анимація (масштаб: 1,5x)</item>
+        <item>Анимація (масштаб: 2x)</item>
+        <item>Анимація (масштаб: 5x)</item>
+        <item>Анимація (масштаб: 10x)</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Вищий розум</item>
+        <item>Людина</item>
+        <item>Неандерталець</item>
+        <item>Шимпанзе</item>
+        <item>Мавпа</item>
     </string-array>
     <string-array name="button_light_timeout_entries">	
         <item>1 сек</item>	
