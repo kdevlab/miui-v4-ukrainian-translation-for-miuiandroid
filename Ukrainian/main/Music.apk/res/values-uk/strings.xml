@@ -173,7 +173,7 @@
   <string name="player_display_settings">ПРОГРАВАЧ</string>
   <string name="playlist_custom">Мій плейлист</string>
   <string name="playlist_deleted_message">Плейлист вилучений</string>
-  <string name="playlist_favorite">уподобань</string>
+  <string name="playlist_favorite">Улюблене</string>
   <string name="playlist_frequently_played">Часто відтворювані</string>
   <string name="playlist_new">Створити новий плейлист</string>
   <string name="playlist_nowplaying">Зараз відтворюється</string>
@@ -239,7 +239,7 @@
   <string name="shake_while_screen_on_title">Використовувати при активному екрані</string>
   <string name="shake_while_screen_on_title_summary">Перемикання можливе тільки при включеному екрані</string>
   <string name="shuffle_all">Перемішати всі</string>
-  <string name="sleep_mode">Сплячий режим</string>
+  <string name="sleep_mode">Режим сну/string>
   <string name="sort_by_album">Сортувати за альбомами</string>
   <string name="sort_by_artist">Виконавці</string>
   <string name="sort_by_track">Сортувати за піснями</string>
