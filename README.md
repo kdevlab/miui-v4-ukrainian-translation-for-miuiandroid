@@ -7,7 +7,7 @@ MIUI Translators:
  - KDGDev (KOJAN Development Group)
  - axel2033 (Ilia Aksyonov)
  - devserg
- - malchik-solnce (Malchik-Solnce)
+ - malchik-solnce (Сережка)))
  - miuirussia (MIUI Russia)
  - VBenkovskyy (Vlaaaad)
  - taras.if.ua
