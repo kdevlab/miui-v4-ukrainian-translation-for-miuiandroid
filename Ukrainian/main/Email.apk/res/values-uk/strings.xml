@@ -493,7 +493,7 @@
   <string name="preference_title_videos_upload_connectivity_summary">Налаштування з\'єднання для фотографій зараз зайняті</string>
   <string name="previous_action">Назад</string>
   <string name="provider_note_live">Доступ через протокол POP, дозволяє цій програмі підключатися, дозволений тільки в деяких акаунтах Plus. Якщо вам не вдається увійти за допомогою своєї адреси електронної пошти та пароля, швидше за все, у вас безкоштовний акаунт (не Plus). Щоб увійти в такий акаунт, використовуйте браузер</string>
-  <string name="provider_note_t_online">Перш ніж налаштовувати акаунт, перейдіть на веб-сайт оператора зв'язку та встановіть пароль для доступу до електронної пошти через протокол POP3</string>
+  <string name="provider_note_t_online">Перш ніж налаштовувати акаунт, перейдіть на веб-сайт оператора зв\'язку та встановіть пароль для доступу до електронної пошти через протокол POP3</string>
   <string name="quick_responses_empty_view">Нет шаблонов SMS-ответов</string>
   <string name="read_action">Помітити як прочитане</string>
   <string name="refresh_action">Оновлення</string>
