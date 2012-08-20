@@ -15,6 +15,8 @@
   <string name="backup_theme_success_message">Резервне копіювання успішно завершено</string>
   <string name="change_wallpaper">Шпалери</string>
   <string name="close">Закрити</string>
+  <string name="component_category_finest_title">Основні</string>
+  <string name="component_category_more_title">Додаткові</string>
   <string name="component_category_ringtone_title">Звуки</string>
   <string name="component_category_style_title">Стилі</string>
   <string name="component_category_title">Редагувати</string>
@@ -29,11 +31,6 @@
   <string name="live_wallpaper">\"Живі\" шпалери</string>
   <string name="lockscreen_wallpaper">Шпалери локскріна</string>
   <string name="lockstyle_personal_settings">Персоналізація</string>
-  <string name="new_format_convert">Перетворити %s в новий формат</string>
-  <string name="old_format_convert_tip1">Тема не в новому форматі, перетворення може зайняти деякий час</string>
-  <string name="old_format_convert_tip2">Ресурси можна видалити і оновити до нової версії через завантаження</string>
-  <string name="old_format_fail">Перетворення .mtz в новий формат не вдалося</string>
-  <string name="old_format_title">Старий формат тем .mtz</string>
   <string name="play_all_audio_effect">Відтворити звуковий ефект (всього: %1$s)</string>
   <string name="resource_fail_to_show">Тема не містить відповідного ресурсу</string>
   <string name="resource_preview">Перегляд</string>
@@ -63,7 +60,6 @@
   <string name="theme_component_title_wallpaper">Шпалери</string>
   <string name="theme_description_title_customized">Налаштування</string>
   <string name="theme_description_title_default">За замовчуванням</string>
-  <string name="theme_format_wrong">Тип теми неправильний</string>
   <string name="theme_format_wrong_content">Тип теми неправильний</string>
   <string name="theme_import">Імпорт</string>
   <string name="theme_select_others">Інше</string>
