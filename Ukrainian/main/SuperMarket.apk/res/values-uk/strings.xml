@@ -87,6 +87,7 @@
   <string name="menu_login">Вход</string>
   <string name="menu_logout">Выход</string>
   <string name="menu_preferences">Настройки</string>
+  <string name="menu_refresh">Обновить</string>
   <string name="menu_search">Поиск</string>
   <string name="menu_update">Обновить</string>
   <string name="micloud_account">Аккаунт XiaoMi</string>
