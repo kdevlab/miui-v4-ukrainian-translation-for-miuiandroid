@@ -47,6 +47,9 @@
   <string name="accessibility_remove_notification">Видалити повідомлення</string>
   <string name="accessibility_ringer_silent">Режим Без звуку</string>
   <string name="accessibility_ringer_vibrate">Вібровиклик</string>
+  <string name="accessibility_rotation_lock_off">Экран будет вращаться автоматически</string>
+  <string name="accessibility_rotation_lock_on_landscape">Экран заблокирован в альбомной ориентации</string>
+  <string name="accessibility_rotation_lock_on_portrait">Экран заблокирован в портретной ориентации</string>
   <string name="accessibility_settings_button">Налаштування</string>
   <string name="accessibility_tty_enabled">Телетайп включений</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi: одна поділка</string>
@@ -93,12 +96,18 @@
   <string name="data_usage_disabled_dialog_enable">Відновити підключення</string>
   <string name="data_usage_disabled_dialog_mobile_title">Моб. Інтернет відключений</string>
   <string name="data_usage_disabled_dialog_title">Передача даних відключена</string>
+  <string name="description_direction_down">Сдвиньте вниз для %s</string>
+  <string name="description_direction_left">Сдвиньте влево для %s</string>
+  <string name="description_direction_right">Сдвиньте вправо для %s</string>
+  <string name="description_direction_up">Сдвиньте вверх для %s</string>
+  <string name="description_target_search">Поиск</string>
   <string name="default_usb_mode">Тип підключення по USB</string>
   <string name="dismount_storage">Тільки зарядка</string>
   <string name="dlg_confirm_kill_storage_users_text">При включенні режиму накопичувача деякі програми будуть недоступні</string>
   <string name="dlg_confirm_kill_storage_users_title">Включити USB-накопичувач</string>
   <string name="dlg_error_title">USB-операція невдала</string>
   <string name="dlg_ok">OK</string>
+  <string name="dreams_dock_launcher">Включить заставку</string>
   <string name="ext_media_badremoval_notification_message">Відмонтуйте USB-сховище перед витяганням</string>
   <string name="ext_media_badremoval_notification_title">USB-сховище несподівано видалено</string>
   <string name="ext_media_checking_notification_message">Перевірка на наявність помилок...</string>
@@ -144,6 +153,8 @@
   <string name="notification_icon_filter_summary">Відключення цієї опції дозволить всім додаткам показувати повідомлення</string>
   <string name="notification_icon_filter_title">Приховати</string>
   <string name="notification_vibrate_hint">Повідомлення</string>
+  <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
+  <string name="notifications_off_title">Уведомления выключены</string>
   <string name="notifications_off_text">Натисніть сюди для увімкнення повідомлень</string>
   <string name="notifications_off_title">Повідомлення відключені</string>
   <string name="recent_apps_key">Останні программи</string>
@@ -188,6 +199,7 @@
   <string name="settings_toggle_position_divider_list">Перемикачі вище - показуються</string>
   <string name="settings_toggle_position_divider_page">%1$d перемикачів вище - показуються</string>
   <string name="settings_toggle_position_reset">Скинути перемикачі</string>
+  <string name="share">Отправить</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрити недавні програми</string>
   <string name="status_bar_clear_all_button">Очистити</string>
   <string name="status_bar_date_format">EEEE, d MMMM yyyy</string>
@@ -200,6 +212,7 @@
   <string name="status_bar_network_name_separator">""</string>
   <string name="status_bar_no_notifications_title">Немає повідомлень</string>
   <string name="status_bar_no_recent_apps">Немає даних</string>
+  <string name="status_bar_notification_inspect_item_title">О приложении</string>
   <string name="status_bar_ongoing_events_title">Поточні</string>
   <string name="status_bar_please_disturb_button">Показати повідомлення</string>
   <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті для звільнення</string>

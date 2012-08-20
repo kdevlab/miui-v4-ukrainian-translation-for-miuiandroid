@@ -45,6 +45,16 @@
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
     </array>
+	<string-array name="pref_link_prefetch_choices">
+       <item>Никогда</item>
+       <item>Только при Wi-Fi</item>
+       <item>Всегда</item>
+    </string-array>
+   <array name="pref_link_prefetch_values">
+       <item>@string/pref_link_prefetch_value_never</item>
+       <item>@string/pref_link_prefetch_value_wifi_only</item>
+       <item>@string/pref_link_prefetch_value_always</item>
+    </array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
