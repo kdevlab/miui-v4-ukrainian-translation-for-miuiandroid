@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="FIPS_kernel_crypto_module">Kernel crypto module</string>
   <string name="FIPS_key_managemnet_module">Key management module</string>
   <string name="FIPS_status_disabled">Disabled</string>

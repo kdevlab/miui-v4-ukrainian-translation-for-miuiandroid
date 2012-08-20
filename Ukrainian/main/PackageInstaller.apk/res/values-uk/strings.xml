@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Parse_error_dlg_text">При синтаксичному аналізі пакету виникла проблема</string>
   <string name="Parse_error_dlg_title">Синтаксична помилка</string>
   <string name="allow_source_dlg_text">"%1$s хоче встановити інші програми.

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_to_favorite">У вибране</string>
   <string name="add_to_playlist">В плейлист</string>
   <string name="add_tracks">Додати пісні</string>

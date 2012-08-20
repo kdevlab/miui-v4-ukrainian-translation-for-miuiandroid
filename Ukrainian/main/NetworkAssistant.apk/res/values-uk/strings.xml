@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
   <string name="adjust_traffic_auto_adjust_title">Авторегулювання трафіку</string>

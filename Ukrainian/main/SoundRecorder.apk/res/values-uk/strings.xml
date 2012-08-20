@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="alert_message_delete_record">Ви дійсно хочете видалити обраний запис?</string>
   <string name="app_name">Диктофон</string>
   <string name="audio_db_album_name">Аудіозаписи</string>

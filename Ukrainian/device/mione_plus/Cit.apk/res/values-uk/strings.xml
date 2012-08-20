@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="cit_ac_charger_in">AC кабель подключен</string>
   <string name="cit_ac_charger_out">Отключите AC кабель</string>
   <string name="cit_accelermeter_sensor_check_summary">Ускорение движения в направлении X, Y, Z показано в трех векторах</string>

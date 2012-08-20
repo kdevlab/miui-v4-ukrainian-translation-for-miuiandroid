@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Теми</string>
   <string name="apply_font_btn_exclude">Без шрифту</string>
   <string name="apply_font_btn_reboot">Застосувати і перезавант.</string>

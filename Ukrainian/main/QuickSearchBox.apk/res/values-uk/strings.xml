@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Швидкий пошук</string>
   <string name="apps_search_activity" />
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ADJUST">Регулювати</string>
   <string name="AUTO">Авто</string>
   <string name="Action_Shot_Helptext">"Створити панораму з рухомих об'єктів"</string>

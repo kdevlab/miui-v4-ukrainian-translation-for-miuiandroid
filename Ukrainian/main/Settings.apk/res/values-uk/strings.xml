@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_settings">Відомості про телефон</string>
   <string name="about_settings_summary">Перегляд юридичної інформації, стану планшетного ПК і версії ПЗ</string>
   <string name="ac_enable_title">Обмеження доступу</string>
@@ -1033,7 +1034,6 @@
   <string name="nfc_quick_toggle_summary">Дозволити обмін даними при суміщенні телефону з іншим пристроєм</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">Ні</string>
-  <string name="no_applications">Немає</string>
   <string name="no_applications">Немає програм</string>
   <string name="no_device_admins">Немає доступних адміністраторів пристрою</string>
   <string name="no_media_button_receiver">Ні</string>
@@ -1779,8 +1779,6 @@
   <string name="wifi_eap_identity">Користувач</string>
   <string name="wifi_eap_method">Метод EAP</string>
   <string name="wifi_eap_user_cert">Сертифікат користувача</string>
-  <string name="wifi_empty_list_wifi_off">"Щоб переглянути доступні мережі
-увімкніть Wi-Fi"</string>
   <string name="wifi_empty_list_wifi_off">"Увімкніть Wi-Fi, 
   щоб переглянути доступні мережі "</string>
   <string name="wifi_enable_watchdog_service">Фільтр мереж Wi-Fi</string>

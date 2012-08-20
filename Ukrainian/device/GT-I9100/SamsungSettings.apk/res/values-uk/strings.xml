@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="a_sensor_summary">Горизонтальне калібрування правильно використовуючи акселерометр</string>
   <string name="a_sensor_title">Горизонтальне калібрування</string>
   <string name="display_saving">Авторегулювання живлення екрану</string>

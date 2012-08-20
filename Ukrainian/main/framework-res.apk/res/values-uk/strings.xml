@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="BaMmi">Заборона дзвінка</string>
   <string name="CLIRDefaultOffNextCallOff">Стандартні установки ідентифікатора абонента не обмежено. Наступний дзвінок: Не обмежено</string>
   <string name="CLIRDefaultOffNextCallOn">Стандартні установки ідентифікатора абонента не обмежено. Наступний дзвінок: Обмежено</string>
@@ -76,7 +77,7 @@
     
 	Закрити її?</string>
   <string name="anr_process">Процес %1$s не відповідає</string>
-  <string name="anr_title"/>
+  <string name="anr_title" />
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>

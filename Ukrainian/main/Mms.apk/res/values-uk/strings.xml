@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activity_not_found">Не вдається відкрити вкладення</string>
   <string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
   <string name="add_attachment">Прикріпити файл</string>
@@ -145,7 +146,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"Від:"</string>
-  <string name="found_wild_messages_title">Завантаження повідомлень</strin
+  <string name="found_wild_messages_title">Завантаження повідомлень</string>
   <string name="from_label">"Від:"</string>
   <string name="full_phrase">Не більше 50 фраз</string>
   <string name="generating_mms_to_forward">Створення відповіді...</string>

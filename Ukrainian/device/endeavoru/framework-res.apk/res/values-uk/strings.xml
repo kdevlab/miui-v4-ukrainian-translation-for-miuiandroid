@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="BaMmi">Заборона дзвінка</string>
   <string name="CLIRDefaultOffNextCallOff">Стандартні установки ідентифікатора абонента не обмежено. Наступний дзвінок: Не обмежено</string>
   <string name="CLIRDefaultOffNextCallOn">Стандартні установки ідентифікатора абонента не обмежено. Наступний дзвінок: Обмежено</string>

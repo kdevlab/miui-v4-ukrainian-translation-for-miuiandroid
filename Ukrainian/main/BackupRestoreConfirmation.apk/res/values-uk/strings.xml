@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="allow_backup_button_label">Створити резервну копію даних</string>
   <string name="allow_restore_button_label">Выдновити дані</string>
   <string name="backup_confirm_text">"Запитане резервне копіювання всіх даних на підключеному комп\'ютері. Дозволити?

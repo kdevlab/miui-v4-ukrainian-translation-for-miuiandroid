@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_login">Увійти в систему</string>
   <string name="account_summary">- Налаштування облікового запису</string>
   <string name="already_enable_encrypt">Включить шифрование</string>

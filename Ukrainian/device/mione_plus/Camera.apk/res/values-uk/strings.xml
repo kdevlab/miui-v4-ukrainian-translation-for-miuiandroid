@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="access_sd_fail">Нет доступа к карте памяти</string>
   <string name="accessibility_back_to_first_level">Закрыть установление контроля</string>
   <string name="accessibility_camera_picker">Переключение камеры</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="APKTOOL_DUMMY_0038">false</string>
   <string name="CURRENTDESTINATION_REMOVE">Видалити</string>
   <string name="CURRENTDESTINATION_REPLACE">Замінити</string>

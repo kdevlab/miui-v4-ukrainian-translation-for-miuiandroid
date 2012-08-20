@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="CLIRDefaultOnNextCallOff">Caller ID по умолчанию устанавливается на "частный". Следующий вызов: не ограничен</string>
   <string name="CLIRDefaultOnNextCallOn">Caller ID по умолчанию устанавливается на "частный". Следующий вызов: зарегестрирован</string>
   <string name="CLIRPermanent">Вы не можете изменить идентификатор звонящего.</string>

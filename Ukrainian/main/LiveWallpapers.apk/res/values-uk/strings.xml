@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="clock_settings">Полярний годинник: налаштування</string>
   <string name="palette">Кольорова палітра</string>
   <string name="palette_black_c">Чорна діра (анімація)</string>

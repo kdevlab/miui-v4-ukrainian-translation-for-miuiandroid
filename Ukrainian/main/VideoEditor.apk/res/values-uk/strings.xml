@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="aspect_ratio_11_9">11x9</string>
   <string name="aspect_ratio_16_9">16x9</string>
   <string name="aspect_ratio_3_2">3x2</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_default">Телефон</string>
   <string name="account_phone">Тільки телефон, без синхронізації</string>
   <string name="account_sim">SIM-карта</string>
@@ -544,6 +545,7 @@
   <string name="select_new_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
   <string name="select_none">Виберіть хоча б 1 контакт</string>
   <string name="select_photo_from_photo_package">Виберіть фотографію з пакету фотографій</string>
+  <string name="select_show_contacts">Відображення контактів</string>
   <string name="select_vcard_title">Вибір файлу vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Ярлик на робочому столі створений</string>
   <string name="separatorJoinAggregateAll">Всі контакти</string>
@@ -663,5 +665,4 @@
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="widget_name_and_phonetic">%1$s(%2$s)</string>
   <string name="wipe_data">Очистити дані</string>
-  <string name="select_show_contacts">Відображення контактів</string>
 </resources>

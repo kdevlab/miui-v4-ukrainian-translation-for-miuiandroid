@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Імпорт</string>
   <string name="activity_not_found">Дія не підтримується ні в одній програмі</string>
   <string name="add_account">Додати акаунт</string>
@@ -27,7 +28,7 @@
   <string name="crop_saved">Зображення збережено в папці \"Завантаження\"</string>
   <string name="crop_tooltip">Щоб обрізати фото, перетягніть маркери</string>
   <string name="crossprocess">Крос-обробка</string>
-   <string name="delete">Видалити</string>
+  <string name="delete">Видалити</string>
   <string name="description">Опис</string>
   <string name="deselect_all">Скасувати всі</string>
   <string name="details">Відомості</string>
