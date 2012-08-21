@@ -136,7 +136,7 @@
   <string name="sd_folder">SD-карта</string>
   <string name="search_hint">Введіть частину або всі ім\'я файлу</string>
   <string name="search_title">Пошук документів</string>
-  <string name="show_message">Файл не може бути відкритий без завантаження</string>
+  <string name="show_message">Файл не може бути відкритий без завантаження, загрузить?</string>
   <string name="slide_left_text">Посуньте вліво</string>
   <string name="space_info">Об\'єм в мережі: %1$s доступно，всього: %2$s</string>
   <string name="space_usage">Зайнято</string>
@@ -170,7 +170,7 @@
   <string name="ui_bar_txt_upload_outline">Всього вивантажено: %1$d файлів</string>
   <string name="ui_bar_txt_upload_progress">Відправка...</string>
   <string name="ui_bar_txt_upload_success">MiDrive: успешно отправлено</string>
-  <string name="ui_filechange_btn_download">Завантаження файів</string>
+  <string name="ui_filechange_btn_download">Завантаження файла</string>
   <string name="ui_main_choose_title">Виберіть спосіб відправки:</string>
   <string name="ui_main_download_file_failed">Не вдалось завантажити “%1$s”</string>
   <string name="ui_main_menu_option_exit">Вихід</string>
@@ -204,4 +204,7 @@
   <string name="wifi_state">Статус Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi акаунт</string>
   <string name="yes">Так</string>
+  <string name="send_to_midrive">Отправить в MiDrive</string>
+  <string name="choose_upload_location">Выберите место загрузки</string>
+  <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
 </resources>

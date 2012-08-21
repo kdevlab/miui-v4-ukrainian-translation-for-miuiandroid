@@ -9,6 +9,8 @@
   <string name="albums">Альбоми</string>
   <string name="all_album">Всі</string>
   <string name="all_albums_desc">Альбоми</string>
+  <string name="alert_message_sync_histoy_power_on">По умолчанию, фотографии синхронизируются только при зарядке. Вы можете изменить настройки в меню.</string>
+  <string name="alert">Внимание</string>
   <string name="all_media">Всі фото</string>
   <string name="all_recent">Обрані</string>
   <string name="all_recent_albums_desc">Останні альбоми</string>
@@ -264,6 +266,8 @@
   <string name="switch_to_camera">Переключитися на камеру</string>
   <string name="sync_album_error">Не вдалося завантажити фотографії. Повторіть спробу пізніше.</string>
   <string name="sync_album_set_error">Не вдалося завантажити альбоми. Повторіть спробу пізніше.</string>
+  <string name="sync_only_in_wifi">Только Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
   <string name="sync_picasa_albums">Оновити</string>
   <string name="tags">Теги</string>
   <string name="temperature">Тепло</string>
