@@ -96,12 +96,12 @@
   <string name="data_usage_disabled_dialog_enable">Відновити підключення</string>
   <string name="data_usage_disabled_dialog_mobile_title">Моб. Інтернет відключений</string>
   <string name="data_usage_disabled_dialog_title">Передача даних відключена</string>
+  <string name="default_usb_mode">Тип підключення по USB</string>
   <string name="description_direction_down">Сдвиньте вниз для %s</string>
   <string name="description_direction_left">Сдвиньте влево для %s</string>
   <string name="description_direction_right">Сдвиньте вправо для %s</string>
   <string name="description_direction_up">Сдвиньте вверх для %s</string>
   <string name="description_target_search">Поиск</string>
-  <string name="default_usb_mode">Тип підключення по USB</string>
   <string name="dismount_storage">Тільки зарядка</string>
   <string name="dlg_confirm_kill_storage_users_text">При включенні режиму накопичувача деякі програми будуть недоступні</string>
   <string name="dlg_confirm_kill_storage_users_title">Включити USB-накопичувач</string>
@@ -153,8 +153,6 @@
   <string name="notification_icon_filter_summary">Відключення цієї опції дозволить всім додаткам показувати повідомлення</string>
   <string name="notification_icon_filter_title">Приховати</string>
   <string name="notification_vibrate_hint">Повідомлення</string>
-  <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
-  <string name="notifications_off_title">Уведомления выключены</string>
   <string name="notifications_off_text">Натисніть сюди для увімкнення повідомлень</string>
   <string name="notifications_off_title">Повідомлення відключені</string>
   <string name="recent_apps_key">Останні программи</string>

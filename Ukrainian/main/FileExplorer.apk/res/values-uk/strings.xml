@@ -15,6 +15,7 @@
   <string name="category_theme">Теми</string>
   <string name="category_video">Відео</string>
   <string name="category_zip">Архіви</string>
+  <string name="choose_upload_location">Выберите место загрузки</string>
   <string name="clean_message">Видалення %1$s</string>
   <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
   <string name="clean_trash_box">Очистити кошик</string>
@@ -136,6 +137,8 @@
   <string name="sd_folder">SD-карта</string>
   <string name="search_hint">Введіть частину або всі ім\'я файлу</string>
   <string name="search_title">Пошук документів</string>
+  <string name="send_to_midrive">Отправить в MiDrive</string>
+  <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
   <string name="show_message">Файл не може бути відкритий без завантаження, загрузить?</string>
   <string name="slide_left_text">Посуньте вліво</string>
   <string name="space_info">Об\'єм в мережі: %1$s доступно，всього: %2$s</string>
@@ -204,7 +207,4 @@
   <string name="wifi_state">Статус Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi акаунт</string>
   <string name="yes">Так</string>
-  <string name="send_to_midrive">Отправить в MiDrive</string>
-  <string name="choose_upload_location">Выберите место загрузки</string>
-  <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
 </resources>

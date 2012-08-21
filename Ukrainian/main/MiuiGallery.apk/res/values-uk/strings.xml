@@ -7,10 +7,10 @@
   <string name="add_account">Додати акаунт</string>
   <string name="add_bookmark">Додати в обране</string>
   <string name="albums">Альбоми</string>
+  <string name="alert">Внимание</string>
+  <string name="alert_message_sync_histoy_power_on">По умолчанию, фотографии синхронизируются только при зарядке. Вы можете изменить настройки в меню.</string>
   <string name="all_album">Всі</string>
   <string name="all_albums_desc">Альбоми</string>
-  <string name="alert_message_sync_histoy_power_on">По умолчанию, фотографии синхронизируются только при зарядке. Вы можете изменить настройки в меню.</string>
-  <string name="alert">Внимание</string>
   <string name="all_media">Всі фото</string>
   <string name="all_recent">Обрані</string>
   <string name="all_recent_albums_desc">Останні альбоми</string>
