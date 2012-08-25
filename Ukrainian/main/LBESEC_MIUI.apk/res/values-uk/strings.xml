@@ -56,12 +56,12 @@
   <string name="Generic_UserApp">Завантажені програми (%d)</string>
   <string name="Generic_Version">Версія: %1$s</string>
   <string name="HIPS_Action_Accept">Дозволити</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Разрешить&lt;/font></string>
+  <string name="HIPS_Action_Accept_Colored">Разрешить</string>
   <string name="HIPS_Action_Accept_Count">Дозволені: %1$d</string>
   <string name="HIPS_Action_Prompt">Запитати</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Спрашивать&lt;/font></string>
+  <string name="HIPS_Action_Prompt_Colored">Спрашивать</string>
   <string name="HIPS_Action_Reject">Заборонити</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Запретить&lt;/font></string>
+  <string name="HIPS_Action_Reject_Colored">Запретить</string>
   <string name="HIPS_Action_Reject_Count">Заборонені: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Конфіденційність</string>
   <string name="HIPS_Group_Expense">Безпека</string>
@@ -168,7 +168,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Запам\'ятати мій вибір</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s намагається %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d дозволи</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800>доверенные&lt;/font></string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;доверенные&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Готово</string>
   <string name="Privacy_App_Installed">Налаштування доступу</string>
   <string name="Privacy_App_Launch">Открыть</string>
