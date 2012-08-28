@@ -475,10 +475,12 @@
   <string name="phoneLabelsGroup">Телефон</string>
   <string name="photoPickerNotFoundText">В телефоні немає картинок</string>
   <string name="photo_package_activity_title">Пакет фотографій</string>
-  <string name="pick_favorites_list_title">Всього %1$d вибраних контактів</string>
+  <string name="pick_favorites_contacts_list_title">Всего избранных контактов: %1$d</string>
+  <string name="pick_favorites_list_title">Всего избранных контактов: %1$d</string>
   <string name="pick_new_photo">Вибрати нове фото з Галереї</string>
   <string name="pick_photo">Вибрати фото з галереї</string>
-  <string name="pick_recent_list_title">Всього %1$d контактів</string>
+  <string name="pick_recent_contacts_list_title">Всего недавних контактов: %1$d</string>
+  <string name="pick_recent_list_title">Всего недавних контактов: %1$d</string>
   <string name="pickerNewContactHeader">Створити новий контакт</string>
   <string name="pkgLabel">Контакти і телефон</string>
   <string name="postalLabelsGroup">Адреса</string>

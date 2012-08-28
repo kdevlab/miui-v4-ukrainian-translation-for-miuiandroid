@@ -34,7 +34,11 @@
   <string name="gadget_photo_24_label">Фоторамка</string>
   <string name="gadget_photo_44_label">Фоторамка</string>
   <string name="gadget_weather_app_not_installed">Будь-ласка, встановіть Погоду MIUI</string>
+  <string name="gadget_weather_download_message">Требуется загрузить приложение: %1$s, размером: %2$s. Пожалуйста, выбрерите повторно после завершения загрузки</string>
+  <string name="gadget_weather_download_start">Скачать</string>
+  <string name="gadget_weather_download_title">Загрузка файла</string>
   <string name="gadget_weather_loading">Немає даних про погоду</string>
+  <string name="gadget_weather_theme_type">Тип виджета</string>
   <string name="gadget_weather_time_format">EEE, d.MM</string>
   <string name="gadget_weather_title_14">Погода 1X4</string>
   <string name="gadget_weather_title_24">Погода 2X4</string>
