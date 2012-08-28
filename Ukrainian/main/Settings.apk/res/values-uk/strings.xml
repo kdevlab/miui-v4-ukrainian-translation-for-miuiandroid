@@ -725,6 +725,8 @@
   <string name="erase_application_description">Видалення встановлених програм</string>
   <string name="erase_external_storage">Очистити SD-карту</string>
   <string name="erase_external_storage_description">Видалити з SD-карти всі дані, в тому числі музику і фотографії</string>
+  <string name="erase_internal_storage">Очистить внутреннюю память</string>
+  <string name="erase_internal_storage_description">Удалить с внутренней памяти все данные, в том числе музыку и фотографии</string>
   <string name="erase_optional">Опціональне видалення</string>
   <string name="erase_personal_data">Персональні дані</string>
   <string name="erase_personal_data_description">В тому числі облікові записи, контакти, дзвінки та інші дані</string>
@@ -815,7 +817,13 @@
   <string name="intent_sender_data_label">Дані:</string>
   <string name="intent_sender_resource_label">Ресурс:</string>
   <string name="intent_sender_sendbroadcast_text">Надіслати broadcast</string>
-  <string name="intent_sender_startactivity_text">Почати activity</string>
+  <string name="intent_sender_startactivity_text">Почати действие</string>
+  <string name="internal_format">Форматирование внутреннего хранилища</string>
+  <string name="internal_format_summary">После форматирования внутреннего хранилища, будут удалены все файлы, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_button_text">Очистить</string>
+  <string name="internal_media_format_desc">Очистить внутреннюю память? Вы потеряете все данные, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_final_desc">Очистка внутренней памяти, будут удалены все сохраненные файлы! Вы не можете отменить это действие! После завершения процесса, телефон будет перезагружен!</string>
+  <string name="internal_media_format_title">Очистка внутреннего хранилища</string>
   <string name="internal_memory">Внутрішня пам\'ять</string>
   <string name="internal_storage">Внутрішня пам\'ять</string>
   <string name="invalid_location">Неприпустиме місце установки</string>

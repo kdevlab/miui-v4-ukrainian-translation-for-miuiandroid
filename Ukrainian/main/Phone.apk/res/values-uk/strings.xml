@@ -77,6 +77,7 @@
   <string name="auto_ip_remove_exception_numbers_confirm_miui">Ви впевнені, що хочете видалити %d номери?</string>
   <string name="auto_ip_setting_miui">Інтелектуальний IP</string>
   <string name="auto_ip_summary_not_enabled">Не включено</string>
+  <string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
   <string name="auto_record_call_summary_miui">Почати запис, коли виклик підключений і зберегти їх на SD-карту</string>
   <string name="auto_record_call_title_miui">Автоматичний запис</string>
   <string name="auto_redial_pref_summary_miui">Якщо не вдалося додзвонитись, то система буде автоматично додзвонюватися 10 раз</string>
@@ -541,6 +542,13 @@
   <string name="mismatchPin2">Введені коди PIN2 не збігаються. Повторіть спробу</string>
   <string name="mismatch_pin2_miui">PIN2-и не збігаються. Будь ласка, спробуйте ще раз</string>
   <string name="mismatch_pin_miui">Введені PIN-коди не співпадають. Будь ласка, спробуйте ще раз</string>
+  <string name="missed_call_notify_five_times">5 раз</string>
+  <string name="missed_call_notify_once">Один раз</string>
+  <string name="missed_call_notify_ten_times">10 раз</string>
+  <string name="missed_call_notify_thrice">3 раза</string>
+  <string name="missed_call_notify_times_summary_miui">По умолчанию, повтор каждые 5 минут</string>
+  <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
+  <string name="missed_call_notify_twice">2 раза</string>
   <string name="mmiCancelled">Код MMI скасовано</string>
   <string name="mmiStarted">Код MMI запущений</string>
   <string name="mobile_networks">Налаштування мережі</string>
