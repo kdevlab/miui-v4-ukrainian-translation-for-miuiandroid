@@ -441,9 +441,9 @@
   <string name="silent_mode_ring">Звук увімкнено</string>
   <string name="silent_mode_silent">Режим \"Без звуку\"</string>
   <string name="silent_mode_vibrate">Режим вібрації</string>
+  <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
   <string name="slight_cold" />
   <string name="slight_heat" />
-  <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
   <string name="spring_begins" />
   <string name="ssl_certificate">Сертифікат безпеки</string>
   <string name="stopping_the_heat" />
