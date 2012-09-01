@@ -285,7 +285,7 @@
   <string name="pref_summary_allow_si_sl_push">Дозволити прийом WAP Push повідомлень (SI / SL)</string>
   <string name="pref_summary_auto_delete">Видаляти старі повідомлення після досягнення макс. кількості</string>
   <string name="pref_summary_delete_limit">Повідомлень в ланцюжку: %1$s</string>
-  <string name="pref_summary_delivery_reports">Запит звіту про доставку для кожного що відправляється повідомлення</string>
+  <string name="pref_summary_delivery_reports">Запит звіту про доставку для кожного відправленого повідомлення</string>
   <string name="pref_summary_filter_phone">Показувати контакти тільки з телефонними номерами</string>
   <string name="pref_summary_hide_festival">Сховати вкладку ЖАРТИ</string>
   <string name="pref_summary_manage_ruim_messages">Управління повідомленнями, що зберігаються на RUIM-карті</string>
