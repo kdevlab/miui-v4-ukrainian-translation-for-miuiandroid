@@ -191,7 +191,7 @@
   <string name="backup_data_title">Back up my data</string>
   <string name="backup_erase_dialog_message">Stop backing up Wi-Fi passwords, bookmarks, and other settings and application data and delete all copies from Google servers?</string>
   <string name="backup_lock_settings_picker_title">Create backup unlock PIN or pattern</string>
-  <string name="backup_pw_cancel_button_text">Отмена</string>
+  <string name="backup_pw_cancel_button_text">Скасувати</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Backup and restore</string>
   <string name="band_mode_failed">Unsuccessful</string>
