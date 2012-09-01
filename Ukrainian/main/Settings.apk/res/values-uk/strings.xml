@@ -648,8 +648,8 @@
   <string name="device_admin_title">Адміністрування Пристрою</string>
   <string name="device_admin_warning">Активація цього адміністратора дозволить програмі \"%1$s\" виконувати наступні операції:</string>
   <string name="device_cpu">Частота процесора:</string>
-  <string name="device_cpu2_info">"2 ядра"</string>
-  <string name="device_cpu4_info">"4 ядра"</string>
+  <string name="device_cpu2_info">"2 ядра" </string>
+  <string name="device_cpu4_info">"4 ядра" </string>
   <string name="device_info_default">Невідомо</string>
   <string name="device_info_label">Відомості про пристрій</string>
   <string name="device_info_not_available">Недоступно</string>
