@@ -948,7 +948,7 @@
   <string name="macaddr_label">"MAC адреса:"</string>
   <string name="main_running_process_description">Основний використовуваний процес</string>
   <string name="manage_device_admin">Адміністратори Пристрою</string>
-  <string name="manage_device_admin_summary">Перегляньте або вімкніть адміністраторів прістрою</string>
+  <string name="manage_device_admin_summary">Перегляньте або увімкніть адміністраторів пристрою</string>
   <string name="manage_space_text">Управління місцем</string>
   <string name="manageapplications_settings_summary">Управління встановленими програмами та їх видалення</string>
   <string name="manageapplications_settings_title">Управління програмами</string>
