@@ -1030,7 +1030,7 @@
   <string name="multi_touch_points_category_title">Точки мультитач</string>
   <string name="multi_touch_points_preference">Перезавантажити для застосування</string>
   <string name="musicfx_title">Звукові ефекти</string>
-  <string name="nearby_wifi">Вибрати найближчий Wi-Fi</string>
+  <string name="nearby_wifi">Доступні Wi-Fi-мережі</string>
   <string name="network_detail">Властивості мережі %s</string>
   <string name="network_settings_title">Мобільна мережа</string>
   <string name="network_state_label">"Стан Мережі:"</string>
