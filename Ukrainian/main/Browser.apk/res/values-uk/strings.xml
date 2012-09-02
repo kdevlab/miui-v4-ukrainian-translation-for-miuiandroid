@@ -2,6 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="MIUI_homepage">Домашня сторінкаа MIUI</string>
   <string name="accessibility_button_addbookmark">Додати сторінку в закладки</string>
   <string name="accessibility_button_back">Назад</string>
   <string name="accessibility_button_bookmarks">Закладки</string>
@@ -22,7 +23,7 @@
   <string name="accessibility_state_frozen">Збережена сторінка</string>
   <string name="accessibility_state_incognito">Сторінка в режимі інкогніто</string>
   <string name="accessibility_transition_navscreen">Управління вкладками</string>
-  <string name="account">Аккаунт</string>
+  <string name="account">Акаунт</string>
   <string name="account_chooser_dialog_title">Виберіть акаунт</string>
   <string name="action">Вхід</string>
   <string name="add_bookmark">Додати закладку</string>
@@ -72,8 +73,11 @@
   <string name="bookmark_page">Додати в закладки останню переглянуту сторінку</string>
   <string name="bookmark_saved">Збережено в закладках</string>
   <string name="bookmark_this_page">Закладка для цієї сторінки</string>
+  <string name="bookmark_this_page_to_readmodelist">"Додаи цю сторінку в список читання"</string>
   <string name="bookmark_thumbnail_view">Зображення</string>
   <string name="bookmark_title">Назва</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Не можу зберегти в список читання"</string>
+  <string name="bookmark_to_readmodelist_saved">"Збережено в список читання"</string>
   <string name="bookmark_url">Адреса</string>
   <string name="bookmark_url_not_valid">Неправильна URL-адреса</string>
   <string name="bookmarks">Закладки</string>
@@ -143,7 +147,7 @@
   <string name="exit_browser_warning">Вийти з браузера?</string>
   <string name="export_bookmark">Експорт закладок</string>
   <string name="export_bookmark_failure">Помилка! Дані не були експортовані на SD-карту</string>
-  <string name="export_bookmark_sucess">Закладки з успіхом експортовані на SD-карту!</string>
+  <string name="export_bookmark_sucess">Закладки успішно експортовані на SD-карту!</string>
   <string name="exported_bookmark_file_name">Моє вибране</string>
   <string name="file_picker_new_folder">Нова папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
@@ -224,7 +228,6 @@
   <string name="open_all_bookmarks">Відкрити всі</string>
   <string name="open_all_in_new_window">Відкрити все в нових вкладках</string>
   <string name="open_bookmark">Відкрити</string>
-  <string name="other_bookmarks">Другие закладки</string>
   <string name="page_info">Інформація про сторінку</string>
   <string name="page_info_address">Адреса:</string>
   <string name="page_info_view">Інформація про сторінку</string>
@@ -234,7 +237,6 @@
   <string name="please_select_a_file_to_import">Будь ласка, виберіть файл даних</string>
   <string name="popup_window_attempt">Відкрити спливаюче вікно з цього сайту?</string>
   <string name="pref_accessibility_title">Спеціальні можливості</string>
-  <string name="pref_allow_apptabs">Разрешить несколько вкладок на приложение</string>
   <string name="pref_autofill_enabled">Автозаповнення форм</string>
   <string name="pref_autofill_enabled_summary">Швидке заповнення веб-форм</string>
   <string name="pref_autofill_profile_editor">Текст автозаповнення</string>
@@ -315,13 +317,6 @@
   <string name="pref_lab_slide_tab_transitions">Переходи по вкладках</string>
   <string name="pref_lab_slide_tab_transitions_summary">Посуньте для перещенія на іншу вкладку у списку</string>
   <string name="pref_lab_title">Лабораторія Google</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-  <string name="pref_link_prefetch_dialogtitle">Предзагрузка веб-страниц</string>
-  <string name="pref_link_prefetch_summary">Разрешить браузеру предварительную загрузку веб-страниц в фоновом режиме</string>
-  <string name="pref_link_prefetch_title">Предзагрузка веб-страниц</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Мін. розмір шрифту</string>
   <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Очистити кеш</string>
@@ -370,6 +365,8 @@
   <string name="pref_zoom_on_double_tap">Зум при подвійному натисканні</string>
   <string name="preview">Попередній перегляд</string>
   <string name="progress_dialog_setting_wallpaper">Застосування шпалер...</string>
+  <string name="readmode_reach_last_page">"Це остання сторінка"</string>
+  <string name="readmodelist_bookmarks_to_show">"Список читання"</string>
   <string name="recover">Відновити</string>
   <string name="recover_from_crash">Продовжити останню сесію</string>
   <string name="reload">Оновити</string>
@@ -383,7 +380,6 @@
   <string name="report_reading_mode_issue">Повідомити про проблему режиму читання MIUI</string>
   <string name="save">ОК</string>
   <string name="save_to_bookmarks">Додати закладку</string>
-  <string name="saving_snapshot">Сохранение…</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Пошук</string>
