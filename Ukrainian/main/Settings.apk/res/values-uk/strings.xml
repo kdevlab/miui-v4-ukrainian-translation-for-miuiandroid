@@ -1042,7 +1042,7 @@
   <string name="nfc_quick_toggle_summary">Дозволити обмін даними при суміщенні телефону з іншим пристроєм</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">Ні</string>
-<string name="no_application">Немає нічого</string>
+  <string name="no_application">Немає нічого</string>
   <string name="no_applications">Немає програм</string>
   <string name="no_device_admins">Немає доступних адміністраторів пристрою</string>
   <string name="no_media_button_receiver">Ні</string>
@@ -1621,9 +1621,9 @@
   <string name="usage_type_wifi_running">Wi-Fi</string>
   <string name="usb_connection_category">Підключити як</string>
   <string name="usb_label_installer_cd">Встановити інструменти передачі файлів</string>
-  <string name="usb_msd_summary">Передача файлів на Windows і OS X</string>
-<string name="usb_msd_driver_installer_summary">Вы можете отримати інсталятор драйверів для Windows чи OS X тут</string>
+  <string name="usb_msd_driver_installer_summary">Вы можете отримати інсталятор драйверів для Windows чи OS X тут</string>
   <string name="usb_msd_driver_installer_title">Диск для встановлення драйверів (MSD)</string>
+  <string name="usb_msd_summary">Передача файлів на Windows і OS X</string>
   <string name="usb_msd_title">Підключення USB</string>
   <string name="usb_mtp_summary">Дозволяє передавати файли мультимедіа в ОС Windows або використовувати для цього Android File Transfer в Mac OS (див. www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Медіа-пристрій (MTP)</string>
@@ -1792,7 +1792,7 @@
   <string name="wifi_eap_user_cert">Сертифікат користувача</string>
   <string name="wifi_empty_list_wifi_off">"Увімкніть Wi-Fi, 
   щоб переглянути доступні мережі "</string>
-<string name="wifi_empty_list_wifi_on">Пошук Wi-Fi-мереж…</string>
+  <string name="wifi_empty_list_wifi_on">Пошук Wi-Fi-мереж…</string>
   <string name="wifi_enable_watchdog_service">Фільтр мереж Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Не використовуваті мережі Wi-Fi з поганим інтернет-з\'єднанням</string>
   <string name="wifi_error">Помилка</string>
