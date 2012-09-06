@@ -3,8 +3,8 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activate">Включить</string>
-  <string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
-  <string name="activating">Активация...</string>
+  <string name="activate_fail_notification_title">Будь-ласка, активуйте повторно послугу Xiaomi синхронізації</string>
+  <string name="activating">Активація...</string>
   <string name="all_resources">Усе</string>
   <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
   <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
@@ -19,8 +19,8 @@
   <string name="autumn_equinox" />
   <string name="callNoAnswerTimeFormat">%s гудків</string>
   <string name="caller_info_name_delimiter">або</string>
-  <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
-  <string name="check_phone_io_error">Ошибка сети</string>
+  <string name="check_phone_error_title">Не вдалось відкрити синхронізацію</string>
+  <string name="check_phone_io_error">Помилка мережі</string>
   <string name="childrens_day" />
   <string name="chinese_youth_day" />
   <string name="christmas_dad" />
