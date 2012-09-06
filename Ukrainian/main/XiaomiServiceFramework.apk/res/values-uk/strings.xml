@@ -20,7 +20,9 @@
   <string name="data_keep_in_phone">Залишити на моєму пристої</string>
   <string name="data_sync_notice">Використовувати акаунт Xiaomi для синхронізації повідомлень, контактів та інших даних</string>
   <string name="data_wipe_from_phone">Видалити з мого пристрою</string>
+    <string name="disable_find_device_error">%1$s, помилка вимкнення виявлення пристрою</string>
   <string name="email_already_be_used">Ця адреса пошти вже використовується</string>
+    <string name="enable_find_device_error">%1$s, помилка увімкнення виявлення пристрою</string>
   <string name="error_dup_phone">Телефон вже був зареєстрований</string>
   <string name="error_network">Помилка мережі</string>
   <string name="error_no_sms_service">Сервіс SMS недоступний</string>
@@ -28,8 +30,19 @@
   <string name="error_sim_not_ready">SIM-карта не готова</string>
   <string name="error_unknown">Помилка: %1$s</string>
   <string name="failed_to_send_activate_email">Неможливо відправити активацію по пошті</string>
+    <string name="find_device">Пошук пристрою</string>
+  <string name="find_device_check_phone_error_title">Помилка увімкнення виявлення пристрою</string>
+  <string name="find_device_disabled_notice">"Ви можете увімкнути знову через Налаштування - Мої акаунты - Акаунт Xiaomi"</string>
+  <string name="find_device_disabled_title">Виявлення пристрою вимкнено</string>
+  <string name="find_device_disabling">Вимкнення…</string>
+  <string name="find_device_enabling">Увімкнення…</string>
+  <string name="find_device_error_network">Мережа не доступна</string>
+  <string name="find_device_error_server">Помилка сервера</string>
+  <string name="find_device_notice">"Якщо ви не можете знайти телефон, ви можете зайти на i.xiaomi.com для блокування, пошуку і видаления даних"</string>
+  <string name="find_device_success_title">Виявлення пристрою увімкнено</string>
   <string name="forget_password">Забули пароль?</string>
   <string name="header_data_and_synchronization">Дані і синхронізація</string>
+    <string name="i_know">OK</string>
   <string name="input_password_hint">Введіть пароль</string>
   <string name="login">Вхід</string>
   <string name="login_failed">Помилка входу</string>
@@ -68,6 +81,7 @@
   <string name="micloud_welcome_banner">Акаунт Xiaomi</string>
   <string name="next">Далі</string>
   <string name="no_sim">Немає SIM-карти, неможливо синхронізувати</string>
+    <string name="other_settings">Інші параметри</string>
   <string name="password">Пароль</string>
   <string name="password_hint_text">6~16 знаків</string>
   <string name="prev">Назад</string>
