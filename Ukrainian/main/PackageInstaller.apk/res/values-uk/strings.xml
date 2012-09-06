@@ -13,6 +13,7 @@
   <string name="app_not_found_dlg_title">Програму не знайдено</string>
   <string name="caller_app">Запит від %1$s</string>
   <string name="cancel">Скасувати</string>
+    <string name="devicePerms">Доступ до пристрою</string>
   <string name="dlg_app_replacement_statement">"Програму, яку ви встановлюєте, замінить інша програма
 
 Всі призначені для користувача дані будуть збережені"</string>
@@ -24,6 +25,9 @@
   <string name="done">Готово</string>
   <string name="install">Встановити</string>
   <string name="install_confirm_question">Встановити цю програму?</string>
+    <string name="install_confirm_question_no_perms">Встановити цю програму? Їй не потрібно спеціальних дозволів</string>
+  <string name="install_confirm_question_update">Встановити оновлення для вже встановленої програми? Ваші дані не будуть втрачені. Оновлена програма отримає доступ до:</string>
+  <string name="install_confirm_question_update_system">Встановити оновлення для системної програми? Ваші дані не будуть втрачені. Оновлена програма отримає доступ до:</string>
   <string name="install_done">Програму встановлено</string>
   <string name="install_failed">Програму не встановлено</string>
   <string name="install_failed_cpu_abi_incompatible">Процесор телефону не підтримує цю програму</string>
@@ -39,9 +43,12 @@
   <string name="lift_ban">Зняти заборону</string>
   <string name="manage_applications">Керування програмами</string>
   <string name="manage_device_administrators">Налаштування адміністрування</string>
+    <string name="newPerms">Нові</string>
+  <string name="no_new_perms">цьому оновленню не потрібні нові дозволи</string>
   <string name="ok">ОК</string>
   <string name="out_of_space_dlg_text">Встановити програму %1$s не вдалося. Звільніть місце і повторіть спробу</string>
   <string name="out_of_space_dlg_title">Недостатньо місця</string>
+    <string name="privacyPerms">Конфіденційність</string>
   <string name="safe_guard_support">Техническая поддержка %1$s</string>
   <string name="security_settings_desc">Дозволити програмі:</string>
   <string name="settings">Налаштування</string>
