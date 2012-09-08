@@ -9,7 +9,7 @@
   <string name="activity_title_confirm_add_detail">Додавання даних</string>
   <string name="activity_title_contacts_filter">Фільтр контактів</string>
   <string name="activity_title_settings">Налаштування</string>
-  <string name="add_account">Додати аккаунт</string>
+  <string name="add_account">Додати акаунт</string>
   <string name="add_blacklist">Додати в чорний список</string>
   <string name="add_connection_button">Додати соцмережа</string>
   <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
@@ -142,6 +142,7 @@
   <string name="contactsJoinedMessage">Контакти об\'єднані</string>
   <string name="contactsList">Контакти</string>
   <string name="contacts_unavailable_add_account">Увійдіть в акаунт</string>
+  <string name="contacts_unavailable_add_xiaomi_account">Синхронізувати контакти Xiaomi</string>
   <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
   <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
   <string name="copy_text">Копіювати в буфер обміну</string>
@@ -305,8 +306,15 @@
   <string name="label_notes">Примітки</string>
   <string name="label_sip_address">Інтернет виклик</string>
   <string name="launcherDialer">Телефон</string>
+  <string name="listAllContactsInAccount">Контактів в %s</string>
+  <string name="listCustomView">Контакти в користувацькому вигляді</string>
   <string name="listFoundAllContactsZero">Нічого не знайдено</string>
+  <string name="listSingleContact">Одиночний контакт</string>
+  <string name="listTotalAllContactsZero">Немає контактів</string>
+  <string name="listTotalAllContactsZeroCustom">Немає видимих контактів</string>
+  <string name="listTotalAllContactsZeroGroup">Немає контактів в %s</string>
   <string name="listTotalAllContactsZeroStarred">Немає контактів</string>
+  <string name="listTotalPhoneContactsZero">Немає контактів з номерами телефонів</string>
   <string name="list_filter_all_accounts">Всі контакти</string>
   <string name="list_filter_all_starred">Помічені</string>
   <string name="list_filter_custom">Користувальницькі</string>
@@ -490,6 +498,8 @@
   <string name="postal_postcode">Поштовий індекс</string>
   <string name="postal_region">Регіон</string>
   <string name="postal_street">Вулиця</string>
+  <string name="pref_key_rebuild_t9_index_message">Індексація контактів для пошуку за допомогою T9</string>
+  <string name="pref_key_rebuild_t9_index_title">Індексація</string>
   <string name="pref_summary_import_from_account">Імпорт контактів з акаунту Google в акаунт Xiaomi</string>
   <string name="pref_title_account_import">Імпорт із акаунту</string>
   <string name="pref_title_import_from_account">Імпорт в акаунт Xiaomi</string>
