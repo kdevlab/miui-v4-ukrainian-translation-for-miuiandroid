@@ -4,6 +4,7 @@
         <item>Оповіщення</item>
         <item>Ел. пошта</item>
         <item>SMS</item>
+        <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 хвилин</item>
@@ -65,8 +66,9 @@
         <item>Богота</item>
         <item>Східне час</item>
         <item>Венесуела</item>
-        <item>Атлантич. час</item>
-        <item>Манаус</item>
+	<item>Атлантика (Барбадос)</item>
+        <item>Атлантика (Канада)</item>
+	<item>Манаус</item>
         <item>Сантьяго</item>
         <item>Ньюфаундленд</item>
         <item>Бразилія</item>
@@ -179,5 +181,11 @@
         <item>Завжди</item>
         <item>Тільки в режимі "Без звуку"</item>
         <item>Ніколи</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Запізнююсь на декілька хвилин</item>
+        <item>Буду там через 10 хвилин</item>
+        <item>Починайте без мене</item>
+        <item>"Вибачте, я не можу це зробити. Потрібно переглянути розклад"</item>
     </string-array>
 </resources>
