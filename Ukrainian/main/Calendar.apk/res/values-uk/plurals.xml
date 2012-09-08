@@ -23,4 +23,12 @@
         <item quantity="other">" і ще %d"</item>
         <item quantity="one">" і ще 1"</item>
     </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d подій</item>
+        <item quantity="one">1 подія</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d подій</item>
+        <item quantity="one">+1 подія</item>
+    </plurals>
 </resources>
