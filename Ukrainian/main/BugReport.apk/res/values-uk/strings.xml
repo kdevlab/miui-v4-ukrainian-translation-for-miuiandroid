@@ -48,5 +48,5 @@
   <string name="toast_report_sent_failed">Помилка відправлення звіту</string>
   <string name="toast_report_sent_succeed">Звіт був успішно відправлений</string>
   <string name="user_feedback">Відгуки</string>
-  <string name="user_feedback_preview">Передпроглядання відгука</string>
+  <string name="user_feedback_preview">Попередній перегляд відгуку</string>
 </resources>
