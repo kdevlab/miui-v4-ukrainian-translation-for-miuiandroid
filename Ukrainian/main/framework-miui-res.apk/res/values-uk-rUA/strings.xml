@@ -437,7 +437,9 @@
   <string name="ringtone_silent">Без звуку</string>
   <string name="ringtone_unknown">Невідомий дзвінок</string>
   <string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп\'ютера.</string>
-  <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: довге натискання кнопки 'Power'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
+  <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: натисніть кнопки 'НАЗАД'+'Гучність+'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
+  <string name="screen_on_proximity_sensor_summary">"Не закривайте верхню частину екрану"</string>
+  <string name="screen_on_proximity_sensor_title">Режим попередження помилок</string>
   <string name="sd_not_available">SD-карта не доступна, вставте або підключіть її</string>
   <string name="sd_not_available_low_internal_storage">SD-карта не доступна і відсутній внутрішній пристрій збереження</string>
   <string name="sd_not_available_saved_to_internal_storage">Файл збережено у внутрішню пам\'ять</string>
@@ -481,6 +483,7 @@
   <string name="user_agreement5">, Натискаючи ОК, Ви погоджуєтеся з вищесказаним, натисніть Скасувати для виходу</string>
   <string name="valentines_day" />
   <string name="vernal_equinox" />
+  <string name="wake_alarm_message">Вимикати будильник через %s дзвінків</string>
   <string name="white_dews" />
   <string name="wifi_tether_configure_ssid_default">Android AP</string>
   <string name="winter_begins" />
