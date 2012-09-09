@@ -146,6 +146,9 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"Від:"</string>
+  <string name="found_old_messages">"Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s
+Ви хочете скопіювати їх в ваш акаунт: %2$s?"</string>
+  <string name="found_old_messages_title">Загрузка сообщений</string>
   <string name="found_wild_messages_title">Завантаження повідомлень</string>
   <string name="from_label">"Від:"</string>
   <string name="full_phrase">Не більше 50 фраз</string>
@@ -166,6 +169,7 @@
   <string name="layout_bottom">Розташування (внизу)</string>
   <string name="layout_selector_title">"Макет слайд-шоу"</string>
   <string name="layout_top">Розташування (внизу)</string>
+  <string name="loading_all_messages">Завантаження всіх повідомлень...</string>
   <string name="loading_contacts">Завантаження контактів...</string>
   <string name="loading_conversations">Завантаження ланцюжків...</string>
   <string name="me">Я</string>
@@ -401,6 +405,7 @@
   <string name="service_network_problem">Не вдалося відправити повідомлення через помилку мережі</string>
   <string name="service_not_activated">Послуга не активована в мережі</string>
   <string name="set">Зберегти</string>
+  <string name="show_all_messages">Показати всі повідомлення</string>
   <string name="sim_copy_to_phone_memory">Копіювати в пам\'ять телефону</string>
   <string name="sim_delete">Видалити</string>
   <string name="sim_empty">На SIM-карті немає повідомлень</string>
