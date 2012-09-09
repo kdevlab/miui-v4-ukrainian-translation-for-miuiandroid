@@ -33,6 +33,7 @@
   <string name="error_sync_cancelled">Синхронізацію скасовано</string>
   <string name="error_sync_internal">Синхронізація невдала через внутрішню помилку</string>
   <string name="error_sync_network">Синхронізація невдала, перевірте налаштування мережі і акаунту</string>
+    <string name="error_widget_exist_for_send_to_desktop">Ця нотатка вже є на рробочому столі</string>
   <string name="failed_sdcard_export">Експорт невдалий</string>
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>
@@ -64,7 +65,8 @@
   <string name="menu_font_size">Розмір шрифту</string>
   <string name="menu_font_small">Маленький</string>
   <string name="menu_font_super">Дуже великий</string>
-  <string name="menu_list_mode">Список</string>
+    <string name="menu_grid_mode">Показати сіткою</string>
+  <string name="menu_list_mode">Показати списком</string>
   <string name="menu_move">Перемістити в папку</string>
   <string name="menu_move_parent_folder">Назад</string>
   <string name="menu_normal_mode">Вимкнути список</string>
@@ -115,6 +117,7 @@
   <string name="search_label">Пошук нотаток</string>
   <string name="search_setting_description">Текст в нотатках</string>
   <string name="select_text">Позначити текст</string>
+    <string name="send_to_note">Відправити в нотатку</string>
   <string name="set_remind_time_message">Встановити нагадування</string>
   <string name="snippet_image_stub">[Картинка]</string>
   <string name="success_sdcard_export">Експорт завершено</string>
