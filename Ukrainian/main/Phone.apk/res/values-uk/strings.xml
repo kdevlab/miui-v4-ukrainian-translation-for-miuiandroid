@@ -550,12 +550,12 @@
   <string name="mismatchPin2">Введені коди PIN2 не збігаються. Повторіть спробу</string>
   <string name="mismatch_pin2_miui">PIN2-и не збігаються. Будь ласка, спробуйте ще раз</string>
   <string name="mismatch_pin_miui">Введені PIN-коди не співпадають. Будь ласка, спробуйте ще раз</string>
-  <string name="missed_call_notify_five_times">5 раз</string>
+  <string name="missed_call_notify_five_times">5 разів</string>
   <string name="missed_call_notify_once">Один раз</string>
-  <string name="missed_call_notify_ten_times">10 раз</string>
-  <string name="missed_call_notify_thrice">3 раза</string>
-  <string name="missed_call_notify_times_summary_miui">По умолчанию, повтор каждые 5 минут</string>
-  <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
+  <string name="missed_call_notify_ten_times">10 разів</string>
+  <string name="missed_call_notify_thrice">3 рази</string>
+  <string name="missed_call_notify_times_summary_miui">За замовчуванням, повтор кожних 5 хвилин</string>
+  <string name="missed_call_notify_times_title_miui">Нагадування про пропущені виклики</string>
   <string name="missed_call_notify_twice">2 раза</string>
   <string name="mmiCancelled">Код MMI скасовано</string>
   <string name="mmiStarted">Код MMI запущений</string>
