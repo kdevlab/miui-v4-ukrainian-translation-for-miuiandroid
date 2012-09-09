@@ -32,7 +32,7 @@
   <string name="failed_to_send_activate_email">Неможливо відправити активацію по пошті</string>
   <string name="find_device">Пошук пристрою</string>
   <string name="find_device_check_phone_error_title">Помилка увімкнення виявлення пристрою</string>
-  <string name="find_device_disabled_notice">"Ви можете увімкнути знову через Налаштування - Мої акаунты - Акаунт Xiaomi"</string>
+  <string name="find_device_disabled_notice">"Ви можете увімкнути знову через Налаштування - Мої акаунти - Акаунт Xiaomi"</string>
   <string name="find_device_disabled_title">Виявлення пристрою вимкнено</string>
   <string name="find_device_disabling">Вимкнення…</string>
   <string name="find_device_enabling">Увімкнення…</string>
