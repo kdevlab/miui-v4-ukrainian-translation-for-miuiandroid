@@ -65,8 +65,8 @@
   <string name="menu_font_size">Розмір шрифту</string>
   <string name="menu_font_small">Маленький</string>
   <string name="menu_font_super">Дуже великий</string>
-    <string name="menu_grid_mode">Показати сіткою</string>
-  <string name="menu_list_mode">Показати списком</string>
+    <string name="menu_grid_mode">Перегляд: сіткою</string>
+  <string name="menu_list_mode">Перегляд: списком</string>
   <string name="menu_move">Перемістити в папку</string>
   <string name="menu_move_parent_folder">Назад</string>
   <string name="menu_normal_mode">Вимкнути список</string>
