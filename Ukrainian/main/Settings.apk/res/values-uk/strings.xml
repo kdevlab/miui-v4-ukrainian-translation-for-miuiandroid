@@ -574,6 +574,8 @@
   <string name="data_usage_limit_editor_title">Лімітування трафіку</string>
   <string name="data_usage_list_mobile">Мобільні мережі</string>
   <string name="data_usage_list_none">Немає</string>
+  <string name="data_usage_menu_auto_sync">Дані синхронізації</string>
+  <string name="data_usage_menu_metered">Мобільні точки доступу</string>
   <string name="data_usage_menu_restrict_background">Обмежити фон. режим</string>
   <string name="data_usage_menu_roaming">Інтернет-роумінг</string>
   <string name="data_usage_menu_show_ethernet">Показувати завантаження Ethernet</string>
@@ -646,8 +648,8 @@
   <string name="device_admin_title">Адміністрування Пристрою</string>
   <string name="device_admin_warning">Активація цього адміністратора дозволить програмі \"%1$s\" виконувати наступні операції:</string>
   <string name="device_cpu">Частота процесора:</string>
-  <string name="device_cpu2_info">"2 ядра" </string>
-  <string name="device_cpu4_info">"4 ядра" </string>
+  <string name="device_cpu2_info">"2 ядра "</string>
+  <string name="device_cpu4_info">"4 ядра "</string>
   <string name="device_info_default">Невідомо</string>
   <string name="device_info_label">Відомості про пристрій</string>
   <string name="device_info_not_available">Недоступно</string>
@@ -1242,7 +1244,9 @@
   <string name="screen_button_key">Віртуальні кнопки</string>
   <string name="screen_compatibility_label">Працює з екраном</string>
   <string name="screen_compatibility_text">Можливо, програма не призначена для вашого екрану. Тут можна налаштувати параметри її відображення</string>
-  <string name="screen_timeout">Сплячий режим</string>
+  <string name="screen_on_proximity_sensor_summary">"Режим попередження помилок в даний момент увімкнено. Будь-ласка, переконайтесь, що верхня частина екрану не закрита"</string>
+  <string name="screen_on_proximity_sensor_title">Попередження помилок</string>  
+<string name="screen_timeout">Сплячий режим</string>
   <string name="screen_timeout_summary">Після %1$s бездіяльності</string>
   <string name="screen_timeout_title">Сплячий режим</string>
   <string name="screensaver_activate_on_dock_title">Включити до док-станції</string>
