@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-    <string name="all_ringtone_resource">Всі</string>
+  <string name="all_ringtone_resource">Всі</string>
   <string name="app_name">Теми</string>
   <string name="apply_font_btn_exclude">Без шрифту</string>
   <string name="apply_font_btn_reboot">Застосувати і перезавант.</string>
@@ -33,11 +33,11 @@
   <string name="live_wallpaper">\"Живі\" шпалери</string>
   <string name="lockscreen_wallpaper">Шпалери локскріна</string>
   <string name="lockstyle_personal_settings">Персоналізація</string>
-    <string name="long_ringtone_resource">Довгі(&gt;5 сек)</string>
+  <string name="long_ringtone_resource">Довгі(&gt;5 сек)</string>
   <string name="play_all_audio_effect">Відтворити звуковий ефект (всього: %1$s)</string>
   <string name="resource_fail_to_show">Тема не містить відповідного ресурсу</string>
   <string name="resource_preview">Перегляд</string>
-    <string name="short_ringtone_resource">Короткі(&lt;5 сек)</string>
+  <string name="short_ringtone_resource">Короткі(&lt;5 сек)</string>
   <string name="theme_activity_lable">Теми</string>
   <string name="theme_changed_failed_message">Встанолення не вдалося!</string>
   <string name="theme_changed_message">Тема успішно встановлена!</string>

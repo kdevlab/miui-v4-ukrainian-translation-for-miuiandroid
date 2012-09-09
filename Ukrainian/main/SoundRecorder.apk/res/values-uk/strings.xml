@@ -29,7 +29,7 @@
   <string name="menu_view_record_list">Відкрити список записів</string>
   <string name="minute">%d хвилин</string>
   <string name="no_file">Немає записів</string>
-    <string name="notification_playback">Відтворення...</string>
+  <string name="notification_playback">Відтворення...</string>
   <string name="notification_playback_paused">Пауза...</string>
   <string name="notification_recording">Запис</string>
   <string name="notification_stopped">Запис зупинена</string>
