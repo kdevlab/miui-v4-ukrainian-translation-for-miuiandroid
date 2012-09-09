@@ -1245,8 +1245,8 @@
   <string name="screen_compatibility_label">Працює з екраном</string>
   <string name="screen_compatibility_text">Можливо, програма не призначена для вашого екрану. Тут можна налаштувати параметри її відображення</string>
   <string name="screen_on_proximity_sensor_summary">"Режим попередження помилок в даний момент увімкнено. Будь-ласка, переконайтесь, що верхня частина екрану не закрита"</string>
-  <string name="screen_on_proximity_sensor_title">Попередження помилок</string>  
-<string name="screen_timeout">Сплячий режим</string>
+  <string name="screen_on_proximity_sensor_title">Попередження помилок</string>
+  <string name="screen_timeout">Сплячий режим</string>
   <string name="screen_timeout_summary">Після %1$s бездіяльності</string>
   <string name="screen_timeout_title">Сплячий режим</string>
   <string name="screensaver_activate_on_dock_title">Включити до док-станції</string>

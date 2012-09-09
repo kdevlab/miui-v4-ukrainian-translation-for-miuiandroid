@@ -278,14 +278,14 @@
   <string name="download_failed">Помилка завантаження</string>
   <string name="download_preview_failed">Не вдалося завантажити попередній перегляд</string>
   <string name="ellipsis">...</string>
-    <string name="error_forbidden">Помилки в акаунті. Синхронізація відключена</string>
+  <string name="error_forbidden">Помилки в акаунті. Синхронізація відключена</string>
   <string name="error_not_acceptable">Помилки на сервері. Синхронізація відключена</string>
   <string name="error_title">Помилка синхронізації для %s</string>
   <string name="error_unauthorized">Занадто багато спроб авторизації. Синхронізація відключена</string>
   <string name="every_day">Кожен день</string>
   <string name="factorytest_reboot">Перезавантажити телефон</string>
   <string name="fast_scroll_alphabet">" АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ"</string>
-    <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для акаунту Xiaomi"</string>
+  <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для акаунту Xiaomi"</string>
   <string name="firewall_setting">Чорний список</string>
   <string name="first_back_long_press_message">"Щоб примусово закривати додатки утриманням кнопки НАЗАД, зайдіть в:
 Налаштування -&gt; Система -&gt; Кнопки
@@ -293,7 +293,7 @@
   <string name="first_back_long_press_title">Примусове завершення додатків кнопкою НАЗАД</string>
   <string name="fools_day" />
   <string name="force_exit_message">Програму \"%1$s\" було закрито</string>
-    <string name="format_time_in_12_hours">%1$s %2$s</string>
+  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_action_power_off">Вимкнути телефон</string>
   <string name="global_action_privacy_mode_dialog_message">В режимі гостя повідомлення, журнали викликів і нотатки будуть приховані, а також Ви не зможете редагувати робочий стіл</string>
@@ -397,7 +397,7 @@
   <string name="perm_auto_backup">Автоматическое резервное копирование</string>
   <string name="perm_get_user_info_dspt">Отримати детальну інформацію про акаунт Xiaomi</string>
   <string name="perm_get_user_info_lab">Отримати інформацію про акаунт Xiaomi</string>
-    <string name="perm_tigger_toggle_dspt">Дозволити програмам переключати функції в статусбарі</string>
+  <string name="perm_tigger_toggle_dspt">Дозволити програмам переключати функції в статусбарі</string>
   <string name="perm_tigger_toggle_lab">Преремикачі із статусбару</string>
   <string name="perm_use_find_device">Пошук пристрою</string>
   <string name="perm_use_pin_security">Використовувати захист PIN</string>
@@ -437,7 +437,7 @@
   <string name="ringtone_silent">Без звуку</string>
   <string name="ringtone_unknown">Невідомий дзвінок</string>
   <string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп\'ютера.</string>
-    <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: довге натискання кнопки 'Power'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
+  <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: довге натискання кнопки 'Power'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
   <string name="sd_not_available">SD-карта не доступна, вставте або підключіть її</string>
   <string name="sd_not_available_low_internal_storage">SD-карта не доступна і відсутній внутрішній пристрій збереження</string>
   <string name="sd_not_available_saved_to_internal_storage">Файл збережено у внутрішню пам\'ять</string>
@@ -461,7 +461,7 @@
   <string name="stopping_the_heat" />
   <string name="summer_begins" />
   <string name="summer_solstice" />
-    <string name="sync_one_time_sync">Натисніть для синхронізації（%1$s)</string>
+  <string name="sync_one_time_sync">Натисніть для синхронізації（%1$s)</string>
   <string name="teachers_day" />
   <string name="text_pastelist">Буфер обміну</string>
   <string name="the_armys_day" />

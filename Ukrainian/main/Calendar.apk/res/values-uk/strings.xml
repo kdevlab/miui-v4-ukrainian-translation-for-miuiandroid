@@ -20,7 +20,7 @@
   <string name="accessibility_sync_cal">Синхронізувати календар</string>
   <string name="accounts">Акаунти</string>
   <string name="acct_not_synced">Цей аккаунт не синхронізується, тому ваші календарі не оновлюються</string>
-    <string name="acessibility_cal_notification">Позначити подію</string>
+  <string name="acessibility_cal_notification">Позначити подію</string>
   <string name="acessibility_selected_marker_description">Вибрана подія</string>
   <string name="acessibility_snooze_notification">Відкласти подію</string>
   <string name="add_account">Додати акаунт</string>
@@ -47,7 +47,7 @@
   <string name="chips_waiting_for_directory_result">Очікування відповідей</string>
   <string name="copy">Скопіювати адресу ел. пошти</string>
   <string name="copy_db">Надіслати базу даних</string>
-    <string name="copy_email">Копіювати e-mail</string>
+  <string name="copy_email">Копіювати e-mail</string>
   <string name="copy_number">Копіювати телефон</string>
   <string name="create_an_account_desc">"Підключіть Календар до аккаунту Google, щоб:
 
@@ -57,19 +57,19 @@
   <string name="creating_event_with_guest">Запрошення надіслано</string>
   <string name="custom">Особливе... (налаштовується тільки на сайті)</string>
   <string name="daily">Щодня</string>
-<string formatted="false" name="date_time_fmt">%s, %s</string>
+  <string formatted="false" name="date_time_fmt">%s, %s</string>
   <string name="day_view">День</string>
   <string name="day_view_new_event_hint">Створити захід</string>
   <string name="delete_label">Видалити</string>
-    <string name="delete_recurring_event_title">Видалити %s?</string>
+  <string name="delete_recurring_event_title">Видалити %s?</string>
   <string name="delete_this_event_title">Видалити захід?</string>
   <string name="description_label">Опис</string>
   <string name="directory_searching_fmt">Пошук у %s…</string>
   <string name="discard_label">Скасувати</string>
   <string name="dismiss_all_label">Видалити всі</string>
-    <string name="do_not_check">Не перевіряти -&gt;</string>
+  <string name="do_not_check">Не перевіряти -&gt;</string>
   <string name="does_not_repeat">Одноразова подія</string>
-    <string name="done">Готово</string>
+  <string name="done">Готово</string>
   <string name="edit_event_all_day_label">Цілий день</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_from_label">З</string>
@@ -77,7 +77,7 @@
   <string name="edit_event_show_all">Показати усі</string>
   <string name="edit_event_to_label">До</string>
   <string name="edit_label">Змінити</string>
-    <string name="email_guests_label">E-mail </string>
+  <string name="email_guests_label">E-mail </string>
   <string name="email_picker_label">E-mail із</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Не можна створити захід без даних</string>
@@ -144,7 +144,7 @@
   <string name="preferences_week_start_day_title">Початок тижня:</string>
   <string name="presence_label">Мій статус:</string>
   <string name="privacy_label">Конфіденційність</string>
-    <string name="quick_response_custom_msg">Своє повідомлення…</string>
+  <string name="quick_response_custom_msg">Своє повідомлення…</string>
   <string name="quick_response_dialog_title">Вибір швидкої відповіді</string>
   <string name="quick_response_email_failed">Поштова програма не знайдена</string>
   <string name="quick_response_settings">Швидка відповідь</string>
@@ -170,14 +170,14 @@
   <string name="show_newer_events">Натисніть, щоб побачити заходи після %1$s</string>
   <string name="show_older_events">Натисніть, щоб побачити заходи до %1$s</string>
   <string name="snooze_all_label">Нагадати</string>
-    <string name="snooze_label">Відкласти</string>
+  <string name="snooze_label">Відкласти</string>
   <string name="synced">Синхронізований</string>
   <string name="template_announce_item_index">Захід %1$s з %2$s</string>
   <string name="timezone_label">Часовий пояс</string>
-    <string name="today">Сьогодні</string>
+  <string name="today">Сьогодні</string>
   <string name="today_at_time_fmt">Сьогодні о %s</string>
   <string name="tomorrow">Завтра</string>
-    <string name="tomorrow_at_time_fmt">Завтра о %s</string>
+  <string name="tomorrow_at_time_fmt">Завтра о %s</string>
   <string name="view_event_calendar_label">Календар:</string>
   <string name="view_event_organizer_label">Організатор:</string>
   <string name="view_event_response_label">Прийняти запрошення?</string>

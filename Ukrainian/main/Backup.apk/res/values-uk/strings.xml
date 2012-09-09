@@ -74,7 +74,7 @@
   <string name="delete_backup_confirm">\"Резервна копія буде видалена\"</string>
   <string name="delete_backup_process">Виконується видалення, будь ласка, почекайте...</string>
   <string name="delete_failed_backup_confirm">Резервна копія містить помилки. Неможливо відновити</string>
-    <string name="disable_encrypt_title">Вимкнути шифрування</string>
+  <string name="disable_encrypt_title">Вимкнути шифрування</string>
   <string name="enable_encrypt">Увімкнути зараз</string>
   <string name="enable_encrypt_fail">Увімкнути шифрування не вдалось</string>
   <string name="enable_encrypt_indicator">Резервні копії не зашифровані, натисніть кнопку для увімкнення шифрування</string>

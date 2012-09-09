@@ -58,7 +58,7 @@
   <string name="password">Пароль</string>
   <string name="password_hint">Введіть пароль</string>
   <string name="password_hint_text">6~16 знаків</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендується увімкнути, інакше можливе надмірне використання трафіку</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендується увімкнути, інакше можливе надмірне використання трафіку</string>
   <string name="pref_title_sync_contacts_title">Синхронізація контактів</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Викор. тільки Wi-Fi, для показу фото</string>
   <string name="prev">Назад</string>
@@ -71,11 +71,11 @@
   <string name="service_unavailable">Служба недоступна</string>
   <string name="settings_safetylegal_activity_unreachable">Ваш телефон не підключений до служби інформації. Щоб переглянути цю інформацію зараз, перейдіть за адресою: %s</string>
   <string name="show_password">Показати пароль</string>
-    <string name="sub_sync_item_sms_summary">Рекомендується увімкнути, інакше можливе надмірне використання трафіку</string>
+  <string name="sub_sync_item_sms_summary">Рекомендується увімкнути, інакше можливе надмірне використання трафіку</string>
   <string name="sub_sync_item_sms_title_wifi_only">Викор. тільки Wi-Fi, для синхр. SMS/MMS</string>
   <string name="succeed">Готово</string>
   <string name="sync_info">Синхронізація</string>
-    <string name="sync_item_sms_summary">Прочитані SMS-повідомлення будуть автоматично синхронізовані</string>
+  <string name="sync_item_sms_summary">Прочитані SMS-повідомлення будуть автоматично синхронізовані</string>
   <string name="sync_item_sms_title">Синхронізація SMS</string>
   <string name="sync_settings">Акаунти і синхронізація</string>
   <string name="terms_not_agreed">Ви повинні погодитися з умовами MIUI</string>

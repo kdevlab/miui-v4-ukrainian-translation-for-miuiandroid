@@ -42,7 +42,7 @@
   <string formatted="false" name="abbrev_month_year">%-b %Y</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
   <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
-<string name="accept">Прийняти</string>
+  <string name="accept">Прийняти</string>
   <string name="accessibility_binding_label">Спеціальні можливості</string>
   <string name="action_bar_home_description">Перейти на головну</string>
   <string name="action_bar_up_description">Перейти вгору</string>
@@ -51,7 +51,7 @@
   <string name="activity_chooser_view_dialog_title_default">Вибір дії</string>
   <string name="activity_chooser_view_see_all">Переглянути всі</string>
   <string name="activity_list_empty">Подібних завдань не знайдено.</string>
-<string name="activity_resolver_use_always">Завжди</string>
+  <string name="activity_resolver_use_always">Завжди</string>
   <string name="activity_resolver_use_once">Один раз</string>
   <string name="activitychooserview_choose_application">Виберіть програму</string>
   <string name="adb_active_notification_message">Виберіть, щоб вимк. усун. неполадок USB.</string>
@@ -102,7 +102,7 @@
   <string name="badPin">Неправильний старий PIN-код.</string>
   <string name="badPuk">Неправильний PUK-код.</string>
   <string name="beforeOneMonthDurationPast">Більше 1 місяця тому</string>
-<string name="bluetooth_a2dp_audio_route_name">Аудіо по Bluetooth</string>
+  <string name="bluetooth_a2dp_audio_route_name">Аудіо по Bluetooth</string>
   <string name="byteShort">Б</string>
   <string name="cancel">Скасувати</string>
   <string name="candidates_style" />
@@ -161,7 +161,7 @@
   <string name="date_picker_increment_month_button">На місяць вперед</string>
   <string name="date_picker_increment_year_button">На рік вперед</string>
   <string name="date_time">%2$s, %1$s</string>
-<string name="date_time_done">Готово</string>
+  <string name="date_time_done">Готово</string>
   <string name="date_time_set">Установити</string>
   <string name="day">день</string>
   <string name="day_of_week_long_friday">П\'ятниця</string>
@@ -193,7 +193,7 @@
   <string name="day_of_week_shortest_tuesday">В</string>
   <string name="day_of_week_shortest_wednesday">С</string>
   <string name="days">днів</string>
-<string name="decline">Відхилити</string>
+  <string name="decline">Відхилити</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
   <string name="default_audio_route_category_name">Система</string>
@@ -260,7 +260,7 @@
   <string name="extmedia_format_message">Дійсно відформатувати картку SD? Усі дані на картці буде втрачено.</string>
   <string name="extmedia_format_title">Форматування картки SD</string>
   <string name="extract_edit_menu_button">Змінити...</string>
-<string name="faceunlock_multiple_failures">Вичерпано ліміт спроб розблокування</string>
+  <string name="faceunlock_multiple_failures">Вичерпано ліміт спроб розблокування</string>
   <string name="factorytest_failed">Помилка заводського тестування</string>
   <string name="factorytest_no_action">Пакету, який забезпечує тестування FACTORY_TEST, не знайдено.</string>
   <string name="factorytest_not_system">Тестування FACTORY_TEST підтримується лише для пакетів встановлених у /system/app.</string>
@@ -636,8 +636,8 @@
   <string name="permdesc_forceBack">Дозволяє програмі змусити будь-яке першочергове завдання завершитись й перейти на задній план. Ніколи не використовується для звичайних програм.</string>
   <string name="permdesc_forceStopPackages">Дозволяє програмі примусово зупиняти роботу інших програм.</string>
   <string name="permdesc_getAccounts">Дозволяє програмі отримувати список облікових записів, відомих телефону.</string>
-<string name="permdesc_getDetailedTasks">Дозволяє програмі отримувати інформацію про запущені програми. Шкідливі програим можуть отримати доступ до конфіденційної інформації</string>
-<string name="permdesc_getPackageSize">Дозволяє програмі відновлювати її код, дані і розмір кешу.</string>
+  <string name="permdesc_getDetailedTasks">Дозволяє програмі отримувати інформацію про запущені програми. Шкідливі програим можуть отримати доступ до конфіденційної інформації</string>
+  <string name="permdesc_getPackageSize">Дозволяє програмі відновлювати її код, дані і розмір кешу.</string>
   <string name="permdesc_getTasks">Дозволяє програмі відновлювати дані про теперішні й недавно запущені завдання. Може дозволити зловмисним програмам відкривати особисту інформацію про інші програми.</string>
   <string name="permdesc_hardware_test">Дозволяє програмі контролювати периферійні пристрої з метою перевірки апаратного забезпечення.</string>
   <string name="permdesc_injectEvents">Дозволяє програмі самостійно забезпечувати дані, які потрібно ввести (натискання клавіш тощо) в інші програми. Зловмисні програми можуть використати це для контролю над телефоном.</string>
@@ -663,10 +663,10 @@
   <string name="permdesc_performCdmaProvisioning">Дозволяє програмі вмикати режим CDMA. Зловмисні програми можуть без потреби вмикати режим CDMA</string>
   <string name="permdesc_persistentActivity">Дозволяє програмі робити деякі свої частини постійними, щоб система могла/не могла використовувати їх для інших програм.</string>
   <string name="permdesc_pkgUsageStats">Дозволяє змінювати зведену статистику використання компонента. Не для використання звичайними програмами.</string>
-  <string name="permdesc_readCalendar">Дозволяє програмі читати усі календарні події, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати події календаря іншим людям.</string>  
-<string name="permdesc_processOutgoingCalls">Дозволяє програмі обробляти вихідні дзвінки й змінювати номер, що набирається. Зловмисні програми можуть контролювати, переадресовувати або запобігати вихідним дзвінкам.</string>
-  <string name="permdesc_readCellBroadcasts">Дозволяє програмам отримувати доступ до широкомовних повідомлень, які отримує телефон. Використовуйте на свій страх і ризик</string>  
-<string name="permdesc_readContacts">Дозволяє програмі читати контактні (адресні) дані, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати ваші дані іншим людям.</string>
+  <string name="permdesc_processOutgoingCalls">Дозволяє програмі обробляти вихідні дзвінки й змінювати номер, що набирається. Зловмисні програми можуть контролювати, переадресовувати або запобігати вихідним дзвінкам.</string>
+  <string name="permdesc_readCalendar">Дозволяє програмі читати усі календарні події, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати події календаря іншим людям.</string>
+  <string name="permdesc_readCellBroadcasts">Дозволяє програмам отримувати доступ до широкомовних повідомлень, які отримує телефон. Використовуйте на свій страх і ризик</string>
+  <string name="permdesc_readContacts">Дозволяє програмі читати контактні (адресні) дані, збережені на телефоні. Зловмисні програми можуть скористатися цим, щоб надіслати ваші дані іншим людям.</string>
   <string name="permdesc_readDictionary">Дозволяє програмі читати будь-які особисті слова, імена та вирази, які користувач міг зберегти у своєму словнику.</string>
   <string name="permdesc_readFrameBuffer">Дозволяє програмі зчитувати вміст кадрового буфера.</string>
   <string name="permdesc_readHistoryBookmarks">Дозволяє програмі зчитувати усі переглянуті у браузері URL-адреси й усі закладки браузера.</string>
@@ -1218,8 +1218,8 @@
   <string name="wifi_p2p_pin_display_message">Щоб продовжити налаштування підключення, введіть PIN-код WPS %1$s на знайденому пристрої %2$s</string>
   <string name="wifi_p2p_pin_go_negotiation_request_message">Щоб продовжити налаштування з\'єднання з пристроєм %1$s через Wi-Fi Direct, введіть PIN-код.</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
-  <string name="wifi_p2p_to_message">Для:</string>  
-<string name="wifi_p2p_turnon_message">Розпочати з\'єднання через Wi-Fi Direct. Клієнт Wi-Fi і точка доступу будуть вимкнені.</string>
+  <string name="wifi_p2p_to_message">Для:</string>
+  <string name="wifi_p2p_turnon_message">Розпочати з\'єднання через Wi-Fi Direct. Клієнт Wi-Fi і точка доступу будуть вимкнені.</string>
   <string name="wifi_watchdog_network_disabled">Не вдалося підключитися до мережі Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – погане Інтернет-з\'єднання."</string>
   <string name="year">рік</string>

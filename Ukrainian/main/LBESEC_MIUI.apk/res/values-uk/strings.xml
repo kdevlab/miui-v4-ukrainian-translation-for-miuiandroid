@@ -25,7 +25,7 @@
   <string name="Dashboard_Perm_SU">Управління доступом суперкористувача</string>
   <string name="Dashboard_Perm_SU_Desc">Управління доступом для %1$d програм суперкористувача</string>
   <string name="Dashboard_Perm_SU_Disabled">Управління дозволами суперкористувача відключені</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable">Права адміністратора не доступні в стабільній версії MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Права адміністратора не доступні в стабільній версії MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Надання прав адміністратора може призвести до нестабільності системи чи втрати персональних даних, системи або пошкодження обладнання. Будь-ласка, переключіться на версію для розробників"</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Завантажити MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
@@ -134,7 +134,7 @@
   <string name="HIPS_Perm_PromptAll">Запит усіх</string>
   <string name="HIPS_Perm_ROOT">Суперкористувач</string>
   <string name="HIPS_Perm_ROOT_Desc">Запит на доступ від імені суперкористувача</string>
-    <string name="HIPS_Perm_ROOT_Desc_Stable">Не доступно в стабільній версії MIUI</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Не доступно в стабільній версії MIUI</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s програми з правами суперкористувача</string>
   <string name="HIPS_Perm_ROOT_Title">Отримати права суперкористувача</string>
   <string name="HIPS_Perm_RejectAll">Заборонити все</string>
