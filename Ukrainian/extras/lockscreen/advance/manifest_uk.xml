@@ -243,7 +243,7 @@
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Батарея полностью заряжена">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Батарея повністю заряджена">
                     </Text>
                 </Group>
 
@@ -367,7 +367,7 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжаеться... Залишилось %d%%" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея розряджаеться... Залишилось %d%%" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
@@ -375,7 +375,7 @@
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Батарея повністю заряджена">
                     </Text>
                 </Group>
 
