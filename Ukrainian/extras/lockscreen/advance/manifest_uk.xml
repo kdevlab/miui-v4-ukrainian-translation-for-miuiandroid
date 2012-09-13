@@ -235,7 +235,7 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряджаеться... Залишилось %d%%" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея розряджається... Залишилось %d%%" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
