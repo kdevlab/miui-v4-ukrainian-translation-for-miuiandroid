@@ -115,7 +115,7 @@
   <string name="opt_reject_blacklist_stranger">Відхиляти невідомі</string>
   <string name="opt_reject_blacklist_stranger_summary">Відхилення контактів які не в списку</string>
   <string name="remove">Видалити</string>
-    <string name="remove_call_log">Видалити весь журнал викликів?</string>
+  <string name="remove_call_log">Видалити весь журнал викликів?</string>
   <string name="remove_contact">Видалити вибраний контакт?</string>
   <string name="remove_delete">Видалити</string>
   <string name="remove_inf">Видалити вибрану інформацію?</string>
