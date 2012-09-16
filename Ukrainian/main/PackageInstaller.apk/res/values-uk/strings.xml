@@ -49,7 +49,7 @@
   <string name="out_of_space_dlg_text">Встановити програму %1$s не вдалося. Звільніть місце і повторіть спробу</string>
   <string name="out_of_space_dlg_title">Недостатньо місця</string>
   <string name="privacyPerms">Конфіденційність</string>
-  <string name="safe_guard_support">Техническая поддержка %1$s</string>
+  <string name="safe_guard_support">Технічна підтримка %1$s</string>
   <string name="security_settings_desc">Дозволити програмі:</string>
   <string name="settings">Налаштування</string>
   <string name="uninstall_activity_text">%1$s є частиною наступної програми:</string>
