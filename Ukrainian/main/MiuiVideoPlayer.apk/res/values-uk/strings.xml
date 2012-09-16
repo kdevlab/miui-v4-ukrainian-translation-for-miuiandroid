@@ -33,7 +33,7 @@
   <string name="menu_wh_item_using_16_9_label">Примусово 16:9</string>
   <string name="menu_wh_item_using_4_3_label">Примусово 4:3</string>
   <string name="toast_back_key_pressed_notice">Натисніть НАЗАД ще раз для выходу</string>
-    <string name="toast_message_continue_play_from">Продовжити відтворення з</string>
+  <string name="toast_message_continue_play_from">Продовжити відтворення з</string>
   <string name="toast_message_continue_play_hour">годин</string>
   <string name="toast_message_continue_play_minute">хвилин</string>
   <string name="toast_message_continue_play_second_and_play">секунд</string>

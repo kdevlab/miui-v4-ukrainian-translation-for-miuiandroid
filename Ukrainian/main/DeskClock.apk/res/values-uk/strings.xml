@@ -89,7 +89,7 @@
   <string name="set_alarm">Встановити будильник</string>
   <string name="settings">Налаштування</string>
   <string name="show_clock">Показати годинник</string>
-    <string name="shutdown_alarm_disable_summary">Відключення будильника вимкнено</string>
+  <string name="shutdown_alarm_disable_summary">Відключення будильника вимкнено</string>
   <string name="shutdown_alarm_enable_summary">Увімкнено відключення будильника</string>
   <string name="shutdown_alarm_title">Відключення будильника</string>
   <string name="silent_alarm_summary">Без звуку</string>

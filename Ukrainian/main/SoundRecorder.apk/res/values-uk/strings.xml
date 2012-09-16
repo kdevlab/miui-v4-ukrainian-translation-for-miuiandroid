@@ -21,7 +21,7 @@
   <string name="error_app_internal">Внутрішня помилка програми</string>
   <string name="error_mediadb_new_record">Неможливо зберегти записаний звук</string>
   <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
-    <string name="fm_record">Запис радіо (%d)</string>
+  <string name="fm_record">Запис радіо (%d)</string>
   <string name="hour">%d годин</string>
   <string name="insert_sd_card">Вставте SD-карту</string>
   <string name="mark_now">(Зараз)</string>

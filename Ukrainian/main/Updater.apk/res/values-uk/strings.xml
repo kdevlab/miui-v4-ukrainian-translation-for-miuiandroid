@@ -100,7 +100,7 @@
   <string name="sdcard_is_not_present_dialog_title">Немає SD-карти</string>
   <string name="send_install_log">Надіслати журнал</string>
   <string name="send_install_log_error">Помилка відправки</string>
-    <string name="share_update">Відправити інформацію про оновлення</string>
+  <string name="share_update">Відправити інформацію про оновлення</string>
   <string name="sign_in_add_account_helper">У вашому телефоні немає акаунту MIUI, будь ласка додайте його</string>
   <string name="sign_in_info">"Рейтинг: %1$s %2$s %3$s версія"</string>
   <string name="stable_build">стабільна збірка</string>

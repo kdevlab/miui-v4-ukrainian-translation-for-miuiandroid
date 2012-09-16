@@ -9,7 +9,7 @@
   <string name="alert_message_delete_notes">Вибрані нотатки будуть видалені</string>
   <string name="alert_title_delete">Видалити вибрані нотатки</string>
   <string name="app_name">Нотатки</string>
-    <string name="app_widget">Нотатки</string>
+  <string name="app_widget">Нотатки</string>
   <string name="app_widget2x2">Нотатки</string>
   <string name="app_widget4x4">Нотатки</string>
   <string name="attachment_camera">Камера</string>
@@ -82,7 +82,7 @@
   <string name="menu_sync">Синхронізація</string>
   <string name="menu_sync_cancel">Відміна синхронізації</string>
   <string name="menu_title_select_folder">Виберіть папку</string>
-    <string name="move_to_parent">Перемістити в папку</string>
+  <string name="move_to_parent">Перемістити в папку</string>
   <string name="note_alert_expired">Строк дії закінчився</string>
   <string name="note_link_email">Відправити e-mail</string>
   <string name="note_link_other">Відкрити карту</string>
