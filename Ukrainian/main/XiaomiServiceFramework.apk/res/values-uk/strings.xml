@@ -115,4 +115,5 @@
   <string name="title_login">Вхід в акаунт Xiaomi</string>
   <string name="title_reg">Реєстрація в мережі Xiaomi</string>
   <string name="unactivated_user">Не активований</string>
+  <string name="xmpp_server_addr" />
 </resources>
