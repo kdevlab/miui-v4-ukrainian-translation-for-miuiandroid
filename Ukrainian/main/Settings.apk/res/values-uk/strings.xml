@@ -658,7 +658,7 @@
   <string name="device_internal_memory">Внутрішня пам\'ять:</string>
   <string name="device_internal_partition">Дані/SD-карта:</string>
   <string name="device_memory">RAM:</string>
-<string name="device_miui_version">Версія MIUI:</string>
+  <string name="device_miui_version">Версія MIUI:</string>
   <string name="device_picker">Вибір пристрою Bluetooth</string>
   <string name="device_sd_memory">Внутрішній накопичувач:</string>
   <string name="device_status">Загальна інформація</string>
