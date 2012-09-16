@@ -2,6 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="altitude">Висота %.1f метрів</string>
   <string name="app_label">Компас</string>
   <string name="cannot_get_location">Неможливо отримати дані про ваше місцезнаходження</string>
   <string name="getting_location">Пошук розташування...</string>
@@ -9,4 +10,5 @@
   <string name="location_north">%s Пн</string>
   <string name="location_south">%s Пд</string>
   <string name="location_west">%s Зх</string>
+  <string name="pressure">Тиск %.1f гПа</string>
 </resources>
