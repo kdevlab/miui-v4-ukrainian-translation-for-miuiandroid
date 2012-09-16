@@ -75,6 +75,8 @@
   <string name="edit">Змінити</string>
   <string name="edited_photo_bucket_name">Змінені</string>
   <string name="empty_album">Немає фото / відео</string>
+  <string name="error_should_not_select_image">Увага: будь-ласка, не вибирайте файл зображення</string>
+  <string name="error_should_not_select_video">Увага: будь-ласка, не вибирайте файл відео</string>
   <string name="expand_album_in_home_page">Розгорнути альбом на домашній сторінці</string>
   <string name="exposure_time">Витримка</string>
   <string name="facelift">Сяйво</string>
