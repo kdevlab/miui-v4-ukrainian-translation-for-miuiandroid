@@ -24,7 +24,7 @@
   <string name="menu_item_media_info_label">Показати інформацію про відео</string>
   <string name="menu_item_orientation_auto_sensor_action">Увімкнути повертання</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Вимкнути повертання</string>
-  <string name="menu_item_screen_shot">Скриншот</string>
+  <string name="menu_item_screen_shot">Скріншот</string>
   <string name="menu_item_switch_width_height_label">Выбір пропорцій</string>
   <string name="menu_wh_item_adapt_height_label">За висотою</string>
   <string name="menu_wh_item_adapt_width_label">За широтою</string>
@@ -33,6 +33,10 @@
   <string name="menu_wh_item_using_16_9_label">Примусово 16:9</string>
   <string name="menu_wh_item_using_4_3_label">Примусово 4:3</string>
   <string name="toast_back_key_pressed_notice">Натисніть НАЗАД ще раз для выходу</string>
+    <string name="toast_message_continue_play_from">Продовжити відтворення з</string>
+  <string name="toast_message_continue_play_hour">годин</string>
+  <string name="toast_message_continue_play_minute">хвилин</string>
+  <string name="toast_message_continue_play_second_and_play">секунд</string>
   <string name="video_info_audio_bitrate_label">Аудіо бітрейт:</string>
   <string name="video_info_audio_coding_label">Формат кодування аудіо:</string>
   <string name="video_info_audio_null">Ні</string>
