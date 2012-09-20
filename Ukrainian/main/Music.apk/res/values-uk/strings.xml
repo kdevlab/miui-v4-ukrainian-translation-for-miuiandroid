@@ -120,6 +120,8 @@
   <string name="load_channel_in_process">Завантаження списку каналів</string>
   <string name="loading">Завантаження</string>
   <string name="lpa_off_hint">Необхідно відключити режим економії енергії для включення еквалайзера</string>
+  <string name="lrc_progress_modify">Налаштування швидкості прокрутки тексту</string>
+  <string name="lrc_progress_modify_helper">Регулювання швидкості прокрутки тексту шляхом перетягування вверх чи вниз</string>
   <string name="lrc_search_failed">Текст пісні не знайдено!</string>
   <string name="lrc_searching">Пошук пісні ...</string>
   <string name="lrc_select">Оберіть текст</string>
