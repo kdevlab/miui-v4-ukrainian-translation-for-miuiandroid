@@ -664,6 +664,7 @@
   <string name="device_status">Загальна інформація</string>
   <string name="device_status_activity_title">Загальна інформація</string>
   <string name="device_status_summary">Номер телефону, рівень сигналу і т.д.</string>
+  <string name="dialog_title_entryvalues_dolby_control">Параметри Dolby</string>
   <string name="dialog_title_font_size">Розмір шрифту</string>
   <string name="disableNetwork">Відключити мережу</string>
   <string name="disable_overlays">Відключити HW оверлеї</string>
@@ -1087,6 +1088,7 @@
   <string name="power_cell">Зв\'язок з мережею</string>
   <string name="power_idle">Режим очікування</string>
   <string name="power_key">Кнопка включення</string>
+  <string name="power_mode">Режим живлення</string>
   <string name="power_phone">Голосові виклики</string>
   <string name="power_screen">Екран</string>
   <string name="power_usage_history">Використання батареї</string>
@@ -1513,6 +1515,7 @@
   <string name="time_picker_title">Час</string>
   <string name="time_zone_auto_stub">Вибрати тимчасову зону</string>
   <string name="timezone_settings">Часовий пояс</string>
+  <string name="title_dolby_control">Параметри Dolby</string>
   <string name="title_font_size">Розмір шрифту</string>
   <string name="total_size">з %s</string>
   <string name="total_size_label">Усього</string>
@@ -1704,6 +1707,7 @@
   <string name="virus_scan_app_stop_scan">Зупинити сканування</string>
   <string name="virus_scan_app_uninstall">Пакетне видалення (%d)</string>
   <string name="virus_scan_app_waiting">Зачекайте</string>
+  <string name="virus_scanner_kinsoft_provider">Підтримка безпеки: Kingsoft Phone Guardian</string>
   <string name="virus_scanner_scan">Сканувати</string>
   <string name="virus_scanner_scanning">Перевірка програм на віруси</string>
   <string name="virus_scanner_select_Cancel">Скасувати </string>
@@ -1770,6 +1774,14 @@
   <string name="wait_for_debugger_summary">Програма очікує з\'єднання з налагоджувачем перед запуском</string>
   <string name="wallpaper_settings_fragment_title">Установка шпалер</string>
   <string name="wallpaper_settings_title">Шпалери</string>
+  <string name="wfd_available_devices">Доступнв пристрої</string>
+  <string name="wfd_disconnect_diag_msg">Якщо ви вимкнете Дисплей Wi-Fi, ваше підключення до %1$s завершиться</string>
+  <string name="wfd_disconnect_diag_title">Завершити підключення?</string>
+  <string name="wfd_disconnect_multiple_diag_message">Якщо ви вимкнете Дисплей Wi-Fi, ваше підключення до %1$s і %2$s іншими пристроями завершиться</string>
+  <string name="wfd_menu_search">Пошук пристроїв</string>
+  <string name="wfd_menu_searching">Пошук…</string>
+  <string name="wfd_menu_teardown">Завершити</string>
+  <string name="wfd_settings_title">Дисплей Wi-Fi</string>
   <string name="widget_picker_title">Вибір віджета</string>
   <string name="wifi_access_points">Мережі Wi-Fi</string>
   <string name="wifi_add_network">Додати мережу</string>
@@ -1820,6 +1832,7 @@
   <string name="wifi_menu_forget">Видалити цю мережу</string>
   <string name="wifi_menu_modify">Редарувати мережу</string>
   <string name="wifi_menu_scan">Пошук</string>
+  <string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
   <string name="wifi_more">Додактково</string>
   <string name="wifi_network_prefix_length">Довжина префікса мережі</string>
   <string name="wifi_network_setup">WPS</string>
