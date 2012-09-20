@@ -3,11 +3,13 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Імпорт</string>
+  <string name="account_not_login">Вы можете увійти в ваш акаунт Xiaomi і синхронізуватись з вашою хмарою. Це автоматично відправить ваші фотографії в хмару</string>
   <string name="activity_not_found">Дія не підтримується ні в одній програмі</string>
   <string name="add_account">Додати акаунт</string>
   <string name="add_bookmark">Додати в обране</string>
   <string name="albums">Альбоми</string>
   <string name="alert">Увага</string>
+  <string name="alert_message_initial_cloud">Система буде автоматично завантажувати старі и нові фотографії і скріншоти тільки тоді, коли є Wi-Fi з\'єднання</string>
   <string name="alert_message_sync_histoy_power_on">За замовчуванням, фотографії синхронізуються тільки при заряджанні. Ви можете змінити налаштування в меню.</string>
   <string name="all_album">Всі</string>
   <string name="all_albums_desc">Альбоми</string>
@@ -79,6 +81,8 @@
   <string name="error_should_not_select_video">Увага: будь-ласка, не вибирайте файл відео</string>
   <string name="expand_album_in_home_page">Розгорнути альбом на домашній сторінці</string>
   <string name="exposure_time">Витримка</string>
+    <string name="external_sd_card">SD-карта</string>
+  <string name="external_usb_device">USB-накопичувач</string>
   <string name="facelift">Сяйво</string>
   <string name="facetan">Засмага</string>
   <string name="fail_init_gallery_db_helper">Помилка выдкривання бази галереї. Диск заповнений. Програма буде закрита</string>
@@ -119,20 +123,25 @@
   <string name="how_many_pics">Фотографій: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
   <string name="how_many_videos">Відео: %d</string>
+    <string name="how_many_volumes">%d пристроїв зберігання</string>
   <string name="image_property">Властивості фотографії</string>
   <string name="import_complete">Імпорт завершено</string>
   <string name="import_fail">Збій імпорту</string>
   <string name="internal_camera_folder_display_name">Фотографії внутрішньї камери</string>
   <string name="internal_miui_capture_screen_folder_display_name">Внутрішні скріншоти</string>
+    <string name="internal_sd_card">Внутрішня SD-карта</string>
   <string name="iso">ISO</string>
   <string name="loading">Триває завантаження...</string>
   <string name="loading_account">Завантаження акаунту...</string>
   <string name="loading_failure">Не вдалося завантажити фото</string>
   <string name="loading_files">Завантаження...</string>
   <string name="loading_image">Завантаження зображення...</string>
+  <string name="loading_thumbnail">Завантаження ескізів</string>
   <string name="loading_video">Завантаження відео...</string>
+  <string name="loading_will_cost">При завантаженні зображень буде використаний трафік</string>
   <string name="location">Місце зйомки</string>
   <string name="locations">Місця</string>
+  <string name="login_account">Вхід в акаунт Xiaomi і синхронізація</string>
   <string name="lomoish">Ломо</string>
   <string name="make_available_offline">Офлайн-доступ</string>
   <string name="maker">Автор</string>
@@ -175,6 +184,7 @@
   <string name="not_auto_create_recent_album">Неавтоматичне створення останніх альбомів</string>
   <string name="open_map">Відкрити карту</string>
   <string name="open_single_image_failure">Помилка завантаження зображення!</string>
+  <string name="open_sync">Синхронізувати</string>
   <string name="operation_cancel">Відміна</string>
   <string name="operation_delete">Видалити</string>
   <string name="operation_delete_confirm_message">Медіа-файли, які обрані або в обраній папці, будуть видалені з SD карти</string>
@@ -268,6 +278,7 @@
   <string name="slideshow_interval_dialog_title">Проміжок часу більше 0 секунд</string>
   <string name="slideshow_interval_invalid">Невірне налаштування інтервалу часу, який повинен бути від 1 до 3600. Відновиться інтервал часу за умовчуванням</string>
   <string name="slideshow_repeat_mode">Повторювати</string>
+    <string name="storage_all_volumes">Всі пристрої зберігання</string>
   <string name="straighten">Вирівнювання</string>
   <string name="straighten_tooltip">Щоб вирівняти фото, перетягніть його</string>
   <string name="switch_to_camera">Переключитися на камеру</string>
@@ -276,6 +287,7 @@
   <string name="sync_album_set_error">Не вдалося завантажити альбоми. Повторіть спробу пізніше.</string>
   <string name="sync_history_power_on">Синхр. історії зображень тільки під час заряджання</string>
   <string name="sync_history_power_on_summary">Рекомендується увімкнути, інакше використання батареї може збільшитись</string>
+  <string name="sync_not_open">Ви можете синхронізувати ваші фотографії в хмару</string>
   <string name="sync_only_in_wifi">Тільки Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Рекомендується увімкнути, інакше можливе надмірне використання трафіку</string>
   <string name="sync_picasa_albums">Оновити</string>
