@@ -92,7 +92,9 @@
   <string name="send_sms_for_sync_notice">Для активації потрібно відправити SMS, продовжити?</string>
   <string name="send_sms_for_sync_title">Не активовано</string>
   <string name="sim_changed_notification_content">SIM не активована, будь-ласка активуйте</string>
-  <string name="sim_changed_reactivate_notice">SIM-карта не активна. Необхідно відправити повідомлення для активації сервісу, активувати зараз?</string>
+  <string name="sim_changed_reactivate_notice">SIM-карта не активна. Необхідно відправити повідомлення для активації сервісу. Активувати зараз?</string>
+  <string name="skip_setup_account_msg">Використовуючи акаунт Xiaomi, ви можете синхронізувати і резервувати повідомлення, контакти, фотографії, нотатки і т.д. Продовжити і налаштувати пізніше?</string>
+  <string name="skip_setup_account_title">Пропустити налаштування акаунту</string>
   <string name="sub_sync_big_photo_item_summary">Рекомендується включити, інакше буде витрачатись трафік</string>
   <string name="sub_sync_big_photo_item_title_wifi_only">Тільки Wi-Fi для відображення фото</string>
   <string name="sub_sync_item_gallery_summary">Рекомендується включити, інакше буде витрачатись трафік</string>
@@ -115,5 +117,10 @@
   <string name="title_login">Вхід в акаунт Xiaomi</string>
   <string name="title_reg">Реєстрація в мережі Xiaomi</string>
   <string name="unactivated_user">Не активований</string>
+  <string name="user_agreement_p1">Входячи в акаунт, ви погоджуєтесь з\n</string>
+  <string name="user_agreement_p2">Умовами угоди Xiaomi</string>
+  <string name="user_agreement_p3"> та </string>
+  <string name="user_agreement_p4">Політикою безпеки</string>
+  <string name="user_agreement_p5">Реєструючись, ви погоджуєтесь з\n</string>
   <string name="xmpp_server_addr" />
 </resources>
