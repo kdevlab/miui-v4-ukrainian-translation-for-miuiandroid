@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Lockscreen version="1" frameRate="0" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1">
+<Lockscreen version="1" frameRate="30" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1">
     <Wallpaper/>
 
     <Var name="unlock_x" expression="#screen_width/2" const="true" />
