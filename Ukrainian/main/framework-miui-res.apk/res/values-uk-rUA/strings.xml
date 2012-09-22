@@ -266,13 +266,13 @@
   <string name="description_author">Автор:</string>
   <string name="description_designer">Дизайнер:</string>
   <string name="description_download">Скачано:</string>
-    <string name="description_downloadtime">Час скачування:</string>
+  <string name="description_downloadtime">Час скачування:</string>
   <string name="description_file">Файл:</string>
   <string name="description_missed">Інформація відсутня</string>
   <string name="description_modifiedtime">Змінено:</string>
   <string name="description_size">Розмір:</string>
   <string name="description_unknown">Невідомий</string>
-    <string name="description_uploadtime">Час завантаження:</string>
+  <string name="description_uploadtime">Час завантаження:</string>
   <string name="description_version">Версія:</string>
   <string name="dial_number_using">"Викликати,
 використовуючи %s"</string>

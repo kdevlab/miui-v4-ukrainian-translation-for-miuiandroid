@@ -81,7 +81,7 @@
   <string name="error_should_not_select_video">Увага: будь-ласка, не вибирайте файл відео</string>
   <string name="expand_album_in_home_page">Розгорнути альбом на домашній сторінці</string>
   <string name="exposure_time">Витримка</string>
-    <string name="external_sd_card">SD-карта</string>
+  <string name="external_sd_card">SD-карта</string>
   <string name="external_usb_device">USB-накопичувач</string>
   <string name="facelift">Сяйво</string>
   <string name="facetan">Засмага</string>
@@ -123,13 +123,13 @@
   <string name="how_many_pics">Фотографій: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
   <string name="how_many_videos">Відео: %d</string>
-    <string name="how_many_volumes">%d пристроїв зберігання</string>
+  <string name="how_many_volumes">%d пристроїв зберігання</string>
   <string name="image_property">Властивості фотографії</string>
   <string name="import_complete">Імпорт завершено</string>
   <string name="import_fail">Збій імпорту</string>
   <string name="internal_camera_folder_display_name">Фотографії внутрішньї камери</string>
   <string name="internal_miui_capture_screen_folder_display_name">Внутрішні скріншоти</string>
-    <string name="internal_sd_card">Внутрішня SD-карта</string>
+  <string name="internal_sd_card">Внутрішня SD-карта</string>
   <string name="iso">ISO</string>
   <string name="loading">Триває завантаження...</string>
   <string name="loading_account">Завантаження акаунту...</string>
@@ -278,7 +278,7 @@
   <string name="slideshow_interval_dialog_title">Проміжок часу більше 0 секунд</string>
   <string name="slideshow_interval_invalid">Невірне налаштування інтервалу часу, який повинен бути від 1 до 3600. Відновиться інтервал часу за умовчуванням</string>
   <string name="slideshow_repeat_mode">Повторювати</string>
-    <string name="storage_all_volumes">Всі пристрої зберігання</string>
+  <string name="storage_all_volumes">Всі пристрої зберігання</string>
   <string name="straighten">Вирівнювання</string>
   <string name="straighten_tooltip">Щоб вирівняти фото, перетягніть його</string>
   <string name="switch_to_camera">Переключитися на камеру</string>

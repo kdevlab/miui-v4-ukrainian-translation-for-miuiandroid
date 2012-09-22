@@ -99,7 +99,7 @@
   <string name="auto_retry_mode_title_miui">Автонабір</string>
   <string name="autoip_miui">Інтел-ний набір</string>
   <string name="autoip_sum_miui">Додати префікс для іноземних номерів. Введіть код регіону нижче</string>
-    <string name="back_miui">Назад</string>
+  <string name="back_miui">Назад</string>
   <string name="badPin">Введено невірний колишній PIN. Повторіть спробу</string>
   <string name="badPin2">Введено невірний колишній код PIN2. Повторіть спробу</string>
   <string name="badPuk">Невірний код PUK</string>
@@ -327,7 +327,7 @@
   <string name="dial_button_label">Набір номера</string>
   <string name="dial_emergency_empty_error">Виклик не здійснено, наберіть номер екстреного виклику!</string>
   <string name="dial_emergency_error">Виклик не здійснюється, так як %s не є номером екстреного виклику!</string>
-    <string name="dial_pad_touch_tone_default_miui">Стандартний</string>
+  <string name="dial_pad_touch_tone_default_miui">Стандартний</string>
   <string name="dial_pad_touch_tone_human_miui">Людський голос</string>
   <string name="dial_pad_touch_tone_miui">Сенсорная панель</string>
   <string name="dial_pad_touch_tone_piano_miui">Звук фортепіано</string>
@@ -595,11 +595,11 @@
   <string name="not_allowed">Встановлена SIM-карта не може підключитися до цієї мережі</string>
   <string name="not_connected_miui">Не підключено</string>
   <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>
-    <string name="notification_action_end_call">Завершити</string>
+  <string name="notification_action_end_call">Завершити</string>
   <string name="notification_incoming_call">Вхідний дзвінок</string>
   <string name="notification_missedCallTicker">Пропущені виклики від абонента %s</string>
   <string name="notification_missedCallTitle">Пропущений дзвінок</string>
-    <string name="notification_missedCall_call_back">Зателефонувати</string>
+  <string name="notification_missedCall_call_back">Зателефонувати</string>
   <string name="notification_missedCall_message">Повідомлення</string>
   <string name="notification_missedCallsMsg">Пропущених викликів: %s</string>
   <string name="notification_missedCallsTitle">Пропущені виклики</string>
