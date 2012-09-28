@@ -1055,7 +1055,7 @@
   <string name="power_saving_mode_setting">Налаштування режиму енергозбереження</string>
   <string name="power_saving_mode_setting_category">Користувацьке енергозбереження</string>
   <string name="power_saving_mode_title"> Енергозбереження </string>
-  <string name="power_saving_tips">Поради енергозбереження</string>
+  <string name="power_saving_tips">Поради з енергозбереження</string>
   <string name="power_saving_tips_bluetooth">Вимкнути Bluetooth. Не використовуючи гарнітуру Bluetooth чи режим Car Home можна продовжити час роботи від батареї</string>
   <string name="power_saving_tips_brightness">Зменшення яскравості екрану может продовжити час роботи від батареї. Вибір автоматичної яскравості буде регулювати яскравість екрану автоматично</string>
   <string name="power_saving_tips_etc">1. Відключення використання Даних (Налаштування&gt; Мобільна мережа&gt;Передача даних) дозволяє збільшити час роботи від батареї. Ви не зможете отримувати MMS-повідомлення</string>
