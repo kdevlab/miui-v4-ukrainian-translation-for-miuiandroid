@@ -203,8 +203,7 @@
   <string name="status_bar_ongoing_events_title">Поточні</string>
   <string name="status_bar_please_disturb_button">Показати повідомлення</string>
   <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті для звільнення</string>
-  <string name="status_bar_recent_clear_result">"Звільнено %1$s пам\'яті.
-Зараз доступно: %2$s"</string>
+  <string name="status_bar_recent_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
   <string name="status_bar_recent_guide_all">Потягніть вверх щоб закрити, вниз для блокування</string>
   <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
   <string name="status_bar_recent_guide_top">Потягніть вверх щоб закрити</string>
