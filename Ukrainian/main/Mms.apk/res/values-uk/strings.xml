@@ -236,7 +236,10 @@
   <string name="mx_btn_enable">Увімкнути</string>
   <string name="mx_count_dspt">Після увімкнення MIUI отправили %d повідомлень вам</string>
   <string name="mx_dspt">Відправляти повідомлення через інтернет</string>
+  <string name="mx_dspt_disabled">Відправка повідомлень через Інтернет від MIUI. Увімкніть відправку через оператора, якщо виникають помилки</string>
   <string name="mx_enable">Включити хмарові повідомлення</string>
+  <string name="mx_offline">Не в мережі</string>
+  <string name="mx_online">В мережі</string>
   <string name="mx_warning_notice">Повідомлення SMS було відправлено для активації хмарових повідомлень</string>
   <string name="need_download">Очікування синхронізації…</string>
   <string name="new_message">Нове повідомлення</string>
