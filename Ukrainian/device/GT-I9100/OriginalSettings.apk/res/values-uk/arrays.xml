@@ -253,17 +253,17 @@
         <item>100%</item>
     </string-array>
     <string-array name="touch_key_light_entries">
-        <item>1.5 секунды</item>
+        <item>1.5 секунди</item>
         <item>6 секунд</item>
-        <item>Всегда отключены</item>
-        <item>Всегла включены</item>
+        <item>Завжди відключені</item>
+        <item>Завжди включені</item>
     </string-array>
     <string-array name="psm_entries_new">
-        <item>10% батареи</item>
-        <item>20% батареи</item>
-        <item>30% батареи</item>
-        <item>40% батареи</item>
-        <item>50% батареи</item>
+        <item>10% батареї</item>
+        <item>20% батареї</item>
+        <item>30% батареї</item>
+        <item>40% батареї</item>
+        <item>50% батареї</item>
     </string-array>
     <string-array name="clock_position_entries">
         <item>Вверху</item>
