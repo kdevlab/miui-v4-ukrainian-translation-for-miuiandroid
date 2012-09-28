@@ -34,14 +34,18 @@
   <string name="camera_disconnected">Камера відключена.</string>
   <string name="camera_folder_display_name">Фотографії</string>
   <string name="camera_setas_wallpaper">Шпалери</string>
+  <string name="camera_view_none_message">Фотографії будуть відображатись тут</string>
   <string name="cancel">Скасування</string>
   <string name="cancel_bookmark">Видалити з обраного</string>
   <string name="cleaning_cache">Очищення кешу...</string>
   <string name="clear_thumbnail_cache">Очистити кеш мініатюр</string>
   <string name="clear_thumbnail_cache_confirm">Кеш мініатюр буде очищено. Галерея повторно сканує медіа-файли та заново створить ескізи пізніше.</string>
+  <string name="clear_thumbnail_cache_summary">При перегляді галереї створюються ескізи. Видалення кешу очищує пам\'ять</string>
   <string name="click_import">Натисніть тут, щоб почати імпорт</string>
+  <string name="click_to_enter_camera">Відкрити камеру</string>
   <string name="close">Закрити</string>
   <string name="cloud_albums">Хмарові альбоми</string>
+  <string name="cloud_gallery_no_pictures">Фотогрії не знайдені в MiCloud</string>
   <string name="cloud_gallery_setting">Налаштування хмарової галереї</string>
   <string name="cloud_gallery_space_full">Помилка відправки - онлайн-сховище заповнене</string>
   <string name="cloud_media_set_set">Хмарові альбоми</string>
@@ -59,6 +63,7 @@
   <string name="crossprocess">Крос-обробка</string>
   <string name="cut">Обрізати</string>
   <string name="damaged_file">Файл пошкоджений</string>
+  <string name="defalt_local_mobile">Мобільний</string>
   <string name="delete">Видалити</string>
   <string name="deleting_files">Видалення файлів...</string>
   <string name="description">Опис</string>
@@ -106,6 +111,7 @@
   <string name="focal_length">Фокус. відст.</string>
   <string name="free_space_format">Вільно: %s</string>
   <string name="gadget_title">Рамка фотографії</string>
+  <string name="gallery_cloud_provider_name">Галерея</string>
   <string name="global_setting">Налаштування</string>
   <string name="grain">Зернистість</string>
   <string name="grayscale">Ч/Б</string>
@@ -162,6 +168,7 @@
   <string name="mimetype">Тип MIME</string>
   <string name="miui_capture_screen_folder_display_name">Скріншоти</string>
   <string name="model">Модель</string>
+  <string name="modify_cloud_settings">Параметри MiCloud</string>
   <string name="more">Ще</string>
   <string name="move_cloud_data">Дані хмарової галереї були переміщені в: %s</string>
   <string name="movie_view_label">Відеопрогравач</string>
@@ -175,6 +182,7 @@
   <string name="no_files">Папка порожня</string>
   <string name="no_location">Місце не вказано</string>
   <string name="no_map_app">Немає програм з картами</string>
+  <string name="no_network_connected">Немає підключення до мережі</string>
   <string name="no_recent_album">Альбоми можуть бути додані в обране для швидкого перегляду</string>
   <string name="no_storage_disable_cloud_albums">Хмарові альбоми заборонені, повторіть коли сховище буде доступне</string>
   <string name="no_storage_message">Немає доступних зовнішніх носіїв</string>
@@ -182,6 +190,7 @@
   <string name="no_such_item">Елемент не знайдений</string>
   <string name="no_thumbnail">Немає зменшеного зображення</string>
   <string name="not_auto_create_recent_album">Неавтоматичне створення останніх альбомів</string>
+  <string name="only_upload_in_charging">Зображення завантажуються тільки при заряджанні; Будь-ласка, під\'єднайте зарядний пристрій</string>
   <string name="open_map">Відкрити карту</string>
   <string name="open_single_image_failure">Помилка завантаження зображення!</string>
   <string name="open_sync">Синхронізувати</string>
@@ -285,6 +294,7 @@
   <string name="sync_album">Синхронізація альбомів</string>
   <string name="sync_album_error">Не вдалося завантажити фотографії. Повторіть спробу пізніше.</string>
   <string name="sync_album_set_error">Не вдалося завантажити альбоми. Повторіть спробу пізніше.</string>
+  <string name="sync_album_summary">Завантажте ваші фотографії і скріншоти вашого телефону в MiCloud</string>
   <string name="sync_history_power_on">Синхр. історії зображень тільки під час заряджання</string>
   <string name="sync_history_power_on_summary">Рекомендується увімкнути, інакше використання батареї може збільшитись</string>
   <string name="sync_not_open">Ви можете синхронізувати ваші фотографії в хмару</string>
