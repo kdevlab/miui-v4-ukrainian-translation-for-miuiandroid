@@ -150,7 +150,7 @@
   <string name="pref_primary_folder_summary">Папка, яка відкривається при старті програми, поточний шлях: %1$s</string>
   <string name="pref_read_root">Читання кореневого каталогу</string>
   <string name="preference_title">Головні налаштування</string>
-  <string name="remote_management">FTP</string>
+  <string name="remote_management">Обмін файлами по Wi-Fi</string>
   <string name="removed_favorite">Видалити з обраного</string>
   <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
   <string name="rename_success">Перейменувано《%1$s》успішно</string>
@@ -173,6 +173,7 @@
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_remote">Обмін</string>
   <string name="tab_sd">SD-карта</string>
+  <string name="toast_file_not_can_read">Цей тип файлів не підтримується</string>
   <string name="trash_box_capacity">Об\'єм кошика: %1$s</string>
   <string name="trash_box_link">Відвідайте pan.xiaomi.com для очищення кошика</string>
   <string name="trash_box_message1">"Ви можете видалити непотрібні файли для звільнення місця"</string>
@@ -190,6 +191,7 @@
   <string name="ui_bar_txt_download_success">MiDrive: завантаження завершено</string>
   <string name="ui_bar_txt_file_not_found">MiDrive: файл не знайдений</string>
   <string name="ui_bar_txt_remain_task">%1$d залишилось</string>
+  <string name="ui_bar_txt_text">Відправка файлу в MiDrive...%1$d залишилось (%2$d%%)</string>
   <string name="ui_bar_txt_upload_failed">MiDrive: Збій при передачі</string>
   <string name="ui_bar_txt_upload_msg">Відправка %1$s</string>
   <string name="ui_bar_txt_upload_outline">Всього вивантажено: %1$d файлів</string>
