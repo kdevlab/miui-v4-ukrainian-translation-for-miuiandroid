@@ -40,8 +40,8 @@
   <string name="find_device_error_server">Помилка сервера</string>
   <string name="find_device_notice">"Якщо ви не можете знайти телефон, ви можете зайти на i.xiaomi.com для блокування, пошуку і видаления даних"</string>
   <string name="find_device_notice_p1">Якщо ви загубили телефон, зайдіть на</string>
- 	<string name="find_device_notice_p2">i.xiaomi.com</string>
- 	<string name="find_device_notice_p3">для пошуку, блокування чи видалення даних з телефону</string>
+  <string name="find_device_notice_p2">i.xiaomi.com</string>
+  <string name="find_device_notice_p3">для пошуку, блокування чи видалення даних з телефону</string>
   <string name="find_device_success_title">Виявлення пристрою увімкнено</string>
   <string name="forget_password">Забули пароль?</string>
   <string name="header_data_and_synchronization">Дані і синхронізація</string>
