@@ -52,8 +52,10 @@
   <string name="finish_download">Завантаження завершено</string>
   <string name="get_update_error">Не вдалось отримати інформацію про оновлення</string>
   <string name="install_email">Встановити E-mail</string>
-  <string name="install_file_explorer">Встановіть програму Файли</string>
+  <string name="install_file_explorer">Встановити програму Файли</string>
+  <string name="install_qq">Встановити QQ</string>
   <string name="install_rom_from_sd">Прошивка</string>
+  <string name="install_sina">Встановити Sina</string>
   <string name="install_whole_rom">Ми рекомендуємо вам завантажити повний пакет для оновлення системи</string>
   <string name="loading">Завантаження MIUI</string>
   <string name="md5_check_cancelled">MD5 перевірка зупинена</string>
