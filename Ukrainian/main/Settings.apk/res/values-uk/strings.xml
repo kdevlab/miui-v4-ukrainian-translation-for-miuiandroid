@@ -1411,6 +1411,7 @@
   <string name="sim_reenter_new">Введіть новий PIN повторно</string>
   <string name="skip_button_label">Скасувати</string>
   <string name="skip_label">Далі</string>
+  <string name="skip_step">Пропустити цей крок</string>
   <string name="small_font">Маленький</string>
   <string name="sms_delivered_sound_dialog_title">Вибір звуку при доставці повідомлення адресату</string>
   <string name="sms_delivered_sound_title">Звук доставки повідомлення</string>
