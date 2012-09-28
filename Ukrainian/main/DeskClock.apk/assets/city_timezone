@@ -1,0 +1,84 @@
+0	Asia/Shanghai	Пекин, Китай	中国, 北京	中國, 北京	beijing
+1	Pacific/Majuro	Маджуро, Маршалловы острова	马绍尔群岛共和国, 马朱罗	馬紹爾群島共和國, 馬朱羅	mazhuluo
+2	Pacific/Midway	Мидуэй, США	美国, 中途岛	美國, 中途島	zhongtudao
+3	Pacific/Honolulu	Гонолулу, США	美国, 火奴鲁鲁	美國, 火奴魯魯	huonululu
+4	America/Anchorage	Анкоридж, США	美国, 安克雷奇	美國, 安克雷奇	ankeleiqi
+5	America/Los_Angeles	Лос-Анджелес, США	美国, 洛杉矶	美國, 洛杉磯	luoshanji
+6	America/Tijuana	Тихуана, Мексика	墨西哥, 提华纳	墨西哥, 提華納	tihuana
+7	America/Phoenix	Финикс, США	美国, 凤凰城	美國, 鳳凰城	fenghuangcheng
+8	America/Chihuahua	Чихуахуа, Мексика	墨西哥, 奇瓦瓦	墨西哥, 奇瓦瓦	qiwawa
+9	America/Denver	Денвер, США	美国, 丹佛	美國, 丹佛	danfo
+10	America/Costa_Rica	Сан - Хосе, Коста-Рика	哥斯达黎加, 圣何塞	哥斯達黎加, 聖何塞	shenghesai
+11	America/Chicago	Чикаго, США	美国, 芝加哥	美國, 芝加哥	zhijiage
+12	America/Mexico_City	Мехико, Мексика	墨西哥, 墨西哥城	墨西哥, 墨西哥城	moxigecheng
+13	America/Regina	Риджина, Канада	加拿大, 里贾纳	加拿大, 裏賈納	lijiana
+14	America/Bogota	Богота, Колумбия	哥伦比亚, 波哥大	哥倫比亞, 波哥大	bogeda
+15	America/New_York	Нью-Йорк, США	美国, 纽约	美國, 紐約	niuyue
+16	America/Caracas	Каракас, Венесуэла	委内瑞拉, 加拉加斯	委內瑞拉, 加拉加斯	jialajiasi
+17	America/Barbados	Бриджтаун, Барбадос	巴巴多斯, 布里奇顿	巴巴多斯, 布裏奇頓	buliqidun
+18	America/Halifax	Галифакс, Канада	加拿大, 哈里法克斯	加拿大, 哈裏法克斯	halifakesi
+19	America/Manaus	Манаус, Бразилия	巴西, 马瑙斯	巴西, 馬瑙斯	manaosi
+20	America/Santiago	Сантьяго, Чили	智利, 圣地亚哥	智利, 聖地亞哥	shengdiyage
+21	America/St_Johns	Сент-Джонс, Канада	加拿大, 圣约翰	加拿大, 聖約翰	shengyuehan
+22	America/Sao_Paulo	Сан-Паулу, Бразилия	巴西, 圣保罗	巴西, 聖保羅	shengbaoluo
+23	America/Argentina/Buenos_Aires	Буэнос-Айрес, Аргентина	阿根廷, 布宜诺斯艾利斯	阿根廷, 布宜諾斯艾利斯	buyinuosiailisi
+24	America/Godthab	Нуук, Гренландия	格陵兰, 努克	格陵蘭, 努克	nuke
+25	America/Montevideo	Монтевидео, Уругвай	乌拉圭, 蒙得维的亚	烏拉圭, 蒙得維的亞	mengdeweideya
+26	Atlantic/South_Georgia	Король Эдуард Пойнт, Южная Грузия	南乔治亚岛, 爱德华国王	南喬治亞島, 愛德華國王	aidehuaguowang
+27	Atlantic/Azores	Азорские острова, Португалия	葡萄牙, 亚述尔群岛	葡萄牙, 亞述爾群島	yashuerqundao
+28	Atlantic/Cape_Verde	Прая, Кабо-Верде	佛得角, 普拉亚	佛得角, 普拉亞	pulaya
+29	Africa/Casablanca	Касабланка, Марокко	摩洛哥, 卡萨布兰卡	摩洛哥, 卡薩布蘭卡	kasabulanka
+30	Europe/London	Лондон, Англия	英国, 伦敦	英國, 倫敦	lundun
+31	Europe/Amsterdam	Амстердам, Нидерланды	荷兰, 阿姆斯特丹	荷蘭, 阿姆斯特丹	amusitedan
+32	Europe/Belgrade	Белград, Сербия	塞尔维亚, 贝尔格莱德	塞爾維亞, 貝爾格萊德	beiergelaide
+33	Europe/Brussels	Брюссель, Бельгия	比利时, 布鲁塞尔	比利時, 布魯塞爾	bulusaier
+34	Europe/Sarajevo	Сараево, Босния и Герцеговина	波斯尼亚和黑塞哥维那, 萨拉热窝	波斯尼亞和黑塞哥維那, 薩拉熱窩	salarewo
+35	Africa/Windhoek	Виндхук, Намибия	纳米比亚, 温得和克	納米比亞, 溫得和克	wendeheke
+36	Africa/Brazzaville	Браззавиль, Конго	刚果, 布拉柴维尔	剛果, 布拉柴維爾	bulachaiweier
+37	Asia/Amman	Амман, Иордания	黎巴嫩, 安曼	黎巴嫩, 安曼	anman
+38	Europe/Athens	Афины, Греция	希腊, 雅典	希臘, 雅典	yadian
+39	Asia/Beirut	Бейрут, Ливан	黎巴嫩, 贝鲁特	黎巴嫩, 貝魯特	beilute
+40	Africa/Cairo	Каир, Египет	埃及, 开罗	埃及, 開羅	kailuo
+41	Europe/Helsinki	Хельсинки, Финляндия	芬兰, 赫尔辛基	芬蘭, 赫爾辛基	heerxinji
+42	Asia/Jerusalem	Иерусалим, Израиль	以色列, 耶路撒冷	以色列, 耶路撒冷	yelusaleng
+43	Europe/Minsk	Минск, Беларусь	白俄罗斯, 明斯克	白俄羅斯, 明斯克	mingsike
+44	Africa/Harare	Хараре, Зимбабве	津巴布韦, 哈拉雷	津巴布韋, 哈拉雷	halalei
+45	Asia/Baghdad	Багдад, Ирак	伊拉克, 巴格达	伊拉克, 巴格達	bageda
+46	Europe/Moscow	Москва, Россия	俄罗斯, 莫斯科	俄羅斯, 莫斯科	mosike
+47	Asia/Kuwait	Эль-Кувейт, Кувейт	科威特, 科威特城	科威特, 科威特城	keweitecheng
+48	Africa/Nairobi	Найроби, Кения	肯尼亚, 内罗毕	肯尼亞, 內羅畢	neiluobi
+49	Asia/Tehran	Тегеран, Иран	伊朗, 德黑兰	伊朗, 德黑蘭	deheilan
+50	Asia/Baku	Баку, Азербайджан	阿塞拜疆, 巴库	阿塞拜疆, 巴庫	baku
+51	Asia/Tbilisi	Тбилиси, Грузия	格鲁吉亚, 第比利斯	格魯吉亞, 第比利斯	dibilisi
+52	Asia/Yerevan	Ереван, Армения	亚美尼亚, 埃里温	亞美尼亞, 埃裏溫	ailiwen
+53	Asia/Dubai	Дубай, ОАЭ	阿联酋, 迪拜	阿聯酋, 迪拜	dibai
+54	Asia/Kabul	Кабул, Афганистан	阿富汗, 喀布尔	阿富汗, 喀布爾	kabuer
+55	Asia/Karachi	Карачи, Пакистан	巴基斯坦, 卡拉奇	巴基斯坦, 卡拉奇	kalaqi
+56	Asia/Oral	Уральск, Казахстан	哈萨克斯坦, 乌拉尔	哈薩克斯坦, 烏拉爾	wulaer
+57	Asia/Yekaterinburg	Екатеринбург, Россия	俄罗斯, 叶卡捷林堡	俄羅斯, 葉卡捷林堡	yekajielinbao
+58	Asia/Calcutta	Калькутта, Индия	印度, 加尔各答	印度, 加爾各答	jiaergeda
+59	Asia/Colombo	Коломбо, Шри-Ланка	斯里兰卡, 科伦坡	斯裏蘭卡, 科倫坡	kelunpo
+60	Asia/Katmandu	Катманду, Непал	尼泊尔, 加德满都	尼泊爾, 加德滿都	jiademandou
+61	Asia/Almaty	Алматы, Казахстан	哈萨克斯坦, 阿拉木图	哈薩克斯坦, 阿拉木圖	alamutu
+62	Asia/Rangoon	Янгон, Мьянма	缅甸, 仰光	緬甸, 仰光	yangguang
+63	Asia/Krasnoyarsk	Красноярск, Россия	俄罗斯, 克拉斯诺亚尔斯克	俄羅斯, 克拉斯諾亞爾斯克	kelasinuoyaersike
+64	Asia/Bangkok	Бангкок, Таиланд	泰国, 曼谷	泰國, 曼谷	mangu
+65	Asia/Hong_Kong	Гонконг, Китай	中国, 香港	中國, 香港	xianggang
+66	Asia/Irkutsk	Иркутск, Россия	俄罗斯, 伊尔库茨克	俄羅斯, 伊爾庫茨克	yierkucike
+67	Asia/Kuala_Lumpur	Куала-Лумпур, Малайзия	马来西亚, 吉隆坡	馬來西亞, 吉隆坡	jilongpo
+68	Australia/Perth	Перт, Австралия	澳大利亚, 佩思	澳大利亞, 佩思	peisi
+69	Asia/Taipei	Тайбэй	台北	臺北	taibei
+70	Asia/Seoul	Сеул, Южная Корея	南韩, 首尔	南韓, 首爾	shouer
+71	Asia/Tokyo	Токио, Япония	日本, 东京	日本, 東京	dongjing
+72	Asia/Yakutsk	Якутск, Россия	俄罗斯, 雅库茨克	俄羅斯, 雅庫茨克	yakucike
+73	Australia/Adelaide	Аделаида, Австралия	澳大利亚, 阿德莱德	澳大利亞, 阿德萊德	adelaide
+74	Australia/Darwin	Дарвин, Австралия	澳大利亚, 达尔文	澳大利亞, 達爾文	daerwen
+75	Australia/Brisbane	Брисбен, Австралия	澳大利亚, 布里斯班	澳大利亞, 布裏斯班	bulisiban
+76	Australia/Hobart	Хобарт, Австралия	澳大利亚, 霍巴特	澳大利亞, 霍巴特	huobate
+77	Australia/Sydney	Сидней, Австралия	澳大利亚, 悉尼	澳大利亞, 悉尼	xini
+78	Asia/Vladivostok	Владивосток, Россия	俄罗斯, 符拉迪沃斯托克	俄羅斯, 符拉迪沃斯托克	fuladiwosituoke
+79	Pacific/Guam	Гуам, Гуам	关岛, 关岛	關島, 關島	guandao
+80	Asia/Magadan	Магадан, Россия	俄罗斯, 马加丹	俄羅斯, 馬加丹	majiadan
+81	Pacific/Auckland	Окленд, Новая Зеландия	新西兰, 奥克兰	新西蘭, 奧克蘭	aokelan
+82	Pacific/Fiji	Сува, Фиджи	斐济, 苏瓦	斐濟, 蘇瓦	suwa
+83	Europe/Kiev	Киев, Украина	荷兰, 阿姆斯特丹	荷蘭, 阿姆斯特丹	ukraine
