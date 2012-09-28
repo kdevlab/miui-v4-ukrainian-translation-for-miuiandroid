@@ -6,7 +6,7 @@
   <string name="FIPS_key_managemnet_module">Key management module</string>
   <string name="FIPS_status_disabled">Disabled</string>
   <string name="FIPS_status_enabled">Enabled</string>
-  <string name="a_sensor_summary">Горизонтальне калібрування правильно используя акселерометр</string>
+  <string name="a_sensor_summary">Горизонтальне калібрування для правильної роботи акселерометра</string>
   <string name="a_sensor_title">Горизонтальне калібрування</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, device status, and software version</string>
