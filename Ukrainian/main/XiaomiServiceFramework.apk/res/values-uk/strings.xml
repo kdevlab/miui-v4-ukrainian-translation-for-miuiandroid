@@ -39,6 +39,9 @@
   <string name="find_device_error_network">Мережа не доступна</string>
   <string name="find_device_error_server">Помилка сервера</string>
   <string name="find_device_notice">"Якщо ви не можете знайти телефон, ви можете зайти на i.xiaomi.com для блокування, пошуку і видаления даних"</string>
+  <string name="find_device_notice_p1">Якщо ви загубили телефон, зайдіть на</string>
+ 	<string name="find_device_notice_p2">i.xiaomi.com</string>
+ 	<string name="find_device_notice_p3">для пошуку, блокування чи видалення даних з телефону</string>
   <string name="find_device_success_title">Виявлення пристрою увімкнено</string>
   <string name="forget_password">Забули пароль?</string>
   <string name="header_data_and_synchronization">Дані і синхронізація</string>
@@ -93,7 +96,7 @@
   <string name="send_sms_for_sync_title">Не активовано</string>
   <string name="sim_changed_notification_content">SIM не активована, будь-ласка активуйте</string>
   <string name="sim_changed_reactivate_notice">SIM-карта не активна. Необхідно відправити повідомлення для активації сервісу. Активувати зараз?</string>
-  <string name="skip_setup_account_msg">Використовуючи акаунт Xiaomi, ви можете синхронізувати і резервувати повідомлення, контакти, фотографії, нотатки і т.д. Продовжити і налаштувати пізніше?</string>
+  <string name="skip_setup_account_msg">Використання акаунту Xiaomi дозволить вам синхронізувати і резервувати повідомлення, контакти, фотографії, нотатки і т.д. Продовжити і налаштувати пізніше?</string>
   <string name="skip_setup_account_title">Пропустити налаштування акаунту</string>
   <string name="sub_sync_big_photo_item_summary">Рекомендується включити, інакше буде витрачатись трафік</string>
   <string name="sub_sync_big_photo_item_title_wifi_only">Тільки Wi-Fi для відображення фото</string>
