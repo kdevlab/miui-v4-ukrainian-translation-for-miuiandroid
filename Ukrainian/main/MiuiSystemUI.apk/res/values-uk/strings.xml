@@ -190,7 +190,7 @@
   <string name="settings_toggle_position_reset">Скинути перемикачі</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрити недавні програми</string>
   <string name="status_bar_clear_all_button">Очистити</string>
-  <string name="status_bar_date_format">EEEE, d MMMM yyyy</string>
+  <string name="status_bar_date_format">EEE, d MMMM yyyy</string>
   <string name="status_bar_do_not_disturb_button">Не турбувати</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
   <string name="status_bar_latest_events_title">Повідомлення</string>
