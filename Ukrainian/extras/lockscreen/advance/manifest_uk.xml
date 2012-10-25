@@ -92,7 +92,7 @@
         <Image x="#unlock_x" y="226-230" align="center" src="unlock_top_p.png" visibility="not(#unlocker.state)"/>
         <Image x="#unlock_x" y="226" align="center" alignV="center" src="music_album_cover.png" visibility="not(#unlocker.state)"/>
         	
-        <!-- 上一首 -->
+                <!-- 上一首 -->
         <Button name="music_prev" x="#unlock_x-226" y="116" w="#screen_width/2-110" h="220" visibility="not(#unlocker.state)">
             <Normal>
                 <Image x="#unlock_x-192" y="226" align="center" alignV="center" src="music_pre_n.png"/>
@@ -134,7 +134,7 @@
         </Button>
     </MusicControl>
 
-        <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
+            <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
         <StartPoint x="#unlock_x-78" y="#unlock_y-78" w="136" h="136">
         </StartPoint>
 
@@ -294,7 +294,7 @@
                 </Image>
 
 
-                                <!-- 时间、日期 -->
+                                                <!-- 时间、日期 -->
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
@@ -314,7 +314,7 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Text>
-                                <Group>
+                                                <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
                         <Alpha a="255" time="500"/>
@@ -367,7 +367,7 @@
                     </Image>
                 </Group>
 
-                                <Group>
+                                                <Group>
                     <AlphaAnimation>
                         <Alpha a="64" time="0"/>
                         <Alpha a="128" time="500"/>
