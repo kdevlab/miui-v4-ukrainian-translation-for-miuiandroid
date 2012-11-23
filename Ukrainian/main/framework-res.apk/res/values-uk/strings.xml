@@ -38,10 +38,10 @@
   <string name="VideoView_error_title">Неможливо відтворити відео</string>
   <string name="abbrev_month">%-b</string>
   <string formatted="false" name="abbrev_month_day">%-e %b</string>
-  <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
-  <string formatted="false" name="abbrev_month_year">%-b %Y</string>
+  <string formatted="false" name="abbrev_month_day_year">%-e %b %Y р.</string>
+  <string formatted="false" name="abbrev_month_year">%-b %Y р.</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-  <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
+  <string name="abbrev_wday_month_day_year">"EEE, d MMM yyyy 'р'."</string>
   <string name="accept">Прийняти</string>
   <string name="accessibility_binding_label">Спеціальні можливості</string>
   <string name="action_bar_home_description">Перейти на головну</string>
@@ -150,9 +150,9 @@
   <string name="data_usage_warning_title">Залишилось мало трафіку</string>
   <string name="data_usage_wifi_limit_snoozed_title">Перевищен ліміт на трафік Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">Передачу даних через Wi-Fi вимкнено</string>
-  <string name="date1_date2">%2$s - %5$s</string>
-  <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
-  <string formatted="false" name="date_and_time">%-k:%M:%S, %d.%m.%Y</string>
+  <string name="date1_date2">%2$s – %5$s</string>
+  <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+  <string formatted="false" name="date_and_time">%-e %b %Y р., %H:%M:%S</string>
   <string name="date_picker_decrement_day_button">На день назад</string>
   <string name="date_picker_decrement_month_button">На місяць назад</string>
   <string name="date_picker_decrement_year_button">На рік назад</string>
@@ -160,31 +160,31 @@
   <string name="date_picker_increment_day_button">На день вперед</string>
   <string name="date_picker_increment_month_button">На місяць вперед</string>
   <string name="date_picker_increment_year_button">На рік вперед</string>
-  <string name="date_time">%2$s, %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Готово</string>
   <string name="date_time_set">Установити</string>
   <string name="day">день</string>
-  <string name="day_of_week_long_friday">П\'ятниця</string>
-  <string name="day_of_week_long_monday">Понеділок</string>
-  <string name="day_of_week_long_saturday">Субота</string>
-  <string name="day_of_week_long_sunday">Неділя</string>
-  <string name="day_of_week_long_thursday">Четвер</string>
-  <string name="day_of_week_long_tuesday">Вівторок</string>
-  <string name="day_of_week_long_wednesday">Середа</string>
-  <string name="day_of_week_medium_friday">Пт</string>
-  <string name="day_of_week_medium_monday">Пн</string>
-  <string name="day_of_week_medium_saturday">Сб</string>
-  <string name="day_of_week_medium_sunday">Нд</string>
-  <string name="day_of_week_medium_thursday">Чт</string>
-  <string name="day_of_week_medium_tuesday">Вт</string>
-  <string name="day_of_week_medium_wednesday">Ср</string>
-  <string name="day_of_week_short_friday">Пт</string>
-  <string name="day_of_week_short_monday">Пн</string>
-  <string name="day_of_week_short_saturday">Сб</string>
-  <string name="day_of_week_short_sunday">Нд</string>
-  <string name="day_of_week_short_thursday">Чт</string>
-  <string name="day_of_week_short_tuesday">Вт</string>
-  <string name="day_of_week_short_wednesday">Ср</string>
+  <string name="day_of_week_long_friday">пʼятниця</string>
+  <string name="day_of_week_long_monday">понеділок</string>
+  <string name="day_of_week_long_saturday">субота</string>
+  <string name="day_of_week_long_sunday">неділя</string>
+  <string name="day_of_week_long_thursday">четвер</string>
+  <string name="day_of_week_long_tuesday">вівторок</string>
+  <string name="day_of_week_long_wednesday">середа</string>
+  <string name="day_of_week_medium_friday">пт.</string>
+  <string name="day_of_week_medium_monday">пн.</string>
+  <string name="day_of_week_medium_saturday">сб.</string>
+  <string name="day_of_week_medium_sunday">нд.</string>
+  <string name="day_of_week_medium_thursday">чт.</string>
+  <string name="day_of_week_medium_tuesday">вт.</string>
+  <string name="day_of_week_medium_wednesday">ср.</string>
+  <string name="day_of_week_short_friday">пт.</string>
+  <string name="day_of_week_short_monday">пн.</string>
+  <string name="day_of_week_short_saturday">сб.</string>
+  <string name="day_of_week_short_sunday">нд.</string>
+  <string name="day_of_week_short_thursday">чт.</string>
+  <string name="day_of_week_short_tuesday">вт.</string>
+  <string name="day_of_week_short_wednesday">ср.</string>
   <string name="day_of_week_shortest_friday">П</string>
   <string name="day_of_week_shortest_monday">П</string>
   <string name="day_of_week_shortest_saturday">С</string>
@@ -306,7 +306,7 @@
   <string formatted="false" name="hour_cap_ampm">%-l%p</string>
   <string formatted="false" name="hour_minute_24">%-k:%M</string>
   <string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
-  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
+  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %p</string>
   <string name="hours">годин</string>
   <string name="httpError">Помилка мережі</string>
   <string name="httpErrorAuth">Автентифікація не відбулася.</string>
@@ -474,7 +474,7 @@
   <string name="mmiFdnError">Операцію дозволено лише для номерів фіксованого набору.</string>
   <string name="month">%-B</string>
   <string formatted="false" name="month_day">%-e %B</string>
-  <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
+  <string formatted="false" name="month_day_year">%-e %B %Y р.</string>
   <string name="month_long_april">квітня</string>
   <string name="month_long_august">серпня</string>
   <string name="month_long_december">грудня</string>
@@ -487,18 +487,18 @@
   <string name="month_long_november">листопада</string>
   <string name="month_long_october">жовтня</string>
   <string name="month_long_september">вересня</string>
-  <string name="month_long_standalone_april">Квітень</string>
-  <string name="month_long_standalone_august">Серпень</string>
-  <string name="month_long_standalone_december">Грудень</string>
-  <string name="month_long_standalone_february">Лютий</string>
-  <string name="month_long_standalone_january">Січень</string>
-  <string name="month_long_standalone_july">Липень</string>
-  <string name="month_long_standalone_june">Червень</string>
-  <string name="month_long_standalone_march">Березень</string>
-  <string name="month_long_standalone_may">Травень</string>
-  <string name="month_long_standalone_november">Листопад</string>
-  <string name="month_long_standalone_october">Жовтень</string>
-  <string name="month_long_standalone_september">Вересень</string>
+  <string name="month_long_standalone_april">квітень</string>
+  <string name="month_long_standalone_august">серпень</string>
+  <string name="month_long_standalone_december">грудень</string>
+  <string name="month_long_standalone_february">лютий</string>
+  <string name="month_long_standalone_january">січень</string>
+  <string name="month_long_standalone_july">липень</string>
+  <string name="month_long_standalone_june">червень</string>
+  <string name="month_long_standalone_march">березень</string>
+  <string name="month_long_standalone_may">травень</string>
+  <string name="month_long_standalone_november">листопад</string>
+  <string name="month_long_standalone_october">жовтень</string>
+  <string name="month_long_standalone_september">вересень</string>
   <string name="month_medium_april">квіт.</string>
   <string name="month_medium_august">серп.</string>
   <string name="month_medium_december">груд.</string>
@@ -523,7 +523,7 @@
   <string name="month_shortest_november">Л</string>
   <string name="month_shortest_october">Ж</string>
   <string name="month_shortest_september">В</string>
-  <string formatted="false" name="month_year">%-B %Y</string>
+  <string formatted="false" name="month_year">%-B %Y р.</string>
   <string name="more_item_label">Більше</string>
   <string name="needPuk">Ваша SIM-картка захищена PUK-кодом. Уведіть PUK-код, щоб розблокувати її.</string>
   <string name="needPuk2">Уведіть PUK2, щоб розблокувати SIM-картку.</string>
@@ -545,14 +545,14 @@
   <string formatted="false" name="numeric_date">%d.%m.%Y</string>
   <string name="numeric_date_format">dd.MM.yyyy</string>
   <string formatted="false" name="numeric_date_template">%s.%s.%s</string>
-  <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
-  <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
-  <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
-  <string name="numeric_mdy1_time1_mdy2_time2">%5$s, %3$s.%2$s.%4$s - %10$s, %8$s.%7$s.%9$s</string>
-  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s.%2$s - %10$s, %6$s, %8$s.%7$s</string>
+  <string name="numeric_md1_md2">%3$s.%2$s – %8$s.%7$s</string>
+  <string name="numeric_md1_time1_md2_time2">%3$s.%2$s, %5$s – %8$s.%7$s, %10$s</string>
+  <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s – %8$s.%7$s.%9$s</string>
+  <string name="numeric_mdy1_time1_mdy2_time2">%3$s.%2$s.%4$s, %5$s – %8$s.%7$s.%9$s, %10$s</string>
+  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s.%2$s, %5$s – %6$s, %8$s.%7$s, %10$s</string>
   <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s – %6$s, %8$s.%7$s</string>
-  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s.%2$s.%4$s - %10$s, %6$s, %8$s.%7$s.%9$s</string>
-  <string name="numeric_wday1_mdy1_wday2_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
+  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s.%2$s.%4$s, %5$s – %6$s, %8$s.%7$s.%9$s, %10$s</string>
+  <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s.%2$s.%4$s – %6$s, %8$s.%7$s.%9$s</string>
   <string name="ok">OK</string>
   <string name="old_app_action">Повернутися до %1$s</string>
   <string name="old_app_description">Не запускати нову програму.</string>
@@ -1018,22 +1018,22 @@
   <string name="roamingText9">Роумінг - повна функціональність служби</string>
   <string name="roamingTextSearching">Пошук служби</string>
   <string name="safeMode">Безпечний режим</string>
-  <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
-  <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-  <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
-  <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
-  <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
-  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
-  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
-  <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
-  <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-  <string name="same_year_mdy1_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
-  <string name="same_year_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
-  <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
-  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
-  <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
+  <string name="same_month_md1_md2">%3$s – %8$s %2$s</string>
+  <string name="same_month_md1_time1_md2_time2">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+  <string name="same_month_mdy1_mdy2">%3$s – %8$s %2$s %9$s р.</string>
+  <string name="same_month_mdy1_time1_mdy2_time2">%3$s %2$s %4$s р., %5$s – %8$s %7$s %9$s р., %10$s</string>
+  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+  <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s р., %5$s – %6$s, %8$s %7$s %9$s р., %10$s</string>
+  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s р. – %6$s, %8$s %7$s %9$s р.</string>
+  <string name="same_year_md1_md2">%3$s %2$s – %8$s %7$s</string>
+  <string name="same_year_md1_time1_md2_time2">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+  <string name="same_year_mdy1_mdy2">%3$s %2$s – %8$s %7$s %9$s р.</string>
+  <string name="same_year_mdy1_time1_mdy2_time2">%3$s %2$s %4$s р., %5$s – %8$s %7$s %9$s р., %10$s</string>
+  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+  <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s р., %5$s – %6$s, %8$s %7$s %9$s р., %10$s</string>
+  <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s – %6$s, %8$s %7$s %9$s р.</string>
   <string name="save_password_label">Підтвердити</string>
   <string name="save_password_message">"Бажаєте, щоб браузер запам\'ятав цей пароль?"</string>
   <string name="save_password_never">Ніколи</string>
@@ -1129,9 +1129,9 @@
   <string name="throttle_warning_notification_title">Надто активне використання мобільних даних</string>
   <string name="throttled_notification_message">Торкніться, щоб дізнатися більше про використання мобільних даних</string>
   <string name="throttled_notification_title">Перевищено ліміт мобільних даних</string>
-  <string name="time1_time2">%1$s - %2$s</string>
-  <string name="time_date">%1$s, %3$s</string>
-  <string formatted="false" name="time_of_day">%-k:%M:%S</string>
+  <string name="time1_time2">%1$s – %2$s</string>
+  <string name="time_date">%3$s, %1$s</string>
+  <string formatted="false" name="time_of_day">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">На годину назад</string>
   <string name="time_picker_decrement_minute_button">На хвилину назад</string>
   <string name="time_picker_decrement_set_am_button">Встановити час до опівдня</string>
@@ -1139,8 +1139,8 @@
   <string name="time_picker_increment_hour_button">На годину вперед</string>
   <string name="time_picker_increment_minute_button">На хвилину вперед</string>
   <string name="time_picker_increment_set_pm_button">Встановити час після опівдня</string>
-  <string name="time_wday">%1$s, %2$s</string>
-  <string name="time_wday_date">%1$s, %2$s, %3$s</string>
+  <string name="time_wday">%2$s, %1$s</string>
+  <string name="time_wday_date">%2$s, %3$s, %1$s</string>
   <string name="today">Сьогодні</string>
   <string name="togglebutton_not_pressed">Не натиснуто</string>
   <string name="togglebutton_pressed">Натиснуто</string>
@@ -1194,8 +1194,8 @@
   <string name="vpn_title_long">Мережа VPN активована програмою %s</string>
   <string name="wait">Зачекати</string>
   <string name="wallpaper_binding_label">Шпалери</string>
-  <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
-  <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
+  <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
+  <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
   <string name="wday_date">%2$s, %3$s</string>
   <string name="webpage_unresponsive">"Сторінка не відповідає.
 
