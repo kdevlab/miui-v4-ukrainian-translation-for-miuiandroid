@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by Bortyuk Vladimir-->
   <!--Fixed, merged and deleted duplicates by Bortyuk Vladimir-->
-  <string name="access_sd_fail">Немає доступу до карти пам'яті</string>
+  <string name="access_sd_fail">Немає доступу до карти пам\u0027яті</string>
   <string name="accessibility_back_to_first_level">Закрити налаштування</string>
   <string name="accessibility_camera_picker">Переключення камери</string>
   <string name="accessibility_decrement">Зменшити %1$s</string>
@@ -19,7 +19,7 @@
   <string name="camera_gallery_photos_text">Галерея</string>
   <string name="camera_label">Камера</string>
   <string name="camera_settings_label">Налаштування камери</string>
-  <string name="cannot_connect_camera">Не можу з'єднатися з камерою</string>
+  <string name="cannot_connect_camera">Не можу з\u0027єднатися з камерою</string>
   <string name="clear_effects">Прибрати ефекти</string>
   <string name="confirm_restore_message">Відновити налаштування камери за замовчуванням</string>
   <string name="confirm_restore_title">Відновлення налаштувань</string>
@@ -43,9 +43,9 @@
   <string name="gallery_camera_bucket_name">Фото з камери</string>
   <string name="gallery_camera_videos_bucket_name">Відеокамера</string>
   <string name="no_picture_to_share">Немає фотографій для публикації</string>
-  <string name="no_storage">Вставте карту пам'яті перед використанням камери</string>
+  <string name="no_storage">Вставте карту пам\u0027яті перед використанням камери</string>
   <string name="no_video_to_share">Немає відео для публикації</string>
-  <string name="not_enough_space">Карта пам'яті заповнена</string>
+  <string name="not_enough_space">Карта пам\u0027яті заповнена</string>
   <string name="not_selectable_in_effect">Недоступно при ввімкнених ефектах</string>
   <string name="not_selectable_in_scene_mode">Не вибирати в режимі сцени</string>
   <string name="pano_capture_indication">Зйомка панорами</string>
@@ -244,14 +244,14 @@
   <string name="pref_video_time_lapse_frame_interval_entry_3000">3 сек.</string>
   <string name="pref_video_time_lapse_frame_interval_entry_5000">5 сек.</string>
   <string name="pref_video_time_lapse_frame_interval_title">Інтервал проміжку часу</string>
-  <string name="preparing_sd">Підготовка карти пам'яті</string>
+  <string name="preparing_sd">Підготовка карти пам\u0027яті</string>
   <string name="review_cancel">СКАСУВАННЯ</string>
   <string name="review_ok">ВИКОНАНО</string>
   <string name="review_play">Програвання</string>
   <string name="review_retake">ПРОЙТИ ПОВТОРНО</string>
   <string name="share_picture_via">Опублікувати фото через</string>
   <string name="share_video_via">Опублікувати відео через</string>
-  <string name="spaceIsLow_content">Недостатньо місця на карті пам'яті. Змініть якість або звільніть місце.</string>
+  <string name="spaceIsLow_content">Недостатньо місця на карті пам\u0027яті. Змініть якість або звільніть місце.</string>
   <string name="switch_camera_id">Переключити камеру</string>
   <string name="switch_to_camera_label">Переключення в режим фотокамери</string>
   <string name="switch_to_panorama_label">Переключення в режим панорами</string>
