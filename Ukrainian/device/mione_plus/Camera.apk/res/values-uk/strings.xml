@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by Bortyuk Vladimir-->
-  <!--Fixed, merged and deleted duplicates by Bortyuk Vladimir-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="access_sd_fail">Немає доступу до карти пам\u0027яті</string>
   <string name="accessibility_back_to_first_level">Закрити налаштування</string>
   <string name="accessibility_camera_picker">Переключення камери</string>
