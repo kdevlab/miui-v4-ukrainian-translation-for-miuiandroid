@@ -5,15 +5,13 @@
         <item>Усі програми</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Галерея</item>
-        <item>Музика</item>
-        <item>Диктофон</item>
         <item>Браузер</item>
-        <item>Фотографії</item>
         <item>Програма Файли</item>
-        <item>Галерея</item>	
-        <item>Суперкористувач</item>	
+        <item>Галерея</item>
+        <item>Безпека</item>
         <item>Камера</item>
+        <item>Монітор</item>
+        <item>Погода</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакти</item>
