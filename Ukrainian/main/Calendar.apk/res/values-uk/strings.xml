@@ -20,9 +20,6 @@
   <string name="accessibility_sync_cal">Синхронізувати календар</string>
   <string name="accounts">Акаунти</string>
   <string name="acct_not_synced">Цей аккаунт не синхронізується, тому ваші календарі не оновлюються</string>
-  <string name="acessibility_cal_notification">Позначити подію</string>
-  <string name="acessibility_selected_marker_description">Вибрана подія</string>
-  <string name="acessibility_snooze_notification">Відкласти подію</string>
   <string name="add_account">Додати акаунт</string>
   <string name="agenda_today">СЬОГОДНІ, %1$s</string>
   <string name="agenda_tomorrow">ЗАВТРА, %1$s</string>
@@ -42,13 +39,10 @@
   <string name="birthday_notification_title_today">\"День народження у %1$s\"</string>
   <string name="birthday_notification_type_term_lunar" />
   <string name="calendar_refresh">Оновити</string>
-  <string name="calendar_sync_adapter_label">Синхронізація календаря Google</string>
   <string name="change_response_title">Змінити відповідь</string>
   <string name="chips_waiting_for_directory_result">Очікування відповідей</string>
   <string name="copy">Скопіювати адресу ел. пошти</string>
   <string name="copy_db">Надіслати базу даних</string>
-  <string name="copy_email">Копіювати e-mail</string>
-  <string name="copy_number">Копіювати телефон</string>
   <string name="create_an_account_desc">"Підключіть Календар до аккаунту Google, щоб:
 
 • Завжди мати під рукою оновлені дані - на будь-якому пристрої.
@@ -57,19 +51,15 @@
   <string name="creating_event_with_guest">Запрошення надіслано</string>
   <string name="custom">Особливе... (налаштовується тільки на сайті)</string>
   <string name="daily">Щодня</string>
-  <string formatted="false" name="date_time_fmt">%s, %s</string>
   <string name="day_view">День</string>
   <string name="day_view_new_event_hint">Створити захід</string>
   <string name="delete_label">Видалити</string>
-  <string name="delete_recurring_event_title">Видалити %s?</string>
   <string name="delete_this_event_title">Видалити захід?</string>
   <string name="description_label">Опис</string>
   <string name="directory_searching_fmt">Пошук у %s…</string>
   <string name="discard_label">Скасувати</string>
   <string name="dismiss_all_label">Видалити всі</string>
-  <string name="do_not_check">Не перевіряти -&gt;</string>
   <string name="does_not_repeat">Одноразова подія</string>
-  <string name="done">Готово</string>
   <string name="edit_event_all_day_label">Цілий день</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_from_label">З</string>
