@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="MIUI_homepage">Домашня сторінкаа MIUI</string>
+  <string name="MIUI_homepage">Домашня сторінка MIUI</string>
   <string name="accessibility_button_addbookmark">Додати сторінку в закладки</string>
   <string name="accessibility_button_back">Назад</string>
   <string name="accessibility_button_bookmarks">Закладки</string>
@@ -151,6 +151,7 @@
   <string name="exported_bookmark_file_name">Моє вибране</string>
   <string name="file_picker_new_folder">Нова папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
+  <string name="find_on_page">Знайти на сторінці</string>
   <string name="folder_name">Ім\'я папки</string>
   <string name="forward">Вперед</string>
   <string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
@@ -372,6 +373,7 @@
   <string name="report_reading_mode_issue">Повідомити про проблему режиму читання MIUI</string>
   <string name="save">ОК</string>
   <string name="save_to_bookmarks">Додати закладку</string>
+  <string name="saving_snapshot">Зберігається...</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Пошук</string>
@@ -380,6 +382,7 @@
   <string name="search_hint">Введіть умови пошуку або URL-адресу</string>
   <string name="search_label">Браузер</string>
   <string name="search_settings_description">Закладки та історія пошуку</string>
+  <string name="search_sogou">Segou</string>
   <string name="search_the_web">Пошук в Інтернеті</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Загроза безпеки</string>
