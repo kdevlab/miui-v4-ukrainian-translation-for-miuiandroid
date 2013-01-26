@@ -75,8 +75,10 @@
   <string name="fw_edit_keyword">Редагувати шаблон</string>
   <string name="fw_end_time">Час закінчення</string>
   <string name="fw_import_blacklist">Додати в чорний список</string>
+  <string name="fw_import_blacklist_confirm">Імпортувати номери (%d) в чорний список?</string>
   <string name="fw_import_ms">Імпорт контактів та SMS</string>
   <string name="fw_import_whitelist">Додати в білий список</string>
+  <string name="fw_import_whitelist_confirm">Імпортувати номери (%d) в білий список?</string>
   <string name="fw_in_blacklist">Номер: %s, вже існує в чорному списку</string>
   <string name="fw_in_whitelist">Номер: %s, вже існує в білому списку</string>
   <string name="fw_keyword_filter">Фільтр по шаблону</string>
