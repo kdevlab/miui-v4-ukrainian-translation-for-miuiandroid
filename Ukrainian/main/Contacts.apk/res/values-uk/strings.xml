@@ -25,6 +25,8 @@
   <string name="aggregation_suggestion_join_dialog_title">Об\'єднати контакти</string>
   <string name="attach_photo_dialog_title">Фотографія контакту</string>
   <string name="audio_chat">Голосовий чат</string>
+  <string name="auto_nickname">Авто</string>
+  <string name="auto_set_nickname">Авто</string>
   <string name="batch_delete_msg">"Видалити выбрані контакти (%d)? Контакти в хмарі також будуть видалені!"</string>
   <string name="blurbJoinContactDataWith">Виберіть контакт, який хочете об\'єднати з \"%s\":</string>
   <string name="btn_finished">Готово</string>
@@ -116,7 +118,6 @@
   <string name="composer_failed_to_get_database_infomation">База даних недоступна</string>
   <string name="composer_has_no_exportable_contact">Не знайдені контакти для експорту. Можливо, експорт контактів з телефону не підтримується постачальником послуг передачі даних</string>
   <string name="composer_not_initialized">Збій при запуску редактора vCard</string>
-  <string name="config_export_dir">/sdcard/MIUI/contacts</string>
   <string name="confirm_delete_selected_call_log">Ви впевнені, що хочете видалити ці контакти (% 1d)?</string>
   <string name="confirm_export_message">Список контактів буде експортований у файл \"%s\"</string>
   <string name="confirm_export_title">Експорт контактів</string>
@@ -135,7 +136,7 @@
   <string name="contact_pick_photo">Фото</string>
   <string name="contact_read_only">Тут доступно тільки для читання</string>
   <string name="contact_status_update_attribution">за допомогою %1$s</string>
-  <string formatted="false" name="contact_status_update_attribution_with_date">%1$s за допомогою %2$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s за допомогою %2$s</string>
   <string name="contactsAllLabel">Всі</string>
   <string name="contactsFavoritesLabel">Уподобання</string>
   <string name="contactsGroupsLabel">Групи</string>
@@ -150,12 +151,14 @@
   <string name="create_group_item_label">[Створити нову групу]</string>
   <string name="customLabelPickerTitle">Назва ярлика</string>
   <string name="custom_list_filter">Налаштування відображення</string>
+  <string name="custom_nickname_hint">Введітт: Mr або Mrs</string>
   <string name="date_picker_label">Нагадати за 3 дні і в день народження</string>
   <string name="date_time_set">Налаштувати</string>
   <string name="date_year_toggle">Вказати рік</string>
   <string name="default_ringtone">За замовчуванням</string>
   <string name="delete">Очистити</string>
   <string name="deleteConfirmation">Цей контакт буде видалено</string>
+  <string name="deleteConfirmationDetail">\"%s\" буде видалено</string>
   <string name="deleteConfirmation_title">Видалення контакту</string>
   <string name="delete_call_log_title">Вибрати журнали для видалення?</string>
   <string name="delete_contact_calllog_title">Журнал викликів буде очищений</string>
@@ -328,6 +331,9 @@
   <string name="liveFolder_all_label">Всі контакти</string>
   <string name="liveFolder_favorites_label">Зазначений</string>
   <string name="liveFolder_phones_label">Телефонний</string>
+  <string name="loading_group_members">Завантаження контактів...</string>
+  <string name="loading_groups">Завантаження груп...</string>
+  <string name="loading_recent">Завантаження останніх контактів...</string>
   <string name="local_invisible_directory">Інше</string>
   <string name="local_profile_title">Мій профіль</string>
   <string name="local_search_label">Всі контакти</string>
@@ -377,9 +383,10 @@
   <string name="menu_viewContact">Переглянути контакт</string>
   <string name="merge_contact_message">(%1$d) контактів з частково дублюючими даними, (%2$d) об\'єднано</string>
   <string name="messageShortcutActivityTitle">Вибрати номер для відправки повідомлення</string>
-  <string name="missing_name">Ім\'я не вказано</string>
+  <string name="missing_name">(без імені)</string>
   <string name="move_and_resize">Зміна розміру і положення</string>
-  <string name="multipleContactDeleteConfirmation">Видалення цього контакту призведе до втрати даних з декількох акаунтів</string>
+  <string name="multipleContactDeleteConfirmation">Видалення цього контакту видалить всю інформацію про цей контакт із акаунтів</string>
+  <string name="multipleContactDeleteConfirmationDetail">Видалення \"%s\" видалить всю інформацію про цей контакт із акаунтів</string>
   <string name="nameLabelsGroup">Ім\'я</string>
   <string name="name_family">Прізвище</string>
   <string name="name_given">Ім\'я</string>
@@ -476,6 +483,13 @@
   <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
   <string name="openDialKeyboard">Клавіатура</string>
   <string name="open_contact">Відкрити контакт</string>
+  <string name="option_delete_contact">Видалити</string>
+  <string name="option_edit_contact">Змінити</string>
+  <string name="option_not_in_group">Видалити</string>
+  <string name="option_not_star">Видалити з уподобань</string>
+  <string name="option_send_to_desktop">Відправити на робочий стіл</string>
+  <string name="option_send_to_others">Відправити...</string>
+  <string name="option_view_contact">Перегляд</string>
   <string name="organizationLabelsGroup">Організація</string>
   <string name="organization_company_and_title">%2$s,%1$s</string>
   <string name="payphone">Телефон-автомат</string>
@@ -499,6 +513,9 @@
   <string name="postal_postcode">Поштовий індекс</string>
   <string name="postal_region">Регіон</string>
   <string name="postal_street">Вулиця</string>
+  <string name="pref_key_photo">Фото</string>
+  <string name="pref_key_photo_word_summary">Автоматичне відображення фото для контактів без них</string>
+  <string name="pref_key_photo_word_title">Автоматичний вибір фото для контактів</string>
   <string name="pref_key_rebuild_t9_index_message">Індексація контактів для пошуку за допомогою T9</string>
   <string name="pref_key_rebuild_t9_index_title">Індексація</string>
   <string name="pref_summary_import_from_account">Імпорт контактів з акаунту Google в акаунт Xiaomi</string>
@@ -512,6 +529,13 @@
   <string name="preference_others">Інше</string>
   <string name="preference_remove_duplicate">Злиття дублікатів контактів</string>
   <string name="preference_sim">SIM-карта</string>
+  <string name="preference_smart_group_company_summary">Групування контактів по інформації про компанію</string>
+  <string name="preference_smart_group_company_title">По компаніях</string>
+  <string name="preference_smart_group_frequency_summary">Групування контактів по останніх викликах чи SMS</string>
+  <string name="preference_smart_group_frequency_title">По останніх викликах</string>
+  <string name="preference_smart_group_location_summary">Групування контактів по коду оператора</string>
+  <string name="preference_smart_group_location_title">По місцезнаходженню</string>
+  <string name="preference_smart_group_title">Смарт-групування</string>
   <string name="preview_contact_card_title">Імпортувати</string>
   <string name="primary_indicator">(стандартний)</string>
   <string name="private_num">Прихований номер</string>
@@ -523,6 +547,7 @@
   <string name="raw_contact_list_title">"Цей контакт містить %1$d не оброблених контактів
 Натисніть для вибору і редагування контакту "</string>
   <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
   <string name="readOnlyContactWarning">Неможливо видалити контакти з аккаунта, доступного тільки для читання, проте їх можна приховати в списках контактів</string>
   <string name="reading_vcard_failed_title">Помилка читання vCard-файлу</string>
   <string name="recentCallsIconLabel">Історія дзвінків</string>
@@ -538,6 +563,7 @@
   <string name="remind_btn_not_remind">Не нагадувати</string>
   <string name="remind_btn_sync_now">Зараз</string>
   <string name="removePhoto">Видалити фото</string>
+  <string name="restore_nickname">Відновити</string>
   <string name="ringLabelsGroup">Рінгтон</string>
   <string name="save_photo_progress">Збереження фото...</string>
   <string name="savingContact">Контакт зберігається...</string>
@@ -583,7 +609,18 @@
   <string name="sim_contacts_visiable">Показувати</string>
   <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь-ласка, зачекайте...</string>
   <string formatted="false" name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-картці, повинна бути між %2$dі%3$d</string>
-  <string name="sim_no_contact">Ні контактів на SIM-картці</string>
+  <string name="sim_no_contact">Ненає контактів на SIM-картці</string>
+  <string name="smart_group_action_bar_title">%1$s-%2$s</string>
+  <string name="smart_group_company_label">По компаніях</string>
+  <string name="smart_group_company_unavailable">Немає інформації про контакти</string>
+  <string name="smart_group_frequency_1">На протязі місяця</string>
+  <string name="smart_group_frequency_2">На протязі 3 місяців</string>
+  <string name="smart_group_frequency_3">На протязі 6 місяців</string>
+  <string name="smart_group_frequency_4">Не було контакту більше 6 місяців</string>
+  <string name="smart_group_frequency_label">По останніх викликах</string>
+  <string name="smart_group_label">Смарт-групування</string>
+  <string name="smart_group_location_label">По місцезнаходженню</string>
+  <string name="smart_group_location_unavailable">Немає інформації про адресу</string>
   <string name="sms">Текстове повідомлення</string>
   <string name="sms_assistant">Надіслати текстове повідомлення на номер %s</string>
   <string name="sms_callback">SMS: номер зворотного виклику</string>
@@ -620,6 +657,7 @@
   <string name="summary_kind_title">Основна інформація</string>
   <string name="sync_xiaomi_cloud_contacts">Відновити контакти з MIUI-хмари</string>
   <string name="t9_search_guide">Введіть номер телефону або знайдіть контакт за допомогою T9</string>
+  <string name="t9_search_guide_zhuyin">Введіть номер телефону або знайдіть контакт за допомогою T9</string>
   <string name="take_new_photo">Створити нове фото</string>
   <string name="take_photo">Сфотографувати</string>
   <string name="titleJoinContactDataWith">Об\'єднати контакти</string>
