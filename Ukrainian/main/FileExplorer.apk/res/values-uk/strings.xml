@@ -86,7 +86,7 @@
   <string name="file_size">%d байт</string>
   <string name="finished">Завершено</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Натисніть сюди&lt;/a&gt;для очищення кошика</string>
-  <string name="ftp_account_req_notice">Імґ'я і пароль, 4~16 знаков, включаючи цифри, букви, чутливі до регістру</string>
+  <string name="ftp_account_req_notice">Імґ\'я і пароль, 4~16 знаков, включаючи цифри, букви, чутливі до регістру</string>
   <string name="ftp_anonymous_login">Анонімний FTP</string>
   <string name="ftp_invalid_username_or_password">Помилка аутентифікації</string>
   <string name="ftp_open_port_error">Неможливо відкрити вибраний FTP-порт, провірте підключення до мережі і попробуйте ще раз</string>
