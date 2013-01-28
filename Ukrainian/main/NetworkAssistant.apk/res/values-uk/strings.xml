@@ -2,6 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="about">Про програму</string>
   <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
   <string name="adjust_traffic_auto_adjust_title">Авторегулювання трафіку</string>
@@ -33,12 +34,13 @@
   <string name="cannot_find_sms_cmd">Не вдается знайти SMS-команду</string>
   <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
   <string name="carrier_none_cmcc">%1$s, %2$s</string>
-  <string name="carrier_query_number_brand">Тип мережі</string>
+  <string name="carrier_query_number_brand">Бренд</string>
   <string name="carrier_query_number_carrier">Оператор</string>
-  <string name="carrier_query_number_location">Атрибуція</string>
-  <string name="carrier_query_number_title">Налаштування операторів</string>
+  <string name="carrier_query_number_location">Місцезнаходження</string>
+  <string name="carrier_query_number_title">Налаштування операторів і номерів підтримки</string>
+  <string name="carrier_settings_button">Налаштування оператора</string>
   <string name="close_txt">Закрити</string>
-  <string name="control_app_internet">Контроль за використанням мережі</string>
+  <string name="control_app_internet">Використання мережі програмами</string>
   <string name="current_warning_value">Попереджувати при досягненні: %s</string>
   <string name="daily_limit_dialog_disconnect_hint">Інтернет відключається, коли трафік перевищує встановлену межу</string>
   <string name="daily_limit_dialog_hint">Денний ліміт трафіку (0 означає безлімітний)</string>
@@ -56,6 +58,7 @@
   <string name="finish_traffic_settings_message">"Використано %s трафіку. Дані вірні? Якщо ні, то ви можете змінити настройки"</string>
   <string name="finish_traffic_settings_title">Регулювання трафіку</string>
   <string name="fire_rule_program_list">Список програм</string>
+  <string name="fire_wall_is_closed">Файрвол не увімкнено</string>
   <string name="force_stop_dlg_text">Завершення програми може призвести до помилок</string>
   <string name="force_stop_dlg_title">Завершити?</string>
   <string name="i_known_button">OK</string>
@@ -71,11 +74,21 @@
   <string name="menu_refresh">Обновити</string>
   <string name="menu_settings">Налаштування</string>
   <string name="menu_sort">Сортування</string>
+  <string name="menu_sort_by_all_traffic">За загальним трафіком</string>
+  <string name="menu_sort_by_disabled">За вимкн. Програмами</string>
+  <string name="menu_sort_by_mobile_traffic">За 2G/3G трафіком</string>
+  <string name="menu_sort_by_name">За іменем програм</string>
   <string name="menu_traffic_adjust">Регулювання трафіку</string>
   <string name="menu_traffic_settings">Налаштування трафіку</string>
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Налаштування місячного трафіку</string>
+  <string name="notify_carrier_settings_title">Выи не налаштували постачальника послуг зв\'язку. Налаштувати зараз?</string>
+  <string name="notify_traffic_settings_cancel_hint">Сповіщення і контроль за трафіком будуть вимкнені. Вийти зараз?</string>
+  <string name="notify_traffic_settings_title">Ви не налаштували ваш тарифний план. Налаштувати зараз?</string>
+  <string name="overseas_menu_traffic_adjust">Налаштування вручну</string>
+  <string name="overseas_menu_traffic_settings">Межа трафіку</string>
+  <string name="overseas_unknown_traffic_hint">Межа трафіку не налаштована. Налаштувати зараз?</string>
   <string name="plate_traffic_already_used">Використано (%s)</string>
   <string name="plate_traffic_exceed">Перевищено (%s)</string>
   <string name="plate_traffic_remain">Залишилось (%s)</string>
@@ -102,6 +115,7 @@
   <string name="settings_page_traffic_summary_no_settings">Пакет не встановлено, дата останнього поповнення: %d</string>
   <string name="sms_match_fail">помилка SMS</string>
   <string name="sms_template_match_fail">Помилка співставлення шаблону SMS</string>
+  <string name="sms_template_updated_label">"Оновлено: "</string>
   <string name="sort_dialog_title">Сортування</string>
   <string name="sorted_flux">Статистика</string>
   <string name="stop_app_button">Закрити</string>
@@ -110,7 +124,9 @@
   <string name="sync_setting_city">Синхронізація з розміщенням</string>
   <string name="sync_traffic_fail_message">Не вдалося отримати інформацію від оператора мобільного зв\'язку, сервер зайнятий. Будь ласка, спробуйте пізніше або зателефонуйте до служби підтримки: %s</string>
   <string name="sync_traffic_fail_title">Не вдалося отримати інформацію</string>
-  <string name="sync_traffic_ing">Отримання інформації від оператора, будь ласка, почекайте...</string>
+  <string name="sync_traffic_ing">Отримання інформації від оператора, будь ласка, заочекайте...</string>
+  <string name="sync_traffic_no_cmd_detail">"Вкажіть ваше місто, провінцію, ICC і оператора зв\'язку тут: http://www.miui.com/forum-172-1.html. Дякуєм."</string>
+  <string name="sync_traffic_no_cmd_title">Немає шаблону</string>
   <string name="sync_traffic_success">"Інформація про пакети трафіку отримана, налаштування оновлені"</string>
   <string name="this_month">Місяць</string>
   <string name="today">Сьогодні</string>
@@ -124,6 +140,7 @@
   <string name="traffic_total">Всього: %s</string>
   <string name="traffic_used_status">Використано: %s</string>
   <string name="traffic_widget_name">Монітор</string>
+  <string name="unknown">N/A</string>
   <string name="unknown_free_traffic_hint">"Якщо ви не знаєте про обсяги пакетів трафіку і про їх вартості, будь ласка зверніться до свого оператора"</string>
   <string name="unknown_free_traffic_text">"Я не знаю про обмеження трафіку"</string>
   <string name="unknown_free_traffic_title">Невідомий безкоштовний трафік</string>
@@ -134,6 +151,7 @@
   <string name="update_success">Успішно оновлено</string>
   <string name="updating">Оновлення...</string>
   <string name="used_flux">Трафік</string>
+  <string name="version_label">"Версія: "</string>
   <string name="warning_settings_toast">%1$d%% %2$d МБ</string>
   <string name="warning_title">Попередження</string>
   <string name="widget_traffic_total">Пакет: %s</string>
