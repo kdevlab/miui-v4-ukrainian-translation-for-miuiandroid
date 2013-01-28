@@ -10,6 +10,7 @@
   <string name="add_music">Додати музику</string>
   <string name="add_nickname">Псевдонім</string>
   <string name="add_nickname_title">Додати псевдонім</string>
+  <string name="add_number_to_sender">Додати номер в %s</string>
   <string name="add_phrase">Фраза</string>
   <string name="add_picture">Додати картинку</string>
   <string name="add_slide">Додати слайд</string>
@@ -36,10 +37,10 @@
   <string name="batch_deleting_message_progress_message">Видалити вибрані повідомлення</string>
   <string name="batch_deleting_progress_message">Видалення...</string>
   <string name="bcc_label">"Прихована копія:"</string>
-  <string name="bookmark">Уподобання</string>
+  <string name="bookmark">Шаблони</string>
   <string name="bookmark_attr_format">%1$s, %2$s</string>
-  <string name="bookmark_confirm_delete_message">Видалити з обраного</string>
-  <string name="bookmark_list_title">Уподобання</string>
+  <string name="bookmark_confirm_delete_message">Видалити з шаблонів</string>
+  <string name="bookmark_list_title">Уподобання (%1$d)</string>
   <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
   <string name="cannot_add_slide_anymore">Додано максимальне число слайдів.</string>
   <string name="cannot_forward_drm_obj">Не можна переслати DRM-об\'єкт з цього повідомлення</string>
@@ -72,6 +73,7 @@
   <string name="confirm_rate_limit">Відправляється велика кількість MMS. Продовжити?</string>
   <string name="context_menu_add_contact">Додати в контакти</string>
   <string name="context_menu_browse_web">Перейти</string>
+  <string name="context_menu_call">Виклик</string>
   <string name="context_menu_contact">Контакт: %1$s</string>
   <string name="context_menu_copy">Копіювати</string>
   <string name="context_menu_copy_notice">Текст був скопійований в буфер обміну</string>
@@ -149,6 +151,7 @@
   <string name="found_old_messages">"Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s
 Ви хочете скопіювати їх в ваш акаунт: %2$s?"</string>
   <string name="found_old_messages_title">Загрузка сообщений</string>
+  <string name="found_wild_messages">Знайдено повідомлень з інших SIM-карт в хмарі: %s. Ви хочете завантажити їх?</string>
   <string name="found_wild_messages_title">Завантаження повідомлень</string>
   <string name="from_label">"Від:"</string>
   <string name="full_phrase">Не більше 50 фраз</string>
@@ -160,7 +163,9 @@
   <string name="guild_add_recipients">Натисніть для додавання одержувачів з адресної книги</string>
   <string name="has_draft">Чернетка</string>
   <string name="has_invalid_recipient">Неприпустимі одержувачі: &lt;%1$s&gt;</string>
-  <string name="hidden_sender_address">Адреса відправника прихований</string>
+  <string name="hidden_sender_address">Адресу відправника приховано</string>
+  <string name="in_calling">Виклик</string>
+  <string name="in_sms">Повідомлення</string>
   <string name="inline_subject">&lt;Тема: %s&gt;</string>
   <string name="insufficient_drm_rights">Виявлених прав DRM недостатньо</string>
   <string name="invalid_destination">Невірна адреса одержувача</string>
@@ -172,6 +177,7 @@
   <string name="loading_all_messages">Завантаження всіх повідомлень...</string>
   <string name="loading_contacts">Завантаження контактів...</string>
   <string name="loading_conversations">Завантаження ланцюжків...</string>
+  <string name="loading_mms">Завантаження MMS…</string>
   <string name="me">Я</string>
   <string name="menu_add_address_to_contacts">Додати в контакти: %s</string>
   <string name="menu_add_to_contacts">Додати в контакти</string>
@@ -229,17 +235,28 @@
   <string name="multi_select_title_message_init">ласка виберіть повідомлення</string>
   <string name="multimedia_message">Мультимедійне повідомлення</string>
   <string name="multimedia_notification">Повідомлення про MMS</string>
+  <string name="mx_activate_error_malformed_info">Ваші персональні дані пошкоджені, потрібна повторна активація хмарових повідомлень</string>
+  <string name="mx_activate_error_server">Сервер відхилив запит активації</string>
+  <string name="mx_activate_error_sim_change">SIM-карта помінялась, потрібна повторна активація хмарових повідомлень</string>
+  <string name="mx_activate_error_title">Помилка активації хмарових повідомлень</string>
   <string name="mx_activate_failure">Помилка активації хмарових повідомлень</string>
+  <string name="mx_activate_hint_malformed_info">Ваші персональні дані пошкоджені. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
+  <string name="mx_activate_hint_server">Сервер відхилив запит активації. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
+  <string name="mx_activate_hint_sim_change">SIM-карта помінялась. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
   <string name="mx_activating">Активація…</string>
+  <string name="mx_auto_resend_mms">Відправити як MMS</string>
+  <string name="mx_auto_resend_mms_summary">Відправити як MMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
   <string name="mx_auto_resend_sms">Відправити як SMS</string>
-  <string name="mx_auto_resend_sms_summary">Відправити як SMS, коли хмарові повідомлення не доступні</string>
+  <string name="mx_auto_resend_sms_summary">Відправити як SMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
   <string name="mx_btn_enable">Увімкнути</string>
   <string name="mx_count_dspt">Після увімкнення MIUI отправили %d повідомлень вам</string>
   <string name="mx_dspt">Відправляти повідомлення через інтернет</string>
   <string name="mx_dspt_disabled">Відправка повідомлень через Інтернет від MIUI. Увімкніть відправку через оператора, якщо виникають помилки</string>
   <string name="mx_enable">Включити хмарові повідомлення</string>
+  <string name="mx_enable_popup_msg">Хмарові повідомлення дозволять вам обмінюватись повідомленнями з іншими користувачами MIUI. Потрібно відправити SMS для активації. Активувати зараз?</string>
   <string name="mx_offline">Не в мережі</string>
   <string name="mx_online">В мережі</string>
+  <string name="mx_reactivate">Повторна активація</string>
   <string name="mx_warning_notice">Повідомлення SMS було відправлено для активації хмарових повідомлень</string>
   <string name="need_download">Очікування синхронізації…</string>
   <string name="new_message">Нове повідомлення</string>
@@ -383,7 +400,7 @@
   <string name="saved_label">"Збережено:"</string>
   <string name="saved_ringtone">Рінгтон збережений</string>
   <string name="saved_ringtone_fail">Рінгтон не збережено</string>
-  <string name="search">СМС / MMS</string>
+  <string name="search">SMS / MMS</string>
   <string name="search_empty">Нічого не знайдено</string>
   <string name="search_hint">Пошук повідомлень</string>
   <string name="search_history">Результатів для \"%2$s\": %1$s</string>
@@ -419,10 +436,12 @@
   <string name="slide_number">Слайд %s</string>
   <string name="slide_show_part">Частина %1$s з %2$s</string>
   <string name="slideshow_activity">Слайд-шоу</string>
+  <string name="sms_content">Вміст повідомлення</string>
   <string name="sms_full_body">Пам\'ять переповнена. Щоб зберегти нові повідомлення, видаліть кілька старих.</string>
   <string name="sms_full_title">Пам\'ять для текстових повідомлень переповнена</string>
   <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини</string>
   <string name="sms_rejected_title">Повідомлення SMS відхилено</string>
+  <string name="sms_sender">Від</string>
   <string name="status_failed">Збій</string>
   <string name="status_label">"Статус:"</string>
   <string name="status_none">(Ні)</string>
@@ -466,6 +485,7 @@
 Спроб: %s"</string>
   <string name="undelivered_msg_dialog_title">Недоставлені повідомлення</string>
   <string name="undelivered_sms_dialog_body">Не вдалося відправити повідомлення</string>
+  <string name="unknown_num">Невідомий номер</string>
   <string name="unknown_sender">Невідомий відправник</string>
   <string name="unsupported_media_format">Непідтримуваний формат (%1$s)</string>
   <string name="view">Перегляд</string>
