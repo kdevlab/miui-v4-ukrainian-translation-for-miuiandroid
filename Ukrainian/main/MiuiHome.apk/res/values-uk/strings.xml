@@ -25,6 +25,8 @@
   <string name="failed_to_drop_widget_invalid">Віджет є неприпустимим</string>
   <string name="failed_to_drop_widget_nospace">На екрані не вистачає місця</string>
   <string name="folder_name">Папка</string>
+  <string name="frame_load_failed">Не вдалось завантажити віджет Фоторамка!</string>
+  <string name="gadget_clear_button_label">Пам\'ять</string>
   <string name="gadget_clock_12_label">Годинник</string>
   <string name="gadget_clock_22_label">Годинник</string>
   <string name="gadget_clock_24_label">Годинник</string>
@@ -39,6 +41,7 @@
   <string name="gadget_weather_download_title">Завантаження файлу</string>
   <string name="gadget_weather_downloading">Пакет теми завантажується. Будь-ласка, виберіть ще раз після завершення завантаження</string>
   <string name="gadget_weather_loading">Немає даних про погоду</string>
+  <string name="gadget_weather_low_temp">Мін.</string>
   <string name="gadget_weather_theme_type">Тип виджета</string>
   <string name="gadget_weather_time_format">EEE, d.MM</string>
   <string name="gadget_weather_title_14">Погода 1X4</string>
@@ -92,6 +95,7 @@
   <string name="pref_wallpaper_scroll_type_title">Тип прокрутки шпалер</string>
   <string name="preferences_general_title">Основні налаштування</string>
   <string name="preferences_title">Параметри робочого столу</string>
+  <string name="prompt_transition_icon_layout">Використовувати попереднє розміщення іконок?</string>
   <string name="reset_scene_prompt">Розміщення іконок на вільному робочому столі буде скинуто до стандартного</string>
   <string name="select_frame">Рамка</string>
   <string name="select_photo">Фото</string>
@@ -102,6 +106,8 @@
   <string name="starting_preset_app">Запуск...</string>
   <string name="title_select_live_folder">Виберіть папку</string>
   <string name="title_select_shortcut">Виберіть ярлик</string>
+  <string name="toggle_select_title">Вибрати перемикачі</string>
+  <string name="toggle_title">Перемикачі</string>
   <string name="transformation_type_classic">Стандартний</string>
   <string name="transformation_type_classic_no_overshoot">Стд. (без проскакування)</string>
   <string name="transformation_type_crossfade">Згасання</string>
