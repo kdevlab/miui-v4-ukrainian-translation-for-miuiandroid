@@ -5,6 +5,8 @@
   <string name="alert_edit_action_delete">Видалити</string>
   <string name="alert_edit_action_update">Оновити</string>
   <string name="alert_message_delete_folder">Папка разом з нотатками, що містяться в ній, буде видалена</string>
+  <string name="alert_message_delete_folders">Ви впевнені, що хочете видалити вибрані (%1$s) папки?</string>
+  <string name="alert_message_delete_folders_notes">Ви впевнені, що хочете видалити вибрані (%1$s) папки і (%2$s) нотатки?</string>
   <string name="alert_message_delete_note">Нотатка буде видалена</string>
   <string name="alert_message_delete_notes">Вибрані нотатки будуть видалені</string>
   <string name="alert_title_delete">Видалити вибрані нотатки</string>
@@ -15,6 +17,7 @@
   <string name="attachment_camera">Камера</string>
   <string name="attachment_contact">Контакт</string>
   <string name="attachment_gallery">Галерея</string>
+  <string name="blank_char">\u0020</string>
   <string name="button_cancel">Відміна</string>
   <string name="button_check">Вибрати всі</string>
   <string name="button_check_none">Зняти позначення</string>
@@ -86,6 +89,7 @@
   <string name="note_alert_expired">Строк дії закінчився</string>
   <string name="note_link_email">Відправити e-mail</string>
   <string name="note_link_other">Відкрити карту</string>
+  <string name="note_link_select">Позначити текст</string>
   <string name="note_link_tel">Виклик</string>
   <string name="note_link_web">Переглянути в мережі</string>
   <string name="notealert_enter">Переглянути</string>
@@ -122,6 +126,7 @@
   <string name="send_to_note">Відправити в нотатку</string>
   <string name="set_remind_time_message">Встановити нагадування</string>
   <string name="snippet_image_stub">[Картинка]</string>
+  <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Експорт завершено</string>
   <string name="success_sync_account">Синхронізація з акаунтом %1$s виконана успішно</string>
   <string name="sync_progress_init_list">Отримання віддаленого списку нотаток...</string>
