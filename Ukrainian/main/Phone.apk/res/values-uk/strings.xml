@@ -41,6 +41,7 @@
   <string name="answer_widget_sliding_vertical_miui">Вертикальний</string>
   <string name="answer_widget_title_miui">Жест відповіді</string>
   <string name="apn_settings">Точки доступу (APN)</string>
+  <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Наберіть екстрений телефонний код області чи міста</string>
   <string name="areacode_required_miui">Введіть свій код міста</string>
   <string name="atr_disable">Інформація про пробки відключена</string>
@@ -182,7 +183,7 @@
   <string name="caller_manage_manage_done_text">Повернутися до виклику</string>
   <string name="caller_manage_manage_done_text_miui">Повернутися до виклику</string>
   <string name="calling_via_template">"Дзвінок через ^1
-  ^2"</string>
+^2"</string>
   <string name="calling_via_template_miui">"Дзвінок через ^1
 ^2"</string>
   <string name="cancel">Скасувати</string>
@@ -259,6 +260,7 @@
   <string name="confirmPinLabel">Підтвердіть новий PIN</string>
   <string name="confirm_delete_message_title_miui">Ви видаліть %d вибраних приставок повідомлень</string>
   <string name="confirm_delete_sim_entry_miui">Ви впевнені, що хочете видалити %d вибраних контактів з SIM-карти?</string>
+  <string name="confirm_no_countrycode_for_custom_location_miui">Будь-ласка, введіть номер без коду країни</string>
   <string name="confirm_pin2_hint_miui">Підтвердження PIN2</string>
   <string name="confirm_pin_hint_miui">Підтвердіть новий PIN-код</string>
   <string name="connect_disconnect_vibrate_none_miui">Не вібрувати</string>
@@ -274,9 +276,10 @@
   <string name="countrycode_alert_message_wrong_miui">Код міста, який ви ввели не вірний. Спробуйте знову</string>
   <string name="countrycode_alert_title_miui">Увага!</string>
   <string name="crystaltalk_summary_miui">Оптимізація аудіо-профілю при розмові</string>
-  <string name="crystaltalk_title_miui">Настройка \ "CrystalTalk \"</string>
+  <string name="crystaltalk_title_miui">Налаштування \ "CrystalTalk \"</string>
   <string name="current_areacode_miui">Код регіону</string>
   <string name="current_areacode_sum_miui">Поточною код регіону, або роумінг код регіону, якщо ви в роумінгу. Наприклад: 010</string>
+  <string name="current_areacode_sum_set_miui">Код вашої країни: %s</string>
   <string name="custom_location_location_hint_miui">Ім\'я</string>
   <string name="custom_location_number_hint_miui">Код міста, такі як 010, номер групи, такі як 68 # # # # #</string>
   <string name="cw_title_miui">Очікування виклику</string>
@@ -469,6 +472,8 @@
   <string name="import_sim_entry_miui">Імпорт</string>
   <string name="importingSimContacts">Імпорт контактів з SIM-картки</string>
   <string name="importing_sim_contacts_miui">Імпорт контактів з SIM-картки</string>
+  <string name="in_calling">Виклик</string>
+  <string name="in_sms">Повідомлення</string>
   <string name="incall_call_type_label_sip">Інтернет-виклик</string>
   <string name="incall_error_call_failed">Виклик не здійснюється</string>
   <string name="incall_error_emergency_only">Немає реєстрації в мережі</string>
@@ -555,13 +560,19 @@
   <string name="mismatchPin2">Введені коди PIN2 не збігаються. Повторіть спробу</string>
   <string name="mismatch_pin2_miui">PIN2-и не збігаються. Будь ласка, спробуйте ще раз</string>
   <string name="mismatch_pin_miui">Введені PIN-коди не співпадають. Будь ласка, спробуйте ще раз</string>
-  <string name="missed_call_notify_five_times">5 разів</string>
+  <string name="missed_call_notify_five_times">П\'ять разів</string>
+  <string name="missed_call_notify_five_times_miui">П\'ять разів</string>
+  <string name="missed_call_notify_none_miui">Не нагадувати</string>
   <string name="missed_call_notify_once">Один раз</string>
-  <string name="missed_call_notify_ten_times">10 разів</string>
-  <string name="missed_call_notify_thrice">3 рази</string>
-  <string name="missed_call_notify_times_summary_miui">За замовчуванням, повтор кожних 5 хвилин</string>
-  <string name="missed_call_notify_times_title_miui">Нагадування про пропущені виклики</string>
-  <string name="missed_call_notify_twice">2 раза</string>
+  <string name="missed_call_notify_once_miui">Один раз</string>
+  <string name="missed_call_notify_ten_times">Десять разів</string>
+  <string name="missed_call_notify_ten_times_miui">Десять разів</string>
+  <string name="missed_call_notify_thrice">Три рази</string>
+  <string name="missed_call_notify_thrice_miui">Три рази</string>
+  <string name="missed_call_notify_times_summary_miui">Кількість нагадувань про пропущений виклик</string>
+  <string name="missed_call_notify_times_title_miui">Кількість нагадувань</string>
+  <string name="missed_call_notify_twice">Два рази</string>
+  <string name="missed_call_notify_twice_miui">Два рази</string>
   <string name="mmiCancelled">Код MMI скасовано</string>
   <string name="mmiStarted">Код MMI запущений</string>
   <string name="mobile_networks">Налаштування мережі</string>
@@ -705,6 +716,7 @@
   <string name="pin2_changed">PIN2 успішно змінений</string>
   <string name="pin2_changed_miui">PIN2 успішно змінений</string>
   <string name="pin2_invalid">Номер обмеженого набору не оновлено: ви ввели невірний PIN-код</string>
+  <string name="pin2_invalid_or_name_is_too_long">FDN не оновлено: ​​Ви ввели невірний PIN-код або надто довге ім\'я</string>
   <string name="pin2_lock_warning_miui">"
 Зверніть увагу, що PIN2 буде заблокований, якщо ще раз помилитеся! "</string>
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
@@ -905,6 +917,8 @@
   <string name="sliding_down_hint_miui">Посуньте вниз для відповіді</string>
   <string name="sliding_target_hint_miui">Посуньте вгору, для відхилення / відправки смс</string>
   <string name="sliding_up_hint_miui">Посуньте вгору, щоб відхилити</string>
+  <string name="sms_content">Вміст повідомлення</string>
+  <string name="sms_sender">Від</string>
   <string name="sports_news_settings">Новини спорту</string>
   <string name="stock_quotes_disable">Котирування цінних паперів відключене</string>
   <string name="stock_quotes_enable">Котирування цінних паперів включене</string>
@@ -933,6 +947,10 @@
   <string name="sum_select_automatically_option_miui">Автовибір бажаної мережі, %s</string>
   <string name="sum_show_caller_id">Кількість відображуваних у вихідних дзвінках</string>
   <string name="sum_voicemail_choose_provider">Виберіть службу голосової пошти</string>
+  <string name="t9_indexing_method_pinyin">Алфавітний</string>
+  <string name="t9_indexing_method_title_miui">Налаштування пошуку T9</string>
+  <string name="t9_indexing_method_zhuyin">Китайський</string>
+  <string name="t9_indexing_rebuilding_message">Оновлення бази даних T9, будь-ласка, зачекайте...</string>
   <string name="technology_news_disable">Новини технологій відключені</string>
   <string name="technology_news_enable">Новини технологій включені</string>
   <string name="telocation_setting_miui">Налаштування положення</string>
@@ -977,6 +995,7 @@
   <string name="turnover_mute_title_miui">Переворот - тиша</string>
   <string name="undefined_miui">Не визначено</string>
   <string name="unknown">Невідомий абонент</string>
+  <string name="unknown_num">Невідомий номер</string>
   <string name="unlock_failed">Запит на розблокування мережі не виконаний</string>
   <string name="unlock_success">Розблокування мережі успішно завершено</string>
   <string name="updating_fdn_contact">Виконується оновлення номера обмеженого набору...</string>
