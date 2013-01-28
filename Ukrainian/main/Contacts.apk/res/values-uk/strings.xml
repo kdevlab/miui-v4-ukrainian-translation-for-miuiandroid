@@ -268,7 +268,7 @@
   <string name="frequentList">Часто викликаються</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Ім\'я</string>
-  <string name="ghostData_company">Компанія</string>
+  <string name="ghostData_company">Організація</string>
   <string name="ghostData_title">Назва</string>
   <string name="groupSavedErrorToast">Не вдалося зберегти зміни</string>
   <string name="groupSavedToast">Група збережена</string>
@@ -529,12 +529,12 @@
   <string name="preference_others">Інше</string>
   <string name="preference_remove_duplicate">Злиття дублікатів контактів</string>
   <string name="preference_sim">SIM-карта</string>
-  <string name="preference_smart_group_company_summary">Групування контактів по інформації про компанію</string>
-  <string name="preference_smart_group_company_title">По компаніях</string>
-  <string name="preference_smart_group_frequency_summary">Групування контактів по останніх викликах чи SMS</string>
-  <string name="preference_smart_group_frequency_title">По останніх викликах</string>
-  <string name="preference_smart_group_location_summary">Групування контактів по коду оператора</string>
-  <string name="preference_smart_group_location_title">По місцезнаходженню</string>
+  <string name="preference_smart_group_company_summary">Групування контактів по інформації про організацію</string>
+  <string name="preference_smart_group_company_title">За організаціями</string>
+  <string name="preference_smart_group_frequency_summary">Групування контактів за останніми викликами чи SMS</string>
+  <string name="preference_smart_group_frequency_title">За останніми викликами</string>
+  <string name="preference_smart_group_location_summary">Групування контактів за кодами оператора</string>
+  <string name="preference_smart_group_location_title">За місцезнаходженням</string>
   <string name="preference_smart_group_title">Смарт-групування</string>
   <string name="preview_contact_card_title">Імпортувати</string>
   <string name="primary_indicator">(стандартний)</string>
@@ -611,7 +611,7 @@
   <string formatted="false" name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-картці, повинна бути між %2$dі%3$d</string>
   <string name="sim_no_contact">Ненає контактів на SIM-картці</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>
-  <string name="smart_group_company_label">По компаніях</string>
+  <string name="smart_group_company_label">За організаціями</string>
   <string name="smart_group_company_unavailable">Немає інформації про контакти</string>
   <string name="smart_group_frequency_1">На протязі місяця</string>
   <string name="smart_group_frequency_2">На протязі 3 місяців</string>
