@@ -47,6 +47,9 @@
   <string name="accessibility_remove_notification">Видалити повідомлення</string>
   <string name="accessibility_ringer_silent">Режим Без звуку</string>
   <string name="accessibility_ringer_vibrate">Вібровиклик</string>
+  <string name="accessibility_rotation_lock_off">Екран буде повертатись автоматично.</string>
+  <string name="accessibility_rotation_lock_on_landscape">Екран заблоковано в ландшафтній орієнтації.</string>
+  <string name="accessibility_rotation_lock_on_portrait">Екран заблоковано в портретній орієнтації.</string>
   <string name="accessibility_settings_button">Налаштування</string>
   <string name="accessibility_tty_enabled">Телетайп включений</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi: одна поділка</string>
@@ -99,6 +102,7 @@
   <string name="dlg_confirm_kill_storage_users_title">Включити USB-накопичувач</string>
   <string name="dlg_error_title">USB-операція невдала</string>
   <string name="dlg_ok">OK</string>
+  <string name="drive_mode_tip">Ви знаходитесь в автомобілі. Будь-ласка, будьте обережні за рулем при роботі з телефоном.</string>
   <string name="ext_media_badremoval_notification_message">Відмонтуйте USB-сховище перед витяганням</string>
   <string name="ext_media_badremoval_notification_title">USB-сховище несподівано видалено</string>
   <string name="ext_media_checking_notification_message">Перевірка на наявність помилок...</string>
@@ -188,9 +192,11 @@
   <string name="settings_toggle_position_divider_list">Перемикачі вище - показуються</string>
   <string name="settings_toggle_position_divider_page">%1$d перемикачів вище - показуються</string>
   <string name="settings_toggle_position_reset">Скинути перемикачі</string>
+  <string name="share">Поділитись</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрити недавні програми</string>
   <string name="status_bar_clear_all_button">Очистити</string>
-  <string name="status_bar_date_format">EEE, d MMMM yyyy</string>
+  <string name="status_bar_date_format">"EEEE
+d MMMM yyyy"</string>
   <string name="status_bar_do_not_disturb_button">Не турбувати</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
   <string name="status_bar_latest_events_title">Повідомлення</string>
@@ -199,7 +205,8 @@
   <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
   <string name="status_bar_network_name_separator">""</string>
   <string name="status_bar_no_notifications_title">Немає повідомлень</string>
-  <string name="status_bar_no_recent_apps">Немає даних</string>
+  <string name="status_bar_no_recent_apps">Немає недавніх програм</string>
+  <string name="status_bar_notification_inspect_item_title">Про програму</string>
   <string name="status_bar_ongoing_events_title">Поточні</string>
   <string name="status_bar_please_disturb_button">Показати повідомлення</string>
   <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті для звільнення</string>
@@ -208,6 +215,7 @@
   <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
   <string name="status_bar_recent_guide_top">Потягніть вверх щоб закрити</string>
   <string name="status_bar_recent_inspect_item_title">Про програму</string>
+  <string name="status_bar_recent_memory_info">Доступно %1$s із %2$s</string>
   <string name="status_bar_recent_memory_info_format">%d МБ</string>
   <string name="status_bar_recent_remove_item_title">Видалення зі списку</string>
   <string name="status_bar_settings_airplane">Режим польоту</string>
@@ -225,15 +233,15 @@
   <string name="status_bar_time_format_24">H:mm</string>
   <string name="status_bar_toggle_ac">Управління доступом</string>
   <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_bluetooth">BT</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness">Підсвітка</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
   <string name="status_bar_toggle_data">Інтернет</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-  <string name="status_bar_toggle_divider">Налаштувати</string>
+  <string name="status_bar_toggle_divider">Налашт.</string>
   <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-  <string name="status_bar_toggle_flight_mode">Політ</string>
+  <string name="status_bar_toggle_flight_mode">Режим польоту</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.phone/com.android.phone.Settings</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
@@ -242,11 +250,12 @@
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_network_type">Тип мережі</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_power_mode">Режим живлення</string>
   <string name="status_bar_toggle_privacy_mode">Гість</string>
   <string name="status_bar_toggle_reboot">Перезавантаження</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
   <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_screen_button">Скріншот</string>
+  <string name="status_bar_toggle_screen_button">Вимкнути кнопки</string>
   <string name="status_bar_toggle_screenshot">Скріншот</string>
   <string name="status_bar_toggle_shutdown">Вимкнення</string>
   <string name="status_bar_toggle_sync">Синхронізація</string>
@@ -272,7 +281,15 @@
   <string name="usb_mode_dont_ask">Запам\'ятати мій вибір</string>
   <string name="usb_mode_mount_storage_title">Підключити USB накопичувач?</string>
   <string name="usb_mode_notification">Режим накопичувача</string>
+  <string name="usb_mtp_text">Файли</string>
+  <string name="usb_notification">USB підключено</string>
+  <string name="usb_notification_mtp_info">Доступ до файлів через підключення до комп\'ютера</string>
+  <string name="usb_notification_mtp_problem">Допомога &gt;</string>
+  <string name="usb_notification_mtp_ticker_text">USB підключено (Файли)</string>
+  <string name="usb_notification_ptp_info">Доступ до фотографій через підключення до комп\'ютера</string>
+  <string name="usb_notification_ptp_ticker_text">USB підключено (Фотографії)</string>
   <string name="usb_preference_title">Параметри передачі даних по USB</string>
+  <string name="usb_ptp_text">Фотографії</string>
   <string name="usb_storage_error_message">Помилка підключення</string>
   <string name="usb_storage_message">Ви підключили телефон до комп\'ютера через USB. Натисніть кнопку якщо ви хочете скопіювати файли між комп\'ютером і телефоном</string>
   <string name="usb_storage_notification_message">Виберіть файли для копіювання з/на ваш комп\'ютер</string>
