@@ -57,6 +57,6 @@
   <string name="update_downloading">Завантаження нової версії…</string>
   <string name="update_hint">Оновлення, повторіть пізніше</string>
   <string name="welcome_step_1">Увімкнення послуги контекстної оплати…</string>
-  <string name="welcome_step_2">Полягає в створенні захищеного мережного з'\єднання…</string>
+  <string name="welcome_step_2">Полягає в створенні захищеного мережного з\'єднання…</string>
   <string name="welcome_step_3">Дані передаються, будь-ласка, зачекайте…</string>
 </resources>
