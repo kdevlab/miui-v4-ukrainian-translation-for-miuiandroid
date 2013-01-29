@@ -372,9 +372,13 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="megabyteShort">МБ</string>
+  <string name="memory_clear_nothing_result">Немає пам\'яті для очищення</string>
+  <string name="memory_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
   <string name="miui_copyright_title">Авторське право</string>
   <string name="miui_privacy_policy_title">Політика конфіденційності</string>
   <string name="miui_user_agreement_title">Користувацька угода</string>
+  <string name="miui_user_manual_title">Інструкція</string>
+  <string name="mms_vibrate_hint">Повідомлення</string>
   <string name="month_of_april">Кві</string>
   <string name="month_of_august">Сер</string>
   <string name="month_of_december">Гру</string>
@@ -392,6 +396,9 @@
   <string name="never">Ніколи</string>
   <string name="new_years_day">Новий рік</string>
   <string name="no_sim">Немає SIM-карти</string>
+  <string name="no_vibrate_hint">Відповідно до налаштувань, сповіщення про вхідний виклик і повідомлення не будуть вібрувати, увімкнення цього пункту не дасть ніякого ефекту</string>
+  <string name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, Вы можете изменить это в настройках</string>
+  <string name="notification_vibrate_hint">Уведомление</string>
   <string name="online_hottest">Популярні</string>
   <string name="online_hottest_short">Топ</string>
   <string name="online_latest">Нові</string>
