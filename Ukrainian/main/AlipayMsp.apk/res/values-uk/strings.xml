@@ -17,7 +17,7 @@
   <string name="cert_manager">Менеджер сертифікатів</string>
   <string name="cert_not_exist">检测不到您的数字证书，请重新安装。</string>
   <string name="cert_ready">Ви згідні встановити цифровий сертифікат…</string>
-  <string name="cert_storage_size">Мало пам/'яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
+  <string name="cert_storage_size">Мало пам\'яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
   <string name="cert_tips">Вам необхідно встановити сертифікат на пристрій для забезпечення захисту</string>
   <string name="cert_title">Встановлення цифрового сертифікату</string>
   <string name="cert_verify_fail_tips">签名校验不一致，无法继续操作。</string>
@@ -26,10 +26,10 @@
   <string name="confirm_install_hint">Поради для встановлення</string>
   <string name="confirm_update">"Для забезпечення безпеки ваших операцій, програму необхідно обновити.
 
-Натисніть ОК, щоб обновити."</string>
+Натисніть ОК, щоб оновити."</string>
   <string name="confirm_update_must">"Для забезпечення безпеки ваших операцій, програму необхідно обновити.
 
-Натисніть ОК, щоб обновити."</string>
+Натисніть ОК, щоб оновити."</string>
   <string name="cont">Продовжити</string>
   <string name="ensure">Визначити</string>
   <string name="error_dialog">Помилка</string>
@@ -57,6 +57,6 @@
   <string name="update_downloading">Завантаження нової версії…</string>
   <string name="update_hint">Оновлення, повторіть пізніше</string>
   <string name="welcome_step_1">Увімкнення послуги контекстної оплати…</string>
-  <string name="welcome_step_2">Полягає в створенні захищеного мережного з'/єднання…</string>
+  <string name="welcome_step_2">Полягає в створенні захищеного мережного з'\єднання…</string>
   <string name="welcome_step_3">Дані передаються, будь-ласка, зачекайте…</string>
 </resources>
