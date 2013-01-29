@@ -15,7 +15,8 @@
   <string name="brightwarn_accept">Прийняти</string>
   <string name="brightwarn_negative">Ні, дякую</string>
   <string name="brightwarn_title">"Пов. яскравість \'Вкл\' увімкнена!"</string>
-  <string name="description">"Ця програма управляє світлодіодом камери"</string>
+  <string name="description">"Ця програма управляє світлодіодом камери.
+  "</string>
   <string name="label_frequency">Частота: (посуньте, щоб змінити)</string>
   <string name="label_high">Висока яскравість</string>
   <string name="label_off">Відключено</string>
@@ -38,10 +39,12 @@ http://n1torch.googlecode.com/
   <string name="setting_frequency_title">Частота стробоскопа</string>
   <string name="setting_widget_bright">Віджет яскравості</string>
   <string name="setting_widget_strobe">Віджет стробоскопа</string>
-  <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи HOME, на екрані блокування"</string>
+  <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи HOME, на екрані блокування
+  "</string>
   <string name="warning">"Обережно: Довге світіння світлодіода викличе його перегрів.
 
-Повна яскравість \'Завжди включено\' успішно тестувалася на 30 хвилинах, але існує ймовірність пошкодити світлодіод"</string>
+Повна яскравість \'Завжди включено\' успішно тестувалася на 30 хвилинах, але існує ймовірність пошкодити світлодіод
+"</string>
   <string name="warning_label">Обережно</string>
   <string name="widget_label">Ліхтарик</string>
   <string name="widget_options">Основні налаштування</string>
