@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
 <resources>
     <integer-array name="maps_starting_lat_lng">
         <item>48379433</item>
