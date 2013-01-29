@@ -271,6 +271,7 @@
   <string name="description_missed">Інформація відсутня</string>
   <string name="description_modifiedtime">Змінено:</string>
   <string name="description_size">Розмір:</string>
+  <string name="description_summary">Інформація:</string>
   <string name="description_unknown">Невідомий</string>
   <string name="description_uploadtime">Час завантаження:</string>
   <string name="description_version">Версія:</string>
@@ -287,7 +288,11 @@
   <string name="every_day">Кожен день</string>
   <string name="factorytest_reboot">Перезавантажити телефон</string>
   <string name="fast_scroll_alphabet">" АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ"</string>
+  <string name="find_device_check_sim">Провірка SIM…</string>
   <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для акаунту Xiaomi"</string>
+  <string name="find_device_sim_change_instructions_no_network">"Ваш пристрій заблоковано, вставте оригінальну SIM-карту"</string>
+  <string name="find_device_turn_off_flight_mode">Увімкнути режим польоту</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим польоту"</string>
   <string name="firewall_setting">Чорний список</string>
   <string name="first_back_long_press_message">"Щоб примусово закривати додатки утриманням кнопки НАЗАД, зайдіть в:
 Налаштування -&gt; Система -&gt; Кнопки
@@ -317,6 +322,7 @@
   <string name="group_name_friends">Друзі</string>
   <string name="heavy_snow" />
   <string name="hoar_frost_falls" />
+  <string name="incoming_call_vibrate_hint">Вхідний виклик</string>
   <string name="insects_awaken" />
   <string name="international_womens_day" />
   <string name="invalid_url">Неприпустима адреса:</string>
