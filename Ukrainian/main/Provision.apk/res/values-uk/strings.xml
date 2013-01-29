@@ -2,25 +2,25 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="continues">Продолжить</string>
-  <string name="next">Далее</string>
-  <string name="other_service_label">Другие сервисы</string>
-  <string name="other_service_location">Местоположение</string>
-  <string name="other_service_location_summary">Местоположение позволяет карте и другим приложениям получить свои данные местоположения с помощью GPS</string>
-  <string name="other_service_user_experience">Программа повышения качества</string>
-  <string name="other_service_user_experience_summary0">"Способствуйте улучшению нашего продукта, предварительно ознакомившись с нашей "</string>
-  <string name="other_service_user_experience_summary1">политикой конфиденциальности</string>
-  <string name="setup_complete_info">Система запишет все настройки и создаст кеш. Возможно некоторое время притормаживание системы.</string>
-  <string name="setup_complete_label">Спасибо!</string>
-  <string name="setup_complete_start">Начать использовать телефон</string>
-  <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь захватывающей MIUI!</string>
-  <string name="shutdown">Выключить</string>
-  <string name="sim_card_detection_dialog_message">Поиск SIM-карты. Пожалуйста, подождите...</string>
-  <string name="sim_card_detection_info">"Вы не можете настроить аккаунт Xiaomi без SIM-карты. Вам необходима SIM-карта для использования синхронизации контактов, поиска телефона и тд."</string>
-  <string name="sim_card_detection_label">Поиск SIM-карты</string>
-  <string name="sim_card_detection_status_absent">SIM-карта не доступна. Пожалуйста, вставьте SIM-карту и перезагрузитесь или продолжите.</string>
-  <string name="traffic_protection_label">Регулировка трафика</string>
-  <string name="traffic_protection_summary">Регулировка трафика напомнит вам, когда трафик в вашем тарифном плане закончился</string>
-  <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика</string>
-  <string name="traffic_protection_unknown">"Я не знаю. Введу потом."</string>
+  <string name="continues">Продовжити</string>
+  <string name="next">Далі</string>
+  <string name="other_service_label">Інші сервіси</string>
+  <string name="other_service_location">Місцезнаходження</string>
+  <string name="other_service_location_summary">Місцезнаходження дозволяє картам та іншим програмам отримувати дані про розташування за допомогою GPS</string>
+  <string name="other_service_user_experience">Програма покращення якості</string>
+  <string name="other_service_user_experience_summary0">"Сприяйте покращенню нашого продукту, попередньо ознайомившись з нашою "</string>
+  <string name="other_service_user_experience_summary1">політикою конфіденційності</string>
+  <string name="setup_complete_info">Система запише всі налаштування і сформує кеш. Можливе сповільнення роботи системи на деякий час.</string>
+  <string name="setup_complete_label">Дякуєм!</string>
+  <string name="setup_complete_start">Почати користування телефоном</string>
+  <string name="setup_complete_summary">Налаштування завершено! Насолоджуйтесь MIUI!</string>
+  <string name="shutdown">Вимкнути</string>
+  <string name="sim_card_detection_dialog_message">Пошук SIM-карти. Будь-ласка, зачекайте...</string>
+  <string name="sim_card_detection_info">"Ви не можете налаштувати акаунт Xiaomi без SIM-карти. Вам необхідна SIM-карта для синхронізації контактів, пошуку телефону і т.д."</string>
+  <string name="sim_card_detection_label">Пошук SIM-карти</string>
+  <string name="sim_card_detection_status_absent">SIM-карта не знайдено. Будь-ласка, вставте SIM-карту і перезавантажте телефон.</string>
+  <string name="traffic_protection_label">Регулювання трафіку</string>
+  <string name="traffic_protection_summary">Регулювання трафіку нагадає вам про вичерпання трафіку в вашому тарифному плані</string>
+  <string name="traffic_protection_text_hint">Будь-ласка, введіть ліміт трафіку</string>
+  <string name="traffic_protection_unknown">"Я не знаю. Введу потім."</string>
 </resources>
