@@ -281,6 +281,7 @@
   <string name="gigabyteShort">ГБ</string>
   <string name="global_action_lock">Блокування екрана</string>
   <string name="global_action_power_off">Вимкнення живлення</string>
+  <string name="global_action_restart">Перезавантаження</string>
   <string name="global_action_silent_mode_off_status">Звук увімкнено</string>
   <string name="global_action_silent_mode_on_status">Звук вимкнено</string>
   <string name="global_action_toggle_silent_mode">Без звуку</string>
@@ -453,6 +454,10 @@
   <string name="low_internal_storage_view_text">"Пам\'ять телефону закінчується."</string>
   <string name="low_internal_storage_view_title">"Мало пам\'яті"</string>
   <string name="low_memory">"Пам\'ять телефону повна! Видаліть деякі файли, щоб звільнити місце."</string>
+  <string name="managed_roaming_dialog_cancel_button">Ні</string>
+  <string name="managed_roaming_dialog_content">Знайдена мережа з обмеженим сервісом. Ви хочете почати пошук мережі?</string>
+  <string name="managed_roaming_dialog_ok_button">Так</string>
+  <string name="managed_roaming_title">Управління роумінгом</string>
   <string name="me">Я</string>
   <string name="media_bad_removal">Картку SD було вийнято без відключення.</string>
   <string name="media_checking">Картка SD наразі перевіряється.</string>
@@ -468,6 +473,7 @@
   <string name="midnight">північ</string>
   <string name="minute">хвилина</string>
   <string name="minutes">хв.</string>
+  <string name="miro_menu_overflow">Ще...</string>
   <string name="mismatchPin">Ви ввели неправильні PIN-коди.</string>
   <string name="mmiComplete">ММІ завершено.</string>
   <string name="mmiError">"Проблема з\'єднання або неправильний код MMI."</string>
@@ -1104,6 +1110,7 @@
   <string name="sms_control_yes">OK</string>
   <string name="smv_application">Програма %1$s (процес %2$s) порушила свою політику StrictMode, що застосовується автоматично.</string>
   <string name="smv_process">Процес %1$s порушив свою політику StrictMode, що застосовується автоматично.</string>
+  <string name="sp_usb_massstorage_notification_title_NORMAL">Режим накопичувача увімкнено</string>
   <string name="ssl_certificate">Сертифікат безпеки</string>
   <string name="ssl_certificate_is_valid">Цей сертифікат дійсний.</string>
   <string name="status_bar_device_locked">Пристрій заблоковано.</string>
@@ -1226,4 +1233,6 @@
   <string name="years">р.</string>
   <string name="yes">OK</string>
   <string name="yesterday">Вчора</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Залишилась %1$d спроба</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Залишилось спроб: %1$d</string>
 </resources>
