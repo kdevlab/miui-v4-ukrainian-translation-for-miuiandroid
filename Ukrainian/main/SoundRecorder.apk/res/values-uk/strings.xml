@@ -24,6 +24,7 @@
   <string name="fm_record">Запис радіо (%d)</string>
   <string name="hour">%d годин</string>
   <string name="insert_sd_card">Вставте SD-карту</string>
+  <string name="loading_duration">Завантаження...</string>
   <string name="mark_now">(Зараз)</string>
   <string name="max_length_reached">Досягнута максимальна довжина</string>
   <string name="menu_setting">Налаштування</string>
@@ -45,10 +46,13 @@
   <string name="pref_title_enable_sound_effect">Включити звуки</string>
   <string name="pref_title_record_type">Тип файлу</string>
   <string name="preferences_title">Налаштування</string>
+  <string name="preparing_playback">Завантаження...</string>
   <string name="record_list">Список записів</string>
+  <string name="record_saving">Збереження запису, зачекайте!</string>
   <string name="recording">Запис...</string>
   <string name="recording_stopped">Запис зупинено</string>
   <string name="sd_card_not_available">SD-карта не доступна</string>
   <string name="second">%d секунд</string>
   <string name="storage_is_full">SD-карта заповнена</string>
+  <string name="unknown_caller">Невідомий виклик</string>
 </resources>
