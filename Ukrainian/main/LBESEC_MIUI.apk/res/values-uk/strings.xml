@@ -174,10 +174,10 @@
   <string name="HIPS_SecurityPrompt_Remember">Запам\'ятати мій вибір</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s намагається %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d дозволи</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;доверенные&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d дозволи - &lt;font color=#478800&gt;доверенные&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Готово</string>
   <string name="Privacy_App_Installed">Налаштування доступу</string>
-  <string name="Privacy_App_Launch">Открыть</string>
+  <string name="Privacy_App_Launch">Выдкрити</string>
   <string name="Privacy_App_Log">Логи</string>
   <string name="Privacy_App_Manage">Подробиці</string>
   <string name="Privacy_App_Trust">Довіра</string>
