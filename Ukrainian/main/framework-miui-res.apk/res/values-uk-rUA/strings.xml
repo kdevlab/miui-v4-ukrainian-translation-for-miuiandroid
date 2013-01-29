@@ -412,10 +412,16 @@
   <string name="perm_auto_backup">Автоматическое резервное копирование</string>
   <string name="perm_get_user_info_dspt">Отримати детальну інформацію про акаунт Xiaomi</string>
   <string name="perm_get_user_info_lab">Отримати інформацію про акаунт Xiaomi</string>
+  <string name="perm_payment_dspt">Дозволити програмі проводити оплату через сервіси Xiaomi</string>
+  <string name="perm_payment_lab">Сервіс оплати Xiaomi</string>
+  <string name="perm_send_push_dspt">Дозволити відправляти push-повідомлення в Xiaomi</string>
+  <string name="perm_send_push_lab">Відправка push-повідомлень</string>
   <string name="perm_tigger_toggle_dspt">Дозволити програмам переключати функції в статусбарі</string>
   <string name="perm_tigger_toggle_lab">Преремикачі із статусбару</string>
   <string name="perm_use_find_device">Пошук пристрою</string>
   <string name="perm_use_pin_security">Використовувати захист PIN</string>
+  <string name="permdesc_accessNote">Програма зможе читати і редагувати нотатки, які зберігаються на вашому телефоні. Шкідливі программи можуть використовувати цю можливість для передачі нотаток іншим людям або видалення всіх нотаток.</string>
+  <string name="permlab_accessNote">Доступ до нотаток</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Вимкнення живлення...</string>
   <string name="private_num">Прихований номер</string>
