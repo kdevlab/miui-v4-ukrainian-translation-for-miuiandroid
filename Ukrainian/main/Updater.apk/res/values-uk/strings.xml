@@ -90,6 +90,8 @@
   <string name="page_error">Немає доступу до MIUI через проблеми з GPRS/3G або недоступність сервера</string>
   <string name="page_error_title">Немає доступу</string>
   <string name="page_reload">Повторити</string>
+  <string name="paused_queued_for_network">Очікування підключення</string>
+  <string name="paused_queued_for_wifi">Очікування підключення Wi-Fi</string>
   <string name="previous">Назад</string>
   <string name="reboot_to_new_system">Перезавантаження в нову систему</string>
   <string name="recommend">Рекомендоване</string>
