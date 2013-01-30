@@ -194,8 +194,8 @@
   <string name="recharge_record_empty">Немає історії поповнень</string>
   <string name="reg_by_email_failure">Помилка реєстрації: %1$s</string>
   <string name="reg_failed">Помилка реєстрації</string>
-  <string name="removing_account">Видалення акаунту...</string>
   <string name="remove_account_notice">Що ви хочете зробити з попередньо синхронізованими повідомленнями, контактами, журналами викликів і нотатками на пристрої?</string>
+  <string name="removing_account">Видалення акаунту...</string>
   <string name="send_sms_for_sync_notice">Для активації потрібно відправити SMS, продовжити?</string>
   <string name="send_sms_for_sync_title">Не активовано</string>
   <string name="sim_changed_notification_content">SIM не активована, будь-ласка активуйте</string>
