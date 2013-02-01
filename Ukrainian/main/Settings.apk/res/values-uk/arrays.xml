@@ -130,14 +130,14 @@
         <item>Відмінний</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Вимкнений</item>
-        <item>Якщо підключений зар. пристрій</item>
-        <item>Увімкнений</item>
+        <item>Увімкнено (більше використ. батареї!)</item>
+        <item>Увімкнено, Якщо підключено живлення</item>
+        <item>Вимкнено (енергозбереження)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Вимкнений</item>
-        <item>Якщо підключений зар. пристрій</item>
-        <item>Увімкнений</item>
+        <item>Увімкнено (більше використ. батареї!)</item>
+        <item>Увімкнено, Якщо підключено живлення</item>
+        <item>Вимкнено (енергозбереження)</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматично</item>
