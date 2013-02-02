@@ -190,7 +190,7 @@
   <string name="card_title_call_ended">Виклик завершено</string>
   <string name="card_title_cdma_call_waiting">Очікування виклику CDMA</string>
   <string name="card_title_conf_call">Конференц-дзвінок</string>
-  <string name="card_title_dialing">Набір номера...</string>
+  <string name="card_title_dialing">Набір номеру...</string>
   <string name="card_title_forwarded_incoming_call_miui">Виклик переадресовано</string>
   <string name="card_title_hanging_up">Завершення розмови</string>
   <string name="card_title_in_call">Вступник виклик</string>
@@ -297,11 +297,11 @@
   <string name="delete_sim_contact_confirm_title_miui">Видалити контакти з SIM</string>
   <string name="delete_sim_entries_finish">Видалення контактів із SIM успішно</string>
   <string name="delete_sim_entry_miui">Видалити</string>
-  <string name="deleting_fdn_contact">Виконується видалення номера обмеженого набору...</string>
+  <string name="deleting_fdn_contact">Виконується видалення номеру обмеженого набору...</string>
   <string name="deleting_sim_entry_miui">Видалення контактів на SIM-картці</string>
   <string name="description_call_recording_miui">Запис поточної розмови</string>
   <string name="description_delete_button">повернення</string>
-  <string name="description_dial_button">набір номера</string>
+  <string name="description_dial_button">набір номеру</string>
   <string name="description_direction_left">Ліворуч для %s</string>
   <string name="description_direction_left_miui">Ліворуч для %s</string>
   <string name="description_direction_right">Направо для %s</string>
@@ -327,7 +327,7 @@
   <string name="description_target_decline_miui">Відхилити</string>
   <string name="description_target_send_sms">Відправити SMS</string>
   <string name="description_target_send_sms_miui">Відправити SMS</string>
-  <string name="dial_button_label">Набір номера</string>
+  <string name="dial_button_label">Набір номеру</string>
   <string name="dial_emergency_empty_error">Виклик не здійснено, наберіть номер екстреного виклику!</string>
   <string name="dial_emergency_error">Виклик не здійснюється, так як %s не є номером екстреного виклику!</string>
   <string name="dial_pad_touch_tone_default_miui">Стандартний</string>
@@ -404,7 +404,7 @@
   <string name="enable_proximity_title_miui">Датчик наближення</string>
   <string name="enable_sim_pin">Включити запит PIN SIM-картки</string>
   <string name="enable_sim_pin_miui">Включити запит PIN SIM-картки</string>
-  <string name="enable_telocation_title_miui">Показати властивості для номера</string>
+  <string name="enable_telocation_title_miui">Показати властивості для номеру</string>
   <string name="enforce_proximity_summary_miui">Запобігання помилки з\'єднання, коли мобільний телефон у кишені брюк</string>
   <string name="enforce_proximity_title_miui">Датчик наближення</string>
   <string name="enterNewPin">Новий PIN SIM-картки</string>
@@ -504,7 +504,7 @@
   <string name="invalid_puk2_miui">Неприпустимий PUK2, будь ласка, введіть PUK2, що складається з 8 цифр</string>
   <string name="invalid_puk_miui">Неприпустимий PUK, будь ласка, введіть PUK2, що складається з 8 цифр</string>
   <string name="ip_prefix_miui">Авто-Префікс</string>
-  <string name="ip_prefix_required_miui">Вводити свій префікс номера IP</string>
+  <string name="ip_prefix_required_miui">Вводити свій префікс номеру IP</string>
   <string name="ip_prefix_sum_miui">Префікс оператора: %s</string>
   <string name="jituan_number_format_error_message_miui">%s підтримує лише цифри і символи</string>
   <string name="labelCDMAMore">Установки дзвінків CDMA</string>
@@ -514,7 +514,7 @@
   <string name="labelCFNRy">При відсутності відповіді</string>
   <string name="labelCFU">Завжди на номер</string>
   <string name="labelCW">Утримання виклику</string>
-  <string name="labelCallerId">Показ номера</string>
+  <string name="labelCallerId">Показ номеру</string>
   <string name="labelGSMMore">Установки дзвінків GSM</string>
   <string name="labelNwService">Налаштування мережевої служби</string>
   <string name="label_available">Доступні мережі</string>
@@ -598,7 +598,7 @@
   <string name="no_sip_account_found">Немає акаунтів для інтернет-дзвінків. Створити акаунт?</string>
   <string name="no_sip_account_found_title">Немає акаунтів для інтернет-дзвінків</string>
   <string name="no_vm_number">Не вказаний номер голосової пошти</string>
-  <string name="no_vm_number_msg">На SIM-картці немає ні одного номера голосової пошти</string>
+  <string name="no_vm_number_msg">На SIM-картці немає ні одного номеру голосової пошти</string>
   <string name="no_voip">Інтернет-виклик не підтримується</string>
   <string name="no_wifi_available">Для здійснення інтернет-дзвінків необхідно підключення до мережі Wi-Fi (використовуйте налаштування бездротової мережі)</string>
   <string name="no_wifi_available_title">Відсутнє підключення Wi-Fi</string>
@@ -626,7 +626,7 @@
   <string name="number">Номер</string>
   <string name="number_format_error_message_miui">%s підтримує лише номери</string>
   <string name="number_type_jituan_miui">Номер групи</string>
-  <string name="number_type_miui">Тип номера</string>
+  <string name="number_type_miui">Тип номеру</string>
   <string name="number_type_mob_miui">Мобільний телефон</string>
   <string name="number_type_tel_miui">Стаціонарний</string>
   <string name="ok">ОК</string>
@@ -998,7 +998,7 @@
   <string name="unknown_num">Невідомий номер</string>
   <string name="unlock_failed">Запит на розблокування мережі не виконаний</string>
   <string name="unlock_success">Розблокування мережі успішно завершено</string>
-  <string name="updating_fdn_contact">Виконується оновлення номера обмеженого набору...</string>
+  <string name="updating_fdn_contact">Виконується оновлення номеру обмеженого набору...</string>
   <string name="updating_settings">Оновлення налаштувань...</string>
   <string name="updating_title">Установки дзвінків</string>
   <string name="username">Ім\'я користувача</string>
