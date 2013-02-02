@@ -332,7 +332,7 @@
   <string name="dial_emergency_error">Виклик не здійснюється, так як %s не є номером екстреного виклику!</string>
   <string name="dial_pad_touch_tone_default_miui">Стандартний</string>
   <string name="dial_pad_touch_tone_human_miui">Людський голос</string>
-  <string name="dial_pad_touch_tone_miui">Сенсорная панель</string>
+  <string name="dial_pad_touch_tone_miui">Сенсорна панель</string>
   <string name="dial_pad_touch_tone_piano_miui">Звук фортепіано</string>
   <string name="dial_pad_touch_tone_setting_miui">Налаштування тону набору</string>
   <string name="dialerKeyboardHintText">Використовуйте клавіатуру для набору номера</string>
