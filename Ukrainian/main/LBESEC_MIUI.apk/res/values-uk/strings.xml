@@ -177,7 +177,7 @@
   <string name="Privacy_AppPerm_Count_Trust">%1$d дозволи - &lt;font color=#478800&gt;доверенные&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Готово</string>
   <string name="Privacy_App_Installed">Налаштування доступу</string>
-  <string name="Privacy_App_Launch">Выдкрити</string>
+  <string name="Privacy_App_Launch">Відкрити</string>
   <string name="Privacy_App_Log">Логи</string>
   <string name="Privacy_App_Manage">Подробиці</string>
   <string name="Privacy_App_Trust">Довіра</string>
