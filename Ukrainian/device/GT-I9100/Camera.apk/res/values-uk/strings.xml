@@ -40,8 +40,8 @@
   <string name="MaxRecordingSizeMMS">295K</string>
   <string name="NORMAL">Звичайний</string>
   <string name="OK_STRING">OK</string>
-  <string name="OPTION_OFF">Вимк</string>
-  <string name="OPTION_ON">Увімк</string>
+  <string name="OPTION_OFF">Вимк.</string>
+  <string name="OPTION_ON">Увімк.</string>
   <string name="OnScreen_HelpTextTouchAF">Торкніться екрану для фокусування</string>
   <string name="Q_FINE">Хороша</string>
   <string name="Q_SUPER_FINE">Найкраща</string>
@@ -233,7 +233,7 @@
   <string name="insert_mmc_msg">Щоб скористатись камерою, вставте карту пам\'яті</string>
   <string name="low_batt_msg">Аккумулятор разряджений</string>
   <string name="low_database_storage_view_text">Місце збереження даних майже заповнене</string>
-  <string name="media_scanner_running">Сканиування медіафайлів...</string>
+  <string name="media_scanner_running">Сканування медіафайлів...</string>
   <string name="media_server_died_msg">Виникла помилка сервера. Перезавантажте камеру</string>
   <string name="message_enable_GPS">Увімкніть GPS в налаштуваннях для використання геотегів</string>
   <string name="message_size_limited">Розмір повідомлення досягнув ліміту</string>
@@ -252,7 +252,7 @@ Direct connected"</string>
   <string name="null_string" />
   <string name="open_hw_failed_msg">Збій камери</string>
   <string name="pcType">ПК</string>
-  <string name="plugged_low_batt_msg">Неможливо Використати спалах. Акумулятор разряджений</string>
+  <string name="plugged_low_batt_msg">Неможливо використати спалах. Акумулятор разряджений</string>
   <string name="preview_file_received_title">Попередній перегляд отриманого файлу</string>
   <string name="processing_msg">Обробка...</string>
   <string name="profile_user_default_name">Невідомий</string>
