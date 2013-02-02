@@ -7,6 +7,12 @@
   <string name="adding_upload_tasks">Додавання завдання завантаження.</string>
   <string name="app_name">Файли</string>
   <string name="background">В фоні</string>
+  <string name="bind_account">Зв\'язування акаунту KuaiPan з Xiaomi</string>
+  <string name="bind_account_summary">Якщо Ви вже маєте акаунт KuaiPan, можете зв\'язати його з акаунтом Xiaomi</string>
+  <string name="binded_accout_description">Акаунти зв\'язані. Ви можете використовувати акаунт Xiaomi або KuaiPan для входу, обидва будуть читати одні і ті ж дані</string>
+  <string name="binded_accout_title">Акаунт KuaiPan</string>
+  <string name="binded_accout_warning">Увага: Цю операцію буде неможливо скасувати! Продовжити?</string>
+  <string name="binding_accout_title">Додати існуючий акаунт KuaiPan</string>
   <string name="cancel">Скасувати</string>
   <string name="category_all">Всі</string>
   <string name="category_apk">Програми</string>
@@ -119,6 +125,7 @@
   <string name="install_successful">Встановлення завершено</string>
   <string name="instruction">Адреса синхронізації:</string>
   <string name="instruction_pre">Обмін файлами з ПК або Mac по FTP через мережу Wi-Fi</string>
+  <string name="kingsoft_account">Акаунт Kingsoft KuaiPan</string>
   <string name="kuaipan_over_space">В вашому MiDrive немає більше вільного місця</string>
   <string name="kuaipan_prompt">MiDrive</string>
   <string name="kuaipan_prompt_message">Сервер в режимі обслуговування. Будь-ласка, спробуйте пізніше...</string>
@@ -129,6 +136,7 @@
   <string name="local_cache">Локальний кеш</string>
   <string name="local_cache_size">Розмір локального кешу: %s</string>
   <string name="login_reg_content">MiDrive дозволяє зберігати файли і синхронізувати їх між декількома пристроями.</string>
+  <string name="login_reg_content0">Ваш хмаровий диск KuaiPan</string>
   <string name="login_reg_login_xiaomi">Акаунт Xiaomi</string>
   <string name="menu_exit">Вихід</string>
   <string name="menu_item_ftp">FTP</string>
