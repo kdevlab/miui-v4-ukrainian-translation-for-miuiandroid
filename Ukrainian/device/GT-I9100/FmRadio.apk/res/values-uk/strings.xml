@@ -18,7 +18,7 @@
   <string name="alrm_1_hr_past">Автоматичне вимикання FM радіо. 1 година пройшла</string>
   <string name="alrm_2_hrs_past">Автоматичне вимикання FM радіо. %1$d годин(и) пройшло</string>
   <string name="alrm_30_min_past">Автоматичне вимикання FM радіо. %1$d хв. пройшло</string>
-  <string name="app_name">FM радіо</string>
+  <string name="app_name">FM-радіо</string>
   <string name="audio_shock_warning">Гучна музика може привести до пошкодження слуху, якщо слухати її протягом тривалого часу</string>
   <string name="cancel">Скасування</string>
   <string name="dialog_autoscan">Автосканування</string>
