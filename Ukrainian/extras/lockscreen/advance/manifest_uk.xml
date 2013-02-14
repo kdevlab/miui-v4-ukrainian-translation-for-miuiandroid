@@ -17,7 +17,7 @@
             <varibale name="call_type1" type="integer" column="type" row="0"/>
         </ContentProviderBinder>
 
-        <ContentProviderBinder name="sms_table" uri="content://sms/inbox" columns="_id,address,date,body,person" where="seen=0 AND read=0" order="date DESC" countName="sms_count">
+        <ContentProviderBinder name="sms_table" uri="content://sms/inbox" columns="_id,address,date,body,person" where="seen=0" order="date DESC" countName="sms_count">
             <Variable name="sms_date1" type="long" column="date" row="0"/>
             <Variable name="sms_body1" type="string" column="body" row="0"/>
             <Variable name="sms_num1" type="string" column="address" row="0"/>
@@ -28,10 +28,10 @@
 
         </ContentProviderBinder>
 
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num1" countName="hasName1">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num1" countName="hasName1">
             <Variable name="sms_name1" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num2" countName="hasName2">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num2" countName="hasName2">
             <Variable name="sms_name2" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
 
@@ -167,7 +167,7 @@
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-		        <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, dd MM">
+		        <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
